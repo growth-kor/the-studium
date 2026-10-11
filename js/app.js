@@ -278,8 +278,14 @@
       return (str || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
     }
 
+    function getDict() {
+      if (typeof HUFS_DATA !== 'undefined' && HUFS_DATA && HUFS_DATA.dict) return HUFS_DATA.dict;
+      if (typeof window !== 'undefined' && window.HUFS_DATA && window.HUFS_DATA.dict) return window.HUFS_DATA.dict;
+      return {};
+    }
+
     function tokenizeSentence(text) {
-      const dict = (window.HUFS_DATA && window.HUFS_DATA.dict) || {};
+      const dict = getDict();
       let i = 0;
       let html = '';
       const puncRegex = /[\s，。！？、；：“”‘’（）《》…—\-]/;
@@ -356,7 +362,7 @@
 
     function inspectWord(word) {
       currentInspectedWord = word;
-      const dict = (window.HUFS_DATA && window.HUFS_DATA.dict) || {};
+      const dict = getDict();
       const info = dict[word] || {
         zh: word,
         py: '',
@@ -396,7 +402,7 @@
 
     function toggleSaveCurrentWord() {
       if (!currentInspectedWord) return;
-      const dict = (window.HUFS_DATA && window.HUFS_DATA.dict) || {};
+      const dict = getDict();
       const info = dict[currentInspectedWord] || { zh: currentInspectedWord };
       const idx = savedWords.findIndex(w => w.zh === currentInspectedWord);
       if (idx >= 0) {

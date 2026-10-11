@@ -1109,7 +1109,7 @@ for b_id, b_data in app_data['books'].items():
 # 4) Complete app_data bundle in data.js
 app_data['dict'] = master_dict
 with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-    f.write('const HUFS_DATA = ' + json.dumps(app_data, ensure_ascii=False, indent=2) + ';\n')
+    f.write('var HUFS_DATA = ' + json.dumps(app_data, ensure_ascii=False, indent=2) + ';\nif (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; }\n')
 
 print(f"Build complete! Unified books: Beiying ({len(by_paragraphs)}p), Tuanyuan ({len(ty_scenes)}s), Rain ({len(rain_sections)}s), Chinese3 ({len(chinese3_sections)} lessons, {sum(len(s['sentences']) for s in chinese3_sections)} sentences).")
 print(f"Master dictionary compiled with {len(master_dict)} words into data/dict/master_dict.json and data.js.")

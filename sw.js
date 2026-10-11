@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studium-v1791761454';
+const CACHE_NAME = 'studium-v1791761924';
 const ASSETS = [
   './index.html',
   './css/style.css',
@@ -32,6 +32,14 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   event.respondWith(
-    caches.match(event.request).then(cached => cached || fetch(event.request))
+    fetch(event.request)
+      .then(response => {
+        if (response && response.status === 200 && (response.type === 'basic' || response.type === 'cors')) {
+          const resClone = response.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(event.request, resClone));
+        }
+        return response;
+      })
+      .catch(() => caches.match(event.request, { ignoreSearch: true }))
   );
 });
