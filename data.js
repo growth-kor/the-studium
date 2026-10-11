@@ -1,127 +1,12 @@
 const HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
-  "updated_at": "2026-10-11 17:50",
-  "weekly_courses": [
-    {
-      "day": "월요일",
-      "courses": [
-        {
-          "id": "mon-zh-b1-integ",
-          "name": "중국어B1(통합실습)",
-          "time": "5~6교시 (13:00~15:00)",
-          "room": "인문관 301호",
-          "prof": "정혜선 교수님",
-          "midterm_book": "산문 《背影》 · 동화책 《团圆》 · 강독 《雨的四季》",
-          "tasks": [
-            {
-              "title": "《背影》 2페이지 번역 및 수업 낭독 연습 (완비)",
-              "done": true
-            },
-            {
-              "title": "《团圆》 14개 씬 줄거리 & 10줄 감상문(读后感) 체화",
-              "done": true
-            },
-            {
-              "title": "《雨的四季》 겨울비 11문장 & 결문 6문장 낭독 준비",
-              "done": true
-            },
-            {
-              "title": "중간고사 산문 《背影》 7개 문단 3단 대역 전수 암기",
-              "done": false
-            }
-          ]
-        },
-        {
-          "id": "mon-zh-b1-speak",
-          "name": "중국어B1(듣기·말하기)",
-          "time": "3~4교시 (11:00~13:00)",
-          "room": "백년관 207호",
-          "prof": "Wu Juan (오연) 교수님",
-          "midterm_book": "신개념 중국어 3",
-          "tasks": [
-            {
-              "title": "제5과 《画像》 본문 낭독 & 신출 단어 13종 복습 (완비)",
-              "done": true
-            },
-            {
-              "title": "부사 从来不 vs 从来没 문법 공식 체화",
-              "done": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "day": "화요일",
-      "courses": [
-        {
-          "id": "tue-adv-comm",
-          "name": "Adv Communication for Global Leaders",
-          "time": "1~2교시",
-          "tasks": [
-            {
-              "title": "Presentation Script 피드백 및 발음 낭독 연습",
-              "done": false
-            }
-          ]
-        },
-        {
-          "id": "tue-college-eng",
-          "name": "College English 2",
-          "time": "3~4교시",
-          "tasks": [
-            {
-              "title": "Unit 5 Reading Passage 번역 및 핵심 어휘 체크",
-              "done": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "day": "수요일",
-      "courses": [
-        {
-          "id": "wed-data-struct",
-          "name": "Data Structure (자료구조)",
-          "time": "3~4교시",
-          "tasks": [
-            {
-              "title": "Linked List 및 Stack 구현 알고리즘 복습",
-              "done": false
-            }
-          ]
-        },
-        {
-          "id": "wed-global-biz",
-          "name": "Global Business Environment",
-          "time": "5~6교시",
-          "tasks": [
-            {
-              "title": "글로벌 통상 환경 케이스 스터디 읽기",
-              "done": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "day": "목요일",
-      "courses": [
-        {
-          "id": "thu-mis",
-          "name": "MIS for Business Innovation",
-          "time": "3~4교시",
-          "tasks": [
-            {
-              "title": "비즈니스 정보 시스템 및 IT 혁신 사례 정리",
-              "done": false
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-12 03:30",
+  "encrypted_schedule": {
+    "salt": "uKJeOV8C8+n6uIICYk2o7Q==",
+    "iv": "c1O2ZJcAN7mT13Uw",
+    "ciphertext": "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"
+  },
+  "weekly_courses": [],
   "books": {
     "beiying": {
       "id": "beiying",
@@ -5571,10 +5456,10 @@ const HUFS_DATA = {
     "踮": {
       "zh": "踮",
       "py": "diǎn",
-      "pos": "형명동",
-      "kr": "발끝으로 서다",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "발끝으로 서다, 발꿈치를 들다",
+      "level": "HSK 5급",
+      "note": "踮起脚尖 (발끝을 쫑긋 세우다)."
     },
     "点半": {
       "zh": "点半",
@@ -6347,10 +6232,10 @@ const HUFS_DATA = {
     "兜": {
       "zh": "兜",
       "py": "dōu",
-      "pos": "형명동",
-      "kr": "포켓",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "명사",
+      "kr": "주머니, 포켓",
+      "level": "HSK 4급",
+      "note": "兜里 (주머니 속에), 快收到兜里 (얼른 주머니에 집어넣으렴)."
     },
     "都": {
       "zh": "都",
@@ -6371,10 +6256,10 @@ const HUFS_DATA = {
     "蹲": {
       "zh": "蹲",
       "py": "dūn",
-      "pos": "형명동",
-      "kr": "쪼그리고 앉은",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "쪼그려 앉다",
+      "level": "HSK 4급",
+      "note": "蹲下来 (쪼그려 앉다)."
     },
     "蹲下来": {
       "zh": "蹲下来",
@@ -6803,10 +6688,10 @@ const HUFS_DATA = {
     "缝": {
       "zh": "缝",
       "py": "fèng",
-      "pos": "형명동",
-      "kr": "이음매",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "명사",
+      "kr": "틈, 갈라진 틈",
+      "level": "HSK 4급",
+      "note": "窗户缝 (창문 틈)."
     },
     "付": {
       "zh": "付",
@@ -7451,10 +7336,10 @@ const HUFS_DATA = {
     "硌": {
       "zh": "硌",
       "py": "gè",
-      "pos": "형명동",
-      "kr": "猌",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "(딱딱한 것에) 부딪히다, 결리다",
+      "level": "HSK 6급",
+      "note": "硌了一下 (딱딱한 무언가에 툭 하고 부딪히다)."
     },
     "各地": {
       "zh": "各地",
@@ -11098,11 +10983,11 @@ const HUFS_DATA = {
     },
     "喽": {
       "zh": "喽",
-      "py": "lóu",
-      "pos": "형명동",
-      "kr": "여기",
-      "level": "HSK 기초어",
-      "note": ""
+      "py": "lou",
+      "pos": "어기조사",
+      "kr": "~로구나, ~했네",
+      "level": "구어 조사",
+      "note": "跑掉喽 (달아나 버렸네)."
     },
     "楼上": {
       "zh": "楼上",
@@ -11347,10 +11232,10 @@ const HUFS_DATA = {
     "搂": {
       "zh": "搂",
       "py": "lǒu",
-      "pos": "형명동",
-      "kr": "껴안다",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "끌어안다, 껴안다",
+      "level": "HSK 5급",
+      "note": "搂着我不松手 (나를 끌어안고 놓지 않으시다)."
     },
     "搂着": {
       "zh": "搂着",
@@ -11987,10 +11872,10 @@ const HUFS_DATA = {
     "摸": {
       "zh": "摸",
       "py": "mō",
-      "pos": "형명동",
-      "kr": "만지다",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "만지다, 더듬다",
+      "level": "HSK 4급",
+      "note": "一摸口袋 (주머니를 한번 만져보다)."
     },
     "摸出": {
       "zh": "摸出",
@@ -12515,10 +12400,10 @@ const HUFS_DATA = {
     "努": {
       "zh": "努",
       "py": "nǔ",
-      "pos": "형명동",
-      "kr": "누",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "(입술 등을) 삐쭉 내밀다",
+      "level": "HSK 5급",
+      "note": "努了努嘴 (입을 삐쭉 내밀다)."
     },
     "努力": {
       "zh": "努力",
@@ -16091,10 +15976,10 @@ const HUFS_DATA = {
     "掏": {
       "zh": "掏",
       "py": "tāo",
-      "pos": "형명동",
-      "kr": "파기",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "(주머니 등에서) 꺼내다, 끄집어내다",
+      "level": "HSK 5급",
+      "note": "从兜里掏出 (주머니에서 꺼내다)."
     },
     "掏出": {
       "zh": "掏出",
@@ -20931,10 +20816,10 @@ const HUFS_DATA = {
     "攥": {
       "zh": "攥",
       "py": "zuàn",
-      "pos": "형명동",
-      "kr": "파악",
-      "level": "HSK 기초어",
-      "note": ""
+      "pos": "동사",
+      "kr": "꽉 쥐다, 움켜쥐다",
+      "level": "HSK 6급",
+      "note": "攥了很久 (오랫동안 꽉 쥐고 있었다)."
     },
     "最": {
       "zh": "最",
@@ -24487,6 +24372,54 @@ const HUFS_DATA = {
       "kr": "고개를 돌리다, 뒤돌아보다",
       "level": "HSK 3급",
       "note": ""
+    },
+    "勺": {
+      "zh": "勺",
+      "py": "sháo",
+      "pos": "명사",
+      "kr": "국자, 숟가락",
+      "level": "HSK 4급",
+      "note": "勺子(sháozi)의 어근. 爸爸用勺子喂给我吃 (아빠가 숟가락으로 나에게 떠먹여 주셨다)."
+    },
+    "棒": {
+      "zh": "棒",
+      "py": "bàng",
+      "pos": "형용사",
+      "kr": "대단하다, 훌륭하다",
+      "level": "HSK 4급",
+      "note": "真棒 (정말 대단하다)."
+    },
+    "粘": {
+      "zh": "粘",
+      "py": "zhān / nián",
+      "pos": "동사",
+      "kr": "달라붙다, 찰싹 붙다",
+      "level": "HSK 4급",
+      "note": "粘着爸爸 (아빠에게 찰싹 달라붙다)."
+    },
+    "刷": {
+      "zh": "刷",
+      "py": "shuā",
+      "pos": "동사",
+      "kr": "칠하다, 솔질하다",
+      "level": "HSK 3급",
+      "note": "刷新门漆 (문 페인트를 새로 칠하다)."
+    },
+    "漆": {
+      "zh": "漆",
+      "py": "qī",
+      "pos": "명사",
+      "kr": "페인트, 칠",
+      "level": "HSK 5급",
+      "note": "门漆 (문 페인트)."
+    },
+    "仗": {
+      "zh": "仗",
+      "py": "zhàng",
+      "pos": "명사",
+      "kr": "싸움, 전투",
+      "level": "HSK 4급",
+      "note": "打雪仗 (눈싸움하다)."
     }
   }
 };

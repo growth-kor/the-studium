@@ -21,13 +21,43 @@
 
   <!-- SCREEN 1: SCHEDULE -->
   <div id="screen-schedule" class="screen active">
-    <div class="sub-nav" id="day-nav">
-      <div class="sub-nav-item active" onclick="selectDay('월요일')">월요일</div>
-      <div class="sub-nav-item" onclick="selectDay('화요일')">화요일</div>
-      <div class="sub-nav-item" onclick="selectDay('수요일')">수요일</div>
-      <div class="sub-nav-item" onclick="selectDay('목요일')">목요일</div>
+    <!-- Locked State View -->
+    <div id="schedule-locked-view" class="schedule-lock-container">
+      <div class="schedule-lock-card">
+        <div class="schedule-lock-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>
+        </div>
+        <div class="schedule-lock-title">개인 스케줄 보호</div>
+        <div class="schedule-lock-desc">개인 시간표와 학업 과제 데이터가 안전하게 암호화되어 있습니다. 암호를 입력하여 잠금을 해제하세요.</div>
+        <form class="schedule-lock-form" onsubmit="event.preventDefault(); unlockSchedule();">
+          <input type="password" id="schedule-pw-input" class="schedule-lock-input" placeholder="암호 입력" autocomplete="current-password" required />
+          <button type="submit" id="schedule-unlock-btn" class="schedule-lock-btn">해제</button>
+        </form>
+        <div id="schedule-lock-msg" class="schedule-lock-msg"></div>
+      </div>
     </div>
-    <div id="courses-list"></div>
+
+    <!-- Unlocked State View -->
+    <div id="schedule-unlocked-view" style="display: none;">
+      <div class="schedule-unlocked-header">
+        <div class="sub-nav" id="day-nav">
+          <div class="sub-nav-item active" onclick="selectDay('월요일')">월요일</div>
+          <div class="sub-nav-item" onclick="selectDay('화요일')">화요일</div>
+          <div class="sub-nav-item" onclick="selectDay('수요일')">수요일</div>
+          <div class="sub-nav-item" onclick="selectDay('목요일')">목요일</div>
+        </div>
+        <button type="button" class="schedule-relock-btn" onclick="lockSchedule()" title="스케줄 다시 잠그기">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -1px; margin-right: 4px;">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>잠금
+        </button>
+      </div>
+      <div id="courses-list"></div>
+    </div>
   </div>
 
   <!-- SCREEN 2: READER -->
@@ -216,7 +246,7 @@
   </nav>
 
   <!-- Script -->
-  <script src="./data.js?v=8"></script>
-  <script src="./js/app.js?v=8"></script>
+  <script src="./data.js?v=1791761454"></script>
+  <script src="./js/app.js?v=1791761454"></script>
 </body>
 </html>

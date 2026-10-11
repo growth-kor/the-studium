@@ -39,6 +39,146 @@
       window.scrollTo(0, 0);
     }
 
+    // Base64 helper for Web Crypto API
+    function base64ToUint8Array(base64) {
+      const binaryString = window.atob(base64);
+      const len = binaryString.length;
+      const bytes = new Uint8Array(len);
+      for (let i = 0; i < len; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
+      }
+      return bytes;
+    }
+
+    async function decryptScheduleWithPassword(password, encryptedData) {
+      const salt = base64ToUint8Array(encryptedData.salt);
+      const iv = base64ToUint8Array(encryptedData.iv);
+      const ciphertext = base64ToUint8Array(encryptedData.ciphertext);
+
+      const encText = new TextEncoder();
+      const keyMaterial = await window.crypto.subtle.importKey(
+        'raw',
+        encText.encode(password),
+        'PBKDF2',
+        false,
+        ['deriveKey']
+      );
+
+      const key = await window.crypto.subtle.deriveKey(
+        {
+          name: 'PBKDF2',
+          salt: salt,
+          iterations: 100000,
+          hash: 'SHA-256'
+        },
+        keyMaterial,
+        { name: 'AES-GCM', length: 256 },
+        false,
+        ['decrypt']
+      );
+
+      const decrypted = await window.crypto.subtle.decrypt(
+        { name: 'AES-GCM', iv: iv },
+        key,
+        ciphertext
+      );
+
+      const decStr = new TextDecoder('utf-8').decode(decrypted);
+      return JSON.parse(decStr);
+    }
+
+    async function unlockSchedule() {
+      const inputEl = document.getElementById('schedule-pw-input');
+      const btnEl = document.getElementById('schedule-unlock-btn');
+      const msgEl = document.getElementById('schedule-lock-msg');
+      const pw = inputEl ? inputEl.value.trim() : '';
+
+      if (!pw) {
+        if (msgEl) msgEl.innerText = '암호를 입력해주세요.';
+        return;
+      }
+
+      if (!HUFS_DATA || !HUFS_DATA.encrypted_schedule) {
+        if (msgEl) msgEl.innerText = '암호화된 일정 데이터를 찾을 수 없습니다.';
+        return;
+      }
+
+      try {
+        if (btnEl) {
+          btnEl.disabled = true;
+          btnEl.innerText = '확인 중...';
+        }
+        if (msgEl) msgEl.innerText = '';
+
+        const decrypted = await decryptScheduleWithPassword(pw, HUFS_DATA.encrypted_schedule);
+        HUFS_DATA.weekly_courses = decrypted;
+        localStorage.setItem('studium_unlocked_schedule', JSON.stringify(decrypted));
+
+        const lockedView = document.getElementById('schedule-locked-view');
+        const unlockedView = document.getElementById('schedule-unlocked-view');
+        if (lockedView) lockedView.style.display = 'none';
+        if (unlockedView) unlockedView.style.display = 'block';
+
+        if (inputEl) inputEl.value = '';
+        renderSchedule();
+      } catch (err) {
+        console.error('Decryption failed:', err);
+        if (msgEl) msgEl.innerText = '암호가 일치하지 않습니다.';
+        if (inputEl) {
+          inputEl.select();
+          inputEl.focus();
+        }
+      } finally {
+        if (btnEl) {
+          btnEl.disabled = false;
+          btnEl.innerText = '해제';
+        }
+      }
+    }
+
+    function lockSchedule() {
+      localStorage.removeItem('studium_unlocked_schedule');
+      if (HUFS_DATA) {
+        HUFS_DATA.weekly_courses = [];
+      }
+      const lockedView = document.getElementById('schedule-locked-view');
+      const unlockedView = document.getElementById('schedule-unlocked-view');
+      const msgEl = document.getElementById('schedule-lock-msg');
+      const inputEl = document.getElementById('schedule-pw-input');
+
+      if (lockedView) lockedView.style.display = 'flex';
+      if (unlockedView) unlockedView.style.display = 'none';
+      if (msgEl) msgEl.innerText = '';
+      if (inputEl) {
+        inputEl.value = '';
+        inputEl.focus();
+      }
+    }
+
+    function initScheduleSecurity() {
+      const cached = localStorage.getItem('studium_unlocked_schedule');
+      const lockedView = document.getElementById('schedule-locked-view');
+      const unlockedView = document.getElementById('schedule-unlocked-view');
+
+      if (cached) {
+        try {
+          const parsed = JSON.parse(cached);
+          if (Array.isArray(parsed) && parsed.length > 0) {
+            HUFS_DATA.weekly_courses = parsed;
+            if (lockedView) lockedView.style.display = 'none';
+            if (unlockedView) unlockedView.style.display = 'block';
+            renderSchedule();
+            return;
+          }
+        } catch (e) {
+          localStorage.removeItem('studium_unlocked_schedule');
+        }
+      }
+
+      if (lockedView) lockedView.style.display = 'flex';
+      if (unlockedView) unlockedView.style.display = 'none';
+    }
+
     // Schedule
     function selectDay(day) {
       currentDay = day;
@@ -50,7 +190,12 @@
 
     function renderSchedule() {
       const list = document.getElementById('courses-list');
+      if (!list) return;
       list.innerHTML = '';
+      if (!HUFS_DATA.weekly_courses || !HUFS_DATA.weekly_courses.length) {
+        list.innerHTML = '<div style="padding:40px 0; color:var(--text-muted); text-align:center;">등록된 수업 일정이 없습니다.</div>';
+        return;
+      }
       const dayData = HUFS_DATA.weekly_courses.find(d => d.day === currentDay);
       if (!dayData || !dayData.courses.length) {
         list.innerHTML = '<div style="padding:40px 0; color:var(--text-muted); text-align:center;">등록된 수업 일정이 없습니다.</div>';
@@ -530,7 +675,7 @@
       if (fontSize === 'large') {
         document.body.classList.add('font-large');
       }
-      renderSchedule();
+      initScheduleSecurity();
       selectBook('beiying');
       initVocab();
       renderExamContent();

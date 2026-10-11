@@ -1,11 +1,21 @@
 #!/usr/bin/env python3
-import json, re, os, glob
+import json, re, os, glob, base64
+from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+from cryptography.hazmat.primitives import hashes
+from cryptography.hazmat.primitives.ciphers.aead import AESGCM
 try:
     import pypinyin
 except ImportError:
     pypinyin = None
 
-ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_PARENT = os.path.dirname(os.path.abspath(__file__))
+# If 00_모바일_학습웹_배포 is inside _학교_활동, the sibling folders are in the same directory!
+if os.path.exists(os.path.join(os.path.dirname(BASE_PARENT), "01_월요일")):
+    ROOT_DIR = os.path.dirname(BASE_PARENT)
+elif os.path.exists(os.path.join(os.path.dirname(os.path.dirname(BASE_PARENT)), "_학교_활동", "01_월요일")):
+    ROOT_DIR = os.path.join(os.path.dirname(os.path.dirname(BASE_PARENT)), "_학교_활동")
+else:
+    ROOT_DIR = os.path.dirname(os.path.dirname(BASE_PARENT))
 OUTPUT_FILE = os.path.join(ROOT_DIR, '00_모바일_학습웹_배포', 'data.js')
 
 def clean_row(text):
@@ -23,8 +33,8 @@ master_dict = {}
 if os.path.exists(dict_file):
     with open(dict_file, 'r', encoding='utf-8') as f:
         dict_content = f.read()
-    dict_pattern = r'###\s+([^\n]+)\n\*\s+\*\*발음\*\*:\s*([^\n]+)\n\*\s+\*\*품사\*\*:\s*([^\n]+)\n\*\s+\*\*한국어 뜻\*\*:\s*([^\n]+)\n\*\s+\*\*HSK 등급\*\*:\s*([^\n]+)'
-    for zh, py, pos, kr, level in re.findall(dict_pattern, dict_content):
+    dict_pattern = r'###\s+([^\n]+)\n\*\s+\*\*발음\*\*:\s*([^\n]+)\n\*\s+\*\*품사\*\*:\s*([^\n]+)\n\*\s+\*\*한국어 뜻\*\*:\s*([^\n]+)\n\*\s+\*\*HSK 등급\*\*:\s*([^\n]+)(?:\n\*\s+\*\*상세\*\*:\s*([^\n]+))?'
+    for zh, py, pos, kr, level, note in re.findall(dict_pattern, dict_content):
         clean_zh = zh.strip()
         clean_level = re.sub(r'[🟢🟡🔴⭐]', '', level).strip()
         master_dict[clean_zh] = {
@@ -33,8 +43,19 @@ if os.path.exists(dict_file):
             "pos": pos.strip(),
             "kr": kr.strip(),
             "level": clean_level,
-            "note": ""
+            "note": note.strip() if note else ""
         }
+
+local_dict_file = os.path.join(ROOT_DIR, '00_모바일_학습웹_배포', 'data', 'dict', 'master_dict.json')
+if os.path.exists(local_dict_file):
+    try:
+        with open(local_dict_file, 'r', encoding='utf-8') as f:
+            existing_dict = json.load(f)
+            for k, v in existing_dict.items():
+                if k not in master_dict:
+                    master_dict[k] = v
+    except Exception:
+        pass
 
 # ==============================================================================
 # 1. PARSE 《背影》 ALL-IN-ONE
@@ -933,10 +954,32 @@ weekly_courses = [
     }
 ]
 
+# Encrypt weekly courses with AES-256-GCM + PBKDF2
+SCHEDULE_PASSWORD = b"shit!18!shit!18!"
+sched_salt = os.urandom(16)
+sched_iv = os.urandom(12)
+sched_kdf = PBKDF2HMAC(
+    algorithm=hashes.SHA256(),
+    length=32,
+    salt=sched_salt,
+    iterations=100000,
+)
+sched_key = sched_kdf.derive(SCHEDULE_PASSWORD)
+sched_aesgcm = AESGCM(sched_key)
+sched_plaintext = json.dumps(weekly_courses, ensure_ascii=False).encode('utf-8')
+sched_ciphertext = sched_aesgcm.encrypt(sched_iv, sched_plaintext, None)
+
+encrypted_schedule = {
+    "salt": base64.b64encode(sched_salt).decode('utf-8'),
+    "iv": base64.b64encode(sched_iv).decode('utf-8'),
+    "ciphertext": base64.b64encode(sched_ciphertext).decode('utf-8')
+}
+
 app_data = {
     "title": "HUFS 26-2 Mobile Study Web",
-    "updated_at": "2026-10-11 17:50",
-    "weekly_courses": weekly_courses,
+    "updated_at": "2026-10-12 03:30",
+    "encrypted_schedule": encrypted_schedule,
+    "weekly_courses": [],
     "books": {
         "beiying": {
             "id": "beiying",
@@ -1054,7 +1097,8 @@ with open(os.path.join(data_dir, 'index.json'), 'w', encoding='utf-8') as f:
     json.dump({
         'title': app_data['title'],
         'updated_at': app_data['updated_at'],
-        'weekly_courses': app_data['weekly_courses']
+        'encrypted_schedule': app_data['encrypted_schedule'],
+        'weekly_courses': []
     }, f, ensure_ascii=False, indent=2)
 
 # 3) Individual book JSONs

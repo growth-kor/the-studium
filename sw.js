@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studium-v7';
+const CACHE_NAME = 'studium-v1791761454';
 const ASSETS = [
   './index.html',
   './css/style.css',
