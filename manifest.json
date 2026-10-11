@@ -1,0 +1,17 @@
+{
+  "name": "STUDIUM",
+  "short_name": "Studium",
+  "description": "Minimalist Personal Academic Reader & Archive",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23000000'/><text x='50' y='70' font-family='Shantell Sans, cursive, sans-serif' font-weight='800' font-size='62' text-anchor='middle' fill='%23ffffff'>S</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

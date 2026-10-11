@@ -1,0 +1,641 @@
+    @font-face {
+      font-family: 'ThecircleM';
+      src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/ThecircleM.woff') format('woff');
+      font-weight: normal;
+      font-display: swap;
+    }
+
+    /* ==========================================================================
+       STUDIUM : ULTRA-MINIMALIST MONOCHROME TYPOGRAPHIC SYSTEM
+       ========================================================================== */
+    :root {
+      --bg: #ffffff;
+      --text: #111111;
+      --text-muted: #737373;
+      --border: #e5e5e5;
+      --line-active: #000000;
+      --font-brand: 'Shantell Sans', cursive, -apple-system, sans-serif;
+      --font-ui: 'ThecircleM', "PingFang SC", "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      --font-zh: "PingFang SC", "Noto Sans SC", "Songti SC", sans-serif;
+      --font-py: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #000000;
+        --text: #f5f5f5;
+        --text-muted: #787878;
+        --border: #1a1a1a;
+        --line-active: #ffffff;
+      }
+    }
+
+    :root[data-theme="light"] {
+      --bg: #ffffff;
+      --text: #111111;
+      --text-muted: #737373;
+      --border: #e5e5e5;
+      --line-active: #000000;
+    }
+
+    :root[data-theme="dark"] {
+      --bg: #000000;
+      --text: #f5f5f5;
+      --text-muted: #787878;
+      --border: #1a1a1a;
+      --line-active: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-ui);
+      min-height: 100vh;
+      padding-bottom: 72px;
+      user-select: none;
+      -webkit-user-select: none;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Top Brand Header */
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .brand-title {
+      font-family: var(--font-brand);
+      font-size: 1.32rem;
+      font-weight: 750;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--text);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Screen Views */
+    .screen {
+      display: none;
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 0 18px;
+    }
+
+    .screen.active {
+      display: block;
+    }
+
+    /* Text Selector Tabs (No boxes, no pills) */
+    .sub-nav {
+      display: flex;
+      gap: 20px;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+      scrollbar-width: none;
+      margin-bottom: 16px;
+    }
+
+    .sub-nav::-webkit-scrollbar {
+      display: none;
+    }
+
+    .sub-nav-item {
+      padding: 12px 2px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      white-space: nowrap;
+      position: relative;
+      transition: color 0.15s;
+    }
+
+    .sub-nav-item.active {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .sub-nav-item.active::after {
+      content: '';
+      position: absolute;
+      bottom: -1px;
+      left: 0;
+      right: 0;
+      height: 1.5px;
+      background: var(--line-active);
+    }
+
+    /* Section Numbers (Minimalist horizontal row) */
+    .num-selector {
+      display: flex;
+      gap: 14px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 18px;
+    }
+
+    .num-selector::-webkit-scrollbar {
+      display: none;
+    }
+
+    .num-btn {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      white-space: nowrap;
+      padding: 2px 0;
+    }
+
+    .num-btn.active {
+      color: var(--text);
+      font-weight: 700;
+      border-bottom: 1px solid var(--line-active);
+    }
+
+    /* Minimalist Schedule Items */
+    .course-row {
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .course-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: var(--text);
+    }
+
+    .course-meta {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .task-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 8px 0;
+      font-size: 0.88rem;
+      line-height: 1.45;
+      color: var(--text);
+    }
+
+    .task-row input[type="checkbox"] {
+      margin-top: 3px;
+      accent-color: var(--text);
+    }
+
+    /* Minimalist Reader Sentences */
+    .reader-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 14px 0 10px;
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .toggle-action {
+      cursor: pointer;
+      text-decoration: underline;
+      margin-left: 12px;
+    }
+
+    .sentence-row {
+      padding: 18px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .sentence-zh-wrap {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+      margin-bottom: 6px;
+    }
+
+    .sentence-zh {
+      font-family: var(--font-zh);
+      font-size: 1.25rem;
+      line-height: 1.55;
+      color: var(--text);
+      letter-spacing: 0.02em;
+      flex: 1;
+    }
+
+    .zh-w {
+      cursor: pointer;
+      border-bottom: 1px dotted transparent;
+      transition: border-bottom 0.15s, background 0.15s;
+      padding: 0 1px;
+    }
+
+    .zh-w:hover {
+      border-bottom: 1px dotted var(--text);
+    }
+
+    .speaker-btn {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      padding: 4px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: color 0.15s;
+      flex-shrink: 0;
+    }
+
+    .speaker-btn:hover {
+      color: var(--text);
+    }
+
+    .sentence-py {
+      font-family: var(--font-py);
+      font-size: 0.86rem;
+      line-height: 1.45;
+      color: var(--text-muted);
+      font-style: italic;
+      margin-bottom: 6px;
+    }
+
+    .sentence-kr {
+      font-size: 0.9rem;
+      line-height: 1.5;
+      color: var(--text);
+    }
+
+    .hide-py .sentence-py { display: none; }
+    .hide-kr .sentence-kr { display: none; }
+
+    /* Word Inspector Drawer (Ultra-Minimalist Monochrome) */
+    .inspector-drawer {
+      position: fixed;
+      bottom: 56px;
+      left: 0;
+      right: 0;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      z-index: 100;
+      transform: translateY(150%);
+      transition: transform 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .inspector-drawer.open {
+      transform: translateY(0);
+    }
+
+    .inspector-inner {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 16px 20px 20px 20px;
+    }
+
+    .inspector-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 6px;
+    }
+
+    .inspector-title-row {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .inspector-zh {
+      font-family: var(--font-zh);
+      font-size: 1.75rem;
+      font-weight: 600;
+      color: var(--text);
+      letter-spacing: 0.04em;
+    }
+
+    .inspector-speaker {
+      padding: 4px;
+    }
+
+    .inspector-close {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-size: 1.2rem;
+      cursor: pointer;
+      padding: 4px 8px;
+      line-height: 1;
+    }
+
+    .inspector-close:hover {
+      color: var(--text);
+    }
+
+    .inspector-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .inspector-py {
+      font-family: var(--font-py);
+      font-style: italic;
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+
+    .inspector-divider {
+      color: var(--border);
+    }
+
+    .inspector-level {
+      border: 1px solid var(--border);
+      padding: 1px 6px;
+      font-size: 0.74rem;
+      letter-spacing: 0.04em;
+      color: var(--text);
+    }
+
+    .inspector-body {
+      margin-bottom: 14px;
+    }
+
+    .inspector-kr {
+      font-size: 1.02rem;
+      line-height: 1.5;
+      color: var(--text);
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+
+    .inspector-note {
+      font-size: 0.82rem;
+      line-height: 1.5;
+      color: var(--text-muted);
+    }
+
+    .inspector-footer {
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    .inspector-save-btn {
+      background: transparent;
+      border: 1px solid var(--text);
+      color: var(--text);
+      font-family: var(--font-ui);
+      font-size: 0.82rem;
+      padding: 6px 14px;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .inspector-save-btn.saved {
+      background: var(--text);
+      color: var(--bg);
+    }
+
+    /* Minimalist Flashcard */
+    .flashcard-area {
+      min-height: 280px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 40px 20px;
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+    }
+
+    .fc-counter {
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+      margin-bottom: 18px;
+    }
+
+    .fc-word-row {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .fc-word {
+      font-family: var(--font-zh);
+      font-size: 2.8rem;
+      font-weight: 500;
+      color: var(--text);
+      letter-spacing: 0.04em;
+    }
+
+    .fc-py {
+      font-size: 1.15rem;
+      font-style: italic;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    .fc-kr {
+      font-size: 1.25rem;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+
+    .fc-note {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      max-width: 80%;
+    }
+
+    .fc-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 16px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .fc-btn {
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-size: 0.9rem;
+      cursor: pointer;
+      padding: 8px 12px;
+    }
+
+    .fc-check-btn {
+      background: transparent;
+      border: 1px solid var(--text);
+      color: var(--text);
+      padding: 6px 14px;
+      font-size: 0.82rem;
+      cursor: pointer;
+    }
+
+    .fc-check-btn.checked {
+      background: var(--text);
+      color: var(--bg);
+    }
+
+    /* Minimalist Exam Accordion */
+    .exam-row {
+      padding: 18px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .exam-q {
+      font-size: 0.98rem;
+      font-weight: 600;
+      line-height: 1.45;
+      color: var(--text);
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 10px;
+    }
+
+    .exam-a {
+      display: none;
+      padding-top: 12px;
+      font-size: 0.88rem;
+      line-height: 1.65;
+      color: var(--text-muted);
+      white-space: pre-line;
+    }
+
+    .exam-row.open .exam-a {
+      display: block;
+      color: var(--text);
+    }
+
+    /* Bottom Nav Bar (Minimalist Line & Text) */
+    nav.bottom-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 56px;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      z-index: 100;
+      padding-bottom: env(safe-area-inset-bottom, 0px);
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    .nav-btn {
+      flex: 1;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.82rem;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: color 0.15s;
+      user-select: none;
+    }
+
+    .nav-btn.active {
+      color: var(--text);
+      font-weight: 700;
+    }
+
+    .nav-btn svg {
+      display: block;
+      stroke: currentColor;
+    }
+
+    /* Font Size Customization */
+    body.font-large .sentence-zh {
+      font-size: 1.45rem;
+    }
+
+    /* Minimalist Settings Screen */
+    .setting-section {
+      padding: 24px 0;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .setting-title {
+      font-size: 0.96rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 5px;
+      letter-spacing: -0.01em;
+    }
+
+    .setting-desc {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.55;
+      margin-bottom: 14px;
+    }
+
+    .setting-options {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    button.setting-btn {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      background: transparent !important;
+      border: 1px solid var(--border) !important;
+      color: var(--text-muted) !important;
+      font-size: 0.84rem;
+      padding: 8px 16px;
+      cursor: pointer;
+      border-radius: 0 !important;
+      outline: none;
+      font-family: inherit;
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    button.setting-btn:hover {
+      border-color: var(--text-muted) !important;
+      color: var(--text) !important;
+    }
+
+    button.setting-btn.active {
+      border-color: var(--line-active) !important;
+      color: var(--text) !important;
+      font-weight: 700;
+    }
