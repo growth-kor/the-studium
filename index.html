@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style.css?v=1791795756">
+  <link rel="stylesheet" href="./css/style.css?v=1791816156">
 </head>
 <body>
 
@@ -37,6 +37,15 @@
           <button type="submit" id="schedule-unlock-btn" class="schedule-lock-btn">해제</button>
         </form>
         <div id="schedule-lock-msg" class="schedule-lock-msg"></div>
+        <div style="margin-top: 22px; padding-top: 16px; border-top: 1px dashed var(--border);">
+          <button type="button" class="course-quiz-pill" onclick="openEngEssayScreen('schedule')" style="width: 100%; justify-content: center;">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 20h9"></path>
+              <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+            </svg>
+            <span>화요일 영어 In-Class Essay 문단별 영작 암기 →</span>
+          </button>
+        </div>
       </div>
     </div>
 
@@ -68,6 +77,7 @@
       <div class="sub-nav-item" onclick="selectBook('tuanyuan')">团圆</div>
       <div class="sub-nav-item" onclick="selectBook('rain')">雨的四季</div>
       <div class="sub-nav-item" onclick="selectBook('chinese3')">중국어3</div>
+      <div class="sub-nav-item" onclick="openEngEssayScreen('reader')">화요일 영어 Essay</div>
     </div>
 
     <!-- Section Selector -->
@@ -125,6 +135,7 @@
       <div class="sub-nav-item active" onclick="selectExamTab('beiying')">背影 족보</div>
       <div class="sub-nav-item" onclick="selectExamTab('tuanyuan')">团圆 족보 & 감상문</div>
       <div class="sub-nav-item" onclick="selectExamTab('grammar')">핵심 문법</div>
+      <div class="sub-nav-item" onclick="openEngEssayScreen('exam')">화요일 영어 Essay</div>
     </div>
     <div id="exam-list"></div>
   </div>
@@ -232,6 +243,28 @@
     <div id="ds-questions-list" class="ds-questions-list"></div>
   </div>
 
+  <!-- SCREEN 7: COLLEGE ENGLISH 2 IN-CLASS ESSAY TRAINER -->
+  <div id="screen-eng-essay" class="screen">
+    <div class="ds-quiz-top-bar">
+      <button type="button" class="ds-back-btn" id="eng-essay-back-btn" onclick="closeEngEssayScreen()">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px; margin-right:4px;">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>화요일 영어
+      </button>
+      <div class="ds-quiz-header-title">College English 2 에세이 영작 암기</div>
+      <div style="width: 60px; text-align: right; font-size: 0.75rem; color: var(--text-muted);" id="eng-essay-progress-badge">0/25</div>
+    </div>
+
+    <!-- Paragraph Tabs (문단별 탭) -->
+    <div class="sub-nav" id="eng-essay-para-tabs" style="margin-bottom: 12px;"></div>
+
+    <!-- Sentence Number Selector & View Mode Bar -->
+    <div id="eng-essay-sentence-bar" class="eng-sentence-bar"></div>
+
+    <!-- Main Interactive Trainer Content -->
+    <div id="eng-essay-content" style="padding-bottom: 70px;"></div>
+  </div>
+
   <!-- Word Inspector Drawer (Ultra-Minimalist Monochrome) -->
   <div id="word-inspector" class="inspector-drawer">
     <div class="inspector-inner">
@@ -280,7 +313,7 @@
   </nav>
 
   <!-- Script -->
-  <script src="./data.js?v=1791795756"></script>
-  <script src="./js/app.js?v=1791795756"></script>
+  <script src="./data.js?v=1791816156"></script>
+  <script src="./js/app.js?v=1791816156"></script>
 </body>
 </html>

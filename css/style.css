@@ -986,3 +986,262 @@
       border-color: var(--line-active);
     }
 
+    /* ==========================================================================
+       COLLEGE ENGLISH 2 : PARAGRAPH & SENTENCE WRITING TRAINER (MONOCHROME)
+       ========================================================================== */
+    .eng-sentence-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .eng-sentence-bar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .eng-sent-nums {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .eng-sent-num-btn {
+      background: transparent;
+      border: none;
+      border-bottom: 1.5px solid transparent;
+      color: var(--text-muted);
+      font-family: var(--font-ui);
+      font-size: 0.84rem;
+      padding: 4px 2px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+
+    .eng-sent-num-btn.active {
+      color: var(--text);
+      font-weight: 700;
+      border-bottom-color: var(--line-active);
+    }
+
+    .eng-sent-num-btn.done {
+      text-decoration: underline;
+    }
+
+    .eng-mode-toggle {
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      color: var(--text-muted);
+      font-family: var(--font-ui);
+      font-size: 0.76rem;
+      padding: 2px 0;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .eng-mode-toggle:hover {
+      color: var(--text);
+      border-bottom-color: var(--line-active);
+    }
+
+    .eng-para-header {
+      padding: 8px 0 14px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 18px;
+    }
+
+    .eng-para-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 4px;
+      letter-spacing: -0.01em;
+    }
+
+    .eng-para-sub {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      line-height: 1.45;
+    }
+
+    .eng-trainer-block {
+      padding: 6px 0 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .eng-sent-meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+
+    .eng-sent-role {
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      letter-spacing: 0.02em;
+    }
+
+    .eng-vocab-tag {
+      font-size: 0.75rem;
+      color: var(--text);
+      border-bottom: 1px solid var(--text);
+      padding-bottom: 1px;
+    }
+
+    .eng-kr-label {
+      font-size: 0.74rem;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .eng-kr-prompt {
+      font-size: 1.14rem;
+      font-weight: 600;
+      line-height: 1.6;
+      color: var(--text);
+      padding: 12px 0 14px;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
+      word-break: keep-all;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+
+    .eng-chunk-box {
+      font-size: 0.82rem;
+      line-height: 1.6;
+      color: var(--text-muted);
+      padding: 8px 0 12px;
+      border-bottom: 1px dashed var(--border);
+      margin-bottom: 14px;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+
+    .eng-write-wrap {
+      margin-bottom: 12px;
+    }
+
+    .eng-write-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 6px;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .eng-write-input {
+      width: 100%;
+      min-height: 92px;
+      background: transparent;
+      color: var(--text);
+      border: none;
+      border-top: 1px solid var(--line-active);
+      border-bottom: 1px solid var(--line-active);
+      border-radius: 0;
+      padding: 12px 2px;
+      font-family: var(--font-py);
+      font-size: 1rem;
+      line-height: 1.55;
+      outline: none;
+      resize: vertical;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+
+    .eng-write-input::placeholder {
+      color: var(--text-muted);
+      opacity: 0.6;
+    }
+
+    .eng-hint-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      padding: 8px 0 12px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 12px;
+    }
+
+    .eng-line-btn {
+      background: transparent;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      color: var(--text);
+      font-family: var(--font-ui);
+      font-size: 0.8rem;
+      padding: 4px 0;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: border-color 0.15s, color 0.15s;
+    }
+
+    .eng-line-btn:hover,
+    .eng-line-btn.active {
+      border-bottom-color: var(--line-active);
+      font-weight: 600;
+    }
+
+    .eng-diff-feedback {
+      padding: 10px 0;
+      border-bottom: 1px dashed var(--border);
+      margin-bottom: 12px;
+      font-family: var(--font-py);
+      font-size: 0.94rem;
+      line-height: 1.6;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+
+    .eng-w-ok {
+      color: var(--text);
+      border-bottom: 1px solid var(--line-active);
+      margin-right: 4px;
+    }
+
+    .eng-w-miss {
+      color: var(--text-muted);
+      border-bottom: 1px dotted var(--text-muted);
+      margin-right: 4px;
+    }
+
+    .eng-answer-box {
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 14px;
+      font-family: var(--font-py);
+      font-size: 0.98rem;
+      line-height: 1.65;
+      color: var(--text);
+      user-select: text;
+      -webkit-user-select: text;
+    }
+
+    .eng-nav-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-top: 8px;
+      gap: 10px;
+    }
+

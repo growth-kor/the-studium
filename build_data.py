@@ -920,7 +920,10 @@ weekly_courses = [
                 "id": "tue-college-eng",
                 "name": "College English 2",
                 "time": "3~4교시",
-                "tasks": [{"title": "Unit 5 Reading Passage 번역 및 핵심 어휘 체크", "done": False}]
+                "tasks": [
+                    {"title": "In-Class Writing: 5문단 에세이(25문장) 한→영 영작 암기 및 키워드 Outline 완성", "done": False},
+                    {"title": "Unit 1 필수 어휘 6종 (interact, aware of, status, emulate, conflict, acquire) 영작 체화", "done": False}
+                ]
             }
         ]
     },
