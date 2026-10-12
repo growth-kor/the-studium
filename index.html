@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style.css?v=8">
+  <link rel="stylesheet" href="./css/style.css?v=1791795756">
 </head>
 <body>
 
@@ -198,6 +198,40 @@
     </div>
   </div>
 
+  <!-- SCREEN 6: DATA STRUCTURE PRACTICE EXERCISES (IN-APP CBT) -->
+  <div id="screen-ds-quiz" class="screen">
+    <!-- Top Back & Title Bar -->
+    <div class="ds-quiz-top-bar">
+      <button type="button" class="ds-back-btn" onclick="closeDsQuizScreen()">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-2px; margin-right:4px;">
+          <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>스케줄
+      </button>
+      <div class="ds-quiz-header-title">자료구조 연습문제 CBT</div>
+      <div style="width: 60px;"></div>
+    </div>
+
+    <!-- Scope Filter Chips -->
+    <div class="ds-scope-filter">
+      <button type="button" class="ds-scope-chip active" id="ds-scope-mid" onclick="setDsScope('midterm')">중간고사 1~5장</button>
+      <button type="button" class="ds-scope-chip" id="ds-scope-final" onclick="setDsScope('final')">기말고사 6~12장</button>
+      <button type="button" class="ds-scope-chip" id="ds-scope-all" onclick="setDsScope('all')">전체 1~12장</button>
+    </div>
+
+    <!-- Chapter Selector Tabs -->
+    <div class="num-selector" id="ds-chapter-selector" style="margin-bottom: 16px;"></div>
+
+    <!-- Active Chapter Meta Info -->
+    <div class="ds-chapter-card">
+      <div class="ds-chapter-title" id="ds-current-ch-title">1장 자료구조와 알고리즘</div>
+      <div class="ds-chapter-desc" id="ds-current-ch-desc">알고리즘 특성, 추상 자료형, 시간 복잡도</div>
+      <div class="ds-chapter-stats" id="ds-current-ch-stats">총 17문제 수록 · 실시간 정답 확인 가능</div>
+    </div>
+
+    <!-- Questions Container -->
+    <div id="ds-questions-list" class="ds-questions-list"></div>
+  </div>
+
   <!-- Word Inspector Drawer (Ultra-Minimalist Monochrome) -->
   <div id="word-inspector" class="inspector-drawer">
     <div class="inspector-inner">
@@ -246,7 +280,7 @@
   </nav>
 
   <!-- Script -->
-  <script src="./data.js?v=1791761924"></script>
-  <script src="./js/app.js?v=1791761924"></script>
+  <script src="./data.js?v=1791795756"></script>
+  <script src="./js/app.js?v=1791795756"></script>
 </body>
 </html>

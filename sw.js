@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studium-v1791761924';
+const CACHE_NAME = 'studium-v1791795756';
 const ASSETS = [
   './index.html',
   './css/style.css',
@@ -11,7 +11,8 @@ const ASSETS = [
   './data/books/tuanyuan.json',
   './data/books/rain.json',
   './data/books/chinese3.json',
-  './data/books/portrait.json'
+  './data/books/portrait.json',
+  './data/ds_quiz.json'
 ];
 
 self.addEventListener('install', event => {

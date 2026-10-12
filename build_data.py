@@ -1108,8 +1108,18 @@ for b_id, b_data in app_data['books'].items():
 
 # 4) Complete app_data bundle in data.js
 app_data['dict'] = master_dict
+
+ds_quiz_data = []
+ds_quiz_path = os.path.join(BASE_PARENT, 'data', 'ds_quiz.json')
+if os.path.exists(ds_quiz_path):
+    with open(ds_quiz_path, 'r', encoding='utf-8') as f:
+        ds_quiz_data = json.load(f)
+
 with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-    f.write('var HUFS_DATA = ' + json.dumps(app_data, ensure_ascii=False, indent=2) + ';\nif (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; }\n')
+    f.write('var HUFS_DATA = ' + json.dumps(app_data, ensure_ascii=False, indent=2) + ';\n')
+    f.write('var DS_QUIZ_DATA = ' + json.dumps(ds_quiz_data, ensure_ascii=False, indent=2) + ';\n')
+    f.write('if (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; window.DS_QUIZ_DATA = DS_QUIZ_DATA; }\n')
 
 print(f"Build complete! Unified books: Beiying ({len(by_paragraphs)}p), Tuanyuan ({len(ty_scenes)}s), Rain ({len(rain_sections)}s), Chinese3 ({len(chinese3_sections)} lessons, {sum(len(s['sentences']) for s in chinese3_sections)} sentences).")
 print(f"Master dictionary compiled with {len(master_dict)} words into data/dict/master_dict.json and data.js.")
+print(f"Data Structure quiz data compiled with {len(ds_quiz_data)} chapters ({sum(len(c['questions']) for c in ds_quiz_data)} questions) into data.js.")

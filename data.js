@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "m5n45nS05wfdVRXz1Vd21A==",
-    "iv": "FU5LoTX5DxU/DY4O",
-    "ciphertext": "Y9/1apZ12HAk1tfA0Qwn5KLNFRIf82nHeiAc4cPrvBMKfYnfD4DLTxHnVFhXiKM+HnbkxuKmfUCzX6m9WUS98cTf6uthpZ8uOm0q4Kx/qBvqopW1CJD/HG+EmVYJW+QFUTAKDscFg75z52amkwzHnQpvI5z8/y2Rk2O6LvjZTuk/uR5hzB1UGB6lYGbD1nw2Af0v1GQ1dYJVRRLwJybNo4uyz1i+eocpvRh6rLxovYjVOVPuO09ozUswEO1Uc1eO2OPPtg4I+7LB06Y0Wz0QvsNJqjfolXe5TJPuMRyCZYRAK1++jSSNjKhw+HiLalFW63y36XENcv3j3B5HfKBKfxzb0IaTb8oh588PVUsQRe26ZNk6Jj/lj0rjdrZtKdBoAlW2iG8TKsfPZQmrV945XuzPWLF5+EjVqeLuJbRXLB1Y3tutv8vx3BsDgSnU7YWroTeLtOdxxZkwqoKc9vuvGSZLMuutIS4nfx8Vwr7M0/vhNnQ0Smaps6gWs56CxvLmY+F8qhTmVQCnufCh1cWXmj8tn6o04T7JIq+hM/ZyWSfLzzhdK/+QKU8uzjGxmC3pBnBNhaXuWRGxAzhWLfVXia6luF09T2QExcEe/97bOsNyD1wCwXITO6T7k93TwRxV2n0ZTYajrbBnSO0q//H9eRorTTCoRU/GYbuxz4ZssZWriK6cPt/1BBRVH3cRekGZmrUIHg/8bB8hy6OcuNqd78qmBHgKF1NF+GuJ0TarsaWs3jeQYSIrsXkHgL6fqJb4uLmtQL8gyRg2u4tkYUp1gWWksGEItkvHPXa2VjI/fRHc/YUXkT893KvqvnZzPh08Rd6o/bWXVHPdx8oIk6tBEwAw/X5UpigqEf56mYf7QdBLvh2EMEdI+8Bvxh1nPmhlYYvg5CPM1QGFygK1ydAPkwsQiEqF1KGO6L6bGcVBpiW5Y2LkxeQqvUzYv24IngxxOSeNjmagkt9hTH1POJgiqPeJfnFSXvTfrX2yv//+fJQqSfxT4Btnkm/g/C2WVQeU4bvZSfsgV6cT54UmB8LS4T6Jq0H4Kg/Uh75j7FDqmntkcWEzVAlg8SJlB/bPG4uh0oE9MrMIGBb+gJgNL3JB1cTU2ir+5CMrya9bnjfD8Us12R+4ooZIyBpJJCQ5dfEEGiAGJbrgsoBl+PwRnv3+Y2qsQuvFyhd2yMGJMB3U8v9B9725KPMnhjyBlHckR/yaNdpyQ3ppeyo2odmXOZ3g171S2oiCvTq616y+xVluhwrNUmHcTCT1Lry177/vI5YKz6YDeQs45cnetwdW18O1VPmpuXoNHH9Yt6ZKoy998LlZKE3NXHHI1fyBynIULZzjbhZPXfv5wkSW0xdSGNSvrFR8X8f/07FOAcNIwFCbafUDT8JSFR5fpw8wHppHz5rG8G0tybtBZlSQqPtn9PLVo5M0vM+R3blI899/31XdWO8vzj/8VBzi3pmSqenedjk9S+7aMMf8lPIGwzdm8jXKKOqGlRjFr/kE1G9dDfdGTd3Mu58hdX1OcDAbQXdOCyNcz4hj/sGDTKBwjqZaRL2mDl53/PFpaNiJQhEM7O51fQCegA31cbAyNEl6/GN6q07GLJ6SF8bA02yI79Ou3iJR81ahNMqiGmOEZJ2mUmFwls1avHP1FDoCefg7WZZXVzNXduXOnrJciaFJ/R1Kx5UvzmT2hEsXJ3bUNeJdanUq/rPBCf3jZk+LYrcYesMNv+WRN9/S9T/dg67mbay/yLTZ+CxdLxsJWKT0WUY/rpva5VEHm72nxFOV/z0K5hSvHdHGl3vwmrgv3U4VuRiy+pBZzGpSgOrTVbQD5O549CaZDoN4yHn12+0q+rjdak0R/6b1xlyYH1SFDhZBcJQevNmtArOFofdmmIL1rU9Zrk6EVeW1p89oFgpgPwaYgqJWKG3CeM9U3Y6HrwWuu/lwZwO1uI3MxyTv1jwLAO/zVeCatddonoYfnRbD5v6L63n44i1bQs7hlSz5DZTb+pfl2c9TyZlQnp2d2avt/0qbYyiu9Wd3RRpmY8UIfQbCBnSyNxZ0+Kv3SxR+aERDtLggukir4CDqGYg6c59LUkbke+uUS3PGbox9GRnJQuLNB23R0jS5Z2ovZGvHJPdAT10pOKzZ2Ug5GbR1VUwoy6PA4uKac2JVv6+b67HzSwB/huUq5A/4787MimcxhFbX25aRh/WJSxfnzCXeMM/txHGss5vA68UNDbbkTON0LZz0eczEBHw0YQEoU4Eq1+hBVlxPsqLjnDso21ugQqSu+LTqhcPsiDT7e78IgxKPaMIgi41nPdn9ZUmouTypjut+nYjMwltKXYgWvsCXtjGkmT/Oa3NI6PtahBzIXwIeNMr8r4ki3QAdNM9wb4UZo8t48dYySJ0ktR748yj8qRmTGwZtUGzJ7LT2NZzwDQ28ufLXMeuzoEU24G4d6oY38/lcYJ5x/N4jlwceMPVIXYu9OQDDsLao+li9Q344NHn60YXRm/sgWw7jv/yo5oxKFoToSX9dc6X+PbXjEodxwLS6nUm/uAQ8esOhn9Fbo7H9muJHXOklydq2juSukse5VuELt13/TMrxQC3Ks8PTRd5NLNLghoceDPGra+b2oWU5r8Lp8OMFQF+7fI5QrsR8HT/4jyloKnvaamr4C3Bx4JCCdpNT4lDa0qFbcA46AAEo+sY8PmVq93L2c8sysyERAlGtihtPS5d/7UpXBWKHp57OFPny7RbZ6mDG6gwm3Gv6gKd1G51mIU5OObbyUMxaTJpcdLTInmdRrvR3NJxeO8yEhPvtKA6Gtxa6hhQq"
+    "salt": "/VaXkWqGm6bSQxS6aj3PGQ==",
+    "iv": "7sCuekrvHvXmcL1P",
+    "ciphertext": "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"
   },
   "weekly_courses": [],
   "books": {
@@ -24423,4 +24423,3383 @@ var HUFS_DATA = {
     }
   }
 };
-if (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; }
+var DS_QUIZ_DATA = [
+  {
+    "chapter": 1,
+    "title": "자료구조와 알고리즘",
+    "desc": "알고리즘 특성, 추상 자료형(ADT), 시간 복잡도(Big-O), 순환(재귀) 알고리즘",
+    "page_range": "p.47~50",
+    "question_count": 17,
+    "questions": [
+      {
+        "id": "ds-1-1",
+        "num": "1.1",
+        "question": "다음중입력이반드시필요하다고는볼수없는알고리즘은?",
+        "options": [
+          "배열에서최댓값을찾는알고리즘",
+          "두수의최대공약수를구하는알고리즘",
+          "평면상에서두점사이의거리를구하는알고리즘",
+          "5개의로또번호예측하는알고리즘"
+        ],
+        "answer": 4,
+        "explanation": "난수(로또 번호) 생성이나 예측 알고리즘은 외부 입력이 반드시 필요하지 않고 0개 이상의 입력만으로 동작할 수 있습니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-1-2",
+        "num": "1.2",
+        "question": "다음중추상자료형의설명으로옳지않은것은? 다 다",
+        "options": [
+          "사용자들은추상자료형이제공하는연산만을사용할수있다",
+          "사용자들은추상자료형을어떻게사용하는지를알아야한",
+          "사용자들은추상자료형내부의데이터를직접접근할수없",
+          "사용자들은추상자료형어떻게구현되었는지정확히알아야이용할수있다"
+        ],
+        "answer": 4,
+        "explanation": "추상자료형(ADT)은 구현 세부사항(어떻게 구현되었는지)을 숨기고 사용 방법(인터페이스/연산)만을 제공하는 것이 핵심입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-1-3",
+        "num": "1.3",
+        "question": "다음중파이썬에서실행시간측정을위해사용할수있는모듈은? I e Itime 2 edate 3numpy",
+        "options": [],
+        "answer": 1,
+        "explanation": "파이썬에서 프로그램의 실행 시간(Elapsed time) 측정을 위해 표준 라이브러리인 time 모듈을 사용합니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-4",
+        "num": "1.4",
+        "question": "알고리즘시간복잡도O(1 이의미하는것은?",
+        "options": [
+          "컴퓨터처리가불가",
+          "입력데이터수가한개",
+          "수행시간이입력데이터수와관계없이일정",
+          "알고리즘길이가입력데이터보다작음"
+        ],
+        "answer": 3,
+        "explanation": "O(1) 상수 시간 복잡도는 입력 데이터의 개수 n과 무관하게 항상 일정한 연산 시간으로 수행됨을 의미합니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-1-5",
+        "num": "1.5",
+        "question": "다음설명이옳으면o ,틀리면X를표시하라 떤(wha ? 자료나연산이제공되는가뿐만아니라이들이어떻게bow? 구현되는가 도정의한다 복잡도가다르다",
+        "options": [
+          "어떤알고리즘의효율성은사용하는자료구조와밀접한관련이있다",
+          "추상자료형은어떤자료들과자료에가해지는연산들을구체적으로표시하는데어",
+          "크기가",
+          "배열에같은항목이있는지는판단하는알고리즘은최선과최악의경우에대한시간",
+          "배열에같은항목이있는지는최악의경우에도O(m)에판단할수있다"
+        ],
+        "answer": "① O / ② X / ③ O / ④ O / ⑤ X",
+        "explanation": "② 추상자료형은 '어떻게(how)'가 아니라 '무엇을(what)' 제공하는지 정의하는 것입니다. ⑤ 배열의 중복 요소 탐색 최악 시간은 O(n^2)입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-1-6",
+        "num": "1.6",
+        "question": "다음의시간복잡도함수를오표기법으로나타내라. (1 T(n =n",
+        "options": [],
+        "answer": "① O(n) / ② O(n^2) / ③ O(2^n)",
+        "explanation": "최고차항만 남기고 계수를 생략하여 빅오 표기법으로 단순화합니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-7",
+        "num": "1.7",
+        "question": "10 +8 ( (2)T(n)=n°+10000n°+50n ) ) \" (4)T(n)=7(2\")+3\"",
+        "options": [
+          "T(m ="
+        ],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-8",
+        "num": "1.8",
+        "question": "다음의빅 오표기법들을실행시간이적게걸리는것부터나열하라 0(1)O(n)O(n)O(n\")O(logn)O(nlogn)O(n!)O(2\")",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-9",
+        "num": "1.9",
+        "question": "다음알고리즘의시간복잡도를빅오표기법으로나타내라 f : defalgorithml(n): ) defalgorithm2(n): m = 0 sum=0 K =0 e n i n : foriinrange(n): >: whilen>1: j n e , forjinrange(i+1,n+1): n=n / 2 +k++ sum=sum+J n k returnk",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-10",
+        "num": "1.10",
+        "question": "다음함수들의최선과최악의경우에대한시간복잡도를빅오표기법으로나타내라 f ) : deffunci(n): f : deffunc2(n): i = n m = 0 sum=0 r i n ) : foriinrange(n): m = 0 sum=0 f = : if1%3==0: f 3 = 0 : if1%3=0: r n : forjinrange(n/2): m = j sum+=j f 2 = 0 : elif1%2==0: m = ] sum+=] f = : elif1%2==0: forjinrange(5): j n ( ) forjinrange(5): sum+ j e : else: sum ＋ゴ e : else: forjinrange(n): r j n ( n ) : forjinrange(n): sum+=j m = j sum+=j n m returnsum n m returnsum",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-11",
+        "num": "1.11",
+        "question": "다음과같은순환적인프로그램에서Sub(",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-12",
+        "num": "1.12",
+        "question": "과같이호출할때함수SubO가호출되는횟 수는? f ) : defsub(n): f n= 1 : n n returnn + returnsub(n-1)+sub(n-2)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-13",
+        "num": "1.13",
+        "question": "다음함수에서aster sk( S)와같이호출할때출력되는 의개수는? f ) : defasterisk(i): f i : ifi>1: )asterisk(i/2) )asterisk(i/2) print('*',end=\")",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-14",
+        "num": "1.14",
+        "question": "* 시각을나타내는T me의추상자료형을정의하려고한다T me을위한데이터로는시 분초를각각표현하기위한정수가필요할것이다T me의연산들을생각해보고정의",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-15",
+        "num": "1.15",
+        "question": "를참고하여T me의추상자료형을정의하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-16",
+        "num": "1.16",
+        "question": "*피보나치수열은다음과같이순환적으로정의된다. 이입력되면 번째피보나치수를 구해반환하는함수를순환구조와반복구조로각각구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-1-17",
+        "num": "1.17",
+        "question": "0n=0 = fib(n)=11 1n=1 )fib(n-2)+fib(n-1) eotherwise",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "파이썬 프로그래밍 리뷰",
+    "desc": "파이썬 클래스와 객체 지향, 연산자 중복, 상속, 내장 모듈",
+    "page_range": "p.89~92",
+    "question_count": 31,
+    "questions": [
+      {
+        "id": "ds-2-1",
+        "num": "2.1",
+        "question": "자료구조를클래스로구현하는방법에대한설명중잘못된것은? 다",
+        "options": [
+          "추상자료형의데이터와연산을하나로묶어관리할수있",
+          "데이터는클래스의인스턴스변수에대응된다",
+          "연산은클래스의멤버함수에대응된다",
+          "일반함수로구현하는방법에비해속도가빠르다"
+        ],
+        "answer": 4,
+        "explanation": "자료구조를 클래스로 객체 지향 구현한다고 해서 일반 절차형 함수보다 속도가 더 빠른 것은 아닙니다. 오히려 캡슐화와 유지보수성, 재사용성을 위해 사용합니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-2-2",
+        "num": "2.2",
+        "question": "사용자정의클래스의객체들에+ 등의표준연산자들을적용할수있도록하는기능 을무엇이라하는가?",
+        "options": [
+          "순환",
+          "함수중복",
+          "연산자중복",
+          "상속"
+        ],
+        "answer": 3,
+        "explanation": "사용자 정의 클래스 객체에 +, -, == 등의 표준 연산자를 적용할 수 있도록 매직 메서드(__add__ 등)를 재정의하는 것을 '연산자 중복(Operator Overloading)'이라고 합니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-2-3",
+        "num": "2.3",
+        "question": "다음중연산자중복에대한설명으로옳지않은것은? ①사용자정의클래스의특별한멤버함수이다",
+        "options": [
+          "객체들을표준연산자들을이용해처리할수있다",
+          "파이썬리스트나튜플과같은클래스에도적용할수있다",
+          "연산자의기능을개발자가마음대로정의할수있다"
+        ],
+        "answer": 4,
+        "explanation": "연산자 중복을 하더라도 파이썬 고유의 연산자 우선순위나 문법 규칙(피연산자 개수 등)은 임의로 바꿀 수 없습니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-2-4",
+        "num": "2.4",
+        "question": "어떤클래스를상속받아만든새로운클래스를부르는명칭이아닌것은?",
+        "options": [
+          "기반클래스",
+          "서브클래스",
+          "파생클래스"
+        ],
+        "answer": 1,
+        "explanation": "상속을 받아 만들어진 클래스는 서브클래스(Subclass), 파생 클래스(Derived Class), 자식 클래스라고 부릅니다. 슈퍼클래스(Superclass)는 부모 클래스를 지칭합니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-2-5",
+        "num": "2.5",
+        "question": "섭씨온도(° 는수식은 =32+ 1 C)를화 온도(°F)로변환하",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-6",
+        "num": "2.6",
+        "question": "C이다 (1 섭씨온도를화씨온도로변환하는함수를구현하라 (2) 화씨온도를섭씨온도로변환하는함수를구현하라 , 3 4와같이리스트를선언하고이리스트의모든값을역순으로출력하는코 드",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-7",
+        "num": "2.7",
+        "question": ",2 를구현하라단,인덱스값으로는음수만을사용하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-8",
+        "num": "2.8",
+        "question": "리스트의모든값을더해결과를반환하는함수를구현하라 s n Pyt 8 문자열msg =\"Data Str uct ure ho 를선언하고이문자열을먼저그대로출력하고, 다음으로모두대문자로바꿔서출력하고마지막으로모두소문자로바꿔출력하는코드 를작성하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-9",
+        "num": "2.9",
+        "question": "어느식당의음식에대한가격정보를다음과같이딕셔너리로표현하자 r ce= '콩나물해장국: 4500,'갈비탕 9000,돈가스:800 0",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-10",
+        "num": "2.10",
+        "question": ")여기에새로운메뉴팟타 이'를7 000원에추가하고,모든메뉴와가격을출력하는코 드 를작성하라 (2)모든메뉴의가격을500원내리는코드를작성하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-11",
+        "num": "2.11",
+        "question": "자연수 을받아다음식을계산하는합수를구현하려고한다 + 1 2+1 3+... +1/ n (1) 반복문을이용한함수로구현하라 (2 순환구조의함수로구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-12",
+        "num": "2.12",
+        "question": "이항계수(b nom a coeff c ent 는다음과같이순환적으로정의할수있다 „Сĸ= \"-Ck-1ta-Chif0<k<n f r (1) 과 를입력받아이항계수를구하는함수를순환구조로구현하라 (2) 이함수를반복문을이용해구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-13",
+        "num": "2.13",
+        "question": "문자열의내용을반대로바꾸는순환적인함수 eve se( 를구현하라예를들어 eve se(\"ABCDE\" 는 EDCBA 를반환해야한다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-14",
+        "num": "2.14",
+        "question": "순환적인방법으로피보나치수열을호출하였을때함수가중복되어호출되는것을확인할 수있 출빈 도록각함수의매개변수별호 도를측정해출력하라 =10을넣었을때 F1bo(10) = 1번 예)n Fi bo(9) = ??번 ...",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-15",
+        "num": "2.15",
+        "question": "4*다음은근로소득세율표를보여주고있다소득을입력하면세금을계산하고세금과세 후소득을출력하는프로그램을작성하라수입이조금이라도많으면세금을세후소득 200만원까지는6%를내 고다 음구간( 이더많아야한 다예를들 어소득이2 000만원이라면1 1 200만원~4 600만원)에포함되는800만원에대해서는1",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-16",
+        "num": "2.16",
+        "question": "%를내야하므로전 체세금은1200x 6%+800 15%이다 소득 근로소득세율 % 6%",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-17",
+        "num": "2.17",
+        "question": ",200만원이하 % 15% 1,200만원~ 4600만원 l 24%l 800만원",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-18",
+        "num": "2.18",
+        "question": ",600만원~ 8, % 35%",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-19",
+        "num": "2.19",
+        "question": ", 800만원~1억5,000만원 % 38%",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-20",
+        "num": "2.20",
+        "question": "억5,000만원초과",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-21",
+        "num": "2.21",
+        "question": "* 번호맞히기게임(Up-and-Down 게임을구현하자숨겨진두자리의숫자를추측하 여맞추는것이다게이머가숫자를예측하면컴퓨터는정답과비교하여 더큰숫자입니 다 은숫자입니다\" 그리고맞 우정답입니다\"를출력한다중간에맞히거 더작 힌경 \"나\" 나",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-22",
+        "num": "2.22",
+        "question": "번동안맞히지못하면게임이끝난다 정답을answe 추측문자를guess이라하면answe 와guess를비교하여결과를 출력하면된다정답범위를힌트로제공하기위해m n과max 변수를사용한다 반복문으로는 o 를사용하고최대10번반복하면서중간에정답을맞히면b eak 문을이용해루프를빠져나와게임을종료한다 - 口 # a #CWWNDCWS#syitem32acmd.na 父人豐입력하세요(범위: 0.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-23",
+        "num": "2.23",
+        "question": "): 5 아닙니다 숫자입니다 ! 숫자른 바 니당세 요 60.7: 65 숫자입니다 오지한 편하세 요여 맞추셨습니다. 정답입니다 . 게임이 끝났습니다. 계속하려면아무키나노르십시오. ,",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-24",
+        "num": "2.24",
+        "question": "6* 높이를입력받아다음과같은숫자피라미드를출력하는다음게 임( ? 을만들어보자먼 저숫자가출력되는규칙을잘찾아보라 e Cwwe.OOwS#systam32wcmd.eze 미라미드의높이를입력하세요: 7",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-25",
+        "num": "2.25",
+        "question": "57 1 누르십시오",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-26",
+        "num": "2.26",
+        "question": "1 1$ 계속하려면아",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-27",
+        "num": "2.27",
+        "question": "중루프를사용한다바깥루프는세로를나타내고높이만큼반복하면된다 내부루프는한줄에서의위치를나타낸다한줄에서의출력은세부분으로나누어 야할것이다맨처음공백을적절히출력한다다음으로숫자가증가하는방향으로 출력하고마지막으로감소하는방향으로숫자를출력한다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-28",
+        "num": "2.28",
+        "question": "*다음과같은모양을출력하는순환적인함수를작성하여하라이함수의원형 p ototype) 은다음과같다 ow X를그리는행을표시한다가장위에있는행이 이고아래로내려갈수록 숫 자는증가한다고생각하자 ef 와 gh 각각주어진영역의왼쪽끝과오른쪽끝을나타낸다 l e aalC:WWINDOWS#system32#cmd.exe X -X- --X-------x- ------------x- -x---x---x--x---x---x---x---x---x--x--x--x-x----х- x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-х- 계속하려면아무키나누르십시오",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-29",
+        "num": "2.29",
+        "question": "*시각을나타내는T me의추상자료형을다음과같이정의하였다문제 12참조) 이추상 자료형을클래스로구현해보라. 정의2 3TimeADT 데이터하나의시각시분초로나타내기위한변수들시는0~",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-30",
+        "num": "2.30",
+        "question": "분과초는0~59사이의정수 연산 • , , : •set(h,m,s): 시각을 시m분S초로초기화한다 hou (), econa): 각각시 ,분, 초를반환한다 m nute(),s • : •iSAM(): • : •isSame(t2): 시각이오전이면True그렇지않으면Fa se를반환한다 • : •difference(t2): 시각이2와같으면T ue아니면Fa se를반환한다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-2-31",
+        "num": "2.31",
+        "question": "와의차이를새로운시각에저장해반환한다 시각을화면에보기좋게출력한다 • : •display():",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "리스트와 집합",
+    "desc": "배열 기반 리스트 구조, 파이썬 list ADT, 집합(Set) 구현 및 시간 복잡도",
+    "page_range": "p.124~127",
+    "question_count": 25,
+    "questions": [
+      {
+        "id": "ds-3-1",
+        "num": "3.1",
+        "question": "다음중리스트의활용으로적절하지않은것은? 인편집기",
+        "options": [
+          "계획표만들기",
+          "라",
+          "다항식의표현",
+          "미로탐색"
+        ],
+        "answer": 4,
+        "explanation": "미로 탐색(DFS/BFS)은 지나온 경로를 역추적하거나 방문 순서를 관리해야 하므로 스택(Stack) 또는 큐(Queue)가 핵심 자료구조입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-3-2",
+        "num": "3.2",
+        "question": "다음중리스트 st 가집합(set 과다른점이아닌것 은? 다 한항 목의중복을허용한다",
+        "options": [
+          "항목들사이에순서가있",
+          "항목들은위치를갖는다",
+          "항목들을서로비교할수있다",
+          "동일"
+        ],
+        "answer": 3,
+        "explanation": "항목들을 서로 비교하는 연산은 리스트와 집합(Set) 모두 가능하므로 차이점이 아닙니다. 순서와 중복 허용 여부가 본질적 차이점입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-3-3",
+        "num": "3.3",
+        "question": "자료구조를클래스로구현하는방법에대한설명중잘못된것은? ①추상자료형의데이터와연산을하나로묶어관 리할수있다 용할수있 다",
+        "options": [
+          "데이터와연산은각각클래스의멤버변수와멤버함수에대응된다",
+          "여러개의객체를마음대로만들어사",
+          "일반함수로구현하는방법에비해속도가빠르다"
+        ],
+        "answer": 4,
+        "explanation": "클래스 구현이 일반 함수 구현보다 실행 속도가 더 빠른 것은 아닙니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-3-4",
+        "num": "3.4",
+        "question": "배열로자료구조리스트를구현할때많 은항목들의이동이필요한연산은?",
+        "options": [
+          "리스트크기계산",
+          "리스트초기화",
+          "화면출력연산",
+          "삽입연산"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-3-5",
+        "num": "3.5",
+        "question": "다음중배 열구조로자료구조리 할때시간복잡도가가장낮 스트를구현",
+        "options": [
+          "지정한위치에새로운항목을삽입하는연산",
+          "지정한위치의항목을삭제하는연산",
+          "어떤항목을찾는연산",
+          "지정한위치의항목을다른항목으로교체하는연산"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-3-6",
+        "num": "3.6",
+        "question": "파이썬리스트의nsertO와a ppend )연산에대한시간복잡도로가장정확한것은? (m) 대부분의경우 (1) 로올바르게복제(새로운리스 트",
+        "options": [
+          "0(1) 0(1"
+        ],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-7",
+        "num": "3.7",
+        "question": "파이썬리스트A = 2, 3 4, 51가있 을때이것을B 객체가만들어져야함)하는문장은?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-8",
+        "num": "3.8",
+        "question": "= 2B=copy(A) 4 = 4B=list(A) B =A 1B=A 3 ]",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-9",
+        "num": "3.9",
+        "question": "다음중정렬되지않은리스트로집합을구현할경우연산의시간복잡도가가장높은연 산은? ①어떤원소가집합에포함되어있는지를검사하는연산",
+        "options": [
+          "어떤원소를집합에삽입하는연산",
+          "집합에서어떤원소를삭제하는연산",
+          "두집합이같은집합인지를검사하는연산"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-3-10",
+        "num": "3.10",
+        "question": "다음문장에서빈칸 을채 워라 배열구조로구현된리스트에서는리스트의 쪽에항목을삽입하는것이시간 적으로더효율적이다. 사용자정의클래스의객체들에+ 등의표준연산자들을적용할수있도록하는 _이라한다 기능을",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-11",
+        "num": "3.11",
+        "question": "공백상태의리스트가있다. 다음물음에답하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-12",
+        "num": "3.12",
+        "question": ". nser (1 2",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-13",
+        "num": "3.13",
+        "question": ". nse (2 40) (1)이리스트에 nse (0 1 e (0 3",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-14",
+        "num": "3.14",
+        "question": ") ns nse t(s ze0,5",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-15",
+        "num": "3.15",
+        "question": ")다음연산을순서대로처리한후의리스트내용을적어라 (2 추가로 nsert(1, 6",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-16",
+        "num": "3.16",
+        "question": "), ep ace(2, 7",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-17",
+        "num": "3.17",
+        "question": "),d e ete(2) 연산을순서대로처리한결과를적 어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-18",
+        "num": "3.18",
+        "question": "리스트의항목중에서가장큰것을찾아인덱스를반환하는findMax0연산을A mrayLi s 클래스코드3.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-19",
+        "num": "3.19",
+        "question": "의멤버함수로구현하라.만약리스트가공백상태이면 을반환하라. 3.12리스트에서가장작은항목과큰항목을모두찾아인덱스를한꺼번에반환하는 f ndM nMax0 연산을ArrayL st의멤버함수로구현하라두값의반환을위해튜플을사 용할수있는데만약리스트가공백상태이면 -1,-1)을반환한다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-20",
+        "num": "3.20",
+        "question": "파이썬으로쉽 게배우는자료구조",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-21",
+        "num": "3.21",
+        "question": "* 오름차순으로항목들이정렬된두개의리스트A와B를받아이들을병합한새로운리스 트C를구하는코드를작성하라.단병합된리스트도정렬되어있어야한다예를들어 =0 3, 4) B=D 3 6,이 라면C 는 , 2 3 3 4, 6,기이되어야한다.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-22",
+        "num": "3.22",
+        "question": "*Ar ray Set클래스(코드3",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-23",
+        "num": "3.23",
+        "question": ")를다음과같이수정하라 (1)차집합을구하는A d ffe ence(B)문장대신에A B를이용할수있도록 연산자 중복함수를추가하라연산자중복 은2 11절을참고하는데이를위한연산자중복 함수는 u (se f rhs)이다. (2)두집합A와B가있을때 =B 인경우에도A는B의부분집합이된다A가 의 부분집합이지만A와B가같지않은경우A는B의진부분집합p ope subset)이 P ope Subse O 0 연 산을A raySet클래스(코드3 6)의멤버함수로추가하라만약A가B의진부분 집합이라면A s 다어떤집합이다른집합의진부분집합인지를검사하는s P operSubse of( B)는T ue를반환해야한다 3 15** 수학과과학에서는다항식( Do ynom a)이매우중요하게사용되는데다음과같이추상 자료형으로나타낼수있다 정의3.3:P olynomialADT 데이터하나이 상의항 적표현각항은a 2 로표시되는데a 는계수이고 으로이루어진수학 는미지수z의차수임 연산 • : •degree(): 다항식의차수를반환한다 •e va uate(sca ar) 미지수에s ca a 를넣어계산한결과를반환한다 • : •add(rhs): 현재다항식과다항식hs를더한새로운다항식을만들어반환한다 • . •subtract(rhs). 현 재다항식에서다항식rhs 를뺀새로운다항식을만들어반환한다 • : •multiply(rhs): 현재다항식과다항식 hs를곱한새로운다항식을만들어반환한다 • : •display): 현재다항식을화면에보기좋게출력한다 이러한다항식을클래스로구현하려고한 다먼저,다항식을표현하기위해리스트를이용할 수있는데계수들을리스트에순서대로저장하는것이다. 이때,리스트로는파이썬의리스 트를사 용하 자리스트에계수를저장하 는방법에는다음과같이두가지가있다 Mx)=10x+0x'+Ox?+Ox?'+6x+3X° # 다항 식p(x)의리스트표현 방법1 #다항식p(x 의리스트표현방법2 =[ 3] coef=[10,0,0,0,6,3] =[ ] ］ ][1] ](2] ](3] ][4] ][S] ［e",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-24",
+        "num": "3.24",
+        "question": "3 = 3 coef=[10,0,0,0,6,3] 방법1: /)-1005+000+083+0zt651te0 f =[ , , , , , 0 ] coef=[3,6,0,0,0,10] 방법2: ][0] ](1] ][2] ](3] ][4] )[5) 방법1이더직관적으로보이지만다항식의여러가지연산을구현하는데는오히려방법2 가더편리할것이다왜냐하면리스트항목의인덱스가그항목이나타내는항의자수와 같기때문이다구현에는어느방법을사용해도좋다구현된클래스의테스트코드와실행 결과예는다음과같다 #키보드로다항식a를입력받음 =) a=read_poly() b =) b=read_poly() c =) c=a.add(b) a #키보드로다항식b를입력받음 # c at b.멤버함수호출방법에유 의 #멤버할수호출방법에유의 = .display(\"A(x)=\") =) .display(\"B(x)=\") = .display(\"()=\") \" ) =, ) print(\"C(2)=\",c.eval(2)) #다항식c의미지수에2를대입한결과계산및출력 ロ e C#WNDOWS#system32#cmd.exe 다항식의최고자수를입력하시오: 2 x 2의계수: 5 x 1 의계수 * ^0의계수 3-3 다항식의최고자수를입력하시오: 3 x^3의계수2:2 x 2의계수 6-6 x 1의계 수 : 0 x 0 의계수 4-4 )A(x)= 0 x 2 * 5.0x2* 0 x 1 -3.0x1 B) B(x) 0 * 2.0x*3* 0 2 -6.0x*2 닭",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-3-25",
+        "num": "3.25",
+        "question": "3 + 2.0x*3+ 0 * -1.0x*2*",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "스택 (Stack)",
+    "desc": "스택 ADT (LIFO), 괄호 검사 알고리즘, 후위 표기식 변환 및 계산, 미로 탐색 (DFS)",
+    "page_range": "p.161~164",
+    "question_count": 24,
+    "questions": [
+      {
+        "id": "ds-4-1",
+        "num": "4.1",
+        "question": "5 문",
+        "options": [],
+        "answer": 1,
+        "explanation": "스택(Stack)은 가장 나중에 들어온 데이터가 가장 먼저 나가는 LIFO(Last-In First-Out, 후입선출) 구조입니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-2",
+        "num": "4.2",
+        "question": "스택에서사용되는정보의입출력방법은무엇인가? ILIFO 2 O 2FIFO 3 O 3FILO ALILO",
+        "options": [],
+        "answer": 1,
+        "explanation": "스택은 LIFO 방식으로 입출력이 진행됩니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-3",
+        "num": "4.3",
+        "question": "스택(Stack 의응용분야로거리가먼것은?",
+        "options": [
+          "수식계산및수식표기법",
+          "미로찾기",
+          "운영체제의작업스케줄링",
+          "서브루틴의복귀번지저장"
+        ],
+        "answer": 3,
+        "explanation": "운영체제의 작업 스케줄링(CPU 스케줄링)은 먼저 도착한 작업을 먼저 처리하는 큐(Queue, FIFO) 구조를 기반으로 합니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-4-4",
+        "num": "4.4",
+        "question": "다음중스택에대한설명을모두골라라 개포인터를갖고있 다 작한다 배",
+        "options": [
+          "입출력이한쪽끝으로만제한된리스트이다",
+          "함수호출시복귀주소를저장하는데사용된다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-4-5",
+        "num": "4.5",
+        "question": "순서가A B C D로정해진입력자료를스택에입력하였다가출력할때가능한출력순 서의결과가아닌것은?단스택에는입력자료의일부를저장하고꺼낼수도있다예를 들어A를저장하고바로A를꺼낼수있다.A,B를모두저장하고B를먼저꺼내고A를 꺼낼수도있다그러나자료의입력순서는반드시지켜져야한다 C @ D @A,B,C.D C BA,B,D.C ®B.C,D.A op 연산이실행되었는데이중에3번",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-6",
+        "num": "4.6",
+        "question": "번의p ush연산과10번의p",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-7",
+        "num": "4.7",
+        "question": "공백상태의스택에총 은공백상태(언더플로오류상황)였다현재스택의항목수는몇개일까",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-8",
+        "num": "4.8",
+        "question": "배열구조(파이썬 의리 로구현한스택에 서공백상태와포화상태를설명하라 스트)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-9",
+        "num": "4.9",
+        "question": "4 2절에서구현한스택에 서삽입연산 간복잡도를설명하 과삭제연산의시 라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-10",
+        "num": "4.10",
+        "question": "다음과같이스택을사용하는프로그램이하는일은무엇인가? s=) s=stack() n=6 n=4096 e > : whilen>0: %) s.push(n%2) n n =n / 2 n=n//2 e : whilenots.isEmpty(): )print(s.pop())",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-11",
+        "num": "4.11",
+        "question": "다음코드의연산결과스택에남아있 는내용을순서대로적어라 s =) values=Stack) s =) values=Stack) r i n e ) : foriinrange10): r i n e ) : foriinrange20): f = : if1%3==0: f % = : if1%3==0: )values.push(i) )values.push(i) f 4 = 0: elif1%4==0: )values.pop()",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-12",
+        "num": "4.12",
+        "question": "후위표기수식의특징이아닌것은? 으면서바로수식을계산할수있다",
+        "options": [
+          "사람들이익숙한표기방식이다",
+          "우선순위가이미수식에포함되어있다",
+          "괄호를사용하지않는다",
+          "읽"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-4-13",
+        "num": "4.13",
+        "question": "다음의후위표기수식을스택을이용해계산하려고한다('는지수함수연산자). 연산이 처리되어야하는시점의스택내용을바르게나타낸것은? 단상단원소부터순서대로나 열한것이다 2733^ 23 @@3,3,27,27 ДД3,27",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-14",
+        "num": "4.14",
+        "question": "괄호검사프로그램에서다음과같은수식이주어졌을경 우알고리즘을추적해서각단계 에서의스택의내용을그려라 b(c d) e PTER4 스택",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-15",
+        "num": "4.15",
+        "question": "5 CHA",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-16",
+        "num": "4.16",
+        "question": "다음과같은중위식( nf x) 표현을후위식 postf x 으로변환하라 *C (1)(A/B)*C A + - + (3)(X+Y)-(W*Z)/V W + +",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-17",
+        "num": "4.17",
+        "question": "위문제의중위식표현을전위식(pref x)으로변환하라 s x) 표현을중위식(infix 으로변환하라.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-18",
+        "num": "4.18",
+        "question": "5다음과같은후위식( Po + (1)ABC-D*+ ) + A / + ) Y Z +B - - +C",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-19",
+        "num": "4.19",
+        "question": "다음은어떤수식의후위표기이다물음에답하라 A B E (1) 첫번째수행되는연산은무엇인가? (2) 두번째로수행되는연산은무엇인가? (3) 세번째로수행되는연산은무엇인가?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-20",
+        "num": "4.20",
+        "question": "* 회문(p a ndrom 구•문등을의미한다예를들면 eye \" e)이란앞뒤어 느쪽에서읽어도같은말• e ca 등이다. 여기서물 madam, m Adam' \"rac 론구두점이나스페이스대소 문 자등은무시하여야한다스택을이용하여주어진문자열이회문인지아닌지를결정하는 프로그램을스택을이용해작성하라 (힌트입력문자열의모든문자를스택에삽입한다 음스택에서문자들을다시꺼내면 서입력문자열의문자와하나씩맞추어보는방법이가능하다만약한문자라 도맞지않 으면회문이아니다이때주의할점은만약문자가스페이스거나구 두점이면스택에삽입하지말아야한다는것이다 그리고대소문자를처리하기 위하여문자들을비교하기전에모든문자를대문자나소문자로변경하는것이 편리할것이다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-21",
+        "num": "4.21",
+        "question": "8* 4 3절의괄호검사프로그램을다음과같이확장하라 (1)소스파일을읽어괄호를검사하는프로그램을완성하라임의의파이썬소스코드 (.py 를입력하면괄호검사가되도록하라 (2) 괄호매칭이실패하면조건1~3 중에서어떤조건을위반했는지를출력할수있도 k Bracke s0함수가에러코드를반환하도록하면 될것이다. 에러가없으면0을반환하도록하라 록소스코드를수정하라chec (3) 괄호매칭이실패하면실패한위치를에러코드와함께반환할수있도록수정하라 실패한위치는라인수문자수로나타낼수있을것이다따라서에러가발생하면 (에러코드라인수문자수)를반환하면될것이다 k Brackets",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-22",
+        "num": "4.22",
+        "question": "* 4 3절의코 드4 4가포함된소 스파 일( Ch04) py)에대해괄 Chec 호검사를해 보 라. 정상적인코드로보이지만괄호검사가실패할것이다. 원인이무엇일까? 문자열을나 타내는따옴표'또 는 )를처리하지않았기때문이다,예를들어,4행이나7행에서따옴 표내의괄호는문법에따른것이아니라단순한문자이므로괄호검사에서제외되어야 하는데, 코드에서는이런처리를하지않았다. 이러한파일에서도괄호닫기검사가성공 할수있도록함수를수정하라. 이를위해다음을구현해야한다 (1)문자열내의괄호들은모두무시하여야한 다 (2 주석문내의괄호들도모두무시하여야한 다 % 4 4절의코드를수정하여사용자로부터직접중위표기수식을입력받아이를처리하여 .",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-23",
+        "num": "4.23",
+        "question": "4 결과를출력하는프로그램을작성하라. 단입력처리의간소화를위해수식의연산자 와피연산자는모두공백으로분리하여입력한다고가정하자입력과실행예는다음과 같 다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-4-24",
+        "num": "4.24",
+        "question": "28571 628",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "큐와 덱 (Queue & Deque)",
+    "desc": "선형 큐와 원형 큐 (FIFO), 원형 덱 ADT, 우선순위 큐, 너비 우선 탐색 (BFS)",
+    "page_range": "p.197~200",
+    "question_count": 32,
+    "questions": [
+      {
+        "id": "ds-5-1",
+        "num": "5.1",
+        "question": "다음중큐에대한설명이아닌것은 배 열구조와연 결된구 조로구현이가능하다.",
+        "options": [
+          "입력과출력이각각후단과전단으로제한된다",
+          "함수호출시복귀주소를저장하기위해사용된다",
+          "F FO(F st- nF rst"
+        ],
+        "answer": 2,
+        "explanation": "함수 호출 시 복귀 주소를 저장하는 것은 활성화 레코드(Call Stack)이므로 스택의 역할입니다. 큐는 FIFO 구조입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-5-2",
+        "num": "5.2",
+        "question": "다음중자료구조에서큐(Queue 를활용하는분야로거리가먼것은? 다몇개의스택이필요할까?리스트와같은다른자료",
+        "options": [
+          "이진트리의레벨순회",
+          "그래프의탐색에서너비우선탐색",
+          "기수정렬",
+          "집합의구현"
+        ],
+        "answer": 4,
+        "explanation": "집합(Set)의 구현은 해시 테이블이나 배열/트리를 주로 활용하며, 순서 큐와는 거리가 멂니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-5-3",
+        "num": "5.3",
+        "question": "스택을이용해서큐를구현할수있 구조는없다고가정하라",
+        "options": [],
+        "answer": 2,
+        "explanation": "스택 2개를 이용하면 큐(FIFO)를 완벽하게 구현할 수 있습니다. (하나의 스택에 push하고 다른 스택에서 pop하여 순서를 뒤집음).",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-4",
+        "num": "5.4",
+        "question": "2 2 ④",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-5",
+        "num": "5.5",
+        "question": "원형큐의ront 와 ea 의값이각 일때이원형큐가가지고있는데이터의개수 는 각7과2 의초기값은0이다!) 와 ear c ty는 2이고 ont ? 단배열의크기capa",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-6",
+        "num": "5.6",
+        "question": "다음중원형큐에서공백상태를검사할때사용하는조건은 ? 단,Capac ty는원형큐를 위한배열의크기이다.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-7",
+        "num": "5.7",
+        "question": "d r = 0 r 2front==(capacity-1)andrear==(capacity-1)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-8",
+        "num": "5.8",
+        "question": "t = r 3front==rear t = ) % *front==(rear+1)%capacity",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-9",
+        "num": "5.9",
+        "question": "위문제에서원형큐의포화상태를검사할때사용하는조건은",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-10",
+        "num": "5.10",
+        "question": "그림과같은원형큐에서다음의연산을차례로수행한다고하자각단계가수행될때큐 의상태를그려라현재ron 는0이고ea 는2라고하자 )(0) )(1) ) ] (2)(3] ][4]",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-11",
+        "num": "5.11",
+        "question": ")A 추가 ( (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-12",
+        "num": "5.12",
+        "question": ")D추가 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-13",
+        "num": "5.13",
+        "question": ") 삭제 (3)삭제",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-14",
+        "num": "5.14",
+        "question": ") 추가",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-15",
+        "num": "5.15",
+        "question": "크기가5인공백상태의원형큐에다음연산들이순서대로실행되었다각단계에서의원 형큐의내용(배열의내용과 ront ont와Tea 는 모두0이라고가정하라 와 ea 의값)을나타내라단맨처음에r enqueue(1),enqueue(2),enqueue(3),dequeue,enqueue(4)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-16",
+        "num": "5.16",
+        "question": "원형큐에항목들을삽입하고삭제하는연산은시간복잡도가어떻게되는가?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-17",
+        "num": "5.17",
+        "question": "(1) O(log,n) )O(n) O(n2)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-18",
+        "num": "5.18",
+        "question": "다음코드의연산결과큐에남아있는내용을순서대로적어라 s =) values=Queue() s =) values=Queue() r i n ( ) : foriinrange(20): r : foriinrange(20): f 3 = 0 : if1%3==0: f = : if1%3=0: ( i ) values.enqueue(i) f 4 = 0: elif1%4==0: e ) values.enquee1) )values.dequeue()",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-19",
+        "num": "5.19",
+        "question": "덱에대하여올바른설명을모두골라라 입된순 서와상관없이우선순위가높 은항 목이먼저출력된다.",
+        "options": [
+          "양쪽끝에서추가와삭제가가능하다",
+          "배열로구현될수없다",
+          "선형자료구조이다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-5-20",
+        "num": "5.20",
+        "question": "다음은원형덱의연산들이다 ronty ear가증가되어인덱스를시계방향으로회전시켜야 하는연산들을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-21",
+        "num": "5.21",
+        "question": "addFront(x) •deleteRear0 @deleteFront)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-22",
+        "num": "5.22",
+        "question": "DisEmpty0 5getFrontO 2isFull0 )addRear(x)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-23",
+        "num": "5.23",
+        "question": "getRear0",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-24",
+        "num": "5.24",
+        "question": "위문제에서인덱스가감소되어반대방향(반시계방향으로회전시켜야하는연산들을모 두골라라 5 14원형덱에서ront를시계방향과반시계방향으로회전시킬수있는방법을유사코 드(또는 파이썬코 드로적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-25",
+        "num": "5.25",
+        "question": "덱D에숫자 1 2 3 4 5 6 7 8 가순서대로저장되어있다공백상태의큐인Q가있을때덱 의내용을 8 7 6 54 3 2 1) 으로바꾸는코드를작 성하라. 단D와0이외의다른변수 는 사용할수없다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-26",
+        "num": "5.26",
+        "question": "위의문제에서이번에는큐가아니라스택S를사용하여동일한결과가나타나도록코드를 수정하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-27",
+        "num": "5.27",
+        "question": "우선순위큐에대한설명으로거리가먼것은?",
+        "options": [
+          "우선순위의개념을큐에도입한자료구조",
+          "선형자료구조",
+          "입력순서와상관없이우선순위가높은데이터가먼저출력",
+          "가장일반적인큐"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-5-28",
+        "num": "5.28",
+        "question": "우선순위큐를선형자료구조로볼수없는이유를설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-29",
+        "num": "5.29",
+        "question": "*스택이나큐를직접구현할필요없이파이썬의큐모듈을이용해미로탐색프로 그램을 구현할수있다5 3절의코드를수정하여파이썬의큐모듈을이용한깊이우선탐색과너 비우선탐색함수를구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-30",
+        "num": "5.30",
+        "question": "*2개의스택을사용하여큐를구현할수있 을까?가능하다입력이들어오면스택#l에넣 는다. 출력요청이들어보면스택#2에서요소를꺼낸다스택#2가비어있을때는스택 # 의모든요소를꺼내서스택#2에넣는다프로그램으로작성해보자 5 21*피보나치수열을효과적으로계 산하기위하여큐를이용할수있 다만일피보나치수열 을순환에의하여계산하게되면경우에따라서는많은순환함수의호출에의해비효율 O 와F(1)의값 이들어가있다.다음으로큐에 적일수있다이를개선하기위하여큐를사용하는데큐에는처음에는F( (1 은참조(peek)하여F(2 를계산하고, 이것을다 O 는꺼내고F 서 시큐에넣는다피보나치수열은다음과같이정의되는데큐를이용하여피보 나치수열을계산하는프로그램을작성하라 F(0)=0,F(1)=1 (n) F(n 1 F( 2",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-31",
+        "num": "5.31",
+        "question": "*회문 pal ndrome)이란앞뒤어느쪽에서읽어도같은말•구 문등을의미한다예를들 면 eye\"\"madam,\"radar\" 등이다여기서물론구두점이나스페이스대소문자등은무 시하여야한다. 덱을이용하여주어진문자열이회문인지아닌지를결정하는프로그램을 작성하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-5-32",
+        "num": "5.32",
+        "question": "* 5.6절을참고하여정렬된배열을이용한우선순위큐를구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "연결된 구조 (Linked Structure)",
+    "desc": "단순 연결 리스트, 원형 연결 리스트, 이중 연결 리스트, 연결된 스택/큐",
+    "page_range": "p.230~234",
+    "question_count": 29,
+    "questions": [
+      {
+        "id": "ds-6-1",
+        "num": "6.1",
+        "question": "다음중연결된구조의리스트에대한설명이아닌것은? 지않다",
+        "options": [
+          "항목들이메모리에연속적으로저장되어있지않다",
+          "링크를사용해다음항목을찾는다",
+          "시작항목을알면K번째항목의위치를바로계산할수있다",
+          "용량이고정되어있"
+        ],
+        "answer": 1,
+        "explanation": "연결된 구조(Linked List)는 노드들이 메모리에 연속적으로 저장되지 않고 포인터(링크)를 통해 물리적으로 흩어져 저장됩니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-6-2",
+        "num": "6.2",
+        "question": "다음중원형연결리스트의특징으로가장적절한것은?",
+        "options": [
+          "마지막노드의링크가첫노드를가리킨다",
+          "반드시두개의링크를가진노드를사용해야한다"
+        ],
+        "answer": 3,
+        "explanation": "원형 연결 리스트(Circular Linked List)는 마지막 노드의 링크 필드가 다시 첫 번째 노드를 가리키는 구조입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-6-3",
+        "num": "6.3",
+        "question": "찾아갈수있 다 e) 링크가존재한다",
+        "options": [
+          "선행노드를바로(O(",
+          "NULL"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-6-4",
+        "num": "6.4",
+        "question": "개의자료로구성된리스트를단 순연결구조로표현하려고한다.다음중시간복잡도가 가장낮은연산은?",
+        "options": [
+          "리스트의길이출력",
+          "어떤노드의다음노드를리스트에서삭제",
+          "어떤노드의바로앞에새로운노드를추가",
+          "마지막노드의데이터를출력"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-6-5",
+        "num": "6.5",
+        "question": "연결된구조로구현한리스트에대한설명으로가장거리가먼것은?",
+        "options": [
+          "노드의삽입과삭제가쉽다",
+          "노드들을링크로연결되어있어탐색이빠르다",
+          "링크를위한추가공간이필요하다",
+          "연결중간에링크가끊어지면그다음노드를찾기어렵다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-6-6",
+        "num": "6.6",
+        "question": "다음은연결된스택을표현한것이다이에대한설명으로옳지않 은것은? • e •None A) 연산수행전스택 a)push( ( A 연산수행후스택 (b)push( 이다",
+        "options": [
+          "스택에가장최근에입력된자료는",
+          "스택에입력된자료중"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-6-7",
+        "num": "6.7",
+        "question": "다음과같은연결리스트에아래와같은코드를실행한다고하자실행이끝난후에포인 터p가가리키는노드는어떤노드인가? a k datalink • e •None tlist tp=list e k = : whilep.link!=None: ••• p =k p=p.link",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-8",
+        "num": "6.8",
+        "question": "연결리스트 nked st)의 p eNode\"노드와그다음노드사이에새로운newNode\"노드 를삽입하려고한다.빈칸에들어갈문장으로옳 은것은? e preNode adata kLink e newNode .•.. = newNode=Node(N,None) k =e preNode.link=newNode",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-9",
+        "num": "6.9",
+        "question": "k = e 1newNode.link=preNode k = 2)newNode.link=preNode.link 33newNode.link.link=preNode 4 e = 4newNode=preNode.link •덱은삽입과삭제가양끝에서임의로수행되는자료구조이다다음그림과같이단순연결 리스트로덱을구현한다고할때O(1) 시간내에수행할수없는연산은 s 는 각각덱의첫번째원소와마지막원소를가리킨다 ? 단f r 와 a st tfirst tlast t. 연산: 덱의첫번째원소로삽입 addri zs dd as 연산데의마지막원소로삽입 d",
+        "options": [
+          "de e\neLas 연산덕의마지막원소를삭제"
+        ],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-10",
+        "num": "6.10",
+        "question": "다음은연 결리스트를역순으로변환하는함수이다빈칸에들어가야하는코드를적으시 오. 아래그림을참고하라 eNone eg en 을 en en-1, 로변 환 f ) : defreverse(head): #p는역순으로만들리스트 p =d p=head # 아는역순으로만들노드 q=e q=None e p = L : whilep!=NULL: 은역순으로된리스트. 를차례로따라간다. 은9,q 는p r = 9 q =p P = P=p.link #q의링크방향을바꾼다. # 9는역순으로된리스트의헤드포인터 n q returnq",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-11",
+        "num": "6.11",
+        "question": "연결리스트에서어떤노드를삭제하려고한다만 약삭제할노드를알고있다면삭제연 산의시간복잡도는어떻게되는가?리스트를단순연결구조로구현한경우와이중연결 구조로구현한경우에대해각각시간복잡도와이유를설명하라 ead가아니라 a 을",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-12",
+        "num": "6.12",
+        "question": "연 결된큐를원형연결구조로구현할때큐클래스의데이터멤버로h 사용하는이유를설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-13",
+        "num": "6.13",
+        "question": "연결리스트클래스 nkedL st(코드6 5)에모든요소를순서대로화면에출력하는 pr ntFo wa d0연산을추가하라 5)에모든요소를역순으로화면에출력하는",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-14",
+        "num": "6.14",
+        "question": "3*연결리스트클래스L nkedL st 코드6 pr ntReverse0연산을추가하라단순환을이용해야한 다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-15",
+        "num": "6.15",
+        "question": "연결리스트클래스L nkedL 5)에리스트의맨끝에새로운요소를추가하는 append0연산을추가하라 st(코드6",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-16",
+        "num": "6.16",
+        "question": "* 연결리스트클래스L nkedL st(코드6",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-17",
+        "num": "6.17",
+        "question": ") 에mergeO 연산을구현하라연결리스트A와 B가있을때,A mer 를추가하는연산이다연산결과 B)는연결리스트A의맨뒤에B ge( A의길이는늘어나고B의길이는0이되도록하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-18",
+        "num": "6.18",
+        "question": "* 회문 pal ndrome)이란앞뒤어느쪽에서읽어도같은말•구문등을의미한다예를들 면eye \"madam, \"radar등이다.여기서물론구두점이나스페이스대소문자등 은무 시하여야한 다이번장에서학습한연결된스택을이용하여주어진문자열이회문인지 아닌지를결정하는프로그램을작성하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-19",
+        "num": "6.19",
+        "question": "다음그림과같이단순연결리스트를이용한연결된큐클래스를구현하라데이터멤버 로는전단을가리키는ront와후단을가리키는 ea 를사용한다삽입은후단을통해 삭제는전단을통해이루어지도록하라 tfront 삭제 rnear",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-20",
+        "num": "6.20",
+        "question": "를이중연결구조로다시구현하라노드는 6.5절의DNode클래스를사용하면된다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-21",
+        "num": "6.21",
+        "question": "연결리스트클래스LinkedList(코드6",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-22",
+        "num": "6.22",
+        "question": "** * 0z10 +6과같 은다항식을생각해보 자차수가1",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-23",
+        "num": "6.23",
+        "question": "으로매우큰데비해계수가0이 개뿐이다이와같이대부분항의계수가0인다항식을희소다항식 (S 아닌항은2 로희소다항식을표현하면어떻게될까?메모리의낭비가심할것이다예를들어 0210+6에서는1 01개의항 의계수를저장하기위한공간중에서실제로2개만사 용 되고나머지는모두0으로채워진다. 낭비를줄이기위해다른방법을사용할수있 다 든계수를저장하는것이아니라계수가0이아닌항의정보만을계수지 수)의형식으로저장하는것이다. 예를들어1 다항식의모",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-24",
+        "num": "6.24",
+        "question": "z10 +6 은 1",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-25",
+        "num": "6.25",
+        "question": ",1 00),",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-26",
+        "num": "6.26",
+        "question": ",0)으로표시하 고 0z5+ +3",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-27",
+        "num": "6.27",
+        "question": ", 5 ),",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-28",
+        "num": "6.28",
+        "question": ",0 으로나타내는것이다희 소다항식처리를",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-6-29",
+        "num": "6.29",
+        "question": ",1 ), 은1 위한Spa sepo y 클래스를구현하라. 단, 다항식을표현하기위해6 3절에서구현한연 결리스트클래 스L nkedList를상속하여사용하라유효한하나의항을표현하기위해 다음과같은클래스를이용하라 #다항식의항을나타내는클래스 s m : classTerm: definit__(self,expo,coef): #항의지수 o =o self.expo=expo =f self.coef=coef # 항의계수",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "정렬과 탐색 (Sorting & Search)",
+    "desc": "기본 정렬 (선택, 삽입, 버블), 순차 탐색과 이진 탐색, 해싱과 충돌 해결",
+    "page_range": "p.278~281",
+    "question_count": 28,
+    "questions": [
+      {
+        "id": "ds-7-1",
+        "num": "7.1",
+        "question": "다음중최선의입력과최악의입력에대한삽입정렬의시간복잡도는? (1)최",
+        "options": [
+          "최선O(p ogn), 최악0(22",
+          "최선:0( ),최악0(2",
+          "최선0(2) 최악0("
+        ],
+        "answer": 2,
+        "explanation": "선택 정렬(Selection Sort)은 최선, 평균, 최악 모두 항상 O(n^2)의 비교 횟수를 갖습니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-7-2",
+        "num": "7.2",
+        "question": "다음중정렬되지않은배열로집합을구현하는경우에비해정렬된배열을이용할경우 더효율적인알고리즘이가능한집합의연산이아닌것은? ①삽입연산 ②집합의비교 ③합집합 ④차집합",
+        "options": [],
+        "answer": 1,
+        "explanation": "삽입 정렬(Insertion Sort)은 이미 정렬되어 있는 최선의 경우 O(n)에 끝나며, 역순인 최악의 경우 O(n^2)가 걸립니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-3",
+        "num": "7.3",
+        "question": "다음중순차탐색에대한설명으로옳은것은? 은테이블에서도동작한다",
+        "options": [
+          "정렬되지않",
+          "최선과최악의입력에대해시간복잡도차이가없다",
+          "리스트를균등하게분할하여탐색한다",
+          "탐색값과위치가비례한다고가정한다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-7-4",
+        "num": "7.4",
+        "question": "다음중이 진탐색의응용분야로적절하지않은경우는?",
+        "options": [
+          "효율적인탐색이필요할때",
+          "테이블이정렬되어있을때",
+          "데이터의입력과삭제가빈번할때",
+          "탐색이매우빈번하게발생할때"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-7-5",
+        "num": "7.5",
+        "question": "다음중보간탐색에대한설명으로적절하지않은것은? ①이진탐색의개선된알고리즘이다 스트를균등하게분할하여탐색한다",
+        "options": [
+          "탐색키가존재할위치를예측하여탐색한다",
+          "리",
+          "탐색값과위치가비례한다고가정한다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-7-6",
+        "num": "7.6",
+        "question": "다음중좋은해시함수의조건이아닌것은? ①코드가간단해야한 다",
+        "options": [
+          "충돌이적어야한다",
+          "주소가테이블에고르게분포되어야한다",
+          "계산이빨라야한다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-7-7",
+        "num": "7.7",
+        "question": "다음은해싱에서의오버플로처리방법들이다나머지와다른하나는?",
+        "options": [
+          "체이닝",
+          "선형조사법",
+          "이차조사법",
+          "이중해"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-7-8",
+        "num": "7.8",
+        "question": "다음은항목을오름차순으로정렬하는삽입정렬함수이다빈칸을채워라 ) definsertion_sort(A): = ) n=lenA) r i n ) : foriinrange(1): y =l key=A[il ゴニ ュ〡1 e 0 d whilej>=0and j = 1 j-=1 +] =y A[j+1]=key",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-9",
+        "num": "7.9",
+        "question": "다음의정렬기법을이용하여정수배열을오름차순으로정렬하라각단계에서의배열의 내용을나타내어라 (1) 선택정렬 (2 삽입정렬 (3) 버블정렬",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-10",
+        "num": "7.10",
+        "question": "삽입정렬이안정성을만족하는이유를설명해보라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-11",
+        "num": "7.11",
+        "question": "삽입정렬을위한최선의입력과최악의입력을시간복잡도를이용해설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-12",
+        "num": "7.12",
+        "question": "13 키값28을가지고아래의리스트를탐색할때다음의탐색방법에따른탐색과정을그리 고탐색시에필요한비교연산횟수를구하여라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-13",
+        "num": "7.13",
+        "question": "1 2 3 4 5 6 7 8 9 0 11 212 313 414 15 | 2 | s | 6 | 0 0 | 8 | 8 | 8 | 1 | 8 | 5 | 8 | [•|1|12|1s|16|10|20|28|28|28|20|31|38|35|28|401 (1 순차탐색 2 이진탐색 3 보간탐색",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-14",
+        "num": "7.14",
+        "question": "크기가11인해 시테 이블을가정하자.해 시함 수로는다음을사용한다 = h(k)=kmod11 입력자료가다음과같은순서로입력된다고하면아래의각경우에대하여해시테이블의 내용을그려라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-15",
+        "num": "7.15",
+        "question": "12,44,13,88,23,94,11,39,20,16,5 (1 충돌을선형조사법을사용하여처리한다 (2) 층돌을이차조사법을사용하여처리한다 (3)충돌을다음과같은이증해시법을사용하여처리한다 - K'(k)=7-(jmod7) 4) 충돌을체인법을사용하여처리한다 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-16",
+        "num": "7.16",
+        "question": "선 형조사법에서삭제연산에서발생할수있는문제와해 결방법을설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-17",
+        "num": "7.17",
+        "question": "선형조사법에서탐색이종료(성공또는실패되는모든상황을설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-18",
+        "num": "7.18",
+        "question": "7* * 6 3절의연결된리스트클래스L nkedList에정렬연 산Sor 를추가하라정렬알고리즘 으로는7.2절의버블정렬을이용하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-19",
+        "num": "7.19",
+        "question": "7 .",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-20",
+        "num": "7.20",
+        "question": "정렬된리스트로집합을구현하는경우원소의포함여부를검사하는c onta ns0 연산을 보다효율적으로처리할수있다. 코",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-21",
+        "num": "7.21",
+        "question": "의Array Set의원소들이7.3절과같이오름차순 으로정렬되어있다고가정하고개선된c 드3. onta ns0 연산을구현해보라이진탐색을사 용할수있을것이다 리",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-22",
+        "num": "7.22",
+        "question": "트리란?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-23",
+        "num": "7.23",
+        "question": "2이진트리",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-24",
+        "num": "7.24",
+        "question": "3이진트리의연산",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-25",
+        "num": "7.25",
+        "question": "이진트리응용모스코드결정트리",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-26",
+        "num": "7.26",
+        "question": "5힙트리",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-27",
+        "num": "7.27",
+        "question": "힙의응용:허프만코드",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-7-28",
+        "num": "7.28",
+        "question": "8. 학습목표 트리의개념과용어들을이해한다 • 이진트리의표현방법을이해한다. 이진트리의다양한순회방법과연산들을이해한다 힙의동작원리와효율성을이해한다 •배열구조를이용한힘의구현방법을이해한다 이진트리와힘을문제해결에활용할수있다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "트리 (Tree)",
+    "desc": "트리 용어, 이진 트리 순회 (전위, 중위, 후위, 레벨), 최대/최소 힙 (Heap)",
+    "page_range": "p.324~327",
+    "question_count": 29,
+    "questions": [
+      {
+        "id": "ds-8-1",
+        "num": "8.1",
+        "question": "다음트리에대한각물음에답하라 (1 루트노드",
+        "options": [],
+        "answer": 2,
+        "explanation": "이진 트리에서 높이가 h일 때 최대 노드 수는 2^h - 1 개입니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-2",
+        "num": "8.2",
+        "question": ")단말노드 3) 의부모노드: ( (",
+        "options": [],
+        "answer": 3,
+        "explanation": "이진 트리 순회 중 중위 순회(Inorder)는 왼쪽 서브트리 -> 루트 -> 오른쪽 서브트리 순서로 방문합니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-3",
+        "num": "8.3",
+        "question": ")D의형제노드 (5)B의자식노드",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-4",
+        "num": "8.4",
+        "question": ") 의자손노드 ( ( 7)K 의조상노드: (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-5",
+        "num": "8.5",
+        "question": ") 의레벨",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-6",
+        "num": "8.6",
+        "question": ") 의차수: (10 트리의높이: (11) 트리의차수 (12)이트리는이진트리인가?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-7",
+        "num": "8.7",
+        "question": "다음과같은구조의노드를이용해위문제의일반트리를표현해보라화살표가없는링 크는None을가리킨다고가정한다 adata오 > 다음형제노 드 첫번째자식노드",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-8",
+        "num": "8.8",
+        "question": "다음중트리에대해설명으로옳 지않은것 은? 다 다",
+        "options": [
+          "계층적인구조를갖고있",
+          "모든노드는루트노드에서출발한다",
+          "선형적인자료를나타내기에적합하다",
+          "트리를합하면포리스트가된"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-8-9",
+        "num": "8.9",
+        "question": "다음중이진트리에대한설명으로적절하지않 은것",
+        "options": [
+          "모든노드의차수가2 이하이다",
+          "왼쪽자식과오른쪽자식은정확히구분되어야한다",
+          "일반적인이진트리는배열구조로표현할수없다",
+          "링크를이용해노드들을연결할수있다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-8-10",
+        "num": "8.10",
+        "question": "다음트리를배열표현법과링크표현법으로각각나타내라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-11",
+        "num": "8.11",
+        "question": "다음트리에대한중위순회결과는? A3DBECFA EADBAECE",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-12",
+        "num": "8.12",
+        "question": "문제8 5의트리를전위순회로운행할경우다섯번째로탐색되는노드은? I C 3 E",
+        "options": [
+          "D"
+        ],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-13",
+        "num": "8.13",
+        "question": "같은수의노드가저장되는경우가 장높이가작아지는트리는?",
+        "options": [
+          "경사트리",
+          "이진트리",
+          "이진탐색트리",
+          "완전이진트리"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-8-14",
+        "num": "8.14",
+        "question": "다음의이진트리에대하여다음질문에답하라 (1) 이트리를1차원배열로표현하라 (2)이트리를전위순회한결과를써라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-15",
+        "num": "8.15",
+        "question": ") 이트리를후위순회한결과를써라 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-16",
+        "num": "8.16",
+        "question": "이트리를중의순회한결과를써라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-17",
+        "num": "8.17",
+        "question": ") 이트리를레벨순회한결과를써 라 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-18",
+        "num": "8.18",
+        "question": "다음과같은함수가아래에표시된이진트리의루트노드에대해호출된다고하자함수가반 환하는값은무엇인가? 단,max( a b)는a와b 중에더큰값을반환하는함수라고가정한다 f ) : defmystery(p): f = e : ifp==None: n 0 return0 t = L d t = L elifp.left==NULLandp.right==NULL: n a returnp.data e : else: returnmax(mystery(p.left),mystery(p.right))",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-19",
+        "num": "8.19",
+        "question": "다음중힘을이용한정렬이특히유용하게사용될수있는경우는? ①데이터100개중에서가장큰5개만뽑고자할때 ②비교적데이터의개수가적을때 ③정렬의대상이되는레코드의크기가클때 ④데이터가역순으로정렬되어있을때",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-20",
+        "num": "8.20",
+        "question": "최소힙에서가장작은데이터가있는노드는 마지막노드 중간노드",
+        "options": [
+          "첫번째노드",
+          "알수없다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-8-21",
+        "num": "8.21",
+        "question": "최소힘을구현한배열의내용이다음과같을때해당하는힙트리를그려라단,인덱스 은사용하지않았다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-22",
+        "num": "8.22",
+        "question": "5 6 7 8 lalil",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-23",
+        "num": "8.23",
+        "question": "위문제에서삭제연산을한번수행한후의배열의내용을적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-24",
+        "num": "8.24",
+        "question": "문제8 13의힘에서데이터 을삽입한후의배열의내용을적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-25",
+        "num": "8.25",
+        "question": "다음의최소힙트리에서답하라 (1) 2를삽입하였을경우, 힙트리를재구성하는 과 정을보여라 (2) 삭제연산이한번이루어진다음에힘을재",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-26",
+        "num": "8.26",
+        "question": "6 구 성하는과정을보여라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-27",
+        "num": "8.27",
+        "question": "515 020",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-28",
+        "num": "8.28",
+        "question": "다음과같은숫자가순서대로주어졌을때다음물음에답하시오 10,40,30,5,12,6,15,9,60",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-8-29",
+        "num": "8.29",
+        "question": ")위의숫자들을순차적으로읽어서최대힙 . 트리를구 성하라.공백트리에서부터 최 대힙트리가만들어지는과정을보여라 (2 구성된최대힙트리가저장된배열의내용을표시하라 (3 구성된최대힙트리에서최댓값을제거한다음재정비하는과정을설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "탐색 트리 (Binary Search Tree)",
+    "desc": "이진 탐색 트리 탐색/삽입/삭제, 균형 이진 탐색 트리 (AVL 트리)",
+    "page_range": "p.364~367",
+    "question_count": 44,
+    "questions": [
+      {
+        "id": "ds-9-1",
+        "num": "9.1",
+        "question": "이진탐색트리의삽입연산에대한설명으로옳지않은것은? ①루트에서부터탐색연산을먼저진행해야한다",
+        "options": [
+          "순환구조와반복구조로모두구현할수있다",
+          "탐색이성공하면중복된노드가있는것이므로삽입하지않는다",
+          "다음탐색위치가공백(None)이면삽입연산은실패한것이다"
+        ],
+        "answer": 3,
+        "explanation": "이진 탐색 트리(BST)의 삽입 연산은 루트에서 시작해 키 값을 비교하며 단말 노드의 빈 자리에 항상 삽입되므로 O(h) 시간이 소요됩니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-9-2",
+        "num": "9.2",
+        "question": "이진탐색트리의탐색연산에대한설명으로옳지않은것은?",
+        "options": [
+          "루트노드부터탐색을시작한다",
+          "킷값이노드의값보다작으면왼쪽서브트리로탐색을진행한다",
+          "서브트리가공백노드이면탐색은실패한것이다",
+          "반복구조로는구현할수없다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-9-3",
+        "num": "9.3",
+        "question": "이진탐색트리의삭제연산은세가지경우로나누어처리된다다음중이에포함되지않는 경우는?\"",
+        "options": [
+          "삭제하려는노드가루트노드일경우",
+          "삭제하려는노드가단말노",
+          "삭제하려는노드가하나의서브트리만가지고있는경우",
+          "삭제하려는노드가두개의서브트리모두가지고있는경우"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-9-4",
+        "num": "9.4",
+        "question": "~9 7) ※다음과같은이진탐색트리가주어졌다물음에답하라(",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-5",
+        "num": "9.5",
+        "question": "1 2",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-6",
+        "num": "9.6",
+        "question": "1 1",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-7",
+        "num": "9.7",
+        "question": "이트리에7을추가하면트리는어떻게될까? 그림으로그려라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-8",
+        "num": "9.8",
+        "question": "이트리에서4를탐색할때거치는노드들을순서대로나열하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-9",
+        "num": "9.9",
+        "question": "이트리에서노드9를삭제하면트리는어떻게될까? 드 을삭제하면트리는어떻게될까?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-10",
+        "num": "9.10",
+        "question": "이트리에서노 음과같은순서로노드들이추가된다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-11",
+        "num": "9.11",
+        "question": "공백상태인이진탐색트리에다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-12",
+        "num": "9.12",
+        "question": "8, 9,4 0 5 7 43,49,31 생성되는이진탐색트리를그려라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-13",
+        "num": "9.13",
+        "question": "위문제에서생성되는이진탐색트리를다음의방법으로순회하였을때방문하는노드를 순서대로적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-14",
+        "num": "9.14",
+        "question": "전위순회 ( (",
+        "options": [
+          "중위순회"
+        ],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-15",
+        "num": "9.15",
+        "question": ")후위순회 (4 레벨순회",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-16",
+        "num": "9.16",
+        "question": "이진탐색트리에서어느단말노드를삭제하려고한다삭제가끝나면트리의루트노드가 변경되는상황은언제발생하나?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-17",
+        "num": "9.17",
+        "question": "이진탐색트리에서자식이하나인어느노드를삭제하려고한다삭제가끝나면루트노드 가변경되는상황은언제발생하나",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-18",
+        "num": "9.18",
+        "question": "다 음데이터를순서대로이진탐색트리에입력했을때단말노드의개수는?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-19",
+        "num": "9.19",
+        "question": ",22, 5, 3 2 4 2 0 11, 4",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-20",
+        "num": "9.20",
+        "question": "배열에정렬된값이들어있는경우에이진탐색이라는효과적인탐색기법을사용할수있 다이진탐색을이용한탐색과이진탐색트리를이용한탐색의장단점을설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-21",
+        "num": "9.21",
+        "question": "다음데이터들이어떤순서로이진탐색트리에입력되었을경우가장균형잡힌트리가되 는가?여러가지답이가능하다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-22",
+        "num": "9.22",
+        "question": "10,5,6,13,15,8,14,7,12,4",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-23",
+        "num": "9.23",
+        "question": "위문제의데이터가어떤순서로입력되었을경우에가장불균형한이진탐색트리가되 는가?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-24",
+        "num": "9.24",
+        "question": "다 음중AVL 트리에대한설명으로옳지않 은것은?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-25",
+        "num": "9.25",
+        "question": "9 1 m 을보장한다 선최악시간복잡도로O og 색연 산과삽 입연산에서균형이깨 질수있다",
+        "options": [
+          "Ade",
+          "평균최",
+          "모든노드에서왼쪽과오른쪽서브트리의높이차가",
+          "탐"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-9-26",
+        "num": "9.26",
+        "question": "17다음중탐색트리의균형화기법이아닌것 은? ①AVL트리 ③2-3트리 ③Red-Black 트리④포화이진트리",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-27",
+        "num": "9.27",
+        "question": "킷값이각각6, 7,2,8, 9 1, 5 4 3인레코드가순서대로공백AVL트리에입력된다고할 때가장먼저균형이깨지는입력은?",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-28",
+        "num": "9.28",
+        "question": "2 8",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-29",
+        "num": "9.29",
+        "question": "균형이진탐색트리에서다음연산의시간복잡도설명하라 (1) 임의의킷값의노드탐색연산 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-30",
+        "num": "9.30",
+        "question": ")노드삽입연산 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-31",
+        "num": "9.31",
+        "question": ")노드삭제연산 (4) 트리의최솟값이나최댓값을가진노드탐색연산",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-32",
+        "num": "9.32",
+        "question": ")트리의노 드수계 산",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-33",
+        "num": "9.33",
+        "question": "단말노드의수계산 ( (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-34",
+        "num": "9.34",
+        "question": "트리의높이계산",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-35",
+        "num": "9.35",
+        "question": "20* 공백상태인AVL 트리에다음과같은순서로노드들이추가된다생성되는AVL 트리를 그려라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-36",
+        "num": "9.36",
+        "question": "1,2,3,4,5,6,7,8,9",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-37",
+        "num": "9.37",
+        "question": "21*이진탐색트리에서최대키와최소키를가 진노드를탐색하는함수를순환구조를이용 하여구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-38",
+        "num": "9.38",
+        "question": "* 반복구조를이용해이 진탐색트리 의삽입연산을구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-39",
+        "num": "9.39",
+        "question": "*숫자들이들어있는이진탐색트리를중위순회하면정렬된숫자가얻어진다이를이용하 수를작성하여보라. 배열에들 어있는 여다음배열에들어있는숫자들을정렬시키는함 숫자들을이진탐색트리에추가한후에트리를중위순회하면서숫자들을출력한다단 숫자들은중복되지않는다고가정하자",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-40",
+        "num": "9.40",
+        "question": "8 2 010 323",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-41",
+        "num": "9.41",
+        "question": "2 3",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-42",
+        "num": "9.42",
+        "question": "5",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-43",
+        "num": "9.43",
+        "question": "11",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-9-44",
+        "num": "9.44",
+        "question": "24**이진탐색트리를사용하여우선순위큐를구현할수도있다이진탐색트리를이용하여우 선순위큐를구현하고삽입삭제,탐 색연산의시간복잡도를설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "그래프 (Graph)",
+    "desc": "그래프 표현 (인접 행렬, 인접 리스트), 깊이 우선 탐색 (DFS), 너비 우선 탐색 (BFS), 위상 정렬",
+    "page_range": "p.400~403",
+    "question_count": 21,
+    "questions": [
+      {
+        "id": "ds-10-1",
+        "num": "10.1",
+        "question": "0. 1다음중그래프에대해설명으로옳지않은것은? ①연결되어있는객체간의관계를표현할수있다 @ 가장일반적인자료구조형태이다",
+        "options": [
+          "계층적인구조의자료를나타내기에적합하다",
+          "그래프와관련된다양한문제를연구하는학문이그래프이론이다"
+        ],
+        "answer": 2,
+        "explanation": "정점의 수가 V일 때 인접 행렬의 공간 복잡도는 간선 수와 무관하게 항상 O(V^2)입니다.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-10-2",
+        "num": "10.2",
+        "question": "다음의그래프의부분그래프를3개그려보라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-3",
+        "num": "10.3",
+        "question": "0.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-4",
+        "num": "10.4",
+        "question": "0 3다음의무방향그래프를인접행렬과인접리스트로각각표현하라 ここ 1(V1 2V2 4V4",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-5",
+        "num": "10.5",
+        "question": "V3",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-6",
+        "num": "10.6",
+        "question": "다음의방향그래프를인접행렬과인접리스트로각각표현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-7",
+        "num": "10.7",
+        "question": "그래프의깊이우선탐색에대한설명으로옳지않은것 은 다 다 그래프의임의의노드에서깊이우선탐색을시작할수있다",
+        "options": [
+          "그래프의연결요소를구하기위해사용할수있",
+          "신장트리를구하기위해사용할수있",
+          "최소신장트리를구하는크루스칼알고리즘에서사용한다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-10-8",
+        "num": "10.8",
+        "question": "다음그래프를정점S에서출발하여깊이우선탐색을하는경우의방문순서를표시하라 B",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-9",
+        "num": "10.9",
+        "question": "위문제의그래프를정점S에서출발하여너비우선탐색을하는경우의방문순서를표시 하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-10",
+        "num": "10.10",
+        "question": "다음은어떤그래프를인접리스트로표현한것이다이그래프를정점A에서부터깊이우 은것은? 단링크가 인것은None을의미한다 선탐색할때정점이방문되는순서로옳 정점C 정점D 정점E 정점 정점G IA-B→C→D→F→G→E 2A—D→C→B-F→E-G",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-11",
+        "num": "10.11",
+        "question": "다음의그래프가인접행렬로표현되어있다고가정하고, 정점3에서출발하여깊이우선탐 색을한경우의방문순서를적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-12",
+        "num": "10.12",
+        "question": "위문제에서정점3에서출발하여너비우선탐색을한경우의방문순서를적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-13",
+        "num": "10.13",
+        "question": "1",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-14",
+        "num": "10.14",
+        "question": "다음의그래프에 서가능한신장트리를두개구해보라각신 장트리의간선의가중치 를 모두더해보라 F 저 다음의그래프에대하여위상정렬을수행해보라. m",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-15",
+        "num": "10.15",
+        "question": "11 010 *10,13* 인접리스트로표현된그래프에대한깊이우선탐색함수를구현하라알고리즘은코드 10 1을참고하고인접리스트로는파이썬리스트큐로는파이썬의q ueue모듈의Queue 클래스를사용하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-16",
+        "num": "10.16",
+        "question": "14 인접행렬로표현된그래프에대한너비 우선탐색으로구 현된코드1 우선탐색함수를구현하라. 너비",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-17",
+        "num": "10.17",
+        "question": "을참고하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-18",
+        "num": "10.18",
+        "question": "의연결성분검사에서는너비우선탐색이사용되었다. 깊이우선탐색을이용하 여연결성분검사알고리즘을다시구성하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-19",
+        "num": "10.19",
+        "question": "15 코드1",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-20",
+        "num": "10.20",
+        "question": "코드 0 10을참고하여너비우선탐색을이용해신장트리를구하는함수를구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-10-21",
+        "num": "10.21",
+        "question": "177 연결된그래프의간선들중에서그간선을제거하면연결이끊어지는간선 4,0 을브 라 지(br dge 라고한다주어진그래프에서브리지를찾아모두출력하는함수를작성하라 와 C F)를찾아야한다 예를들어다음의그래프에서는두개의브리지 B C) m",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "가중치 그래프 & 최소신장트리",
+    "desc": "최소 비용 신장 트리 (Kruskal, Prim), 최단 경로 (Dijkstra, Floyd)",
+    "page_range": "p.441~444",
+    "question_count": 24,
+    "questions": [
+      {
+        "id": "ds-11-1",
+        "num": "11.1",
+        "question": "다음의가중치그래프를인접행렬과인접리스트로각각표현하라",
+        "options": [],
+        "answer": "정답 및 상세 풀이 확인",
+        "explanation": "Kruskal 알고리즘은 간선의 가중치 오름차순으로 정렬한 뒤 사이클을 형성하지 않는 간선들을 순서대로 V-1개 선택합니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-2",
+        "num": "11.2",
+        "question": "50 010",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-3",
+        "num": "11.3",
+        "question": "515 020 ,35, E 515",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-4",
+        "num": "11.4",
+        "question": "다음의방향그래프를인접행렬과인접리스트로각각표현하라 545",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-5",
+        "num": "11.5",
+        "question": "50 010 A B | 0 10|20 515 0 20 535 0 30 D E 515",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-6",
+        "num": "11.6",
+        "question": "3 아래의네트워크에대하여Kruska 의M ST알고리즘을이용해서최소비용신장트리가구 성되는과정을보여라 B C",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-7",
+        "num": "11.7",
+        "question": "m) D E 2 r m의MST알고리즘을이용해서최소비용신장트리가구 성되는과정을보여라(정점A부터시작할것",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-8",
+        "num": "11.8",
+        "question": "위의문제의그래프에대하여P",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-9",
+        "num": "11.9",
+        "question": "다 음가중그래프에서최소비용신장트리를얻기위하여노드A에서시작하여Pr m알 고리즘을적용할때신장트리의최소비용과세번째로선택된간선을순서대로나열 한 것은? •12,(B,E) 213,(B,E) 312,(D,E) *13,(D,E)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-10",
+        "num": "11.10",
+        "question": "2",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-11",
+        "num": "11.11",
+        "question": "6 위 의문제의그래프에 ST 알 소비 용신 고리즘을이용해서최 장트리를구 ka 의M rus 서K 할 때선택되는간선을순서대로나열하라 r m의최소비용 신장트리의시간복잡도로옳은것을골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-12",
+        "num": "11.12",
+        "question": "가중치그래프의정점의수를 간선의수를 라하 uska 과P 자다음K •O(n\"),O(nte) 3Olelog,e),Oln') *Ole'),O(nlogzn)",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-13",
+        "num": "11.13",
+        "question": "음수가중치를가진가중치그래프에서K uska 의MST알고리즘을이용해서최소비용신 장트리를구할수있을지를설명하라 r m의MST 알고리즘을이용해서최소비용신장 트리를구할수있을지를설",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-14",
+        "num": "11.14",
+        "question": "음수가 중치를가진가 중치그래프에서P 명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-15",
+        "num": "11.15",
+        "question": "1. 10다음그래프에서정점S부터E까지의최단거리를계산해보자D kstra알고리즘을사용 한다. 각단계에서d st 배열의내용을적어라 110y2 해화 도좋음 ㄱ 515 010",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-16",
+        "num": "11.16",
+        "question": "11 E",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-17",
+        "num": "11.17",
+        "question": "1. 11음수가중치를가진가중치그래프에서가장작은가중치를찾고이값이양수가되도록 충분히큰양 수를모든간선의가중치에더한후D kstra알고리즘을사용한다면최단 거 리경로를구할수있을까?안된다면그이유를설명하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-18",
+        "num": "11.18",
+        "question": "절의인접리스트에서의모든간선출력함수에서그래프의간선들이중복되어출",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-19",
+        "num": "11.19",
+        "question": "1 12 1 력되지않으려면어떻게할까?출력함수를수정해보라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-20",
+        "num": "11.20",
+        "question": "1 13 1 ST의가중치합을",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-21",
+        "num": "11.21",
+        "question": "절의Kruska 의최 소비용신장트리코드를수 정하여구해진M 출력하라 1 14 11 3절의Kirusk a 의최 은간선을뽑 기위 장작 장트리코드에서는가중치가가 소비용신 해간선을가중치의오름차순으로정렬하였다이코드를힘을사용하는방법으로수 정하라힘을사용한다면가중치가작은간선을뽑아야하기때문에최소힙을사용해 eapg 모듈을사용해도좋다 야한다. 파이썬의h",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-22",
+        "num": "11.22",
+        "question": "1 15 11 3절의Pr m의최소비용신장트리코드를수정하여구해진MST의가중치합을출력 하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-23",
+        "num": "11.23",
+        "question": "1 1 6** 1 3절의Kruska 의최소비용신장트리알고리즘을이용하여최대비용신장트리 (maximumspanning ree)를구하는프로그램을구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-11-24",
+        "num": "11.24",
+        "question": "1 1 7*** 1 4절의F oyd- Wa rsha 알고리즘은최단경로길이만을구한다이코드를수정하 여최단경로경로자체를구할수있도록하라힌트이를위해다음노드를가리킬 Next 배 ex uly 의초깃값은 가되 열(2차원을사용할수있다. 만약정점u와 사이에간선이있으면N oyd알고리즘의 f 조건문( 고그렇지않으면 로초기화한다.F k 를거치는경로가더가까우면)안에서Next ex k로갱신해야한 E Gi 를N 다이것 은 와 사이에서중간노드K를거치는더가까운경로를찾은것을말한다 raska 용차순정설. Pri 럽어:깊이 행린어리스트 mm 가중치제일작은나 넓니오신탐색 agkam 시작그 로는 구분? Hoyd 모 김 선담색 든정석들의최단거리",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "title": "고급 정렬 (Advanced Sorting)",
+    "desc": "셸 정렬, 퀵 정렬 (Quick Sort), 병합 정렬, 기수 정렬 (Radix Sort)",
+    "page_range": "p.476~479",
+    "question_count": 36,
+    "questions": [
+      {
+        "id": "ds-12-1",
+        "num": "12.1",
+        "question": "셸정렬 이중피벗퀵정렬",
+        "options": [],
+        "answer": 1,
+        "explanation": "비교 기반 정렬의 이론적 하한선은 O(n log n)입니다. 기수 정렬(Radix Sort)이나 카운팅 정렬은 비교하지 않으므로 이 하한선을 깰 수 있습니다.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-2",
+        "num": "12.2",
+        "question": "삽입정렬 ⑥힙정렬 (1 (1)선택정렬 • (",
+        "options": [
+          "버블정렬"
+        ],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-3",
+        "num": "12.3",
+        "question": ")퀵정렬 (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-4",
+        "num": "12.4",
+        "question": ")병합정렬 ( (",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-5",
+        "num": "12.5",
+        "question": ")기수정렬",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-6",
+        "num": "12.6",
+        "question": ")팀정렬",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-7",
+        "num": "12.7",
+        "question": "입력데이터의구성과상관없이자료의이동횟수가결정되는정렬알고리즘을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-8",
+        "num": "12.8",
+        "question": "2거의정렬이되어있는데이터에대해좋은성능을보이는정렬알고리즘을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-9",
+        "num": "12.9",
+        "question": "연속적인분할과병합을이용하는효율적인알고리즘이지만임 시배열이필요한정렬알고 리즘을골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-10",
+        "num": "12.10",
+        "question": "2.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-11",
+        "num": "12.11",
+        "question": "피벗을이용하는대표적인효율적인정렬알고리즘들을골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-12",
+        "num": "12.12",
+        "question": "항목의비교를사용하지않고분배를이용해정렬하는방법들을골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-13",
+        "num": "12.13",
+        "question": "12.",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-14",
+        "num": "12.14",
+        "question": "최악의경우에도시간복잡도가0(21082 인정렬방법을모두골라라 )",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-15",
+        "num": "12.15",
+        "question": "7평균적인시간복잡도가0(n2) 인정렬알고리즘을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-16",
+        "num": "12.16",
+        "question": "8 최악의경우시간복잡도가명확히O(n2) 인정렬알고리즘을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-17",
+        "num": "12.17",
+        "question": "9 0(m 082m 이라는정렬의이론적인하한선을깰수있는정렬방법들을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-18",
+        "num": "12.18",
+        "question": "삽입정렬과관련이있는정렬방법들을모두골라라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-19",
+        "num": "12.19",
+        "question": "비교를이용한정렬알고리즘에대한다음설명중에서틀린것은? 어 떤비교기반정렬알고리즘도비교할때위치를사용하면안정적(s ab e 으로만 들 수있 다",
+        "options": [
+          "난수배열에대해비교기반정렬은최소0(n g0 2 의시간이걸린다",
+          "카운팅정렬은비교기반정렬이아니다",
+          "병합정렬은비교기반정렬이아니다"
+        ],
+        "answer": 1,
+        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
+        "type": "choice"
+      },
+      {
+        "id": "ds-12-20",
+        "num": "12.20",
+        "question": "다음의입력배열을셸정렬이용하여오름차순으로정렬하려고한다. 각단계에서의간격 (gap)과배열의내용을적어라. 단, 간격은배열크기의절반으로시작한다. 또한간격이짝 수이면1을더해홀수로만들어사용하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-21",
+        "num": "12.21",
+        "question": "6 3 8 7 5",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-22",
+        "num": "12.22",
+        "question": "셸정렬의삽입정렬의어떤특성을이용하는가? 삽입정렬이효율적인경우와비효율적인 경우의입력에대한예를들고설명하라 121 4다음의정수배열을힙정렬을사용하여오름차순으로정렬하려고한다단,힙정렬은추 가적인배열을사용하지않는제자리정렬로구현한다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-23",
+        "num": "12.23",
+        "question": "49 92 55 38 2¼72 53 최대힙이만들어지는과정을트리를이용해나타내라또한최대힘에서의배열의내용을 적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-24",
+        "num": "12.24",
+        "question": "위문제에 서최대에 서배열 을정렬하는과정을트리를이용해나타내고최종배열",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-25",
+        "num": "12.25",
+        "question": "21 의 내용을적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-26",
+        "num": "12.26",
+        "question": "다음의정 다. 각단계에서의 배열의내용을나타내어라 수배열을병합정렬을사용하여오름차순으로정렬하려 고한",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-27",
+        "num": "12.27",
+        "question": "49 92 5 5|138 82 1 72 53",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-28",
+        "num": "12.28",
+        "question": "17 7다음의정 수배열을퀵정렬을사용하여오름차순으로정렬하려고한다각단계에서의배 열의내용을나타내어라단,배열의첫번째요소를피벗으로선택한다 171 9 49 292 555 8 38 282 272 353",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-29",
+        "num": "12.29",
+        "question": "다음의정수배열을퀵정렬을사용하여오름차순으로정렬하려고한 다왼쪽중간오른 쪽가운데중간값 med ano 121 f hree)을피벗으로사용하는경우정렬의각단계에서의배열 의내용을적어라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-30",
+        "num": "12.30",
+        "question": "1 5 6 8",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-31",
+        "num": "12.31",
+        "question": "2 19*어떤배열이오름차순으로정렬되어있는지를검사하여정렬되어있으면True를아니면 F a se를반환하는함수를구현하라버블정렬함수의일부를사용하면될것이다",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-32",
+        "num": "12.32",
+        "question": "* 2 4절의병합정렬을순환이아니라반복을이용하여다시구현하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-33",
+        "num": "12.33",
+        "question": "*입력리스트가영어문자열로이루어져있다이리스트를카운팅정렬을이용해정렬하 는코드를작성하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-34",
+        "num": "12.34",
+        "question": "12 .",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-35",
+        "num": "12.35",
+        "question": "22*10자리이하의정수로이루어진입력리스트가있다이리스트를다음과같이정렬하는 코드를작성하라 (1) 6개의버켓을이용하는기수정렬로정렬하라 (2) 0개의버켓을이용하는기수정렬로정렬하라 (3)2개의버켓을이용하는기수정렬로정렬하라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      },
+      {
+        "id": "ds-12-36",
+        "num": "12.36",
+        "question": "23 나만의하이브리드정렬알고리즘을구현해보 자다음그림과같이입력리스트가주 어지면이를크기가32인부분리스트(또는u D)들로분할하고각부분리스트를선 택정렬을이용해정렬한다각부분리스트가모두정렬되면다음으로병합정렬 의병합(mer 분리스트를병합한다병합이이루어질때마다부 분배열의크기는두배가된다이과정은전체가하나의배열로합해질때까지진행 된다 e) 과정을이 용해부 g 입력배열 Run들로분할 삽입정렬 각Run을삽입 정렬로정렬 e / merge/ e / merge/ emerge emerge 정렬된부분배열을 계속병합 e merge 최종정렬된배열 (1) 이러한정렬알고리즘을구현해보라삽입정렬은7장의함수를수정해사용하 고병합과정은 2 4절의병합정렬의me ge 함수를이용할수있 다 (3) 이알고리즘의시간복잡도를분석해보 라",
+        "options": [],
+        "answer": "정답 확인",
+        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "type": "short"
+      }
+    ]
+  }
+];
+if (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; window.DS_QUIZ_DATA = DS_QUIZ_DATA; }

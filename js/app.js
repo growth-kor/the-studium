@@ -215,6 +215,12 @@
             `;
           });
         }
+        const isDS = c.name.includes('자료구조') || c.name.includes('Data Structure');
+        const quizBtnHtml = isDS ? `
+          <div class="course-quiz-pill" onclick="openDsQuizScreen()">
+            <span>1~12장 전단원 연습문제 CBT 풀기 →</span>
+          </div>
+        ` : '';
         row.innerHTML = `
           <div class="course-title">${c.name}</div>
           <div class="course-meta">
@@ -223,6 +229,7 @@
             ${c.prof ? `<span>· ${c.prof}</span>` : ''}
           </div>
           ${c.midterm_book ? `<div style="font-size:0.84rem; color:var(--text-muted); margin-bottom:8px;">텍스트: ${c.midterm_book}</div>` : ''}
+          ${quizBtnHtml}
           ${tasksHtml}
         `;
         list.appendChild(row);
@@ -675,6 +682,219 @@
       });
     }
 
+    // ==========================================
+    // DATA STRUCTURE PRACTICE EXERCISES CONTROLLER
+    // ==========================================
+    let dsCurrentScope = 'midterm';
+    let dsCurrentCh = 1;
+
+    function openDsQuizScreen(targetCh) {
+      document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      const screen = document.getElementById('screen-ds-quiz');
+      if (screen) screen.classList.add('active');
+
+      if (targetCh) {
+        dsCurrentCh = targetCh;
+        if (targetCh <= 5) dsCurrentScope = 'midterm';
+        else dsCurrentScope = 'final';
+      }
+      setDsScope(dsCurrentScope, false);
+      selectDsChapter(dsCurrentCh);
+      window.scrollTo(0, 0);
+    }
+
+    function closeDsQuizScreen() {
+      switchTab('schedule');
+    }
+
+    function setDsScope(scope, resetChapter = true) {
+      dsCurrentScope = scope;
+      ['mid', 'final', 'all'].forEach(k => {
+        const btn = document.getElementById('ds-scope-' + k);
+        if (btn) btn.classList.remove('active');
+      });
+      if (scope === 'midterm') {
+        const b = document.getElementById('ds-scope-mid');
+        if (b) b.classList.add('active');
+        if (resetChapter && (dsCurrentCh < 1 || dsCurrentCh > 5)) dsCurrentCh = 1;
+      } else if (scope === 'final') {
+        const b = document.getElementById('ds-scope-final');
+        if (b) b.classList.add('active');
+        if (resetChapter && (dsCurrentCh < 6 || dsCurrentCh > 12)) dsCurrentCh = 6;
+      } else {
+        const b = document.getElementById('ds-scope-all');
+        if (b) b.classList.add('active');
+      }
+      renderDsChapterSelector();
+      selectDsChapter(dsCurrentCh);
+    }
+
+    function getDsScopeRange() {
+      if (dsCurrentScope === 'midterm') return [1, 2, 3, 4, 5];
+      if (dsCurrentScope === 'final') return [6, 7, 8, 9, 10, 11, 12];
+      return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
+    }
+
+    function renderDsChapterSelector() {
+      const container = document.getElementById('ds-chapter-selector');
+      if (!container) return;
+      const range = getDsScopeRange();
+      let html = '';
+      range.forEach(chNum => {
+        const active = chNum === dsCurrentCh ? 'active' : '';
+        html += `<button type="button" class="num-btn ${active}" onclick="selectDsChapter(${chNum})">${chNum}장</button>`;
+      });
+      container.innerHTML = html;
+    }
+
+    function selectDsChapter(chNum) {
+      dsCurrentCh = chNum;
+      document.querySelectorAll('#ds-chapter-selector .num-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.textContent.trim() === `${chNum}장`);
+      });
+
+      const quizData = window.DS_QUIZ_DATA || [];
+      const chapterData = quizData.find(c => c.chapter === chNum);
+      if (!chapterData) return;
+
+      const titleEl = document.getElementById('ds-current-ch-title');
+      const descEl = document.getElementById('ds-current-ch-desc');
+      const statsEl = document.getElementById('ds-current-ch-stats');
+
+      if (titleEl) titleEl.textContent = `${chapterData.chapter}장 ${chapterData.title}`;
+      if (descEl) descEl.textContent = chapterData.desc;
+      if (statsEl) statsEl.textContent = `총 ${chapterData.questions.length}문제 수록 · 실시간 정답 및 풀이 확인 가능`;
+
+      renderDsQuestions(chapterData.questions);
+    }
+
+    function escapeHtml(text) {
+      if (!text) return '';
+      return String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function renderDsQuestions(questions) {
+      const container = document.getElementById('ds-questions-list');
+      if (!container) return;
+
+      if (!questions || questions.length === 0) {
+        container.innerHTML = '<div style="padding: 24px; text-align: center; color: var(--text-muted); font-size: 0.85rem;">해당 단원의 문제가 없습니다.</div>';
+        return;
+      }
+
+      let html = '';
+      questions.forEach(q => {
+        const isChoice = q.type === 'choice' && Array.isArray(q.options) && q.options.length > 0;
+        const isIntAnswer = typeof q.answer === 'number';
+        const typeLabel = isChoice ? '객관식' : (q.type === 'short' ? '단답·서술형' : '실습 분석');
+
+        html += `<div class="ds-question-card" id="card-${q.id}">`;
+        html += `  <div class="ds-q-badge-row">`;
+        html += `    <span class="ds-q-num">문제 ${escapeHtml(q.num)}</span>`;
+        html += `    <span class="ds-q-type">${typeLabel}</span>`;
+        html += `  </div>`;
+        html += `  <div class="ds-q-text">${escapeHtml(q.question)}</div>`;
+
+        if (isChoice && isIntAnswer) {
+          html += `  <div class="ds-options-list" id="opts-${q.id}">`;
+          q.options.forEach((opt, idx) => {
+            const optNum = idx + 1;
+            const optNumCircled = ['①', '②', '③', '④', '⑤', '⑥'][idx] || `${optNum}.`;
+            html += `    <button type="button" class="ds-opt-btn" onclick="checkDsOption(this, '${q.id}', ${optNum}, ${q.answer})">`;
+            html += `      ${optNumCircled} ${escapeHtml(opt)}`;
+            html += `    </button>`;
+          });
+          html += `  </div>`;
+        } else if (isChoice && !isIntAnswer) {
+          html += `  <div class="ds-options-list" style="margin-bottom: 12px;">`;
+          q.options.forEach((opt, idx) => {
+            const optNumCircled = ['①', '②', '③', '④', '⑤', '⑥'][idx] || `${idx + 1}.`;
+            html += `    <div style="font-size: 0.85rem; line-height: 1.5; color: var(--text); padding: 4px 0;">${optNumCircled} ${escapeHtml(opt)}</div>`;
+          });
+          html += `  </div>`;
+        }
+
+        const btnLabel = isChoice && isIntAnswer ? '해설 확인' : '정답 및 풀이 보기';
+        html += `  <div style="margin-top: 8px;">`;
+        html += `    <button type="button" class="ds-reveal-btn" id="btn-exp-${q.id}" onclick="toggleDsExplanation('${q.id}')">${btnLabel}</button>`;
+        html += `  </div>`;
+
+        let ansDisplay = '';
+        if (typeof q.answer === 'number') {
+          const circ = ['①', '②', '③', '④', '⑤', '⑥'][q.answer - 1] || `${q.answer}번`;
+          ansDisplay = `${circ}`;
+          if (q.options && q.options[q.answer - 1]) {
+            ansDisplay += ` ${q.options[q.answer - 1]}`;
+          }
+        } else {
+          ansDisplay = String(q.answer || '풀이 참조');
+        }
+
+        html += `  <div class="ds-explanation-box" id="exp-${q.id}" style="display: none;">`;
+        html += `    <div class="ds-ans-label">정답: ${escapeHtml(ansDisplay)}</div>`;
+        if (q.explanation) {
+          html += `    <div class="ds-exp-text">${escapeHtml(q.explanation)}</div>`;
+        }
+        html += `  </div>`;
+
+        html += `</div>`;
+      });
+
+      container.innerHTML = html;
+    }
+
+    function checkDsOption(btn, qId, selectedNum, correctNum) {
+      const container = document.getElementById('opts-' + qId);
+      if (!container) return;
+
+      const buttons = container.querySelectorAll('.ds-opt-btn');
+      buttons.forEach(b => {
+        b.disabled = true;
+        b.classList.remove('correct', 'wrong');
+      });
+
+      if (selectedNum === correctNum) {
+        btn.classList.add('correct');
+      } else {
+        btn.classList.add('wrong');
+        if (buttons[correctNum - 1]) {
+          buttons[correctNum - 1].classList.add('correct');
+        }
+      }
+
+      const expBox = document.getElementById('exp-' + qId);
+      if (expBox) {
+        expBox.style.display = 'block';
+        const expBtn = document.getElementById('btn-exp-' + qId);
+        if (expBtn) expBtn.textContent = '해설 닫기';
+      }
+    }
+
+    function toggleDsExplanation(qId) {
+      const box = document.getElementById('exp-' + qId);
+      const btn = document.getElementById('btn-exp-' + qId);
+      if (!box) return;
+
+      if (box.style.display === 'none' || !box.style.display) {
+        box.style.display = 'block';
+        if (btn) btn.textContent = '해설 닫기';
+      } else {
+        box.style.display = 'none';
+        if (btn) btn.textContent = '정답 및 풀이 보기';
+      }
+    }
+
+    function initDsQuiz() {
+      renderDsChapterSelector();
+      selectDsChapter(dsCurrentCh);
+    }
+
     // Init
     window.addEventListener('DOMContentLoaded', () => {
       applyTheme(currentTheme);
@@ -686,4 +906,5 @@
       initVocab();
       renderExamContent();
       updateSettingUI();
+      initDsQuiz();
     });
