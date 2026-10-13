@@ -1,0 +1,482 @@
+[
+  {
+    "word": "behavior",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "the way someone or something acts",
+    "kr": "행동, 처신",
+    "ex": "Even rats show human-like behavior in lab experiments."
+  },
+  {
+    "word": "bond",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "a feeling of connection with someone or something else",
+    "kr": "유대감, 결속",
+    "ex": "People often form strong bonds with animals they interact with."
+  },
+  {
+    "word": "cognitive",
+    "pos": "adj",
+    "unit": "Unit 1",
+    "def_en": "relating to thinking and understanding",
+    "kr": "인지적인",
+    "ex": "Regular exercise can help with physical fitness and cognitive function."
+  },
+  {
+    "word": "complex",
+    "pos": "adj",
+    "unit": "Unit 1",
+    "def_en": "involving a lot of different parts; difficult to understand",
+    "kr": "복잡한",
+    "ex": "Some believe emotions like sadness are too complex for nonhuman species."
+  },
+  {
+    "word": "controversial",
+    "pos": "adj",
+    "unit": "Unit 1",
+    "def_en": "causing disagreement",
+    "kr": "논란의 여지가 있는",
+    "ex": "The idea that animals feel emotions is controversial and sparks intense debate."
+  },
+  {
+    "word": "discipline",
+    "pos": "v",
+    "unit": "Unit 1",
+    "def_en": "to train someone to follow rules or codes of behavior",
+    "kr": "훈육하다, 규율을 따르게 하다",
+    "ex": "One way to discipline children is to establish a quiet timeout."
+  },
+  {
+    "word": "establish",
+    "pos": "v",
+    "unit": "Unit 1",
+    "def_en": "to create or start something that will last a long time",
+    "kr": "확립하다, 설립하다",
+    "ex": "Children generally sleep better when parents establish a regular bedtime routine."
+  },
+  {
+    "word": "extended family",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "a group that includes uncles, cousins, grandparents, etc.",
+    "kr": "대가족",
+    "ex": "Previously, it was common for extended families to live together in one home."
+  },
+  {
+    "word": "gender",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "the characteristics of being male or female",
+    "kr": "성별",
+    "ex": "It is normal for children, regardless of gender, to fear separation."
+  },
+  {
+    "word": "generally",
+    "pos": "adv",
+    "unit": "Unit 1",
+    "def_en": "usually",
+    "kr": "일반적으로, 대개",
+    "ex": "Researchers observed that children generally respond well to consistent schedules."
+  },
+  {
+    "word": "grief",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "a very sad feeling (especially after someone dies)",
+    "kr": "비탄, 깊은 슬픔",
+    "ex": "Some animals appear to express grief when a family member dies."
+  },
+  {
+    "word": "intense",
+    "pos": "adj",
+    "unit": "Unit 1",
+    "def_en": "very great or extreme",
+    "kr": "극심한, 강렬한",
+    "ex": "Children can experience an intense feeling of fear when lost."
+  },
+  {
+    "word": "observe",
+    "pos": "v",
+    "unit": "Unit 1",
+    "def_en": "to notice something after looking closely",
+    "kr": "관찰하다, 목격하다",
+    "ex": "Biologists observed wolves cooperating in complex social groups."
+  },
+  {
+    "word": "previously",
+    "pos": "adv",
+    "unit": "Unit 1",
+    "def_en": "before the time period that you are talking about",
+    "kr": "이전에, 과거에",
+    "ex": "Extended family households were far more common previously."
+  },
+  {
+    "word": "recognition",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "an understanding that something is true",
+    "kr": "인정, 인식",
+    "ex": "There is a growing recognition that animal minds are sophisticated."
+  },
+  {
+    "word": "repeatedly",
+    "pos": "adv",
+    "unit": "Unit 1",
+    "def_en": "occurring many times",
+    "kr": "반복해서, 여러 차례",
+    "ex": "After doing this repeatedly, the animals mastered the maze."
+  },
+  {
+    "word": "replace",
+    "pos": "v",
+    "unit": "Unit 1",
+    "def_en": "to have something new or different instead of the original",
+    "kr": "대체하다, 대신하다",
+    "ex": "When birds shed feathers, new plumage grows to replace that which was lost."
+  },
+  {
+    "word": "social structure",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "the way a group of people or animals is organized",
+    "kr": "사회 구조, 집단 구조",
+    "ex": "Elephants maintain a matriarchal social structure led by the oldest female."
+  },
+  {
+    "word": "suffering",
+    "pos": "n",
+    "unit": "Unit 1",
+    "def_en": "pain, either mental or physical",
+    "kr": "고통, 괴로움",
+    "ex": "The rats stopped pressing the lever to prevent the other rats suffering."
+  },
+  {
+    "word": "treat",
+    "pos": "v",
+    "unit": "Unit 1",
+    "def_en": "to behave toward someone or something in a particular way",
+    "kr": "대우하다, 다루다",
+    "ex": "Society has a moral duty to treat living creatures with compassion."
+  },
+  {
+    "word": "aspect",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "a part or side of something",
+    "kr": "측면, 양상",
+    "ex": "One negative aspect of city living is chronic traffic congestion."
+  },
+  {
+    "word": "barrier",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "something that blocks movement or separates things",
+    "kr": "장벽, 방벽",
+    "ex": "Coastal cities construct storm surge barriers to block ocean surges."
+  },
+  {
+    "word": "canal",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "an artificial waterway for boats or water conveyance",
+    "kr": "운하, 수로",
+    "ex": "Venice is internationally famous for its historic canals."
+  },
+  {
+    "word": "concentration",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "a huge amount or number of something in one place",
+    "kr": "집중, 밀집",
+    "ex": "Metropolitan areas feature a dense concentration of economic talent."
+  },
+  {
+    "word": "construction",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "the work or industry of building structures",
+    "kr": "건설, 공사",
+    "ex": "Hundreds of architects and engineers work in the construction industry."
+  },
+  {
+    "word": "dense",
+    "pos": "adj",
+    "unit": "Unit 3",
+    "def_en": "having a large amount of something close together",
+    "kr": "인구 밀도가 높은, 빽빽한",
+    "ex": "Some megacities are extremely dense, housing thousands per square kilometer."
+  },
+  {
+    "word": "fierce",
+    "pos": "adj",
+    "unit": "Unit 3",
+    "def_en": "powerful, violent, and aggressive (weather/storm)",
+    "kr": "사나운, 맹렬한",
+    "ex": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
+  },
+  {
+    "word": "growth",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "the process of increasing",
+    "kr": "성장, 증가",
+    "ex": "Rapid population growth forces municipal borders outward."
+  },
+  {
+    "word": "income",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "money that a person earns",
+    "kr": "소득, 수입",
+    "ex": "Urban workers generally earn higher average incomes than agricultural labor."
+  },
+  {
+    "word": "lower",
+    "pos": "v",
+    "unit": "Unit 3",
+    "def_en": "to move down or reduce the level/amount",
+    "kr": "낮추다, 내리다",
+    "ex": "Hydraulic gates can lower or raise water levels during floods."
+  },
+  {
+    "word": "occasional",
+    "pos": "adj",
+    "unit": "Unit 3",
+    "def_en": "happening from time to time, not regularly",
+    "kr": "가끔의, 때때로의",
+    "ex": "What was once an occasional storm has now become an annual crisis."
+  },
+  {
+    "word": "partially",
+    "pos": "adv",
+    "unit": "Unit 3",
+    "def_en": "partly, not completely",
+    "kr": "부분적으로",
+    "ex": "During high tide, ground floors in Venice are partially submerged."
+  },
+  {
+    "word": "productive",
+    "pos": "adj",
+    "unit": "Unit 3",
+    "def_en": "able to achieve a significant amount or result",
+    "kr": "생산적인",
+    "ex": "Knowledge-sharing clusters make urban professionals far more productive."
+  },
+  {
+    "word": "resident",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "a person who lives in a particular place or area",
+    "kr": "거주자, 주민",
+    "ex": "Every resident must be prepared for extreme weather occurrences."
+  },
+  {
+    "word": "separate",
+    "pos": "v",
+    "unit": "Unit 3",
+    "def_en": "to keep apart or divide",
+    "kr": "분리하다, 떼어놓다",
+    "ex": "Massive seawalls separate the rising ocean from inland residential zones."
+  },
+  {
+    "word": "spread out",
+    "pos": "v",
+    "unit": "Unit 3",
+    "def_en": "to cover a huge area",
+    "kr": "넓게 퍼지다, 확산되다",
+    "ex": "Metropolises continue to spread out into surrounding rural provinces."
+  },
+  {
+    "word": "suburb",
+    "pos": "n",
+    "unit": "Unit 3",
+    "def_en": "areas outside of a large city that have homes and businesses",
+    "kr": "교외 주거지구",
+    "ex": "Families often migrate to quiet suburbs seeking affordable single homes."
+  },
+  {
+    "word": "temporarily",
+    "pos": "adv",
+    "unit": "Unit 3",
+    "def_en": "for a limited period of time; not permanently",
+    "kr": "일시적으로",
+    "ex": "Stores had to close temporarily while municipal pumps drained floodwater."
+  },
+  {
+    "word": "tend to",
+    "pos": "v",
+    "unit": "Unit 3",
+    "def_en": "to usually do something or be a certain way",
+    "kr": "~하는 경향이 있다",
+    "ex": "Cities tend to offer superior healthcare and university facilities."
+  },
+  {
+    "word": "urban",
+    "pos": "adj",
+    "unit": "Unit 3",
+    "def_en": "relating to a city",
+    "kr": "도시의",
+    "ex": "The planet has crossed the threshold into an urban majority."
+  },
+  {
+    "word": "alternative",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "one option instead of another",
+    "kr": "대안, 양자택일",
+    "ex": "Geotourism offers a sustainable alternative to destructive mass tourism."
+  },
+  {
+    "word": "awareness",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "knowledge that something exists",
+    "kr": "인식, 의식",
+    "ex": "The campaign aims to raise environmental awareness among international travelers."
+  },
+  {
+    "word": "comfort",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "a state of ease or well-being",
+    "kr": "안락, 편안함",
+    "ex": "Modern eco-lodges provide luxury and comfort without depleting energy."
+  },
+  {
+    "word": "distinctive",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "special; very different",
+    "kr": "독특한, 구별되는",
+    "ex": "Venice possesses a distinctive architecture shaped by its marine canals."
+  },
+  {
+    "word": "earn a living",
+    "pos": "phr",
+    "unit": "Unit 5",
+    "def_en": "to get money to pay for things that you need",
+    "kr": "생계를 유지하다, 돈을 벌다",
+    "ex": "Indigenous residents earn a living as official eco-tour guides."
+  },
+  {
+    "word": "ecological",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "relating to the relationship between living things and their surroundings",
+    "kr": "생태학적인, 환경의",
+    "ex": "Resorts must calculate their ecological footprint prior to development."
+  },
+  {
+    "word": "economy",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "the system by which a governments industry and money are organized",
+    "kr": "경제",
+    "ex": "The local island economy relies almost exclusively on overseas visitors."
+  },
+  {
+    "word": "enriching",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "providing more appreciation or enjoyment",
+    "kr": "풍요롭게 하는, 보람 있는",
+    "ex": "Authentic cultural exchanges make travel far more enriching than sightseeing."
+  },
+  {
+    "word": "harmful",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "damaging; dangerous",
+    "kr": "해로운, 유해한",
+    "ex": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
+  },
+  {
+    "word": "landmark",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "a building or structure with historical or cultural significance",
+    "kr": "랜드마크, 유서 깊은 건축물",
+    "ex": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
+  },
+  {
+    "word": "maintain",
+    "pos": "v",
+    "unit": "Unit 5",
+    "def_en": "to keep at a certain level",
+    "kr": "유지하다, 보전하다",
+    "ex": "Park authorities restrict tourist volume to maintain fragile trails."
+  },
+  {
+    "word": "necessary",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "essential; required",
+    "kr": "필수적인, 필요한",
+    "ex": "Strict quotas are necessary to protect ancient ruins from overtourism."
+  },
+  {
+    "word": "objective",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "a goal",
+    "kr": "목표, 목적",
+    "ex": "A primary objective of geotourism is the preservation of geographic character."
+  },
+  {
+    "word": "official",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "relating to a government or an organization",
+    "kr": "공식적인, 공인된",
+    "ex": "All visitors must be escorted by official licensed indigenous guides."
+  },
+  {
+    "word": "partnership",
+    "pos": "n",
+    "unit": "Unit 5",
+    "def_en": "a way of working with another person, group, or organization",
+    "kr": "협력 관계, 파트너십",
+    "ex": "Sustainable travel requires an equal partnership between operators and locals."
+  },
+  {
+    "word": "preserve",
+    "pos": "v",
+    "unit": "Unit 5",
+    "def_en": "to keep in a certain condition",
+    "kr": "보존하다, 지키다",
+    "ex": "Nations establish marine sanctuaries to preserve endangered coral reefs."
+  },
+  {
+    "word": "renewable",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "able to be replaced naturally",
+    "kr": "재생 가능한",
+    "ex": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
+  },
+  {
+    "word": "spiritual",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "relating to a higher purpose rather than just material needs",
+    "kr": "영적인, 정신적인",
+    "ex": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
+  },
+  {
+    "word": "sustainable",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "able to continue in the long-term",
+    "kr": "지속 가능한",
+    "ex": "Sustainable tourism ensures heritage survives for future generations."
+  },
+  {
+    "word": "vital",
+    "pos": "adj",
+    "unit": "Unit 5",
+    "def_en": "necessary or extremely important",
+    "kr": "필수적인, 극히 중대한",
+    "ex": "Educating international guests on cultural etiquette is of vital importance."
+  }
+]

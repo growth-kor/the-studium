@@ -462,6 +462,7 @@
       activeVocab = [];
       const byVocab = (HUFS_DATA.books.beiying && HUFS_DATA.books.beiying.vocab) || [];
       const portVocab = (HUFS_DATA.books.chinese3 && HUFS_DATA.books.chinese3.vocab) || (HUFS_DATA.books.portrait && HUFS_DATA.books.portrait.vocab) || [];
+      const pwVocab = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.vocab) || [];
 
       if (filterKey === 'saved') {
         activeVocab = [...savedWords];
@@ -471,6 +472,9 @@
         }
         if (filterKey === 'all' || filterKey === 'chinese3' || filterKey === '画像') {
           portVocab.forEach(v => activeVocab.push({ ...v, bookName: '중국어3' }));
+        }
+        if (filterKey === 'all' || filterKey === 'pathways3') {
+          pwVocab.forEach(v => activeVocab.push({ ...v, bookName: 'Pathways 3' }));
         }
       }
 
@@ -589,6 +593,34 @@
           `;
         });
         container.appendChild(revWrap);
+      } else if (currentExamTab === 'billy') {
+        const billyQas = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.qa) || [];
+        billyQas.forEach(qa => {
+          const row = document.createElement('div');
+          row.className = 'exam-row';
+          row.innerHTML = `
+            <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
+              <span>${qa.question}</span>
+              <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
+            </div>
+            <div class="exam-a">${qa.answer}</div>
+          `;
+          container.appendChild(row);
+        });
+      } else if (currentExamTab === 'knn') {
+        const knnQas = (HUFS_DATA.books.knn_exam && HUFS_DATA.books.knn_exam.qa) || [];
+        knnQas.forEach(qa => {
+          const row = document.createElement('div');
+          row.className = 'exam-row';
+          row.innerHTML = `
+            <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
+              <span>${qa.question}</span>
+              <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
+            </div>
+            <div class="exam-a">${qa.answer}</div>
+          `;
+          container.appendChild(row);
+        });
       } else if (currentExamTab === 'grammar') {
         const byG = HUFS_DATA.books.beiying.grammar || [];
         const portG = HUFS_DATA.books.portrait.grammar || [];

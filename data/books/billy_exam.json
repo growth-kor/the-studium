@@ -1,0 +1,122 @@
+[
+  {
+    "q": "[Q1] A part or side of something.",
+    "a": "정답: aspect (n) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+  },
+  {
+    "q": "[Q2] Involving a lot of different parts; difficult to understand.",
+    "a": "정답: complex (adj) | 해설: Cengage 교재 Unit 1 p.4 공식 정의."
+  },
+  {
+    "q": "[Q3] Able to continue in the long-term without damaging the environment.",
+    "a": "정답: sustainable (adj) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+  },
+  {
+    "q": "[Q4] To train someone to follow rules or codes of behavior.",
+    "a": "정답: discipline (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+  },
+  {
+    "q": "[Q5] Having a large amount of something close together.",
+    "a": "정답: dense (adj) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+  },
+  {
+    "q": "[Q6] A building or structure with historical or cultural significance.",
+    "a": "정답: landmark (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+  },
+  {
+    "q": "[Q7] Pain, either mental or physical.",
+    "a": "정답: suffering (n) | 해설: Cengage 교재 Unit 1 p.4 공식 정의 (grief는 사별 후 슬픔)."
+  },
+  {
+    "q": "[Q8] A way of working with another person, group, or organization.",
+    "a": "정답: partnership (n) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+  },
+  {
+    "q": "[Q9] To notice something after looking closely.",
+    "a": "정답: observe (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+  },
+  {
+    "q": "[Q10] A state of ease or well-being.",
+    "a": "정답: comfort (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+  },
+  {
+    "q": "[Q11] After being hit by three storms, the harbor closed ______ while repairs completed.",
+    "a": "정답: temporarily (adv) | 해설: 수리 기간 동안 한시적/일시적 폐쇄."
+  },
+  {
+    "q": "[Q12] Raising public ______ regarding recycling is a vital prerequisite for green cities.",
+    "a": "정답: awareness (n) | 해설: 필수 콜로케이션 raise public awareness."
+  },
+  {
+    "q": "[Q13] Wild animals when threatened display unpredictable ______ that puts observers in danger.",
+    "a": "정답: behavior (n) | 해설: 동물 행동 패턴 unpredictable behavior."
+  },
+  {
+    "q": "[Q14] Developing nations struggle with sprawl because cities continue to ______ into farmland.",
+    "a": "정답: spread out (v) | 해설: 도시 외곽으로의 지리적 확산."
+  },
+  {
+    "q": "[Q15] In order to ______ the ancient temple from acid rain, authorities installed glass barriers.",
+    "a": "정답: preserve (v) | 해설: 훼손으로부터 보존하다 preserve."
+  },
+  {
+    "q": "[Q16] [Reading 1 Main Idea] Betty the crow tool experiment.",
+    "a": "정답: Betty the crow proved animals invent tools through cognitive planning rather than chance. | 해설: 까마귀의 도구 제작은 인지적 계획에 기초함."
+  },
+  {
+    "q": "[Q17] [Supporting Detail] Evidence of crow understanding physical cause-effect.",
+    "a": "정답: The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve food. | 해설: 먹이를 꺼내기 전 도구를 먼저 가공함."
+  },
+  {
+    "q": "[Q18] [Reading 3 Detail] Major reason cities generate over 80% of global GDP.",
+    "a": "정답: The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure. | 해설: 지식 공유와 규모의 경제."
+  },
+  {
+    "q": "[Q19] [Cause & Effect] Cause of sprawling informal settlements (slums).",
+    "a": "정답: The failure of municipal governments to manage growth and provide affordable housing. | 해설: 도시 주택 관리 실패."
+  },
+  {
+    "q": "[Q20] [Reading 5 Problem] Initial prompt for Palau tourism policy shift.",
+    "a": "정답: Mass tourism was severely damaging the islands coral reefs and marine ecosystem. | 해설: 과잉 관광의 산호초 파괴."
+  },
+  {
+    "q": "[Q21] [Reading 5 Fact] How Palau funds conservation partnerships with rangers.",
+    "a": "정답: By collecting a mandatory green fee from foreign visitors. | 해설: 입국 관광객 green fee 징수."
+  },
+  {
+    "q": "[Q22] [Concept Definition] What is the Palau Pledge?",
+    "a": "정답: A legal commitment signed by incoming visitors to protect the environment. | 해설: 여권에 서명하는 법적 환경 보호 서약."
+  },
+  {
+    "q": "[Q23] [Author Purpose] Primary purpose of Palau passage.",
+    "a": "정답: Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism. | 해설: 지속 가능 관광 모델 제시."
+  },
+  {
+    "q": "[Q24] [Visual Analysis] Urbanization vs Population Growth data.",
+    "a": "정답: Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth. | 해설: 비율(도시화율)과 증가율 대조."
+  },
+  {
+    "q": "[Q25] [Cause vs Effect Signal Words] Which signals a CAUSE?",
+    "a": "정답: As a result of | 해설: As a result of 뒤에는 원인이 오며, Therefore/Consequently는 결과를 유도함."
+  },
+  {
+    "q": "[Q26] [Causal Analysis] Direct effect of ancient citadel stone degradation.",
+    "a": "정답: Daily visitor admissions were restricted to 2,500. | 해설: 주절의 행정적 조치(입장 제한)가 직접적 결과임."
+  },
+  {
+    "q": "[Q27] [Grammar: if..., then...] Correct real conditional sentence.",
+    "a": "정답: If tourists visit sensitive ecological reserves, then they will damage rare flora. | 해설: if절에는 현재시제(visit), 주절에는 will+동사원형."
+  },
+  {
+    "q": "[Q28] [Grammar: Comparison] Correct comparative structure.",
+    "a": "정답: Wildlife tourism in Costa Rica is far more enriching than mass cruise travel. | 해설: more... than 구조 및 far 수식 완벽."
+  },
+  {
+    "q": "[Q29] [Essay Structure] Standard location of Thesis Statement.",
+    "a": "정답: At the end of the introductory paragraph as the final sentence. | 해설: 서론 단락의 마지막 문장."
+  },
+  {
+    "q": "[Q30] [Paragraph Structure] Role of a Body Paragraph Topic Sentence.",
+    "a": "정답: To state the main idea of that specific body paragraph and connect it to the essays central thesis. | 해설: 본론 중심 생각 제시 및 논지 연결."
+  }
+]

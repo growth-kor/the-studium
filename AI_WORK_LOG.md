@@ -1,5 +1,24 @@
 # AI WORK LOG
 
+## [202] 2026-10-14 00:05 - College English 2 (Billy & KNN) 팀티칭 중간고사 60단어 플래시카드 및 54문항 족보 모바일 웹 통합·배포
+- **작업 주체**: [Pro-AI]
+- **작업 목적**: 대학영어 2 (2+1 팀티칭) 중간고사 만점(20점 + 14점 = 34점 만점)을 위하여 화요일 Billy Joseph Fitzgerald 교수(Pathways 3 / 60% 비중)와 수요일 김나나 교수(Prism Reading 3 / 30% 비중)의 전범위 어휘 및 모의고사 데이터를 스투디움에 전면 탑재하고 Cloudflare Pages에 배포 완료.
+- **주요 작업 내역**:
+  1. **Pathways 3 Unit 1·3·5 필수 Target Words 60종 영영 플래시카드 탑재**:
+     - 파일: `/Users/star/Desktop/my_work/<HUFS>/26-02_semester/_학교_활동/00_모바일_학습웹_배포/data/english/pathways3_vocab.json`, `/Users/star/Desktop/my_work/<HUFS>/26-02_semester/_학교_활동/00_모바일_학습웹_배포/js/app.js`
+     - Cengage 공식 영영 정의, 한국어 의미, 교재 내 기출 예문, 품사, Unit 정보 수록.
+     - Web Speech TTS 언어 분기(`/[a-zA-Z]/.test(text) ? 'en-US' : 'zh-CN'`)를 추가하여 영어 단어는 미국 원어민 발음으로 자동 재생.
+  2. **Billy Joseph Fitzgerald Cengage 실전 모의고사 30문항 아코디언 족보 탑재**:
+     - 파일: `/Users/star/Desktop/my_work/<HUFS>/26-02_semester/_학교_활동/00_모바일_학습웹_배포/data/english/billy_exam.json`
+     - 영영 정의 매칭(10문항), 문맥 어휘 및 콜로케이션(5문항), 독해 및 스킬 분석(8문항), 시각 자료 및 인과 추론(3문항), 문법(비교급, if.. then..) 및 에세이 구조(4문항) 전 문항 수록.
+  3. **김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 아코디언 족보 탑재**:
+     - 파일: `/Users/star/Desktop/my_work/<HUFS>/26-02_semester/_학교_활동/00_모바일_학습웹_배포/data/english/knn_exam.json`
+     - 주제 파악, T/F 내용 일치, 연결어 추론, 문장 순서 배열, 영한 정밀 번역 서술형, 지칭 대명사 추론 24문항 및 상세 해설 수록.
+  4. **암호화 시간표(AES-256-GCM) 화요일·수요일 과목 및 과제 갱신**:
+     - 화요일 `tue-college-eng` (Billy) 및 수요일 `wed-college-eng` (김나나) 과목 정보, 강의실(0508호), 성적 비중, 중간고사 실천 과제 탑재.
+  5. **Cloudflare Pages 무중단 배포**:
+     - `the-studium` 프로젝트 대상 라이브 배포 완료 (`https://the-studium.pages.dev`).
+
 ## [201] 2026-10-12 23:44 - 화요일 College English 2 In-Class Essay 문단별 탭 및 한 문장씩 한→영 타이핑 암기 훈련기 구축·배포
 - **작업 주체**: [Pro-AI]
 - **작업 목적**: 대표님께서 요청하신 화요일 College English 2 과제 및 시험 문서(`/Users/star/Library/Mobile Documents/iCloud~md~obsidian/Documents/26-02_semester/_학교_활동/02_화요일/College_English_2/3_과제·시험 (MD+PDF)/05_과제_Writing_Outline_and_InClass_Essay.md`)를 스투디움 화요일 영어 과정에 통합하고, 문단별 탭 분리 및 한 문장씩 한국어 제시문을 보며 영어로 직접 타이핑하여 외우는 인터랙티브 훈련 화면(`#screen-eng-essay`)을 구축함.

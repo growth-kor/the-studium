@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "U3rv7dhM4cDKZoycikO2kQ==",
-    "iv": "OATUylmZyHxvqfhN",
-    "ciphertext": "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"
+    "salt": "mQDZrp1zXeNuGF7o0ZAk8Q==",
+    "iv": "R9R11RHq9kj/Azp6",
+    "ciphertext": "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"
   },
   "weekly_courses": [],
   "books": {
@@ -2908,6 +2908,660 @@ var HUFS_DATA = {
         {
           "title": "개사 为(wèi)의 대상·수혜 용법",
           "desc": "구조: 为 + 대상 + 동사구 ('~를 위하여 / ~를 대상으로')\n- 예: 为他画像 (그를 위해 초상화를 그리다)\n- 예: 为了救母亲 (어머니를 구하기 위하여)"
+        }
+      ]
+    },
+    "pathways3": {
+      "id": "pathways3",
+      "name": "《Pathways 3》",
+      "author": "Billy Joseph Fitzgerald",
+      "category": "대학영어 2 (원어민 / 실질 60%)",
+      "vocab": [
+        {
+          "zh": "behavior",
+          "py": "[n · Unit 1]",
+          "kr": "the way someone or something acts (행동, 처신)",
+          "level": "Unit 1",
+          "note": "Even rats show human-like behavior in lab experiments."
+        },
+        {
+          "zh": "bond",
+          "py": "[n · Unit 1]",
+          "kr": "a feeling of connection with someone or something else (유대감, 결속)",
+          "level": "Unit 1",
+          "note": "People often form strong bonds with animals they interact with."
+        },
+        {
+          "zh": "cognitive",
+          "py": "[adj · Unit 1]",
+          "kr": "relating to thinking and understanding (인지적인)",
+          "level": "Unit 1",
+          "note": "Regular exercise can help with physical fitness and cognitive function."
+        },
+        {
+          "zh": "complex",
+          "py": "[adj · Unit 1]",
+          "kr": "involving a lot of different parts; difficult to understand (복잡한)",
+          "level": "Unit 1",
+          "note": "Some believe emotions like sadness are too complex for nonhuman species."
+        },
+        {
+          "zh": "controversial",
+          "py": "[adj · Unit 1]",
+          "kr": "causing disagreement (논란의 여지가 있는)",
+          "level": "Unit 1",
+          "note": "The idea that animals feel emotions is controversial and sparks intense debate."
+        },
+        {
+          "zh": "discipline",
+          "py": "[v · Unit 1]",
+          "kr": "to train someone to follow rules or codes of behavior (훈육하다, 규율을 따르게 하다)",
+          "level": "Unit 1",
+          "note": "One way to discipline children is to establish a quiet timeout."
+        },
+        {
+          "zh": "establish",
+          "py": "[v · Unit 1]",
+          "kr": "to create or start something that will last a long time (확립하다, 설립하다)",
+          "level": "Unit 1",
+          "note": "Children generally sleep better when parents establish a regular bedtime routine."
+        },
+        {
+          "zh": "extended family",
+          "py": "[n · Unit 1]",
+          "kr": "a group that includes uncles, cousins, grandparents, etc. (대가족)",
+          "level": "Unit 1",
+          "note": "Previously, it was common for extended families to live together in one home."
+        },
+        {
+          "zh": "gender",
+          "py": "[n · Unit 1]",
+          "kr": "the characteristics of being male or female (성별)",
+          "level": "Unit 1",
+          "note": "It is normal for children, regardless of gender, to fear separation."
+        },
+        {
+          "zh": "generally",
+          "py": "[adv · Unit 1]",
+          "kr": "usually (일반적으로, 대개)",
+          "level": "Unit 1",
+          "note": "Researchers observed that children generally respond well to consistent schedules."
+        },
+        {
+          "zh": "grief",
+          "py": "[n · Unit 1]",
+          "kr": "a very sad feeling (especially after someone dies) (비탄, 깊은 슬픔)",
+          "level": "Unit 1",
+          "note": "Some animals appear to express grief when a family member dies."
+        },
+        {
+          "zh": "intense",
+          "py": "[adj · Unit 1]",
+          "kr": "very great or extreme (극심한, 강렬한)",
+          "level": "Unit 1",
+          "note": "Children can experience an intense feeling of fear when lost."
+        },
+        {
+          "zh": "observe",
+          "py": "[v · Unit 1]",
+          "kr": "to notice something after looking closely (관찰하다, 목격하다)",
+          "level": "Unit 1",
+          "note": "Biologists observed wolves cooperating in complex social groups."
+        },
+        {
+          "zh": "previously",
+          "py": "[adv · Unit 1]",
+          "kr": "before the time period that you are talking about (이전에, 과거에)",
+          "level": "Unit 1",
+          "note": "Extended family households were far more common previously."
+        },
+        {
+          "zh": "recognition",
+          "py": "[n · Unit 1]",
+          "kr": "an understanding that something is true (인정, 인식)",
+          "level": "Unit 1",
+          "note": "There is a growing recognition that animal minds are sophisticated."
+        },
+        {
+          "zh": "repeatedly",
+          "py": "[adv · Unit 1]",
+          "kr": "occurring many times (반복해서, 여러 차례)",
+          "level": "Unit 1",
+          "note": "After doing this repeatedly, the animals mastered the maze."
+        },
+        {
+          "zh": "replace",
+          "py": "[v · Unit 1]",
+          "kr": "to have something new or different instead of the original (대체하다, 대신하다)",
+          "level": "Unit 1",
+          "note": "When birds shed feathers, new plumage grows to replace that which was lost."
+        },
+        {
+          "zh": "social structure",
+          "py": "[n · Unit 1]",
+          "kr": "the way a group of people or animals is organized (사회 구조, 집단 구조)",
+          "level": "Unit 1",
+          "note": "Elephants maintain a matriarchal social structure led by the oldest female."
+        },
+        {
+          "zh": "suffering",
+          "py": "[n · Unit 1]",
+          "kr": "pain, either mental or physical (고통, 괴로움)",
+          "level": "Unit 1",
+          "note": "The rats stopped pressing the lever to prevent the other rats suffering."
+        },
+        {
+          "zh": "treat",
+          "py": "[v · Unit 1]",
+          "kr": "to behave toward someone or something in a particular way (대우하다, 다루다)",
+          "level": "Unit 1",
+          "note": "Society has a moral duty to treat living creatures with compassion."
+        },
+        {
+          "zh": "aspect",
+          "py": "[n · Unit 3]",
+          "kr": "a part or side of something (측면, 양상)",
+          "level": "Unit 3",
+          "note": "One negative aspect of city living is chronic traffic congestion."
+        },
+        {
+          "zh": "barrier",
+          "py": "[n · Unit 3]",
+          "kr": "something that blocks movement or separates things (장벽, 방벽)",
+          "level": "Unit 3",
+          "note": "Coastal cities construct storm surge barriers to block ocean surges."
+        },
+        {
+          "zh": "canal",
+          "py": "[n · Unit 3]",
+          "kr": "an artificial waterway for boats or water conveyance (운하, 수로)",
+          "level": "Unit 3",
+          "note": "Venice is internationally famous for its historic canals."
+        },
+        {
+          "zh": "concentration",
+          "py": "[n · Unit 3]",
+          "kr": "a huge amount or number of something in one place (집중, 밀집)",
+          "level": "Unit 3",
+          "note": "Metropolitan areas feature a dense concentration of economic talent."
+        },
+        {
+          "zh": "construction",
+          "py": "[n · Unit 3]",
+          "kr": "the work or industry of building structures (건설, 공사)",
+          "level": "Unit 3",
+          "note": "Hundreds of architects and engineers work in the construction industry."
+        },
+        {
+          "zh": "dense",
+          "py": "[adj · Unit 3]",
+          "kr": "having a large amount of something close together (인구 밀도가 높은, 빽빽한)",
+          "level": "Unit 3",
+          "note": "Some megacities are extremely dense, housing thousands per square kilometer."
+        },
+        {
+          "zh": "fierce",
+          "py": "[adj · Unit 3]",
+          "kr": "powerful, violent, and aggressive (weather/storm) (사나운, 맹렬한)",
+          "level": "Unit 3",
+          "note": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
+        },
+        {
+          "zh": "growth",
+          "py": "[n · Unit 3]",
+          "kr": "the process of increasing (성장, 증가)",
+          "level": "Unit 3",
+          "note": "Rapid population growth forces municipal borders outward."
+        },
+        {
+          "zh": "income",
+          "py": "[n · Unit 3]",
+          "kr": "money that a person earns (소득, 수입)",
+          "level": "Unit 3",
+          "note": "Urban workers generally earn higher average incomes than agricultural labor."
+        },
+        {
+          "zh": "lower",
+          "py": "[v · Unit 3]",
+          "kr": "to move down or reduce the level/amount (낮추다, 내리다)",
+          "level": "Unit 3",
+          "note": "Hydraulic gates can lower or raise water levels during floods."
+        },
+        {
+          "zh": "occasional",
+          "py": "[adj · Unit 3]",
+          "kr": "happening from time to time, not regularly (가끔의, 때때로의)",
+          "level": "Unit 3",
+          "note": "What was once an occasional storm has now become an annual crisis."
+        },
+        {
+          "zh": "partially",
+          "py": "[adv · Unit 3]",
+          "kr": "partly, not completely (부분적으로)",
+          "level": "Unit 3",
+          "note": "During high tide, ground floors in Venice are partially submerged."
+        },
+        {
+          "zh": "productive",
+          "py": "[adj · Unit 3]",
+          "kr": "able to achieve a significant amount or result (생산적인)",
+          "level": "Unit 3",
+          "note": "Knowledge-sharing clusters make urban professionals far more productive."
+        },
+        {
+          "zh": "resident",
+          "py": "[n · Unit 3]",
+          "kr": "a person who lives in a particular place or area (거주자, 주민)",
+          "level": "Unit 3",
+          "note": "Every resident must be prepared for extreme weather occurrences."
+        },
+        {
+          "zh": "separate",
+          "py": "[v · Unit 3]",
+          "kr": "to keep apart or divide (분리하다, 떼어놓다)",
+          "level": "Unit 3",
+          "note": "Massive seawalls separate the rising ocean from inland residential zones."
+        },
+        {
+          "zh": "spread out",
+          "py": "[v · Unit 3]",
+          "kr": "to cover a huge area (넓게 퍼지다, 확산되다)",
+          "level": "Unit 3",
+          "note": "Metropolises continue to spread out into surrounding rural provinces."
+        },
+        {
+          "zh": "suburb",
+          "py": "[n · Unit 3]",
+          "kr": "areas outside of a large city that have homes and businesses (교외 주거지구)",
+          "level": "Unit 3",
+          "note": "Families often migrate to quiet suburbs seeking affordable single homes."
+        },
+        {
+          "zh": "temporarily",
+          "py": "[adv · Unit 3]",
+          "kr": "for a limited period of time; not permanently (일시적으로)",
+          "level": "Unit 3",
+          "note": "Stores had to close temporarily while municipal pumps drained floodwater."
+        },
+        {
+          "zh": "tend to",
+          "py": "[v · Unit 3]",
+          "kr": "to usually do something or be a certain way (~하는 경향이 있다)",
+          "level": "Unit 3",
+          "note": "Cities tend to offer superior healthcare and university facilities."
+        },
+        {
+          "zh": "urban",
+          "py": "[adj · Unit 3]",
+          "kr": "relating to a city (도시의)",
+          "level": "Unit 3",
+          "note": "The planet has crossed the threshold into an urban majority."
+        },
+        {
+          "zh": "alternative",
+          "py": "[n · Unit 5]",
+          "kr": "one option instead of another (대안, 양자택일)",
+          "level": "Unit 5",
+          "note": "Geotourism offers a sustainable alternative to destructive mass tourism."
+        },
+        {
+          "zh": "awareness",
+          "py": "[n · Unit 5]",
+          "kr": "knowledge that something exists (인식, 의식)",
+          "level": "Unit 5",
+          "note": "The campaign aims to raise environmental awareness among international travelers."
+        },
+        {
+          "zh": "comfort",
+          "py": "[n · Unit 5]",
+          "kr": "a state of ease or well-being (안락, 편안함)",
+          "level": "Unit 5",
+          "note": "Modern eco-lodges provide luxury and comfort without depleting energy."
+        },
+        {
+          "zh": "distinctive",
+          "py": "[adj · Unit 5]",
+          "kr": "special; very different (독특한, 구별되는)",
+          "level": "Unit 5",
+          "note": "Venice possesses a distinctive architecture shaped by its marine canals."
+        },
+        {
+          "zh": "earn a living",
+          "py": "[phr · Unit 5]",
+          "kr": "to get money to pay for things that you need (생계를 유지하다, 돈을 벌다)",
+          "level": "Unit 5",
+          "note": "Indigenous residents earn a living as official eco-tour guides."
+        },
+        {
+          "zh": "ecological",
+          "py": "[adj · Unit 5]",
+          "kr": "relating to the relationship between living things and their surroundings (생태학적인, 환경의)",
+          "level": "Unit 5",
+          "note": "Resorts must calculate their ecological footprint prior to development."
+        },
+        {
+          "zh": "economy",
+          "py": "[n · Unit 5]",
+          "kr": "the system by which a governments industry and money are organized (경제)",
+          "level": "Unit 5",
+          "note": "The local island economy relies almost exclusively on overseas visitors."
+        },
+        {
+          "zh": "enriching",
+          "py": "[adj · Unit 5]",
+          "kr": "providing more appreciation or enjoyment (풍요롭게 하는, 보람 있는)",
+          "level": "Unit 5",
+          "note": "Authentic cultural exchanges make travel far more enriching than sightseeing."
+        },
+        {
+          "zh": "harmful",
+          "py": "[adj · Unit 5]",
+          "kr": "damaging; dangerous (해로운, 유해한)",
+          "level": "Unit 5",
+          "note": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
+        },
+        {
+          "zh": "landmark",
+          "py": "[n · Unit 5]",
+          "kr": "a building or structure with historical or cultural significance (랜드마크, 유서 깊은 건축물)",
+          "level": "Unit 5",
+          "note": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
+        },
+        {
+          "zh": "maintain",
+          "py": "[v · Unit 5]",
+          "kr": "to keep at a certain level (유지하다, 보전하다)",
+          "level": "Unit 5",
+          "note": "Park authorities restrict tourist volume to maintain fragile trails."
+        },
+        {
+          "zh": "necessary",
+          "py": "[adj · Unit 5]",
+          "kr": "essential; required (필수적인, 필요한)",
+          "level": "Unit 5",
+          "note": "Strict quotas are necessary to protect ancient ruins from overtourism."
+        },
+        {
+          "zh": "objective",
+          "py": "[n · Unit 5]",
+          "kr": "a goal (목표, 목적)",
+          "level": "Unit 5",
+          "note": "A primary objective of geotourism is the preservation of geographic character."
+        },
+        {
+          "zh": "official",
+          "py": "[adj · Unit 5]",
+          "kr": "relating to a government or an organization (공식적인, 공인된)",
+          "level": "Unit 5",
+          "note": "All visitors must be escorted by official licensed indigenous guides."
+        },
+        {
+          "zh": "partnership",
+          "py": "[n · Unit 5]",
+          "kr": "a way of working with another person, group, or organization (협력 관계, 파트너십)",
+          "level": "Unit 5",
+          "note": "Sustainable travel requires an equal partnership between operators and locals."
+        },
+        {
+          "zh": "preserve",
+          "py": "[v · Unit 5]",
+          "kr": "to keep in a certain condition (보존하다, 지키다)",
+          "level": "Unit 5",
+          "note": "Nations establish marine sanctuaries to preserve endangered coral reefs."
+        },
+        {
+          "zh": "renewable",
+          "py": "[adj · Unit 5]",
+          "kr": "able to be replaced naturally (재생 가능한)",
+          "level": "Unit 5",
+          "note": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
+        },
+        {
+          "zh": "spiritual",
+          "py": "[adj · Unit 5]",
+          "kr": "relating to a higher purpose rather than just material needs (영적인, 정신적인)",
+          "level": "Unit 5",
+          "note": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
+        },
+        {
+          "zh": "sustainable",
+          "py": "[adj · Unit 5]",
+          "kr": "able to continue in the long-term (지속 가능한)",
+          "level": "Unit 5",
+          "note": "Sustainable tourism ensures heritage survives for future generations."
+        },
+        {
+          "zh": "vital",
+          "py": "[adj · Unit 5]",
+          "kr": "necessary or extremely important (필수적인, 극히 중대한)",
+          "level": "Unit 5",
+          "note": "Educating international guests on cultural etiquette is of vital importance."
+        }
+      ],
+      "qa": [
+        {
+          "question": "[Q1] A part or side of something.",
+          "answer": "정답: aspect (n) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+        },
+        {
+          "question": "[Q2] Involving a lot of different parts; difficult to understand.",
+          "answer": "정답: complex (adj) | 해설: Cengage 교재 Unit 1 p.4 공식 정의."
+        },
+        {
+          "question": "[Q3] Able to continue in the long-term without damaging the environment.",
+          "answer": "정답: sustainable (adj) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+        },
+        {
+          "question": "[Q4] To train someone to follow rules or codes of behavior.",
+          "answer": "정답: discipline (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+        },
+        {
+          "question": "[Q5] Having a large amount of something close together.",
+          "answer": "정답: dense (adj) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+        },
+        {
+          "question": "[Q6] A building or structure with historical or cultural significance.",
+          "answer": "정답: landmark (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+        },
+        {
+          "question": "[Q7] Pain, either mental or physical.",
+          "answer": "정답: suffering (n) | 해설: Cengage 교재 Unit 1 p.4 공식 정의 (grief는 사별 후 슬픔)."
+        },
+        {
+          "question": "[Q8] A way of working with another person, group, or organization.",
+          "answer": "정답: partnership (n) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+        },
+        {
+          "question": "[Q9] To notice something after looking closely.",
+          "answer": "정답: observe (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+        },
+        {
+          "question": "[Q10] A state of ease or well-being.",
+          "answer": "정답: comfort (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+        },
+        {
+          "question": "[Q11] After being hit by three storms, the harbor closed ______ while repairs completed.",
+          "answer": "정답: temporarily (adv) | 해설: 수리 기간 동안 한시적/일시적 폐쇄."
+        },
+        {
+          "question": "[Q12] Raising public ______ regarding recycling is a vital prerequisite for green cities.",
+          "answer": "정답: awareness (n) | 해설: 필수 콜로케이션 raise public awareness."
+        },
+        {
+          "question": "[Q13] Wild animals when threatened display unpredictable ______ that puts observers in danger.",
+          "answer": "정답: behavior (n) | 해설: 동물 행동 패턴 unpredictable behavior."
+        },
+        {
+          "question": "[Q14] Developing nations struggle with sprawl because cities continue to ______ into farmland.",
+          "answer": "정답: spread out (v) | 해설: 도시 외곽으로의 지리적 확산."
+        },
+        {
+          "question": "[Q15] In order to ______ the ancient temple from acid rain, authorities installed glass barriers.",
+          "answer": "정답: preserve (v) | 해설: 훼손으로부터 보존하다 preserve."
+        },
+        {
+          "question": "[Q16] [Reading 1 Main Idea] Betty the crow tool experiment.",
+          "answer": "정답: Betty the crow proved animals invent tools through cognitive planning rather than chance. | 해설: 까마귀의 도구 제작은 인지적 계획에 기초함."
+        },
+        {
+          "question": "[Q17] [Supporting Detail] Evidence of crow understanding physical cause-effect.",
+          "answer": "정답: The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve food. | 해설: 먹이를 꺼내기 전 도구를 먼저 가공함."
+        },
+        {
+          "question": "[Q18] [Reading 3 Detail] Major reason cities generate over 80% of global GDP.",
+          "answer": "정답: The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure. | 해설: 지식 공유와 규모의 경제."
+        },
+        {
+          "question": "[Q19] [Cause & Effect] Cause of sprawling informal settlements (slums).",
+          "answer": "정답: The failure of municipal governments to manage growth and provide affordable housing. | 해설: 도시 주택 관리 실패."
+        },
+        {
+          "question": "[Q20] [Reading 5 Problem] Initial prompt for Palau tourism policy shift.",
+          "answer": "정답: Mass tourism was severely damaging the islands coral reefs and marine ecosystem. | 해설: 과잉 관광의 산호초 파괴."
+        },
+        {
+          "question": "[Q21] [Reading 5 Fact] How Palau funds conservation partnerships with rangers.",
+          "answer": "정답: By collecting a mandatory green fee from foreign visitors. | 해설: 입국 관광객 green fee 징수."
+        },
+        {
+          "question": "[Q22] [Concept Definition] What is the Palau Pledge?",
+          "answer": "정답: A legal commitment signed by incoming visitors to protect the environment. | 해설: 여권에 서명하는 법적 환경 보호 서약."
+        },
+        {
+          "question": "[Q23] [Author Purpose] Primary purpose of Palau passage.",
+          "answer": "정답: Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism. | 해설: 지속 가능 관광 모델 제시."
+        },
+        {
+          "question": "[Q24] [Visual Analysis] Urbanization vs Population Growth data.",
+          "answer": "정답: Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth. | 해설: 비율(도시화율)과 증가율 대조."
+        },
+        {
+          "question": "[Q25] [Cause vs Effect Signal Words] Which signals a CAUSE?",
+          "answer": "정답: As a result of | 해설: As a result of 뒤에는 원인이 오며, Therefore/Consequently는 결과를 유도함."
+        },
+        {
+          "question": "[Q26] [Causal Analysis] Direct effect of ancient citadel stone degradation.",
+          "answer": "정답: Daily visitor admissions were restricted to 2,500. | 해설: 주절의 행정적 조치(입장 제한)가 직접적 결과임."
+        },
+        {
+          "question": "[Q27] [Grammar: if..., then...] Correct real conditional sentence.",
+          "answer": "정답: If tourists visit sensitive ecological reserves, then they will damage rare flora. | 해설: if절에는 현재시제(visit), 주절에는 will+동사원형."
+        },
+        {
+          "question": "[Q28] [Grammar: Comparison] Correct comparative structure.",
+          "answer": "정답: Wildlife tourism in Costa Rica is far more enriching than mass cruise travel. | 해설: more... than 구조 및 far 수식 완벽."
+        },
+        {
+          "question": "[Q29] [Essay Structure] Standard location of Thesis Statement.",
+          "answer": "정답: At the end of the introductory paragraph as the final sentence. | 해설: 서론 단락의 마지막 문장."
+        },
+        {
+          "question": "[Q30] [Paragraph Structure] Role of a Body Paragraph Topic Sentence.",
+          "answer": "정답: To state the main idea of that specific body paragraph and connect it to the essays central thesis. | 해설: 본론 중심 생각 제시 및 논지 연결."
+        }
+      ]
+    },
+    "knn_exam": {
+      "id": "knn_exam",
+      "name": "《Prism Reading 3》",
+      "author": "김나나 교수님 (KNN / 실질 30%)",
+      "category": "대학영어 2 (한국인)",
+      "qa": [
+        {
+          "question": "[Q1] [주제·대의 파악] We Need More Green Buildings 본문 핵심 요지",
+          "answer": "정답: ② While eco-buildings provide undeniable ecological benefits, realizing them broadly requires practical compromises between cost and sustainability. | 해설: 친환경 건물의 생태적 이점과 고비용 간의 실용적 절충안(compromise) 강조."
+        },
+        {
+          "question": "[Q2] [필자 주장] Form, Function, or Both? 필자의 궁극적 주장",
+          "answer": "정답: ④ True architectural excellence requires a balanced synthesis where aesthetic form and practical function complement each other. | 해설: 형태(form)와 기능(function)의 조화로운 통합 주장."
+        },
+        {
+          "question": "[Q3] [서술 방식] Energy Resource Fact Sheet의 구성 및 서술 방식",
+          "answer": "정답: ③ Comparing various renewable and non-renewable energy sources through technical definitions and environmental impacts. | 해설: 재생 및 비재생 에너지의 정의와 영향 비교."
+        },
+        {
+          "question": "[Q4] [중심 생각] We Must Maintain Our Natural Resources 중심 생각",
+          "answer": "정답: ② Urgent global cooperation and sustainable resource management are required to prevent catastrophic depletion. | 해설: 자원 고갈 방지를 위한 지속 가능 관리 및 글로벌 협력."
+        },
+        {
+          "question": "[Q5] [내용 일치 T/F] We Need More Green Buildings 세부 진술 판별",
+          "answer": "정답: 1-T, 2-F, 3-T, 4-F | 해설: 태양광 패널 등 초기 설치비는 기존 건물보다 비싸므로 2번은 False."
+        },
+        {
+          "question": "[Q6] [일치하지 않는 것] Form, Function, or Both? 내용 불일치",
+          "answer": "정답: ③ Louis Sullivan argued that functional requirements should always be sacrificed for aesthetic ornamentation. | 해설: 설리번은 '형태는 기능을 따른다(Form follows function)'를 주장했으므로 장식을 위해 기능을 희생하라는 진술은 정반대 오류."
+        },
+        {
+          "question": "[Q7] [신재생 에너지 팩트] 본문 내용 일치 선지 선택",
+          "answer": "정답: ① 태양광과 풍력은 온실가스를 배출하지 않으나 기후 조건에 따른 간헐성(intermittency) 문제를 가진다. | 해설: 신재생 에너지의 대표적 기술적 한계와 일치."
+        },
+        {
+          "question": "[Q8] [자원 보존 T/F] We Must Maintain Natural Resources 판별",
+          "answer": "정답: 1-T, 2-T, 3-F, 4-T | 해설: 화석연료는 무한 재생되지 않으므로 고갈 위험이 상존함."
+        },
+        {
+          "question": "[Q9] [연결어 빈칸] Green Buildings 단락 (A), (B) 연결어",
+          "answer": "정답: However (A) - Therefore (B) | 해설: (A) 친환경 이점 뒤 비용 문제 역접 However, (B) 절충안 도출 인과 Therefore."
+        },
+        {
+          "question": "[Q10] [연결어 빈칸] Architecture Form & Function (A), (B)",
+          "answer": "정답: On the other hand (A) - Consequently (B) | 해설: (A) 두 학파 대조 On the other hand, (B) 현대 건축 경향 유도 Consequently."
+        },
+        {
+          "question": "[Q11] [연결어 빈칸] Renewable Energy Transition (A), (B)",
+          "answer": "정답: In contrast (A) - In addition (B) | 해설: (A) 화석연료와 신재생 대조, (B) 추가적 생태 혜택 열거 In addition."
+        },
+        {
+          "question": "[Q12] [연결어 빈칸] Resource Conservation Policy (A), (B)",
+          "answer": "정답: Although (A) - Furthermore (B) | 해설: (A) 양보 부사절 Although, (B) 정책 강화 열거 Furthermore."
+        },
+        {
+          "question": "[Q13] [문장 순서 배열] Eco-building cost trade-off",
+          "answer": "정답: (B) - (A) - (C) | 해설: 초기 설치비 제시 (B) -> 운영비 절감 효과 (A) -> 장기적 회수 기간 (C)."
+        },
+        {
+          "question": "[Q14] [문장 순서 배열] Earthship construction method",
+          "answer": "정답: (C) - (A) - (B) | 해설: 폐타이어 등 재활용 자재 수집 (C) -> 흙 다지기 벽체 시공 (A) -> 자연 채광 설계 (B)."
+        },
+        {
+          "question": "[Q15] [단락 논리 배열] Wind turbine efficiency",
+          "answer": "정답: (D) - (B) - (A) - (C) | 해설: 풍력 에너지 기본 원리 -> 지형 조건 -> 터빈 배치 -> 송전망 연결."
+        },
+        {
+          "question": "[Q16] [단락 논리 배열] Resource depletion crisis",
+          "answer": "정답: (A) - (C) - (D) - (B) | 해설: 문제 제기 -> 원인 분석 -> 파급 효과 -> 국제 규제 제언."
+        },
+        {
+          "question": "[Q17] [영한 번역] Unit 5 Reading 1 핵심 구문",
+          "answer": "번역 모범답안: 친환경 자재를 도입하고 경제적으로 감당 가능한 건축물을 짓기 위해서는 실용적인 절충안이 반드시 수반되어야 한다. | 채점 포인트: incorporate, affordable, compromise 정확 번역."
+        },
+        {
+          "question": "[Q18] [영한 번역] Unit 5 Reading 2 핵심 구문",
+          "answer": "번역 모범답안: 건축가는 건물의 심미적 외관뿐만 아니라 거주자의 일상적 편의를 극대화하는 실용적 효용성을 동시에 고려해야 한다. | 채점 포인트: aesthetic exterior, practical utility 동시 반영."
+        },
+        {
+          "question": "[Q19] [영한 번역] Unit 6 Reading 1 핵심 구문",
+          "answer": "번역 모범답안: 신재생 에너지로의 전환은 막대한 초기 자본 투자를 요구하지만, 장기적인 탄소 배출 저감 효과는 이를 충분히 상쇄한다. | 채점 포인트: transition, offset, capital investment."
+        },
+        {
+          "question": "[Q20] [영한 번역] Unit 6 Reading 2 핵심 구문",
+          "answer": "번역 모범답안: 천연자원의 무분별한 채굴을 억제하지 않는다면, 미래 세대는 회복 불가능한 환경 파괴에 직면하게 될 것이다. | 채점 포인트: unchecked extraction, irreversible degradation."
+        },
+        {
+          "question": "[Q21] [지칭 추론] Unit 5 Reading 1: 'They'가 가리키는 대상",
+          "answer": "정답: Eco-buildings with advanced environmental features (고급 친환경 설비를 갖춘 친환경 건물들)."
+        },
+        {
+          "question": "[Q22] [지칭 추론] Unit 5 Reading 2: 'This approach'가 가리키는 내용",
+          "answer": "정답: Designing structures where form strictly follows practical functional demands (형태가 실용적 기능적 요구를 엄격히 따르도록 설계하는 접근법)."
+        },
+        {
+          "question": "[Q23] [지칭 추론] Unit 6 Reading 1: 'It'이 가리키는 대상",
+          "answer": "정답: Solar energy generated through photovoltaic panels (태양광 패널을 통해 생산된 태양 에너지)."
+        },
+        {
+          "question": "[Q24] [지칭 추론] Unit 6 Reading 2: 'These resources'가 가리키는 대상",
+          "answer": "정답: Non-renewable fossil fuels including oil, coal, and natural gas (석유, 석탄, 천연가스를 포함한 비재생 화석연료)."
         }
       ]
     },

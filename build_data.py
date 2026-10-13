@@ -916,13 +916,18 @@ weekly_courses = [
                 "time": "1~2교시",
                 "tasks": [{"title": "Presentation Script 피드백 및 발음 낭독 연습", "done": False}]
             },
-            {
+                        {
                 "id": "tue-college-eng",
-                "name": "College English 2",
-                "time": "3~4교시",
+                "name": "College English 2 (Billy Joseph Fitzgerald)",
+                "time": "5~6교시",
+                "room": "0508호",
+                "prof": "Billy Joseph Fitzgerald (원어민 / 성적비중 60%)",
+                "midterm_book": "Pathways 3 (Reading, Writing, and Critical Thinking)",
                 "tasks": [
-                    {"title": "In-Class Writing: 5문단 에세이(25문장) 한→영 영작 암기 및 키워드 Outline 완성", "done": False},
-                    {"title": "Unit 1 필수 어휘 6종 (interact, aware of, status, emulate, conflict, acquire) 영작 체화", "done": False}
+                    {"title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기", "done": False},
+                    {"title": "Reading 1 본문 3편(What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독", "done": False},
+                    {"title": "Cengage Test Bank 실전 모의고사 30문항 풀이 및 오답 점검", "done": False},
+                    {"title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 핵심 문장 암기", "done": False}
                 ]
             }
         ]
@@ -930,6 +935,19 @@ weekly_courses = [
     {
         "day": "수요일",
         "courses": [
+                        {
+                "id": "wed-college-eng",
+                "name": "College English 2 (김나나 교수님)",
+                "time": "4교시",
+                "room": "0508호",
+                "prof": "김나나 교수님 (KNN / 성적비중 30%)",
+                "midterm_book": "Prism Reading 3 (Unit 5 Architecture & Unit 6 Energy)",
+                "tasks": [
+                    {"title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 3단 대역 정독", "done": False},
+                    {"title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 3단 대역 정독", "done": False},
+                    {"title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리", "done": False}
+                ]
+            },
             {
                 "id": "wed-data-struct",
                 "name": "Data Structure (자료구조)",
@@ -1052,6 +1070,42 @@ app_data = {
                     "title": "개사 为(wèi)의 대상·수혜 용법",
                     "desc": "구조: 为 + 대상 + 동사구 ('~를 위하여 / ~를 대상으로')\n- 예: 为他画像 (그를 위해 초상화를 그리다)\n- 예: 为了救母亲 (어머니를 구하기 위하여)"
                 }
+            ]
+        },
+                "pathways3": {
+            "id": "pathways3",
+            "name": "《Pathways 3》",
+            "author": "Billy Joseph Fitzgerald",
+            "category": "대학영어 2 (원어민 / 실질 60%)",
+            "vocab": [
+                {
+                    "zh": v["word"],
+                    "py": f"[{v['pos']} · {v['unit']}]",
+                    "kr": f"{v['def_en']} ({v['kr']})",
+                    "level": v["unit"],
+                    "note": v["ex"]
+                }
+                for v in json.load(open(os.path.join(BASE_PARENT, "data", "english", "pathways3_vocab.json"), encoding="utf-8"))
+            ],
+            "qa": [
+                {
+                    "question": item["q"],
+                    "answer": item["a"]
+                }
+                for item in json.load(open(os.path.join(BASE_PARENT, "data", "english", "billy_exam.json"), encoding="utf-8"))
+            ]
+        },
+        "knn_exam": {
+            "id": "knn_exam",
+            "name": "《Prism Reading 3》",
+            "author": "김나나 교수님 (KNN / 실질 30%)",
+            "category": "대학영어 2 (한국인)",
+            "qa": [
+                {
+                    "question": item["q"],
+                    "answer": item["a"]
+                }
+                for item in json.load(open(os.path.join(BASE_PARENT, "data", "english", "knn_exam.json"), encoding="utf-8"))
             ]
         },
         "portrait": {
