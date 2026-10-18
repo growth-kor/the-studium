@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "nkj57QItYPy+W39dh5BCqg==",
-    "iv": "ZqUTz+0eMZpngGFC",
-    "ciphertext": "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"
+    "salt": "ZLDW2Nn6pFDae67ytLbLQA==",
+    "iv": "i0r7kPajk+97DqWT",
+    "ciphertext": "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"
   },
   "weekly_courses": [
     {
@@ -1824,6 +1824,126 @@ var HUFS_DATA = {
             }
           ],
           "rubric": "이동 순서 7단계 중 하나라도 틀리면 부분 감점. 점화식 등비수열 합 계산 과정이 누락되면 감점."
+        },
+        {
+          "id": "ds-p8",
+          "num": 8,
+          "title": "[구름 과제 5.20] 두 개의 스택을 이용한 큐(Queue) ADT 구현 및 분할 상환 분석",
+          "question": "두 개의 스택 S1(입력 전용)과 S2(출력 전용)를 사용하여 큐의 enqueue와 dequeue 연산을 구현하시오.\n\n[소문제 8-1] enqueue(val)과 dequeue() 함수의 동작 원리를 서술하고 핵심 파이썬 코드를 작성하시오.\n[소문제 8-2] 다음 연산 시퀀스를 수행할 때, 각 단계별 S1과 S2의 내부 상태를 표로 추적하시오.\n- enqueue(1) -> enqueue(2) -> enqueue(3) -> dequeue() -> dequeue() -> enqueue(4) -> dequeue()\n[소문제 8-3] dequeue 연산의 최악(Worst-case) 시간 복잡도와 분할 상환(Amortized) 시간 복잡도를 유도하고 그 차이를 설명하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "8-1",
+              "sub_title": "스택 2개 큐 동작 원리 및 파이썬 구현",
+              "solution": "동작 원리:\n- enqueue: 새 원소를 입력 스택 S1에 무조건 푸시(push)한다.\n- dequeue: 출력 스택 S2가 비어있지 않다면 S2에서 팝(pop)하여 반환한다. 만약 S2가 비어있다면 S1의 모든 원소를 하나씩 꺼내어 S2에 푸시(이 과정에서 역순이 되어 FIFO 순서가 됨)한 후 S2에서 팝하여 반환한다.\n\n파이썬 코드:\n```python\nS1 = queue.LifoQueue()\nS2 = queue.LifoQueue()\n\ndef enqueue(val):\n    S1.put(val)\n\ndef dequeue():\n    if S2.empty():\n        if S1.empty():\n            return None  # Underflow 방어\n        while not S1.empty():\n            S2.put(S1.get())\n    return S2.get()\n```"
+            },
+            {
+              "sub_num": "8-2",
+              "sub_title": "연산 시퀀스별 S1, S2 상태 추적 표",
+              "solution": "연산별 상태 추적 (스택의 아래->위 순서 표기):\n1. enqueue(1): S1=[1], S2=[]\n2. enqueue(2): S1=[1, 2], S2=[]\n3. enqueue(3): S1=[1, 2, 3], S2=[]\n4. dequeue(): S2가 비었으므로 S1 원소를 모두 S2로 이동 (S1=[] -> S2=[3, 2, 1]). 이후 S2에서 팝 -> 반환값 1. 최종 S1=[], S2=[3, 2]\n5. dequeue(): S2가 비어있지 않으므로 S2에서 바로 팝 -> 반환값 2. 최종 S1=[], S2=[3]\n6. enqueue(4): S1=[4], S2=[3]\n7. dequeue(): S2가 비어있지 않으므로 S2에서 바로 팝 -> 반환값 3. 최종 S1=[4], S2=[]"
+            },
+            {
+              "sub_num": "8-3",
+              "sub_title": "최악 시간 복잡도 vs 분할 상환 O(1) 증명",
+              "solution": "최악 시간 복잡도: O(N)\n- S2가 비어있고 S1에 N개의 원소가 차 있을 때 dequeue를 호출하면, S1에서 N개를 꺼내 S2로 옮겨야 하므로 O(N)의 시간이 소요된다.\n\n분할 상환(Amortized) 시간 복잡도: O(1)\n- 임의의 원소 하나 입장에서 일생을 추적하면:\n  1) S1에 삽입될 때 푸시 1회\n  2) S2로 이동할 때 팝 1회 + 푸시 1회\n  3) 최종 dequeue될 때 팝 1회\n- 즉, 원소 1개당 스택 기본 연산은 총 4회를 초과할 수 없다. 따라서 N개의 연산 시퀀스 전체 비용은 최대 4N이며, 연산당 평균 비용(분할 상환 비용)은 4N / N = O(1)이다."
+            }
+          ],
+          "rubric": "S2가 비었을 때만 S1에서 이동해야 함을 명시하지 않고 매번 이동하면 -3점. 분할 상환 증명에서 원소 1개당 최대 4회 연산 논리가 빠지면 -2점."
+        },
+        {
+          "id": "ds-p9",
+          "num": 9,
+          "title": "[구름 과제 2.17] 재귀 호출 트리(drawTree) 분할 정복 및 시간 복잡도",
+          "question": "완전 이진 트리 맵을 재귀적으로 그리는 drawTree 함수에 대해 분석하시오.\n```python\ndef drawTree(row, left, right):\n    mid = (left + right) // 2\n    if left <= right and row < ROWS:\n        map[row][mid] = 1\n        drawTree(row + 1, left, mid - 1)\n        drawTree(row + 1, mid + 1, right)\n```\n\n[소문제 9-1] left=0, right=7, ROWS=4일 때, drawTree(0, 0, 7)의 호출 트리와 각 노드에 찍히는 (row, mid) 좌표를 유도하시오.\n[소문제 9-2] 재귀 탈출 기저 조건(Base Case)과 분할 정복(Divide and Conquer) 원리를 설명하시오.\n[소문제 9-3] 이 함수의 전체 시간 복잡도와 호출되는 총 함수 호출 횟수를 N(트리의 너비)과 H(트리의 높이)의 관점에서 분석하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "9-1",
+              "sub_title": "호출 트리 및 (row, mid) 좌표 유도",
+              "solution": "호출 깊이별 좌표 전개:\n- row=0: drawTree(0, 0, 7) -> mid=(0+7)//2=3 -> 좌표 (0, 3)\n  * 좌측 서브트리: drawTree(1, 0, 2) -> mid=(0+2)//2=1 -> 좌표 (1, 1)\n    - 좌: drawTree(2, 0, 0) -> mid=0 -> 좌표 (2, 0)\n    - 우: drawTree(2, 2, 2) -> mid=2 -> 좌표 (2, 2)\n  * 우측 서브트리: drawTree(1, 4, 7) -> mid=(4+7)//2=5 -> 좌표 (1, 5)\n    - 좌: drawTree(2, 4, 4) -> mid=4 -> 좌표 (2, 4)\n    - 우: drawTree(2, 6, 7) -> mid=(6+7)//2=6 -> 좌표 (2, 6)\n- row=3 단계에서는 남은 리프 노드들이 찍히며 총 8개의 이진 탐색 트리 구조를 완성함."
+            },
+            {
+              "sub_num": "9-2",
+              "sub_title": "기저 조건 및 분할 정복 원리 서술",
+              "solution": "기저 조건: left > right이거나 row >= ROWS일 때 재귀가 멈춘다.\n분할 정복 원리: 전체 구간 [left, right]의 정중앙 mid = (left + right) // 2에 현재 루트 노드를 표시한 뒤, 문제를 좌측 절반 [left, mid - 1]과 우측 절반 [mid + 1, right]의 두 독립된 하위 문제로 동일하게 분할하여 자식 행(row + 1)에 재귀 호출로 위임한다."
+            },
+            {
+              "sub_num": "9-3",
+              "sub_title": "시간 복잡도 및 호출 횟수 분석",
+              "solution": "호출 횟수: 각 노드마다 좌우 2회 분기하므로, 깊이 H에서 최대 2^0 + 2^1 + ... + 2^(H-1) = 2^H - 1 개의 노드를 방문한다. N=64인 경우 약 63개의 노드가 찍힌다.\n시간 복잡도: 각 노드에서 상수 시간 O(1) 연산만 수행하므로 총 시간 복잡도는 방문하는 노드 수에 비례하여 O(N)이다."
+            }
+          ],
+          "rubric": "mid 계산식 정수 나눗셈 // 누락 시 -1점. 기저 조건의 row 경계 검사 누락 시 -2점."
+        },
+        {
+          "id": "ds-p10",
+          "num": 10,
+          "title": "[구름 과제 4.18/4.19] 스택 기반 괄호 쌍 검사(CheckBrackets) 오류 3대 조건",
+          "question": "스택을 사용한 괄호 매칭 검사 알고리즘의 동작 원리와 오류 판정 기준을 서술하시오.\n\n[소문제 10-1] 괄호 검사 알고리즘이 위반으로 판정하는 3가지 조건(조건 1, 조건 2, 조건 3)을 정확히 기술하시오.\n[소문제 10-2] 수식 `a{b[(c+d)*e]+f}`와 `x[y(z]w)`에 대한 스택 검사 과정을 손추적하고 합격/불합격 여부 및 위반 조건을 판정하시오.\n[소문제 10-3] [연습문제 4.19] 파이썬 소스 코드(.py)를 읽어 괄호 검사를 수행할 때 발생할 수 있는 허위 오류(False Negative)의 원인 2가지와 이를 방어하는 전처리 방안을 서술하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "10-1",
+              "sub_title": "괄호 검사 3대 위반 조건",
+              "solution": "조건 1: 여는 괄호의 개수와 닫는 괄호의 개수가 일치하지 않는 경우 (검사 종료 후 스택이 비어있지 않음).\n조건 2: 같은 종류의 괄호에서 여는 괄호보다 닫는 괄호가 먼저 나오는 경우 (닫는 괄호를 만났을 때 스택이 이미 비어있음).\n조건 3: 서로 다른 종류의 괄호 쌍이 교차하여 짝이 맞지 않는 경우 (닫는 괄호를 만났을 때 스택에서 꺼낸 여는 괄호와 종류가 다름)."
+            },
+            {
+              "sub_num": "10-2",
+              "sub_title": "수식별 스택 손추적 및 판정",
+              "solution": "1. a{b[(c+d)*e]+f} 검사:\n- { 푸시 -> [ 푸시 -> ( 푸시 -> 스택=[ {, [, ( ]\n- ) 만남 -> 팝 -> (와 매칭 성공 -> 스택=[ {, [ ]\n- ] 만남 -> 팝 -> [와 매칭 성공 -> 스택=[ { ]\n- } 만남 -> 팝 -> {와 매칭 성공 -> 스택=[ ]\n- 문자열 종료 후 스택 isEmpty() == True -> 합격(Valid).\n\n2. x[y(z]w) 검사:\n- [ 푸시 -> ( 푸시 -> 스택=[ [, ( ]\n- ] 만남 -> 팝 -> 꺼낸 괄호는 (인데 현재 괄호는 ]임 -> 짝 불일치로 즉시 중단 -> 불합격 (조건 3 위반)."
+            },
+            {
+              "sub_num": "10-3",
+              "sub_title": "파이썬 코드 괄호 검사 예외 원인 및 방어 방안",
+              "solution": "예외 원인 2가지:\n1) 문자열 리터럴 내부의 괄호: 큰따옴표나 작은따옴표 안에 들어있는 문장 속 괄호는 문법적 괄호가 아니지만 스택에 들어가 오류를 유발함.\n2) 주석(#) 내부의 괄호: 해시 기호 뒤의 설명문에 포함된 괄호 역시 실제 실행 문법이 아니므로 무시해야 함.\n\n방어 방안: 소스코드를 한 글자씩 파싱할 때 현재 상태 플래그(in_string, in_comment)를 유지하여, 주석이나 따옴표 내부의 괄호는 스택 푸시 대상에서 완전히 제외하도록 전처리 필터링한다."
+            }
+          ],
+          "rubric": "3대 조건 중 1개라도 누락되면 개당 -1점. 주석 및 따옴표 방어 플래그 서술 누락 시 -2점."
+        },
+        {
+          "id": "ds-p11",
+          "num": 11,
+          "title": "[구름 과제 5.21] 원형 큐 기반 피보나치 수열 슬라이딩 윈도우 계산",
+          "question": "피보나치 수열 F(n) = F(n-1) + F(n-2)을 큐(Queue)를 이용하여 계산하는 알고리즘을 분석하시오.\n\n[소문제 11-1] 피보나치 수열을 단순 재귀(Recursion)로 계산할 때 발생하는 비효율성의 원인과 시간 복잡도를 명시하고, 큐를 사용할 때의 시간 및 공간 복잡도를 비교하시오.\n[소문제 11-2] F(0)=0, F(1)=1이 초기화된 큐에서 F(2)부터 F(5)까지 계산되는 과정을 큐의 enqueue, dequeue 연산과 함께 단계별로 서술하시오.\n[소문제 11-3] 원형 큐(Circular Queue)에서 공백(isEmpty)과 포화(isFull) 상태를 구분하기 위해 배열의 한 칸을 비워두는 이유를 수식과 함께 설명하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "11-1",
+              "sub_title": "재귀 비효율성 vs 큐 슬라이딩 윈도우 복잡도 비교",
+              "solution": "단순 재귀의 문제점:\n- 동일한 하위 문제(예: F(3), F(2))를 수없이 중복 호출하여 호출 트리가 지수적으로 폭발함.\n- 시간 복잡도: O(2^n)\n\n큐를 이용한 개선:\n- 큐에 직전 두 개의 값만 보관하면서 1회 덧셈 후 이전 값을 버리는 슬라이딩 윈도우 방식을 취함.\n- 시간 복잡도: n번의 루프만 돌면 되므로 O(n)\n- 공간 복잡도: 큐의 크기가 항상 2~3개 이하로 유지되므로 O(1)."
+            },
+            {
+              "sub_num": "11-2",
+              "sub_title": "F(2)~F(5) 큐 연산 단계별 손추적",
+              "solution": "초기 상태: Q.enqueue(0), Q.enqueue(1) -> 큐=[0, 1]\n- i=2: a = Q.dequeue() (0 꺼냄), b = Q.peek() (1 확인) -> val = 0 + 1 = 1 -> Q.enqueue(1) -> 큐=[1, 1], F(2)=1\n- i=3: a = Q.dequeue() (1 꺼냄), b = Q.peek() (1 확인) -> val = 1 + 1 = 2 -> Q.enqueue(2) -> 큐=[1, 2], F(3)=2\n- i=4: a = Q.dequeue() (1 꺼냄), b = Q.peek() (2 확인) -> val = 1 + 2 = 3 -> Q.enqueue(3) -> 큐=[2, 3], F(4)=3\n- i=5: a = Q.dequeue() (2 꺼냄), b = Q.peek() (3 확인) -> val = 2 + 3 = 5 -> Q.enqueue(5) -> 큐=[3, 5], F(5)=5"
+            },
+            {
+              "sub_num": "11-3",
+              "sub_title": "원형 큐 한 칸 비워두는 이유 및 수식",
+              "solution": "한 칸을 비워두는 이유:\n- 만약 모든 칸을 채우면 front와 rear가 같은 위치(front == rear)가 되었을 때 이것이 큐가 완전히 비어있는 공백 상태인지, 아니면 가득 차서 한 바퀴 돌아 만난 포화 상태인지 구별할 수 없게 된다.\n- 해결책: 한 칸을 사용하지 않고 비워둠으로써 상태를 엄격히 분리한다.\n  * 공백 상태: front == rear\n  * 포화 상태: front == (rear + 1) % capacity"
+            }
+          ],
+          "rubric": "원형 큐 포화 수식에 % capacity 누락 시 -1점. 재귀 O(2^n)과 큐 O(n) 복잡도 미기재 시 -2점."
+        },
+        {
+          "id": "ds-p12",
+          "num": 12,
+          "title": "[구름 과제 5.23] 정렬된 배열 기반 우선순위 큐(PQueueSorted) 구현 및 복잡도 비교",
+          "question": "파이썬 리스트를 사용하여 정렬된 상태를 유지하는 우선순위 큐(Priority Queue)를 구현하고 시간 복잡도를 분석하시오.\n\n[소문제 12-1] 정렬되지 않은 배열(Unsorted Array)과 정렬된 배열(Sorted Array)로 우선순위 큐를 구현할 때, enqueue와 dequeue의 시간 복잡도(Big-O)를 비교하는 표를 작성하시오.\n[소문제 12-2] 다음 PQueueSorted 클래스의 enqueue(item) 메서드의 핵심 로직을 파이썬 코드로 작성하시오.\n[소문제 12-3] 초기 상태가 빈 우선순위 큐에 [1, 34, 18, 27, 45, 15]를 순서대로 enqueue할 때 내부 items 리스트의 상태 변화를 추적하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "12-1",
+              "sub_title": "우선순위 큐 구현 방식별 시간 복잡도 비교",
+              "solution": "| 구현 방식 | enqueue(삽입) | dequeue(우선순위 최고값 삭제) | peek(최고값 조회) |\n| :--- | :---: | :---: | :---: |\n| 정렬되지 않은 배열 | O(1) (맨 뒤에 추가) | O(n) (전체 순회하여 최댓값 탐색) | O(n) |\n| 정렬된 배열 (오름차순) | O(n) (삽입 정렬 위치 탐색 및 시프트) | O(1) (맨 뒤 원소 pop) | O(1) |"
+            },
+            {
+              "sub_num": "12-2",
+              "sub_title": "정렬 배열 enqueue 핵심 코드",
+              "solution": "```python\ndef enqueue(self, item):\n    pos = len(self.items) - 1\n    # 뒤에서부터 순회하며 item보다 큰 원소는 건너뜀\n    while pos >= 0 and self.items[pos] > item:\n        pos -= 1\n    # 올바른 위치에 삽입 (정렬 상태 유지)\n    self.items.insert(pos + 1, item)\n\ndef dequeue(self):\n    if not self.isEmpty():\n        return self.items.pop(-1)  # 맨 뒤 최댓값 O(1)에 삭제\n```"
+            },
+            {
+              "sub_num": "12-3",
+              "sub_title": "삽입 단계별 items 내부 상태 추적",
+              "solution": "오름차순 정렬 상태 추적:\n1. enqueue(1) -> [1]\n2. enqueue(34) -> [1, 34]\n3. enqueue(18) -> 34보다 작고 1보다 크므로 1과 34 사이에 삽입 -> [1, 18, 34]\n4. enqueue(27) -> 34보다 작고 18보다 크므로 18과 34 사이에 삽입 -> [1, 18, 27, 34]\n5. enqueue(45) -> 34보다 크므로 맨 뒤에 삽입 -> [1, 18, 27, 34, 45]\n6. enqueue(15) -> 1과 18 사이에 삽입 -> [1, 15, 18, 27, 34, 45]\n이후 dequeue() 호출 시 맨 뒤에서부터 45, 34, 27, 18, 15, 1 순으로 최고 우선순위가 O(1)에 반환된다."
+            }
+          ],
+          "rubric": "시간 복잡도 비교 표에서 O(1)과 O(n)이 뒤바뀌면 -3점. insert(pos + 1) 인덱스 오류 시 -1점."
         }
       ],
       "vocab": [
