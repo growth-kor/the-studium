@@ -19,9 +19,7 @@
     }
     if ('caches' in window) {
       caches.keys().then(names => {
-        for (const name of names) {
-          if (name !== 'studium-v20261018-v4') caches.delete(name);
-        }
+        for (const name of names) caches.delete(name);
       });
     }
     // Auto-wipe stale local storage tasks
@@ -32,7 +30,7 @@
       }
     } catch (e) {}
   </script>
-  <link rel="stylesheet" href="./css/style.css?v=20261018_2245">
+  <link rel="stylesheet" href="./css/style.css?v=20261018_2355">
 </head>
 <body>
 
@@ -387,7 +385,7 @@
   </nav>
 
   <!-- Script -->
-  <script src="./data.js?v=20261018_2245"></script>
-  <script src="./js/app.js?v=20261018_2245"></script>
+  <script src="./data.js?v=20261018_2355"></script>
+  <script src="./js/app.js?v=20261018_2355"></script>
 </body>
 </html>

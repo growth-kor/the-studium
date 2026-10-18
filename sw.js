@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studium-v20261018-v4-hotfix';
+const CACHE_NAME = 'studium-v20261018-v5-clean';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
