@@ -10,6 +10,28 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <script>
+    // Universal Cache & SW Nuker for instant update
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(regs => {
+        for (const reg of regs) reg.unregister();
+      });
+    }
+    if ('caches' in window) {
+      caches.keys().then(names => {
+        for (const name of names) {
+          if (name !== 'studium-v20261018-v4') caches.delete(name);
+        }
+      });
+    }
+    // Auto-wipe stale local storage tasks
+    try {
+      const cachedSched = localStorage.getItem('studium_unlocked_schedule');
+      if (cachedSched && cachedSched.includes('Presentation Script')) {
+        localStorage.removeItem('studium_unlocked_schedule');
+      }
+    } catch (e) {}
+  </script>
   <link rel="stylesheet" href="./css/style.css?v=20261018_2245">
 </head>
 <body>
