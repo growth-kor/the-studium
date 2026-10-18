@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "ZLDW2Nn6pFDae67ytLbLQA==",
-    "iv": "i0r7kPajk+97DqWT",
-    "ciphertext": "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"
+    "salt": "lmoHKAkDgtpDvjYxRwd3Tg==",
+    "iv": "ym3v6JptZpD28T/+",
+    "ciphertext": "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"
   },
   "weekly_courses": [
     {
@@ -818,14 +818,14 @@ var HUFS_DATA = {
           "num": 1,
           "question": "[Q1] According to Chapter 5, which of the following accurately describes the Four Stages of Skill Development when learning reflective listening?",
           "options": [
-            "Curiosity $\\rightarrow$ Intellectual mastery $\\rightarrow$ Emotional detachment $\\rightarrow$ Unstructured spontaneity",
-            "Feeling guilty about past roadblocks $\\rightarrow$ Feeling wooden, artificial, and phony $\\rightarrow$ Feeling skillful $\\rightarrow$ Becoming integrated and virtually automatic",
-            "Skepticism $\\rightarrow$ Parroting exact words $\\rightarrow$ Advising and coaching $\\rightarrow$ Autonomous problem-solving",
-            "Passive silence $\\rightarrow$ Mechanical questioning $\\rightarrow$ Sympathetic agreement $\\rightarrow$ Natural leadership"
+            "Curiosity → Intellectual mastery → Emotional detachment → Unstructured spontaneity",
+            "Feeling guilty about past roadblocks → Feeling wooden, artificial, and phony → Feeling skillful → Becoming integrated and virtually automatic",
+            "Skepticism → Parroting exact words → Advising and coaching → Autonomous problem-solving",
+            "Passive silence → Mechanical questioning → Sympathetic agreement → Natural leadership"
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "기술 습득 4단계: 죄책감(`Guilty`) $\\rightarrow$ 어색함·가식성(`Wooden, artificial, phony`) $\\rightarrow$ 능숙함(`Skillful`) $\\rightarrow$ 통합 및 자동화(`Integrated & virtually automatic`)."
+          "explanation": "기술 습득 4단계: 죄책감(`Guilty`) → 어색함·가식성(`Wooden, artificial, phony`) → 능숙함(`Skillful`) → 통합 및 자동화(`Integrated & virtually automatic`)."
         },
         {
           "id": "adv-q2",
@@ -28561,15 +28561,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-2-23",
-        "num": "2.23",
-        "question": "): 5 아닙니다 숫자입니다 ! 숫자른 바 니당세 요 60.7: 65 숫자입니다 오지한 편하세 요여 맞추셨습니다. 정답입니다 . 게임이 끝났습니다. 계속하려면아무키나노르십시오. ,",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-2-24",
         "num": "2.24",
         "question": "6* 높이를입력받아다음과같은숫자피라미드를출력하는다음게 임( ? 을만들어보자먼 저숫자가출력되는규칙을잘찾아보라 e Cwwe.OOwS#systam32wcmd.eze 미라미드의높이를입력하세요: 7",
@@ -28588,27 +28579,9 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-2-26",
-        "num": "2.26",
-        "question": "1 1$ 계속하려면아",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-2-27",
         "num": "2.27",
         "question": "중루프를사용한다바깥루프는세로를나타내고높이만큼반복하면된다 내부루프는한줄에서의위치를나타낸다한줄에서의출력은세부분으로나누어 야할것이다맨처음공백을적절히출력한다다음으로숫자가증가하는방향으로 출력하고마지막으로감소하는방향으로숫자를출력한다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-28",
-        "num": "2.28",
-        "question": "*다음과같은모양을출력하는순환적인함수를작성하여하라이함수의원형 p ototype) 은다음과같다 ow X를그리는행을표시한다가장위에있는행이 이고아래로내려갈수록 숫 자는증가한다고생각하자 ef 와 gh 각각주어진영역의왼쪽끝과오른쪽끝을나타낸다 l e aalC:WWINDOWS#system32#cmd.exe X -X- --X-------x- ------------x- -x---x---x--x---x---x---x---x---x--x--x--x-x----х- x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-х- 계속하려면아무키나누르십시오",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -28890,10 +28863,10 @@ var DS_QUIZ_DATA = [
       {
         "id": "ds-3-24",
         "num": "3.24",
-        "question": "3 = 3 coef=[10,0,0,0,6,3] 방법1: /)-1005+000+083+0zt651te0 f =[ , , , , , 0 ] coef=[3,6,0,0,0,10] 방법2: ][0] ](1] ][2] ](3] ][4] )[5) 방법1이더직관적으로보이지만다항식의여러가지연산을구현하는데는오히려방법2 가더편리할것이다왜냐하면리스트항목의인덱스가그항목이나타내는항의자수와 같기때문이다구현에는어느방법을사용해도좋다구현된클래스의테스트코드와실행 결과예는다음과같다 #키보드로다항식a를입력받음 =) a=read_poly() b =) b=read_poly() c =) c=a.add(b) a #키보드로다항식b를입력받음 # c at b.멤버함수호출방법에유 의 #멤버할수호출방법에유의 = .display(\"A(x)=\") =) .display(\"B(x)=\") = .display(\"()=\") \" ) =, ) print(\"C(2)=\",c.eval(2)) #다항식c의미지수에2를대입한결과계산및출력 ロ e C#WNDOWS#system32#cmd.exe 다항식의최고자수를입력하시오: 2 x 2의계수: 5 x 1 의계수 * ^0의계수 3-3 다항식의최고자수를입력하시오: 3 x^3의계수2:2 x 2의계수 6-6 x 1의계 수 : 0 x 0 의계수 4-4 )A(x)= 0 x 2 * 5.0x2* 0 x 1 -3.0x1 B) B(x) 0 * 2.0x*3* 0 2 -6.0x*2 닭",
+        "question": "배열 리스트를 이용하여 다항식(Polynomial) 클래스를 구현하라. 두 다항식의 덧셈 연산 add(poly)와 미지수 x에 특정 값을 대입하여 값을 계산하는 eval(x) 연산의 원리를 설명하시오.",
         "options": [],
         "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
+        "explanation": "다항식 계수(coefficient)를 배열 인덱스로 매핑하여 add() 호출 시 차수별 덧셈을 수행하고, eval(x)는 호너의 법칙(Horner's rule) 또는 거듭제곱을 순회 계산하여 결과를 도출합니다.",
         "type": "short"
       },
       {
@@ -28914,15 +28887,6 @@ var DS_QUIZ_DATA = [
     "page_range": "p.161~164",
     "question_count": 24,
     "questions": [
-      {
-        "id": "ds-4-1",
-        "num": "4.1",
-        "question": "5 문",
-        "options": [],
-        "answer": 1,
-        "explanation": "스택(Stack)은 가장 나중에 들어온 데이터가 가장 먼저 나가는 LIFO(Last-In First-Out, 후입선출) 구조입니다.",
-        "type": "short"
-      },
       {
         "id": "ds-4-2",
         "num": "4.2",
@@ -29054,15 +29018,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-4-15",
-        "num": "4.15",
-        "question": "5 CHA",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-4-16",
         "num": "4.16",
         "question": "다음과같은중위식( nf x) 표현을후위식 postf x 으로변환하라 *C (1)(A/B)*C A + - + (3)(X+Y)-(W*Z)/V W + +",
@@ -29133,15 +29088,6 @@ var DS_QUIZ_DATA = [
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
         "type": "short"
-      },
-      {
-        "id": "ds-4-24",
-        "num": "4.24",
-        "question": "28571 628",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   },
@@ -29186,15 +29132,6 @@ var DS_QUIZ_DATA = [
         "options": [],
         "answer": 2,
         "explanation": "스택 2개를 이용하면 큐(FIFO)를 완벽하게 구현할 수 있습니다. (하나의 스택에 push하고 다른 스택에서 pop하여 순서를 뒤집음).",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-4",
-        "num": "5.4",
-        "question": "2 2 ④",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
         "type": "short"
       },
       {
@@ -29953,15 +29890,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-7-19",
-        "num": "7.19",
-        "question": "7 .",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-7-20",
         "num": "7.20",
         "question": "정렬된리스트로집합을구현하는경우원소의포함여부를검사하는c onta ns0 연산을 보다효율적으로처리할수있다. 코",
@@ -29974,15 +29902,6 @@ var DS_QUIZ_DATA = [
         "id": "ds-7-21",
         "num": "7.21",
         "question": "의Array Set의원소들이7.3절과같이오름차순 으로정렬되어있다고가정하고개선된c 드3. onta ns0 연산을구현해보라이진탐색을사 용할수있을것이다 리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-22",
-        "num": "7.22",
-        "question": "트리란?",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -30010,15 +29929,6 @@ var DS_QUIZ_DATA = [
         "id": "ds-7-25",
         "num": "7.25",
         "question": "이진트리응용모스코드결정트리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-26",
-        "num": "7.26",
-        "question": "5힙트리",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -30392,24 +30302,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-9-5",
-        "num": "9.5",
-        "question": "1 2",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-6",
-        "num": "9.6",
-        "question": "1 1",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-9-7",
         "num": "9.7",
         "question": "이트리에7을추가하면트리는어떻게될까? 그림으로그려라",
@@ -30606,15 +30498,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-9-28",
-        "num": "9.28",
-        "question": "2 8",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-9-29",
         "num": "9.29",
         "question": "균형이진탐색트리에서다음연산의시간복잡도설명하라 (1) 임의의킷값의노드탐색연산 (",
@@ -30723,33 +30606,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-9-41",
-        "num": "9.41",
-        "question": "2 3",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-42",
-        "num": "9.42",
-        "question": "5",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-43",
-        "num": "9.43",
-        "question": "11",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-9-44",
         "num": "9.44",
         "question": "24**이진탐색트리를사용하여우선순위큐를구현할수도있다이진탐색트리를이용하여우 선순위큐를구현하고삽입삭제,탐 색연산의시간복잡도를설명하라",
@@ -30789,27 +30645,9 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-10-3",
-        "num": "10.3",
-        "question": "0.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-10-4",
         "num": "10.4",
         "question": "0 3다음의무방향그래프를인접행렬과인접리스트로각각표현하라 ここ 1(V1 2V2 4V4",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-5",
-        "num": "10.5",
-        "question": "V3",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -30883,15 +30721,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-10-13",
-        "num": "10.13",
-        "question": "1",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-10-14",
         "num": "10.14",
         "question": "다음의그래프에 서가능한신장트리를두개구해보라각신 장트리의간선의가중치 를 모두더해보라 F 저 다음의그래프에대하여위상정렬을수행해보라. m",
@@ -30931,15 +30760,6 @@ var DS_QUIZ_DATA = [
         "id": "ds-10-18",
         "num": "10.18",
         "question": "의연결성분검사에서는너비우선탐색이사용되었다. 깊이우선탐색을이용하 여연결성분검사알고리즘을다시구성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-19",
-        "num": "10.19",
-        "question": "15 코드1",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -31054,15 +30874,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-11-10",
-        "num": "11.10",
-        "question": "2",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-11-11",
         "num": "11.11",
         "question": "6 위 의문제의그래프에 ST 알 소비 용신 고리즘을이용해서최 장트리를구 ka 의M rus 서K 할 때선택되는간선을순서대로나열하라 r m의최소비용 신장트리의시간복잡도로옳은것을골라라",
@@ -31102,15 +30913,6 @@ var DS_QUIZ_DATA = [
         "id": "ds-11-15",
         "num": "11.15",
         "question": "1. 10다음그래프에서정점S부터E까지의최단거리를계산해보자D kstra알고리즘을사용 한다. 각단계에서d st 배열의내용을적어라 110y2 해화 도좋음 ㄱ 515 010",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-16",
-        "num": "11.16",
-        "question": "11 E",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -31245,15 +31047,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-12-6",
-        "num": "12.6",
-        "question": ")팀정렬",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-12-7",
         "num": "12.7",
         "question": "입력데이터의구성과상관없이자료의이동횟수가결정되는정렬알고리즘을모두골라라",
@@ -31281,15 +31074,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-12-10",
-        "num": "12.10",
-        "question": "2.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-12-11",
         "num": "12.11",
         "question": "피벗을이용하는대표적인효율적인정렬알고리즘들을골라라",
@@ -31302,15 +31086,6 @@ var DS_QUIZ_DATA = [
         "id": "ds-12-12",
         "num": "12.12",
         "question": "항목의비교를사용하지않고분배를이용해정렬하는방법들을골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-13",
-        "num": "12.13",
-        "question": "12.",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
@@ -31495,15 +31270,6 @@ var DS_QUIZ_DATA = [
         "id": "ds-12-33",
         "num": "12.33",
         "question": "*입력리스트가영어문자열로이루어져있다이리스트를카운팅정렬을이용해정렬하 는코드를작성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-34",
-        "num": "12.34",
-        "question": "12 .",
         "options": [],
         "answer": "정답 확인",
         "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",

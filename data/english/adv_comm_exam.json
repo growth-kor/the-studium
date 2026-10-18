@@ -4,14 +4,14 @@
     "num": 1,
     "question": "According to Chapter 5, which of the following accurately describes the Four Stages of Skill Development when learning reflective listening?",
     "options": [
-      "Curiosity $\\rightarrow$ Intellectual mastery $\\rightarrow$ Emotional detachment $\\rightarrow$ Unstructured spontaneity",
-      "Feeling guilty about past roadblocks $\\rightarrow$ Feeling wooden, artificial, and phony $\\rightarrow$ Feeling skillful $\\rightarrow$ Becoming integrated and virtually automatic",
-      "Skepticism $\\rightarrow$ Parroting exact words $\\rightarrow$ Advising and coaching $\\rightarrow$ Autonomous problem-solving",
-      "Passive silence $\\rightarrow$ Mechanical questioning $\\rightarrow$ Sympathetic agreement $\\rightarrow$ Natural leadership"
+      "Curiosity → Intellectual mastery → Emotional detachment → Unstructured spontaneity",
+      "Feeling guilty about past roadblocks → Feeling wooden, artificial, and phony → Feeling skillful → Becoming integrated and virtually automatic",
+      "Skepticism → Parroting exact words → Advising and coaching → Autonomous problem-solving",
+      "Passive silence → Mechanical questioning → Sympathetic agreement → Natural leadership"
     ],
     "answer": 2,
     "answer_letter": "B",
-    "explanation": "기술 습득 4단계: 죄책감(`Guilty`) $\\rightarrow$ 어색함·가식성(`Wooden, artificial, phony`) $\\rightarrow$ 능숙함(`Skillful`) $\\rightarrow$ 통합 및 자동화(`Integrated & virtually automatic`)."
+    "explanation": "기술 습득 4단계: 죄책감(`Guilty`) → 어색함·가식성(`Wooden, artificial, phony`) → 능숙함(`Skillful`) → 통합 및 자동화(`Integrated & virtually automatic`)."
   },
   {
     "id": "adv-q2",

@@ -1082,7 +1082,21 @@
 
     function escapeHtml(text) {
       if (!text) return '';
-      return String(text)
+      let s = String(text)
+        .replace(/\$\\rightarrow\$/g, '→')
+        .replace(/\\rightarrow/g, '→')
+        .replace(/\$\\leftarrow\$/g, '←')
+        .replace(/\\leftarrow/g, '←')
+        .replace(/\$\\Rightarrow\$/g, '⇒')
+        .replace(/\\Rightarrow/g, '⇒')
+        .replace(/\$\\times\$/g, '×')
+        .replace(/\\times\b/g, '×')
+        .replace(/\$\\cdot\$/g, '·')
+        .replace(/\$\\le\$/g, '≤')
+        .replace(/\$\\ge\$/g, '≥')
+        .replace(/\$\\approx\$/g, '≈')
+        .replace(/\$\\neq\$/g, '≠');
+      return s
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
