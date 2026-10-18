@@ -323,19 +323,104 @@
       flex-wrap: wrap;
     }
 
-    .task-row {
+.task-row {
       display: flex;
-      align-items: flex-start;
+      align-items: center;
+      justify-content: space-between;
       gap: 10px;
-      padding: 8px 0;
+      padding: 6px 0;
       font-size: 0.88rem;
       line-height: 1.45;
       color: var(--text);
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.06);
+    }
+
+    .task-content {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex: 1;
+      min-width: 0;
     }
 
     .task-row input[type="checkbox"] {
-      margin-top: 3px;
+      margin-top: 1px;
       accent-color: var(--text);
+      cursor: pointer;
+      width: 15px;
+      height: 15px;
+    }
+
+    .task-text {
+      flex: 1;
+      word-break: break-word;
+    }
+
+    .task-actions {
+      display: flex;
+      gap: 4px;
+      opacity: 0.6;
+      transition: opacity 0.15s;
+    }
+
+    .task-row:hover .task-actions {
+      opacity: 1;
+    }
+
+    .task-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      padding: 2px 6px;
+      cursor: pointer;
+      font-family: var(--font-ui);
+      border-radius: 2px;
+      transition: all 0.15s;
+    }
+
+    .task-btn:hover {
+      color: var(--text);
+      border-color: var(--text);
+    }
+
+    .task-btn.del:hover {
+      color: #ff5555;
+      border-color: #ff5555;
+    }
+
+    .add-task-form {
+      display: flex;
+      gap: 6px;
+      margin-top: 10px;
+      padding-top: 8px;
+    }
+
+    .add-task-input {
+      flex: 1;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 8px;
+      font-size: 0.82rem;
+      font-family: var(--font-ui);
+      outline: none;
+    }
+
+    .add-task-input:focus {
+      border-color: var(--line-active);
+    }
+
+    .add-task-submit {
+      background: var(--text);
+      color: var(--bg);
+      border: 1px solid var(--text);
+      padding: 5px 10px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      font-family: var(--font-ui);
+      white-space: nowrap;
     }
 
     /* Minimalist Reader Sentences */

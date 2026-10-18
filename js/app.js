@@ -204,6 +204,64 @@
       renderSchedule();
     }
 
+    function saveScheduleState() {
+      if (HUFS_DATA && HUFS_DATA.weekly_courses) {
+        localStorage.setItem('studium_unlocked_schedule', JSON.stringify(HUFS_DATA.weekly_courses));
+      }
+    }
+
+    function toggleTask(dayName, courseId, taskIdx) {
+      const dayData = HUFS_DATA.weekly_courses.find(d => d.day === dayName);
+      if (!dayData) return;
+      const course = dayData.courses.find(c => c.id === courseId);
+      if (!course || !course.tasks || !course.tasks[taskIdx]) return;
+      course.tasks[taskIdx].done = !course.tasks[taskIdx].done;
+      saveScheduleState();
+      renderSchedule();
+    }
+
+    function editTask(dayName, courseId, taskIdx) {
+      const dayData = HUFS_DATA.weekly_courses.find(d => d.day === dayName);
+      if (!dayData) return;
+      const course = dayData.courses.find(c => c.id === courseId);
+      if (!course || !course.tasks || !course.tasks[taskIdx]) return;
+      const currentTitle = course.tasks[taskIdx].title;
+      const newTitle = prompt('과제 내용 수정:', currentTitle);
+      if (newTitle !== null && newTitle.trim() !== '') {
+        course.tasks[taskIdx].title = newTitle.trim();
+        saveScheduleState();
+        renderSchedule();
+      }
+    }
+
+    function deleteTask(dayName, courseId, taskIdx) {
+      const dayData = HUFS_DATA.weekly_courses.find(d => d.day === dayName);
+      if (!dayData) return;
+      const course = dayData.courses.find(c => c.id === courseId);
+      if (!course || !course.tasks || !course.tasks[taskIdx]) return;
+      if (confirm('이 과제를 삭제하시겠습니까?')) {
+        course.tasks.splice(taskIdx, 1);
+        saveScheduleState();
+        renderSchedule();
+      }
+    }
+
+    function addTask(dayName, courseId) {
+      const inputEl = document.getElementById('new-task-input-' + courseId);
+      if (!inputEl) return;
+      const val = inputEl.value.trim();
+      if (!val) return;
+      const dayData = HUFS_DATA.weekly_courses.find(d => d.day === dayName);
+      if (!dayData) return;
+      const course = dayData.courses.find(c => c.id === courseId);
+      if (!course) return;
+      if (!course.tasks) course.tasks = [];
+      course.tasks.push({ title: val, done: false });
+      inputEl.value = '';
+      saveScheduleState();
+      renderSchedule();
+    }
+
     function renderSchedule() {
       const list = document.getElementById('courses-list');
       if (!list) return;
@@ -221,16 +279,29 @@
         const row = document.createElement('div');
         row.className = 'course-row';
         let tasksHtml = '';
-        if (c.tasks) {
-          c.tasks.forEach(t => {
+        if (c.tasks && c.tasks.length > 0) {
+          c.tasks.forEach((t, tIdx) => {
             tasksHtml += `
               <div class="task-row">
-                <input type="checkbox" ${t.done ? 'checked' : ''} onchange="this.parentElement.style.opacity = this.checked ? '0.4' : '1'">
-                <span style="${t.done ? 'text-decoration: line-through; opacity: 0.5;' : ''}">${escapeHtml(t.title)}</span>
+                <div class="task-content">
+                  <input type="checkbox" ${t.done ? 'checked' : ''} onchange="toggleTask('${currentDay}', '${c.id}', ${tIdx})">
+                  <span class="task-text" style="${t.done ? 'text-decoration: line-through; opacity: 0.45;' : ''}">${escapeHtml(t.title)}</span>
+                </div>
+                <div class="task-actions">
+                  <button type="button" class="task-btn" onclick="editTask('${currentDay}', '${c.id}', ${tIdx})" title="수정">수정</button>
+                  <button type="button" class="task-btn del" onclick="deleteTask('${currentDay}', '${c.id}', ${tIdx})" title="삭제">삭제</button>
+                </div>
               </div>
             `;
           });
         }
+
+        const addTaskFormHtml = `
+          <form class="add-task-form" onsubmit="event.preventDefault(); addTask('${currentDay}', '${c.id}');">
+            <input type="text" id="new-task-input-${c.id}" class="add-task-input" placeholder="+ 새 과제 추가..." />
+            <button type="submit" class="add-task-submit">추가</button>
+          </form>
+        `;
 
         let pillsHtml = '';
         const cName = c.name || '';
@@ -310,6 +381,7 @@
           ${c.midterm_book ? `<div style="font-size:0.84rem; color:var(--text-muted); margin-bottom:8px;">텍스트: ${escapeHtml(c.midterm_book)}</div>` : ''}
           ${pillsHtml}
           ${tasksHtml}
+          ${addTaskFormHtml}
         `;
         list.appendChild(row);
       });
