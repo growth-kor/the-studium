@@ -6,7 +6,7 @@
     let flashcardIndex = 0;
     let activeVocab = [];
     let savedChecks = JSON.parse(localStorage.getItem('studium_vocab_checks') || '{}');
-    let currentExamTab = 'beiying';
+    let currentExamTab = 'adv_comm';
     let currentTheme = localStorage.getItem('studium_theme') || 'system';
     let ttsRate = parseFloat(localStorage.getItem('studium_tts_rate') || '0.85');
     let ttsVolume = parseFloat(localStorage.getItem('studium_tts_vol') || '1.0');
@@ -20,7 +20,8 @@
       if ('speechSynthesis' in window) {
         window.speechSynthesis.cancel();
         const u = new SpeechSynthesisUtterance(text);
-        u.lang = 'zh-CN';
+        const isEnglish = /[a-zA-Z]{3,}/.test(text);
+        u.lang = isEnglish ? 'en-US' : 'zh-CN';
         u.rate = ttsRate;
         u.volume = ttsVolume;
         window.speechSynthesis.speak(u);
@@ -156,6 +157,17 @@
     }
 
     function initScheduleSecurity() {
+      // 1. Always prioritize latest weekly_courses bundled in HUFS_DATA if available
+      if (HUFS_DATA && Array.isArray(HUFS_DATA.weekly_courses) && HUFS_DATA.weekly_courses.length > 0) {
+        localStorage.setItem('studium_unlocked_schedule', JSON.stringify(HUFS_DATA.weekly_courses));
+        const lockedView = document.getElementById('schedule-locked-view');
+        const unlockedView = document.getElementById('schedule-unlocked-view');
+        if (lockedView) lockedView.style.display = 'none';
+        if (unlockedView) unlockedView.style.display = 'block';
+        renderSchedule();
+        return;
+      }
+
       const cached = localStorage.getItem('studium_unlocked_schedule');
       const lockedView = document.getElementById('schedule-locked-view');
       const unlockedView = document.getElementById('schedule-unlocked-view');
@@ -163,7 +175,11 @@
       if (cached) {
         try {
           const parsed = JSON.parse(cached);
-          if (Array.isArray(parsed) && parsed.length > 0) {
+          // Invalidate cache if it contains outdated tasks (e.g. old Presentation Script)
+          const isStale = JSON.stringify(parsed).includes('Presentation Script');
+          if (isStale) {
+            localStorage.removeItem('studium_unlocked_schedule');
+          } else if (Array.isArray(parsed) && parsed.length > 0) {
             HUFS_DATA.weekly_courses = parsed;
             if (lockedView) lockedView.style.display = 'none';
             if (unlockedView) unlockedView.style.display = 'block';
@@ -210,36 +226,89 @@
             tasksHtml += `
               <div class="task-row">
                 <input type="checkbox" ${t.done ? 'checked' : ''} onchange="this.parentElement.style.opacity = this.checked ? '0.4' : '1'">
-                <span style="${t.done ? 'text-decoration: line-through; opacity: 0.5;' : ''}">${t.title}</span>
+                <span style="${t.done ? 'text-decoration: line-through; opacity: 0.5;' : ''}">${escapeHtml(t.title)}</span>
               </div>
             `;
           });
         }
-        const isDS = c.name.includes('자료구조') || c.name.includes('Data Structure');
-        const isEng = c.id === 'tue-college-eng' || c.name.includes('College English');
-        let quizBtnHtml = '';
-        if (isDS) {
-          quizBtnHtml = `
-            <div class="course-quiz-pill" onclick="openDsQuizScreen()">
-              <span>1~12장 전단원 연습문제 CBT 풀기 →</span>
+
+        let pillsHtml = '';
+        const cName = c.name || '';
+        const isAdvComm = c.id === 'tue-adv-comm' || cName.includes('Adv Communication');
+        const isBillyEng = c.id === 'tue-college-eng' || (cName.includes('College English') && (currentDay === '화요일' || (c.prof && c.prof.includes('Billy')) || (c.time && (c.time.includes('5~6') || c.time.includes('3~4')))));
+        const isKnnEng = c.id === 'wed-college-eng' || (cName.includes('College English') && (currentDay === '수요일' || (c.prof && c.prof.includes('김나나')) || (c.time && c.time.includes('4교시'))));
+        const isDS = c.id === 'wed-data-struct' || cName.includes('자료구조') || cName.includes('Data Structure');
+
+        if (isAdvComm) {
+          pillsHtml = `
+            <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
+              <div class="course-quiz-pill" onclick="selectExamTab('adv_comm'); switchTab('exam')">
+                <span>Quiz 3 실전 15문항 CBT 풀기 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="selectBook('adv_comm'); switchTab('reader')">
+                <span>People Skills 5~7장 정독 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="filterVocab('adv_comm'); switchTab('vocab')">
+                <span>핵심 개념·학자 플래시카드 →</span>
+              </div>
             </div>
           `;
-        } else if (isEng) {
-          quizBtnHtml = `
-            <div class="course-quiz-pill" onclick="openEngEssayScreen('schedule')">
-              <span>In-Class Essay 문단별 한→영 영작 암기 훈련 (25문장) →</span>
+        } else if (isBillyEng) {
+          pillsHtml = `
+            <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
+              <div class="course-quiz-pill" onclick="selectExamTab('billy'); switchTab('exam')">
+                <span>Cengage 실전 30문항 CBT 풀기 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="openEngEssayScreen('schedule')">
+                <span>In-Class Essay 25문장 영작 훈련 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="selectBook('pathways3'); switchTab('reader')">
+                <span>Unit 1·3·5 지문 정독 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">
+                <span>Cengage 60단어 플래시카드 →</span>
+              </div>
+            </div>
+          `;
+        } else if (isKnnEng) {
+          pillsHtml = `
+            <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
+              <div class="course-quiz-pill" onclick="selectExamTab('knn'); switchTab('exam')">
+                <span>김나나 교수님 6대 유형 24문항 CBT 풀기 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="selectBook('prism3'); switchTab('reader')">
+                <span>Prism 3 4개 지문 영한대역 정독 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="filterVocab('prism3'); switchTab('vocab')">
+                <span>Unit 5·6 핵심 어휘 플래시카드 →</span>
+              </div>
+            </div>
+          `;
+        } else if (isDS) {
+          pillsHtml = `
+            <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
+              <div class="course-quiz-pill" onclick="openDsQuizScreen(1)">
+                <span>중간고사 1~5장 연습문제 CBT (129문항) →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="selectExamTab('ds_pencil'); switchTab('exam')">
+                <span>지필고사 대비 7대 고난도 손코딩 & 추적 챌린지 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="filterVocab('ds_vocab'); switchTab('vocab')">
+                <span>자료구조 핵심 개념 플래시카드 →</span>
+              </div>
             </div>
           `;
         }
+
         row.innerHTML = `
-          <div class="course-title">${c.name}</div>
+          <div class="course-title">${escapeHtml(c.name)}</div>
           <div class="course-meta">
-            <span>${c.time || ''}</span>
-            ${c.room ? `<span>· ${c.room}</span>` : ''}
-            ${c.prof ? `<span>· ${c.prof}</span>` : ''}
+            <span>${escapeHtml(c.time || '')}</span>
+            ${c.room ? `<span>· ${escapeHtml(c.room)}</span>` : ''}
+            ${c.prof ? `<span>· ${escapeHtml(c.prof)}</span>` : ''}
           </div>
-          ${c.midterm_book ? `<div style="font-size:0.84rem; color:var(--text-muted); margin-bottom:8px;">텍스트: ${c.midterm_book}</div>` : ''}
-          ${quizBtnHtml}
+          ${c.midterm_book ? `<div style="font-size:0.84rem; color:var(--text-muted); margin-bottom:8px;">텍스트: ${escapeHtml(c.midterm_book)}</div>` : ''}
+          ${pillsHtml}
           ${tasksHtml}
         `;
         list.appendChild(row);
@@ -252,7 +321,11 @@
       currentBook = bId;
       currentSectionId = 1;
       document.querySelectorAll('#book-nav .sub-nav-item').forEach(el => {
-        el.classList.toggle('active', el.getAttribute('onclick').includes(bId));
+        const isActive = el.getAttribute('onclick') && el.getAttribute('onclick').includes(bId);
+        el.classList.toggle('active', isActive);
+        if (isActive) {
+          try { el.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' }); } catch (e) {}
+        }
       });
       renderSectionSelector();
       renderSentences();
@@ -337,20 +410,24 @@
     function renderSentences() {
       const bookData = HUFS_DATA.books[currentBook];
       if (!bookData) return;
-      const secData = bookData.sections.find(s => s.id === currentSectionId) || bookData.sections[0];
+      const secData = (bookData.sections && bookData.sections.find(s => s.id === currentSectionId)) || (bookData.sections && bookData.sections[0]);
       if (!secData) return;
 
       document.getElementById('section-title-label').innerText = secData.title;
       const list = document.getElementById('sentences-list');
       list.innerHTML = '';
 
+      const isEnglishBook = ['adv_comm', 'pathways3', 'prism3', 'knn_exam'].includes(currentBook);
+
       secData.sentences.forEach(s => {
         const row = document.createElement('div');
         row.className = 'sentence-row';
-        const escapedSentence = escapeSingleQuote(s.zh);
+        const mainText = s.zh || s.en || '';
+        const escapedSentence = escapeSingleQuote(mainText);
+        const renderedText = isEnglishBook ? escapeHtml(mainText) : tokenizeSentence(mainText);
         row.innerHTML = `
           <div class="sentence-zh-wrap">
-            <div class="sentence-zh">${tokenizeSentence(s.zh)}</div>
+            <div class="sentence-zh" style="${isEnglishBook ? 'font-family: inherit; font-size: 0.95rem; line-height: 1.6; letter-spacing: 0;' : ''}">${renderedText}</div>
             <button class="speaker-btn" title="문장 발음 듣기" onclick="event.stopPropagation(); speakZh('${escapedSentence}')">
               <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
@@ -359,8 +436,8 @@
               </svg>
             </button>
           </div>
-          ${s.py ? `<div class="sentence-py">${s.py}</div>` : ''}
-          ${s.kr ? `<div class="sentence-kr">${s.kr}</div>` : ''}
+          ${s.py ? `<div class="sentence-py">${escapeHtml(s.py)}</div>` : ''}
+          ${s.kr ? `<div class="sentence-kr">${escapeHtml(s.kr)}</div>` : ''}
         `;
         list.appendChild(row);
       });
@@ -457,12 +534,19 @@
 
     function filterVocab(filterKey) {
       document.querySelectorAll('#vocab-nav .sub-nav-item').forEach(el => {
-        el.classList.toggle('active', el.getAttribute('onclick').includes(filterKey));
+        const isActive = el.getAttribute('onclick') && el.getAttribute('onclick').includes(filterKey);
+        el.classList.toggle('active', isActive);
+        if (isActive) {
+          try { el.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' }); } catch (e) {}
+        }
       });
       activeVocab = [];
       const byVocab = (HUFS_DATA.books.beiying && HUFS_DATA.books.beiying.vocab) || [];
       const portVocab = (HUFS_DATA.books.chinese3 && HUFS_DATA.books.chinese3.vocab) || (HUFS_DATA.books.portrait && HUFS_DATA.books.portrait.vocab) || [];
       const pwVocab = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.vocab) || [];
+      const advVocab = (HUFS_DATA.books.adv_comm && HUFS_DATA.books.adv_comm.vocab) || [];
+      const prismVocab = (HUFS_DATA.books.prism3 && HUFS_DATA.books.prism3.vocab) || [];
+      const dsVocab = (HUFS_DATA.books.ds_pencil && HUFS_DATA.books.ds_pencil.vocab) || [];
 
       if (filterKey === 'saved') {
         activeVocab = [...savedWords];
@@ -476,10 +560,26 @@
         if (filterKey === 'all' || filterKey === 'pathways3') {
           pwVocab.forEach(v => activeVocab.push({ ...v, bookName: 'Pathways 3' }));
         }
+        if (filterKey === 'all' || filterKey === 'adv_comm') {
+          advVocab.forEach(v => activeVocab.push({ ...v, bookName: '고급소통' }));
+        }
+        if (filterKey === 'all' || filterKey === 'prism3') {
+          prismVocab.forEach(v => activeVocab.push({ ...v, bookName: 'Prism 3' }));
+        }
+        if (filterKey === 'all' || filterKey === 'ds_vocab') {
+          dsVocab.forEach(v => activeVocab.push({ ...v, bookName: '자료구조' }));
+        }
       }
 
       flashcardIndex = 0;
       renderFlashcard();
+    }
+
+    function speakCurrentFlashcard() {
+      if (activeVocab.length && activeVocab[flashcardIndex]) {
+        const item = activeVocab[flashcardIndex];
+        speakZh(item.zh || item.word || '');
+      }
     }
 
     function renderFlashcard() {
@@ -540,43 +640,168 @@
     function selectExamTab(key) {
       currentExamTab = key;
       document.querySelectorAll('#exam-nav .sub-nav-item').forEach(el => {
-        el.classList.toggle('active', el.getAttribute('onclick').includes(key));
+        const isActive = el.getAttribute('onclick') && el.getAttribute('onclick').includes(key);
+        el.classList.toggle('active', isActive);
+        if (isActive) {
+          try { el.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' }); } catch (e) {}
+        }
       });
       renderExamContent();
+    }
+
+    function renderAccordionQas(container, qas) {
+      qas.forEach(qa => {
+        const row = document.createElement('div');
+        row.className = 'exam-row';
+        row.innerHTML = `
+          <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
+            <span>${escapeHtml(qa.question)}</span>
+            <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
+          </div>
+          <div class="exam-a">${escapeHtml(qa.answer)}</div>
+        `;
+        container.appendChild(row);
+      });
+    }
+
+    function renderCbtQuestionList(container, questions, headerTitle) {
+      if (headerTitle) {
+        const h = document.createElement('div');
+        h.style.padding = '8px 0 14px 0';
+        h.style.fontSize = '1.05rem';
+        h.style.fontWeight = '700';
+        h.style.borderBottom = '1px solid var(--border)';
+        h.style.marginBottom = '16px';
+        h.innerText = headerTitle;
+        container.appendChild(h);
+      }
+
+      if (!questions || !questions.length) {
+        container.innerHTML += '<div style="padding:24px; text-align:center; color:var(--text-muted);">문제가 등록되지 않았습니다.</div>';
+        return;
+      }
+
+      questions.forEach(q => {
+        const isChoice = Array.isArray(q.options) && q.options.length > 0;
+        const isIntAns = typeof q.answer === 'number' && q.answer > 0;
+        const typeLabel = isChoice ? '객관식 4지선다' : (q.type === 'short' ? '단답·서술형 / 번역' : '실전 문항');
+        
+        const card = document.createElement('div');
+        card.className = 'ds-question-card';
+        card.id = `card-${q.id}`;
+        card.style.marginBottom = '16px';
+
+        let optionsHtml = '';
+        if (isChoice && isIntAns) {
+          optionsHtml = `<div class="ds-options-list" id="opts-${q.id}">`;
+          q.options.forEach((opt, idx) => {
+            const optNum = idx + 1;
+            const optNumCircled = ['①', '②', '③', '④', '⑤', '⑥'][idx] || `${optNum}.`;
+            optionsHtml += `
+              <button type="button" class="ds-opt-btn" onclick="checkDsOption(this, '${q.id}', ${optNum}, ${q.answer})">
+                ${optNumCircled} ${escapeHtml(opt)}
+              </button>
+            `;
+          });
+          optionsHtml += `</div>`;
+        }
+
+        const expText = q.explanation || (q.answer_letter ? `정답: ${q.answer_letter}` : (q.answer ? `정답: ${q.answer}` : ''));
+
+        card.innerHTML = `
+          <div class="ds-q-badge-row">
+            <span class="ds-q-num">Q${q.num}</span>
+            <span class="ds-q-type">${typeLabel}</span>
+          </div>
+          <div class="ds-q-text" style="white-space: pre-wrap;">${escapeHtml(q.question)}</div>
+          ${optionsHtml}
+          <div style="margin-top: 10px;">
+            <button type="button" class="ds-reveal-btn" id="btn-exp-${q.id}" onclick="toggleDsExplanation('${q.id}')">
+              ${isChoice ? '풀이 및 오답 분석 보기' : '모범 답안 및 해설 확인'}
+            </button>
+            <div class="ds-explanation-box" id="exp-${q.id}" style="display: none; white-space: pre-wrap;">
+              ${escapeHtml(expText)}
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function renderDsPencilExam(container, questions) {
+      const h = document.createElement('div');
+      h.style.padding = '8px 0 14px 0';
+      h.style.borderBottom = '1px solid var(--border)';
+      h.style.marginBottom = '16px';
+      h.innerHTML = `
+        <div style="font-size:1.05rem; font-weight:700;">자료구조 중간고사 지필 7대 고난도 문항 (김은경 교수님)</div>
+        <div style="font-size:0.84rem; color:var(--text-muted); margin-top:4px;">손코딩, Big-O 복잡도 수학적 증명, 스택/원형큐/덱 상태 변화 추적 표 및 감점 방지 채점 기준</div>
+      `;
+      container.appendChild(h);
+
+      questions.forEach(q => {
+        const card = document.createElement('div');
+        card.className = 'ds-question-card';
+        card.id = `card-${q.id}`;
+        card.style.marginBottom = '20px';
+
+        let subHtml = '';
+        if (q.sub_questions && q.sub_questions.length) {
+          subHtml = `<div style="margin: 12px 0; background: var(--bg-hover, rgba(128,128,128,0.06)); padding: 12px;">`;
+          q.sub_questions.forEach(sq => {
+            subHtml += `
+              <div style="margin-bottom: 14px; border-bottom: 1px dashed var(--border); padding-bottom: 10px;">
+                <div style="font-weight: 700; font-size: 0.88rem; color: var(--text);">[소문제 ${escapeHtml(sq.sub_num)}] ${escapeHtml(sq.sub_title)}</div>
+                <div style="margin-top: 6px; font-size: 0.84rem; line-height: 1.6; white-space: pre-wrap; font-family: monospace; color: var(--text-muted);">${escapeHtml(sq.solution)}</div>
+              </div>
+            `;
+          });
+          subHtml += `</div>`;
+        }
+
+        card.innerHTML = `
+          <div class="ds-q-badge-row">
+            <span class="ds-q-num">문제 ${q.num}</span>
+            <span class="ds-q-type">지필고사 고난도 복합 문항</span>
+          </div>
+          <div style="font-weight: 700; font-size: 1rem; margin-bottom: 8px;">${escapeHtml(q.title)}</div>
+          <div class="ds-q-text" style="white-space: pre-wrap;">${escapeHtml(q.question)}</div>
+          <div style="margin-top: 10px;">
+            <button type="button" class="ds-reveal-btn" id="btn-exp-${q.id}" onclick="toggleDsExplanation('${q.id}')">
+              모범 손코딩 및 채점 기준 확인
+            </button>
+            <div class="ds-explanation-box" id="exp-${q.id}" style="display: none;">
+              ${subHtml}
+              ${q.rubric ? `<div style="margin-top: 10px; padding: 8px; border-left: 3px solid #ef4444; font-size: 0.82rem; color: var(--text-muted);"><strong>⚠️ 채점 및 감점 기준:</strong> ${escapeHtml(q.rubric)}</div>` : ''}
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
     }
 
     function renderExamContent() {
       const container = document.getElementById('exam-list');
       container.innerHTML = '';
 
-      if (currentExamTab === 'beiying') {
+      if (currentExamTab === 'adv_comm') {
+        const qas = (HUFS_DATA.books.adv_comm && HUFS_DATA.books.adv_comm.qa) || [];
+        renderCbtQuestionList(container, qas, '고급소통 Quiz 3 실전 모의고사 (Ch 5·6·7 15문항)');
+      } else if (currentExamTab === 'billy') {
+        const qas = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.qa) || [];
+        renderCbtQuestionList(container, qas, 'Pathways 3 Cengage Test Bank 실전 30문항');
+      } else if (currentExamTab === 'knn') {
+        const qas = (HUFS_DATA.books.prism3 && HUFS_DATA.books.prism3.qa) || (HUFS_DATA.books.knn_exam && HUFS_DATA.books.knn_exam.qa) || [];
+        renderCbtQuestionList(container, qas, '대학영어 2 김나나 교수님 6대 출제 유형 24문항');
+      } else if (currentExamTab === 'ds_pencil') {
+        const qas = (HUFS_DATA.books.ds_pencil && HUFS_DATA.books.ds_pencil.qa) || [];
+        renderDsPencilExam(container, qas);
+      } else if (currentExamTab === 'beiying') {
         const qas = HUFS_DATA.books.beiying.qa || [];
-        qas.forEach(qa => {
-          const row = document.createElement('div');
-          row.className = 'exam-row';
-          row.innerHTML = `
-            <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
-              <span>${qa.question}</span>
-              <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
-            </div>
-            <div class="exam-a">${qa.answer}</div>
-          `;
-          container.appendChild(row);
-        });
+        renderAccordionQas(container, qas);
       } else if (currentExamTab === 'tuanyuan') {
         const tyQas = HUFS_DATA.books.tuanyuan.qa || [];
-        tyQas.forEach(qa => {
-          const row = document.createElement('div');
-          row.className = 'exam-row';
-          row.innerHTML = `
-            <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
-              <span>${qa.question}</span>
-              <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
-            </div>
-            <div class="exam-a">${qa.answer}</div>
-          `;
-          container.appendChild(row);
-        });
+        renderAccordionQas(container, tyQas);
 
         // 10-line review
         const revWrap = document.createElement('div');
@@ -586,41 +811,13 @@
         rList.forEach((r, idx) => {
           revWrap.innerHTML += `
             <div style="padding:10px 0; border-bottom:1px solid var(--border);">
-              <div style="font-size:0.95rem; line-height:1.5;">${idx + 1}. ${r.zh}</div>
-              <div style="font-size:0.84rem; color:var(--text-muted); font-style:italic; margin:2px 0;">${r.py}</div>
-              <div style="font-size:0.86rem; line-height:1.45;">${r.kr}</div>
+              <div style="font-size:0.95rem; line-height:1.5;">${idx + 1}. ${escapeHtml(r.zh)}</div>
+              <div style="font-size:0.84rem; color:var(--text-muted); font-style:italic; margin:2px 0;">${escapeHtml(r.py)}</div>
+              <div style="font-size:0.86rem; line-height:1.45;">${escapeHtml(r.kr)}</div>
             </div>
           `;
         });
         container.appendChild(revWrap);
-      } else if (currentExamTab === 'billy') {
-        const billyQas = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.qa) || [];
-        billyQas.forEach(qa => {
-          const row = document.createElement('div');
-          row.className = 'exam-row';
-          row.innerHTML = `
-            <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
-              <span>${qa.question}</span>
-              <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
-            </div>
-            <div class="exam-a">${qa.answer}</div>
-          `;
-          container.appendChild(row);
-        });
-      } else if (currentExamTab === 'knn') {
-        const knnQas = (HUFS_DATA.books.knn_exam && HUFS_DATA.books.knn_exam.qa) || [];
-        knnQas.forEach(qa => {
-          const row = document.createElement('div');
-          row.className = 'exam-row';
-          row.innerHTML = `
-            <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
-              <span>${qa.question}</span>
-              <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
-            </div>
-            <div class="exam-a">${qa.answer}</div>
-          `;
-          container.appendChild(row);
-        });
       } else if (currentExamTab === 'grammar') {
         const byG = HUFS_DATA.books.beiying.grammar || [];
         const portG = HUFS_DATA.books.portrait.grammar || [];
@@ -630,10 +827,10 @@
           row.className = 'exam-row';
           row.innerHTML = `
             <div class="exam-q" onclick="this.parentElement.classList.toggle('open')">
-              <span>${g.title}</span>
+              <span>${escapeHtml(g.title)}</span>
               <span style="font-size:0.75rem; color:var(--text-muted);">+</span>
             </div>
-            <div class="exam-a">${g.desc}</div>
+            <div class="exam-a">${escapeHtml(g.desc)}</div>
           `;
           container.appendChild(row);
         });

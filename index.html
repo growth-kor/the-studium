@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style.css?v=1791816156">
+  <link rel="stylesheet" href="./css/style.css?v=20261018_2230">
 </head>
 <body>
 
@@ -37,14 +37,14 @@
           <button type="submit" id="schedule-unlock-btn" class="schedule-lock-btn">해제</button>
         </form>
         <div id="schedule-lock-msg" class="schedule-lock-msg"></div>
-        <div style="margin-top: 22px; padding-top: 16px; border-top: 1px dashed var(--border);">
-          <button type="button" class="course-quiz-pill" onclick="openEngEssayScreen('schedule')" style="width: 100%; justify-content: center;">
-            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-              <path d="M12 20h9"></path>
-              <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
-            </svg>
-            <span>화요일 영어 In-Class Essay 문단별 영작 암기 →</span>
-          </button>
+        <div style="margin-top: 18px; padding-top: 14px; border-top: 1px dashed var(--border);">
+          <div style="font-size: 0.84rem; font-weight: 700; margin-bottom: 8px;">⚡ 중간고사 4과목 바로가기</div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 6px;">
+            <button type="button" class="hub-pill" onclick="selectExamTab('adv_comm'); switchTab('exam')">고급소통 CBT 15제 →</button>
+            <button type="button" class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">대영2-Billy CBT 30제 →</button>
+            <button type="button" class="hub-pill" onclick="selectExamTab('knn'); switchTab('exam')">대영2-KNN CBT 24제 →</button>
+            <button type="button" class="hub-pill" onclick="selectExamTab('ds_pencil'); switchTab('exam')">자료구조 지필 7대 →</button>
+          </div>
         </div>
       </div>
     </div>
@@ -65,6 +65,50 @@
           </svg>잠금
         </button>
       </div>
+
+      <!-- 2026-2 Midterm 4-Course Quick Hub -->
+      <div class="midterm-hub-bar" style="margin-bottom: 18px; padding: 12px; border: 1px solid var(--border); background: var(--bg);">
+        <div style="font-size: 0.88rem; font-weight: 700; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: baseline;">
+          <span>⚡ 중간고사 4과목 퀵 대시보드</span>
+          <span style="font-size: 0.74rem; color: var(--text-muted); font-weight: normal;">하단 [원문·어휘·족보] 연동</span>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px;">
+          <div style="border: 1px solid var(--border); padding: 8px; background: var(--bg);">
+            <div style="font-size: 0.78rem; font-weight: 700; margin-bottom: 5px;">고급소통 (화1~2)</div>
+            <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+              <span class="hub-pill" onclick="selectExamTab('adv_comm'); switchTab('exam')">CBT 15제</span>
+              <span class="hub-pill" onclick="selectBook('adv_comm'); switchTab('reader')">원문 5~7장</span>
+              <span class="hub-pill" onclick="filterVocab('adv_comm'); switchTab('vocab')">어휘</span>
+            </div>
+          </div>
+          <div style="border: 1px solid var(--border); padding: 8px; background: var(--bg);">
+            <div style="font-size: 0.78rem; font-weight: 700; margin-bottom: 5px;">대영2-Billy (화5~6)</div>
+            <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+              <span class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">CBT 30제</span>
+              <span class="hub-pill" onclick="selectBook('pathways3'); switchTab('reader')">지문 1·3·5</span>
+              <span class="hub-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">60단어</span>
+              <span class="hub-pill" onclick="openEngEssayScreen('schedule')">에세이</span>
+            </div>
+          </div>
+          <div style="border: 1px solid var(--border); padding: 8px; background: var(--bg);">
+            <div style="font-size: 0.78rem; font-weight: 700; margin-bottom: 5px;">대영2-김나나 (수4)</div>
+            <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+              <span class="hub-pill" onclick="selectExamTab('knn'); switchTab('exam')">CBT 24제</span>
+              <span class="hub-pill" onclick="selectBook('prism3'); switchTab('reader')">지문 4편</span>
+              <span class="hub-pill" onclick="filterVocab('prism3'); switchTab('vocab')">어휘</span>
+            </div>
+          </div>
+          <div style="border: 1px solid var(--border); padding: 8px; background: var(--bg);">
+            <div style="font-size: 0.78rem; font-weight: 700; margin-bottom: 5px;">자료구조 (수3~4)</div>
+            <div style="display: flex; gap: 4px; flex-wrap: wrap;">
+              <span class="hub-pill" onclick="openDsQuizScreen(1)">1~5장 CBT</span>
+              <span class="hub-pill" onclick="selectExamTab('ds_pencil'); switchTab('exam')">지필 7대</span>
+              <span class="hub-pill" onclick="filterVocab('ds_vocab'); switchTab('vocab')">개념</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div id="courses-list"></div>
     </div>
   </div>
@@ -77,10 +121,11 @@
       <div class="sub-nav-item" onclick="selectBook('tuanyuan')">团圆</div>
       <div class="sub-nav-item" onclick="selectBook('rain')">雨的四季</div>
       <div class="sub-nav-item" onclick="selectBook('chinese3')">중국어3</div>
+      <div class="sub-nav-item" onclick="selectBook('adv_comm')">고급소통 (5~7장)</div>
+      <div class="sub-nav-item" onclick="selectBook('pathways3')">Pathways 3</div>
+      <div class="sub-nav-item" onclick="selectBook('prism3')">Prism 3 (KNN)</div>
       <div class="sub-nav-item" onclick="openEngEssayScreen('reader')">화요일 영어 Essay</div>
     </div>
-
-    <!-- Section Selector -->
     <div class="num-selector" id="section-selector"></div>
 
     <!-- Reader Actions -->
@@ -104,13 +149,15 @@
       <div class="sub-nav-item" onclick="filterVocab('背影')">背影</div>
       <div class="sub-nav-item" onclick="filterVocab('chinese3')">중국어3</div>
       <div class="sub-nav-item" onclick="filterVocab('pathways3')">Pathways 3 (60)</div>
+      <div class="sub-nav-item" onclick="filterVocab('adv_comm')">고급소통 (Bolton)</div>
+      <div class="sub-nav-item" onclick="filterVocab('prism3')">Prism 3 (KNN)</div>
+      <div class="sub-nav-item" onclick="filterVocab('ds_vocab')">자료구조 1~5장</div>
     </div>
-
     <div class="flashcard-area" onclick="flipFlashcard()">
       <div class="fc-counter" id="fc-counter">1 / 131</div>
       <div class="fc-word-row">
         <span class="fc-word" id="fc-word">背影</span>
-        <button class="speaker-btn fc-speaker" onclick="event.stopPropagation(); flipFlashcard()" title="단어 발음 듣기">
+        <button class="speaker-btn fc-speaker" onclick="event.stopPropagation(); speakCurrentFlashcard()" title="단어 발음 듣기">
           <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
             <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
             <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
@@ -133,11 +180,13 @@
   <!-- SCREEN 4: EXAM / NOTES -->
   <div id="screen-exam" class="screen">
     <div class="sub-nav" id="exam-nav">
-      <div class="sub-nav-item active" onclick="selectExamTab('beiying')">背影 족보</div>
+      <div class="sub-nav-item active" onclick="selectExamTab('adv_comm')">고급소통 Quiz 3 (15)</div>
+      <div class="sub-nav-item" onclick="selectExamTab('billy')">Pathways 3 (Billy 30)</div>
+      <div class="sub-nav-item" onclick="selectExamTab('knn')">대학영어 2 (KNN 24)</div>
+      <div class="sub-nav-item" onclick="selectExamTab('ds_pencil')">자료구조 지필 7대 문항</div>
+      <div class="sub-nav-item" onclick="selectExamTab('beiying')">背影 족보</div>
       <div class="sub-nav-item" onclick="selectExamTab('tuanyuan')">团圆 족보 & 감상문</div>
       <div class="sub-nav-item" onclick="selectExamTab('grammar')">핵심 문법</div>
-      <div class="sub-nav-item" onclick="selectExamTab('billy')">Pathways 3 (Billy)</div>
-      <div class="sub-nav-item" onclick="selectExamTab('knn')">대학영어 2 (KNN)</div>
       <div class="sub-nav-item" onclick="openEngEssayScreen('exam')">화요일 영어 Essay</div>
     </div>
     <div id="exam-list"></div>
@@ -316,7 +365,7 @@
   </nav>
 
   <!-- Script -->
-  <script src="./data.js?v=1791816156"></script>
-  <script src="./js/app.js?v=1791816156"></script>
+  <script src="./data.js?v=20261018_2230"></script>
+  <script src="./js/app.js?v=20261018_2230"></script>
 </body>
 </html>

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "adv-q1",
+    "num": 1,
+    "question": "According to Chapter 5, which of the following accurately describes the Four Stages of Skill Development when learning reflective listening?",
+    "options": [
+      "Curiosity $\\rightarrow$ Intellectual mastery $\\rightarrow$ Emotional detachment $\\rightarrow$ Unstructured spontaneity",
+      "Feeling guilty about past roadblocks $\\rightarrow$ Feeling wooden, artificial, and phony $\\rightarrow$ Feeling skillful $\\rightarrow$ Becoming integrated and virtually automatic",
+      "Skepticism $\\rightarrow$ Parroting exact words $\\rightarrow$ Advising and coaching $\\rightarrow$ Autonomous problem-solving",
+      "Passive silence $\\rightarrow$ Mechanical questioning $\\rightarrow$ Sympathetic agreement $\\rightarrow$ Natural leadership"
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "기술 습득 4단계: 죄책감(`Guilty`) $\\rightarrow$ 어색함·가식성(`Wooden, artificial, phony`) $\\rightarrow$ 능숙함(`Skillful`) $\\rightarrow$ 통합 및 자동화(`Integrated & virtually automatic`)."
+  },
+  {
+    "id": "adv-q2",
+    "num": 2,
+    "question": "How do Richard Bandler and John Grinder respond to the complaint that reflective listening is \"too structured and rule-governed\"?",
+    "options": [
+      "They argue that effective listeners must abandon all linguistic structures to achieve pure emotional spontaneity.",
+      "They state that only formal business negotiations require structure, whereas intimate conversations have no rules.",
+      "They point out that there is no such thing as unstructured communication; all human language and communication is highly structured, rule-governed behavior, and structure does not prevent individual style.",
+      "They suggest replacing structured reflective responses with open-ended interrogation to maintain conversational flow."
+    ],
+    "answer": 3,
+    "answer_letter": "C",
+    "explanation": "Bandler & Grinder: 구조화되지 않은 소통은 없으며 모든 언어 소통은 규칙 지배적 행동(`rule-governed behavior`)이다. 구조가 개인의 고유한 스타일(`Style`)을 막지 않는다."
+  },
+  {
+    "id": "adv-q3",
+    "num": 3,
+    "question": "Which of the following correctly lists the Six Peculiarities of Human Communication (four speaker problems and two listener problems) identified in Chapter 5?",
+    "options": [
+      "(Speaker) Words have different meanings, coding messages, presenting vs. basic problems, blind to/blinded by emotions; (Listener) easily distracted, hearing through distorting filters.",
+      "(Speaker) Talking too fast, using monotone voice, interrupting, moralizing; (Listener) faking attention, giving premature advice.",
+      "(Speaker) Excessive self-disclosure, emotional leakage, incongruent posture, parroting; (Listener) dogmatic responses, over-listening.",
+      "(Speaker) Attention filters, emotional conditioning, rapid speech rate, cultural repression; (Listener) coding messages, beating around the bush."
+    ],
+    "answer": 1,
+    "answer_letter": "A",
+    "explanation": "인간 소통의 6대 특이성: 화자 문제 4가지(단어의 다의성, 암호화, 표면 문제 vs 근본 문제, 감정에 무지하거나 잠식됨) + 청자 문제 2가지(쉽게 산만해짐, 필터에 의한 왜곡)."
+  },
+  {
+    "id": "adv-q4",
+    "num": 4,
+    "question": "What does Robert Bolton mean by the peculiarity that \"The Presenting Problem May Not Be the Major Concern\"?",
+    "options": [
+      "Speakers always state their most vulnerable, core problem in the very first sentence of a conversation.",
+      "Speakers often \"beat around the bush\" and begin with a minor, surface-level presenting problem to test the water before trusting the listener with their deeper, underlying basic problem.",
+      "Listeners should immediately solve the presenting problem with factual advice so that the underlying problem disappears on its own.",
+      "Presenting problems are imaginary complaints fabricated to manipulate the listener into taking action."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "사람들은 가장 취약한 근본 문제(`Basic problem`)를 바로 말하기 두려워 표면적 문제(`Presenting problem`)로 변죽을 울리며(`beating around the bush`) 상대를 떠본다(`test the water`)."
+  },
+  {
+    "id": "adv-q5",
+    "num": 5,
+    "question": "According to Chapter 5, what happens when a person who is \"blinded by strong emotions\" (such as intense anger) is allowed to verbalize those feelings to an empathic listener?",
+    "options": [
+      "Verbalizing strong anger inevitably escalates the emotion and makes violent action much more likely.",
+      "The process of talking on a feeling level to an empathic listener drains off much of the excess emotion, diminishing the likelihood of acting irrationally and helping the speaker return to rational abilities.",
+      "The listener becomes emotionally consumed and loses the ability to remain separate from the speaker.",
+      "The speaker's emotional filters become permanently reinforced through Pavlovian conditioning."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "강한 감정에 사로잡힌 사람도 공감적 청자에게 감정을 말로 표현하면 과잉 감정이 배출(`drains off much of the excess emotion`)되어 비이성적 행동 가능성이 줄어들고 이성을 되찾는다."
+  },
+  {
+    "id": "adv-q6",
+    "num": 6,
+    "question": "Why do listeners frequently take \"mental vacations\" and become easily distracted during conversations?",
+    "options": [
+      "Because the average person speaks at 500 words per minute while the human brain can only process 125 words per minute.",
+      "Because the average rate of speech is about 125 words per minute, whereas the human ear and brain can process words about four times that fast, leaving spare mental capacity.",
+      "Because 93% of verbal information is filtered out by Gregory Razran's emotional conditioning mechanism.",
+      "Because listeners focus exclusively on facial expressions and ignore the auditory channel."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "평균 말하기 속도(분당 125단어)보다 뇌의 처리 속도(약 4배)가 훨씬 빨라 남는 정신 에너지로 딴생각(`mental vacation`)을 하게 된다."
+  },
+  {
+    "id": "adv-q7",
+    "num": 7,
+    "question": "In Chapter 6, what were the findings of Ray Birdwhistell and Albert Mehrabian regarding the proportion of nonverbal communication?",
+    "options": [
+      "Birdwhistell found that 75% of meaning is verbal, while Mehrabian found that 45% of impact is nonverbal.",
+      "Birdwhistell estimated that no more than 35% of meaning derives from words (65%+ from body language), and Mehrabian stated that only 7% of the impact is verbal while 93% is nonverbal.",
+      "Both researchers concluded that words and body language contribute an exact 50-50 split in emotional communication.",
+      "Birdwhistell proved that vocal tone accounts for 85% of factual communication, while Mehrabian showed words account for 55%."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "Birdwhistell(단어 35% 이하 vs 신체 언어 65% 이상), Mehrabian(언어 7% vs 비언어 93%)."
+  },
+  {
+    "id": "adv-q8",
+    "num": 8,
+    "question": "According to Paul Ekman and Wallace Friesen (and Sigmund Freud), what is the \"Leakage\" of Masked Feelings?",
+    "options": [
+      "The deliberate use of verbal self-disclosure to reveal one's deepest secrets to a counselor.",
+      "The phenomenon where repressed or consciously concealed emotions involuntarily seep through a person's nonverbal behavior (such as micro-facial expressions, posture, or muscular tension).",
+      "The gradual loss of memory that occurs when a listener fails to paraphrase a speaker's factual statements.",
+      "The tendency of a listener to cry along with a grieving speaker due to a lack of emotional separateness."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "Ekman & Friesen, Freud: 감정을 숨기려 해도 미세한 표정과 신체 언어로 새어 나오는 현상(`Leakage of masked feelings` / *\"Self-betrayal oozes from all our pores\"*)."
+  },
+  {
+    "id": "adv-q9",
+    "num": 9,
+    "question": "According to Dr. Len Sperry's chart of Paralanguage in Chapter 6, which pairing of vocal characteristics and probable feeling/meaning is CORRECT?",
+    "options": [
+      "Monotone voice = Anger; Abrupt speech = Boredom; Slow speed, low pitch = Enthusiasm",
+      "Monotone voice = Boredom; Slow speed, low pitch = Depression; Abrupt speech = Defensiveness; Terse speed, loud tone = Anger; High pitch, drawn-out speech = Disbelief",
+      "Ascending tone = Depression; High voice, emphatic pitch = Defensiveness; Terse speed, loud tone = Astonishment",
+      "High pitch, drawn-out speech = Enthusiasm; Abrupt speech = Astonishment; Monotone voice = Disbelief"
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "Dr. Len Sperry의 Paralanguage 7대 매칭 완벽 일치."
+  },
+  {
+    "id": "adv-q10",
+    "num": 10,
+    "question": "What does Bolton recommend under the guideline \"Note Discrepancies\" when a speaker's words conflict with their body language (e.g., laughing while recounting a tragic job loss, or \"laughing it off\")?",
+    "options": [
+      "Ignore the words completely because verbal language is always 100% meaningless.",
+      "Ignore the body language and laugh along with the speaker to keep the mood light.",
+      "Recognize that when there is a discrepancy between words and nonverbals, both messages are important, and search for the meanings in each channel of communication.",
+      "Immediately confront and accuse the speaker of lying and being manipulative."
+    ],
+    "answer": 3,
+    "answer_letter": "C",
+    "explanation": "말과 신체 언어가 불일치할 때(`laughing it off` 등)는 **양쪽 메시지 모두 중요하므로(`both messages are important`)** 두 채널의 의미를 모두 탐색해야 한다."
+  },
+  {
+    "id": "adv-q11",
+    "num": 11,
+    "question": "In Chapter 7, why does Bolton warn listeners: Don't Tell the Speaker, \"I Know How You Feel\"?",
+    "options": [
+      "Because it is untrue (our reading of another's feelings is at best an approximation), it blocks the speaker's desire to share more, and the speaker will doubt that you truly understand.",
+      "Because saying \"I know how you feel\" is a form of Contrasting that requires three prior conditions.",
+      "Because listeners should never focus on feelings and should only paraphrase objective facts.",
+      "Because it forces the speaker to use high-intensity feeling words prematurely."
+    ],
+    "answer": 1,
+    "answer_letter": "A",
+    "explanation": "`\"I know how you feel\"`은 사실이 아닐뿐더러 상대가 더 말할 의욕을 꺾고 불신을 낳는다."
+  },
+  {
+    "id": "adv-q12",
+    "num": 12,
+    "question": "Which of the following is one of the three ways to \"Strive for Concreteness and Relevance\" in Chapter 7 that many beginners find ironic?",
+    "options": [
+      "Using vague, abstract generalizations so the speaker does not feel cornered.",
+      "Interrupting rambling, long-winded talkers with reflective responses to help them stop talking in circles and focus on the point.",
+      "Asking a rapid series of ten closed-ended questions in succession.",
+      "Remaining completely silent for an hour without making any reflective responses."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "구체성을 높이는 3가지 방법 중 하나는 장황하게 횡설수설하는 화자(`rambling talkers`)를 반영적 응답으로 끊어주어(`interrupt with reflective responses`) 핵심에 집중하게 돕는 것이다."
+  },
+  {
+    "id": "adv-q13",
+    "num": 13,
+    "question": "How should a reflective listener handle a situation where the speaker asks a direct question requesting advice (e.g., *\"What would you do if you were in my shoes?\"*)?",
+    "options": [
+      "Immediately abandon reflective listening and give a detailed lecture on what you did in the past.",
+      "Refuse to speak and walk out of the room to protect the speaker's autonomy.",
+      "Decode what the question really means and reflect back the implicit feeling or meaning behind the question (e.g., *\"This one's really got you stumped!\"*).",
+      "Answer the question with another closed question to shift the topic."
+    ],
+    "answer": 3,
+    "answer_letter": "C",
+    "explanation": "조언을 구하는 직접 질문에는 질문 이면에 숨겨진 감정/의미를 해독해 반영(`Reflect the feelings implicit in questions`)해야 한다."
+  },
+  {
+    "id": "adv-q14",
+    "num": 14,
+    "question": "What is Contrasting (one of the six Additive Responses Beyond Reflective Listening), and what are its rules of use?",
+    "options": [
+      "Contrasting is arguing against the speaker's political opinions; it should be used at the very beginning of a conversation.",
+      "Contrasting calls attention to discrepancies in the speaker's behavior using the format *\"On the one hand, you say/feel/do X, and on the other hand, you say/feel/do Y\"*—it requires a firm base of trust, should never be used twice in succession, and must be followed by a return to reflective listening.",
+      "Contrasting is comparing the speaker's problems to the listener's worse problems to make the speaker feel better.",
+      "Contrasting is repeating the speaker's exact words in a monotone voice to highlight their grammatical errors."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "대조하기(`Contrasting`)는 `\"On the one hand..., on the other hand...\"` 포맷으로 불일치를 짚어주며, 확고한 신뢰 토대 위에서 단 1회만 쓰고(절대 2회 연속 금지) 즉시 반영적 경청으로 돌아가야 한다."
+  },
+  {
+    "id": "adv-q15",
+    "num": 15,
+    "question": "According to Chapter 7, which of the following accurately describes When NOT to Listen Reflectively?",
+    "options": [
+      "When the speaker is speaking in a \"code,\" experiencing strong feelings, or before you act on a task.",
+      "When you are not able to be accepting, when you do not trust the other to find their own solution, when you are not emotionally \"separate\" from the other, when you use listening to hide yourself, or when you feel hassled/depleted (as well as during casual, everyday storytelling).",
+      "When you and the speaker have equally strong needs to talk or before you argue.",
+      "When you are talking to yourself in an inner monologue."
+    ],
+    "answer": 2,
+    "answer_letter": "B",
+    "explanation": "반영적 경청을 쓰지 말아야 할 5가지 상황(수용 불가, 상대의 해결 능력 불신, 감정적 미분리, 자기 은폐 수단으로 악용, 피로/고갈 상태 + 가벼운 일상 수다)."
+  }
+]

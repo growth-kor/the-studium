@@ -1,550 +1,993 @@
 {
   "id": "pathways3",
-  "name": "《Pathways 3》",
-  "author": "Billy Joseph Fitzgerald",
-  "category": "대학영어 2 (원어민 / 실질 60%)",
+  "name": "Pathways 3 (Reading & Writing)",
+  "author": "Cengage National Geographic",
+  "category": "대영2 (Billy Joseph Fitzgerald)",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Unit 1: What Are They Thinking? (동물 인지 과학)",
+      "short_title": "Unit 1 동물인지",
+      "sentences": [
+        {
+          "zh": "[Paragraph A (도입: 도구 사용과 문제 해결)] Animals demonstrate problem-solving abilities that challenge the idea that only humans possess advanced intelligence.",
+          "kr": "핵심 세부 내용: 까마귀(New Caledonian crows)가 철사를 구부려 도구를 만들고 병 속에 든 먹이를 꺼내는 실험. 이는 단순 시행착오가 아니라 사전 계획(planning)과 인과 추론에 기반함.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph B (자아 인식과 거울 실험)] Self-recognition in mirrors indicates a higher level of consciousness in certain animals.",
+          "kr": "핵심 세부 내용: 침팬지, 돌고래, 코끼리가 거울에 비친 자신의 몸에 묻은 점을 확인하고 닦아내는 행동. 이는 '나(Self)'라는 개념을 인식함을 증명.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph C (동물의 슬픔과 애도 - Grief)] Animals show emotional responses, particularly grief, when family members or companions die.",
+          "kr": "핵심 세부 내용: 코끼리 무리가 죽은 동료의 뼈 주위에 모여 오랜 시간 코로 만지며 침묵을 지키는 의식적 애도 행동.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph D (공감 능력 - Empathy in Rats & Dogs)] Recent scientific experiments reveal that empathy is not unique to humans.",
+          "kr": "핵심 세부 내용: 쥐 실험(Lever-pulling experiment) — 레버를 당기면 먹이가 나오지만 다른 쥐에게 전기 충격이 가해진다는 사실을 인지하자 쥐들이 레버 누르기를 중단함 (suffering 방지 본능).",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph E (학계의 회의론과 반론 - Anthropomorphism)] Skeptics warn against anthropomorphism (인간화: 동물의 행동에 인간의 감정을 투영하는 오류).",
+          "kr": "핵심 세부 내용: 동물의 특정 행동이 실제 감정인지, 단순한 조건반사적 생존 기제인지 엄밀한 과학적 검증이 필요하다는 주장.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph F & G (결론 및 시사점)] Expanding recognition of animal cognition reshapes how humans treat and protect nonhuman species.",
+          "kr": "핵심 세부 내용: 동물의 지능과 감정을 인정함으로써 동물 복지 법안, 사육 환경 개선, 생태계 보존의 도덕적 정당성이 확보됨.",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Unit 3: Living on an Urban Planet (메가시티와 도시화)",
+      "short_title": "Unit 3 도시화",
+      "sentences": [
+        {
+          "zh": "[Paragraph A (도시 행성으로의 전환)] Humanity has crossed a historic threshold, transitioning into an predominantly urban species.",
+          "kr": "핵심 세부 내용: 과거 농경 중심 사회에서 산업화 이후 급격한 도시 집중. 1950년 인구 1,000만 이상의 메가시티는 뉴욕과 도쿄 2곳에 불과했으나 현재는 30개 이상으로 급증.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph B (도시 집중의 경제적 동인 - Push & Pull Factors)] Economic opportunities act as the strongest magnet drawing rural populations into cities.",
+          "kr": "핵심 세부 내용: 도시의 높은 소득 수준(income), 다양한 일자리, 교육 및 의료 인프라. 반면 농촌 지역의 일자리 부족과 기후 변화로 인한 농업 생산성 저하.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph C (도시의 생산성과 규모의 경제 - Productivity)] Dense concentrations of people foster greater economic productivity and technological innovation.",
+          "kr": "핵심 세부 내용: 지식 교류의 가속화, 인프라 공유로 인한 1인당 생산성 향상. 세계 GDP의 80% 이상이 도시에서 창출됨.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph D (도시 스프롤 현상과 교외화 - Sprawl & Suburbs)] Rapid population growth forces cities to spread out into surrounding rural areas, creating extensive suburbs.",
+          "kr": "핵심 세부 내용: 도심 지가 상승으로 인해 외곽으로의 확산(sprawl). 긴 통근 시간, 교통 체증, 탄소 배출 증가라는 부작용 야기.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph E (도시의 환경적 도전과 슬럼 문제)] Uncontrolled urban growth leads to severe infrastructural strain and social inequality.",
+          "kr": "핵심 세부 내용: 개발도상국 도시의 슬럼(무허가 빈민가) 형성, 식수 부족, 폐기물 처리 불능, 대기 및 수질 오염 심화.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph F & G (미래 도시 솔루션 - Green & Smart Cities)] Sustainable urban planning and technological innovations are essential to ensure the livability of future cities.",
+          "kr": "핵심 세부 내용: 대중교통 중심 개발(TOD), 녹지 공간 확충, 에너지 효율적 친환경 건축, 스마트 그리드 도입.",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Unit 5: The New Face of Tourism (지속 가능한 지오투어리즘)",
+      "short_title": "Unit 5 관광",
+      "sentences": [
+        {
+          "zh": "[Paragraph A (대중 관광의 폭발적 성장과 명암)] Global tourism has grown exponentially, bringing substantial economic gains but severe environmental strains.",
+          "kr": "핵심 세부 내용: 저비용 항공사(LCC)의 보급과 크루즈 여행 확대로 전 세계 해외 여행객 수가 14억 명을 돌파함.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph B (과잉 관광의 피해 사례 - Venice & Machu Picchu)] Fragile historic destinations are suffering irreversible damage due to mass visitor overcrowding.",
+          "kr": "핵심 세부 내용: 베네치아의 대형 크루즈선 파도로 인한 석조 기초 침식 및 현지 주민 유출; 마추픽추와 마야 유적의 계단 마모 및 폐기물 범람.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph C (새로운 관광 패러다임의 태동 - Geotourism)] Geotourism emerges as an alternative that sustains or enhances the geographical character of a place.",
+          "kr": "핵심 세부 내용: 내셔널 지오그래픽이 제안한 개념: 환경(environment), 문화(culture), 미학(aesthetics), 유산(heritage), 현지 주민의 복지(well-being)를 모두 보존하는 총체적 접근.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph D (지역 사회와의 상생 파트너십 - Partnerships)] Successful sustainable tourism depends on deep partnerships between tour operators and local residents.",
+          "kr": "핵심 세부 내용: 현지 주민을 공식 가이드(official guides)로 고용하여 정당한 생계(earn a living)를 보장하고, 수익이 다국적 기업이 아닌 지역 공동체로 환원되도록 구조화.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph E (재생 에너지와 친환경 숙박 시설 - Eco-friendly Hospitality)] Modern eco-lodges demonstrate that guest comfort can coexist with renewable and sustainable practices.",
+          "kr": "핵심 세부 내용: 태양광 및 지열 에너지 사용, 빗물 재활용, 일회용 플라스틱 퇴출, 현지 유기농 식자재 사용.",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph F (여행자의 책임과 의식 고취 - Traveler Awareness)] Educating travelers to respect local culture and environment is vital for the long-term future of tourism.",
+          "kr": "핵심 세부 내용: 관광객 스스로가 탄소 발자국을 줄이고, 현지 규칙을 준수하며, 문화적 민감성을 발휘해야 한다는 인식 제고.",
+          "py": ""
+        }
+      ]
+    }
+  ],
   "vocab": [
     {
-      "zh": "behavior",
-      "py": "[n · Unit 1]",
-      "kr": "the way someone or something acts (행동, 처신)",
-      "level": "Unit 1",
-      "note": "Even rats show human-like behavior in lab experiments."
+      "word": "behavior",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "the way someone or something acts",
+      "kr": "행동, 처신",
+      "ex": "Even rats show human-like behavior in lab experiments."
     },
     {
-      "zh": "bond",
-      "py": "[n · Unit 1]",
-      "kr": "a feeling of connection with someone or something else (유대감, 결속)",
-      "level": "Unit 1",
-      "note": "People often form strong bonds with animals they interact with."
+      "word": "bond",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "a feeling of connection with someone or something else",
+      "kr": "유대감, 결속",
+      "ex": "People often form strong bonds with animals they interact with."
     },
     {
-      "zh": "cognitive",
-      "py": "[adj · Unit 1]",
-      "kr": "relating to thinking and understanding (인지적인)",
-      "level": "Unit 1",
-      "note": "Regular exercise can help with physical fitness and cognitive function."
+      "word": "cognitive",
+      "pos": "adj",
+      "unit": "Unit 1",
+      "def_en": "relating to thinking and understanding",
+      "kr": "인지적인",
+      "ex": "Regular exercise can help with physical fitness and cognitive function."
     },
     {
-      "zh": "complex",
-      "py": "[adj · Unit 1]",
-      "kr": "involving a lot of different parts; difficult to understand (복잡한)",
-      "level": "Unit 1",
-      "note": "Some believe emotions like sadness are too complex for nonhuman species."
+      "word": "complex",
+      "pos": "adj",
+      "unit": "Unit 1",
+      "def_en": "involving a lot of different parts; difficult to understand",
+      "kr": "복잡한",
+      "ex": "Some believe emotions like sadness are too complex for nonhuman species."
     },
     {
-      "zh": "controversial",
-      "py": "[adj · Unit 1]",
-      "kr": "causing disagreement (논란의 여지가 있는)",
-      "level": "Unit 1",
-      "note": "The idea that animals feel emotions is controversial and sparks intense debate."
+      "word": "controversial",
+      "pos": "adj",
+      "unit": "Unit 1",
+      "def_en": "causing disagreement",
+      "kr": "논란의 여지가 있는",
+      "ex": "The idea that animals feel emotions is controversial and sparks intense debate."
     },
     {
-      "zh": "discipline",
-      "py": "[v · Unit 1]",
-      "kr": "to train someone to follow rules or codes of behavior (훈육하다, 규율을 따르게 하다)",
-      "level": "Unit 1",
-      "note": "One way to discipline children is to establish a quiet timeout."
+      "word": "discipline",
+      "pos": "v",
+      "unit": "Unit 1",
+      "def_en": "to train someone to follow rules or codes of behavior",
+      "kr": "훈육하다, 규율을 따르게 하다",
+      "ex": "One way to discipline children is to establish a quiet timeout."
     },
     {
-      "zh": "establish",
-      "py": "[v · Unit 1]",
-      "kr": "to create or start something that will last a long time (확립하다, 설립하다)",
-      "level": "Unit 1",
-      "note": "Children generally sleep better when parents establish a regular bedtime routine."
+      "word": "establish",
+      "pos": "v",
+      "unit": "Unit 1",
+      "def_en": "to create or start something that will last a long time",
+      "kr": "확립하다, 설립하다",
+      "ex": "Children generally sleep better when parents establish a regular bedtime routine."
     },
     {
-      "zh": "extended family",
-      "py": "[n · Unit 1]",
-      "kr": "a group that includes uncles, cousins, grandparents, etc. (대가족)",
-      "level": "Unit 1",
-      "note": "Previously, it was common for extended families to live together in one home."
+      "word": "extended family",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "a group that includes uncles, cousins, grandparents, etc.",
+      "kr": "대가족",
+      "ex": "Previously, it was common for extended families to live together in one home."
     },
     {
-      "zh": "gender",
-      "py": "[n · Unit 1]",
-      "kr": "the characteristics of being male or female (성별)",
-      "level": "Unit 1",
-      "note": "It is normal for children, regardless of gender, to fear separation."
+      "word": "gender",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "the characteristics of being male or female",
+      "kr": "성별",
+      "ex": "It is normal for children, regardless of gender, to fear separation."
     },
     {
-      "zh": "generally",
-      "py": "[adv · Unit 1]",
-      "kr": "usually (일반적으로, 대개)",
-      "level": "Unit 1",
-      "note": "Researchers observed that children generally respond well to consistent schedules."
+      "word": "generally",
+      "pos": "adv",
+      "unit": "Unit 1",
+      "def_en": "usually",
+      "kr": "일반적으로, 대개",
+      "ex": "Researchers observed that children generally respond well to consistent schedules."
     },
     {
-      "zh": "grief",
-      "py": "[n · Unit 1]",
-      "kr": "a very sad feeling (especially after someone dies) (비탄, 깊은 슬픔)",
-      "level": "Unit 1",
-      "note": "Some animals appear to express grief when a family member dies."
+      "word": "grief",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "a very sad feeling (especially after someone dies)",
+      "kr": "비탄, 깊은 슬픔",
+      "ex": "Some animals appear to express grief when a family member dies."
     },
     {
-      "zh": "intense",
-      "py": "[adj · Unit 1]",
-      "kr": "very great or extreme (극심한, 강렬한)",
-      "level": "Unit 1",
-      "note": "Children can experience an intense feeling of fear when lost."
+      "word": "intense",
+      "pos": "adj",
+      "unit": "Unit 1",
+      "def_en": "very great or extreme",
+      "kr": "극심한, 강렬한",
+      "ex": "Children can experience an intense feeling of fear when lost."
     },
     {
-      "zh": "observe",
-      "py": "[v · Unit 1]",
-      "kr": "to notice something after looking closely (관찰하다, 목격하다)",
-      "level": "Unit 1",
-      "note": "Biologists observed wolves cooperating in complex social groups."
+      "word": "observe",
+      "pos": "v",
+      "unit": "Unit 1",
+      "def_en": "to notice something after looking closely",
+      "kr": "관찰하다, 목격하다",
+      "ex": "Biologists observed wolves cooperating in complex social groups."
     },
     {
-      "zh": "previously",
-      "py": "[adv · Unit 1]",
-      "kr": "before the time period that you are talking about (이전에, 과거에)",
-      "level": "Unit 1",
-      "note": "Extended family households were far more common previously."
+      "word": "previously",
+      "pos": "adv",
+      "unit": "Unit 1",
+      "def_en": "before the time period that you are talking about",
+      "kr": "이전에, 과거에",
+      "ex": "Extended family households were far more common previously."
     },
     {
-      "zh": "recognition",
-      "py": "[n · Unit 1]",
-      "kr": "an understanding that something is true (인정, 인식)",
-      "level": "Unit 1",
-      "note": "There is a growing recognition that animal minds are sophisticated."
+      "word": "recognition",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "an understanding that something is true",
+      "kr": "인정, 인식",
+      "ex": "There is a growing recognition that animal minds are sophisticated."
     },
     {
-      "zh": "repeatedly",
-      "py": "[adv · Unit 1]",
-      "kr": "occurring many times (반복해서, 여러 차례)",
-      "level": "Unit 1",
-      "note": "After doing this repeatedly, the animals mastered the maze."
+      "word": "repeatedly",
+      "pos": "adv",
+      "unit": "Unit 1",
+      "def_en": "occurring many times",
+      "kr": "반복해서, 여러 차례",
+      "ex": "After doing this repeatedly, the animals mastered the maze."
     },
     {
-      "zh": "replace",
-      "py": "[v · Unit 1]",
-      "kr": "to have something new or different instead of the original (대체하다, 대신하다)",
-      "level": "Unit 1",
-      "note": "When birds shed feathers, new plumage grows to replace that which was lost."
+      "word": "replace",
+      "pos": "v",
+      "unit": "Unit 1",
+      "def_en": "to have something new or different instead of the original",
+      "kr": "대체하다, 대신하다",
+      "ex": "When birds shed feathers, new plumage grows to replace that which was lost."
     },
     {
-      "zh": "social structure",
-      "py": "[n · Unit 1]",
-      "kr": "the way a group of people or animals is organized (사회 구조, 집단 구조)",
-      "level": "Unit 1",
-      "note": "Elephants maintain a matriarchal social structure led by the oldest female."
+      "word": "social structure",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "the way a group of people or animals is organized",
+      "kr": "사회 구조, 집단 구조",
+      "ex": "Elephants maintain a matriarchal social structure led by the oldest female."
     },
     {
-      "zh": "suffering",
-      "py": "[n · Unit 1]",
-      "kr": "pain, either mental or physical (고통, 괴로움)",
-      "level": "Unit 1",
-      "note": "The rats stopped pressing the lever to prevent the other rats suffering."
+      "word": "suffering",
+      "pos": "n",
+      "unit": "Unit 1",
+      "def_en": "pain, either mental or physical",
+      "kr": "고통, 괴로움",
+      "ex": "The rats stopped pressing the lever to prevent the other rats suffering."
     },
     {
-      "zh": "treat",
-      "py": "[v · Unit 1]",
-      "kr": "to behave toward someone or something in a particular way (대우하다, 다루다)",
-      "level": "Unit 1",
-      "note": "Society has a moral duty to treat living creatures with compassion."
+      "word": "treat",
+      "pos": "v",
+      "unit": "Unit 1",
+      "def_en": "to behave toward someone or something in a particular way",
+      "kr": "대우하다, 다루다",
+      "ex": "Society has a moral duty to treat living creatures with compassion."
     },
     {
-      "zh": "aspect",
-      "py": "[n · Unit 3]",
-      "kr": "a part or side of something (측면, 양상)",
-      "level": "Unit 3",
-      "note": "One negative aspect of city living is chronic traffic congestion."
+      "word": "aspect",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "a part or side of something",
+      "kr": "측면, 양상",
+      "ex": "One negative aspect of city living is chronic traffic congestion."
     },
     {
-      "zh": "barrier",
-      "py": "[n · Unit 3]",
-      "kr": "something that blocks movement or separates things (장벽, 방벽)",
-      "level": "Unit 3",
-      "note": "Coastal cities construct storm surge barriers to block ocean surges."
+      "word": "barrier",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "something that blocks movement or separates things",
+      "kr": "장벽, 방벽",
+      "ex": "Coastal cities construct storm surge barriers to block ocean surges."
     },
     {
-      "zh": "canal",
-      "py": "[n · Unit 3]",
-      "kr": "an artificial waterway for boats or water conveyance (운하, 수로)",
-      "level": "Unit 3",
-      "note": "Venice is internationally famous for its historic canals."
+      "word": "canal",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "an artificial waterway for boats or water conveyance",
+      "kr": "운하, 수로",
+      "ex": "Venice is internationally famous for its historic canals."
     },
     {
-      "zh": "concentration",
-      "py": "[n · Unit 3]",
-      "kr": "a huge amount or number of something in one place (집중, 밀집)",
-      "level": "Unit 3",
-      "note": "Metropolitan areas feature a dense concentration of economic talent."
+      "word": "concentration",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "a huge amount or number of something in one place",
+      "kr": "집중, 밀집",
+      "ex": "Metropolitan areas feature a dense concentration of economic talent."
     },
     {
-      "zh": "construction",
-      "py": "[n · Unit 3]",
-      "kr": "the work or industry of building structures (건설, 공사)",
-      "level": "Unit 3",
-      "note": "Hundreds of architects and engineers work in the construction industry."
+      "word": "construction",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "the work or industry of building structures",
+      "kr": "건설, 공사",
+      "ex": "Hundreds of architects and engineers work in the construction industry."
     },
     {
-      "zh": "dense",
-      "py": "[adj · Unit 3]",
-      "kr": "having a large amount of something close together (인구 밀도가 높은, 빽빽한)",
-      "level": "Unit 3",
-      "note": "Some megacities are extremely dense, housing thousands per square kilometer."
+      "word": "dense",
+      "pos": "adj",
+      "unit": "Unit 3",
+      "def_en": "having a large amount of something close together",
+      "kr": "인구 밀도가 높은, 빽빽한",
+      "ex": "Some megacities are extremely dense, housing thousands per square kilometer."
     },
     {
-      "zh": "fierce",
-      "py": "[adj · Unit 3]",
-      "kr": "powerful, violent, and aggressive (weather/storm) (사나운, 맹렬한)",
-      "level": "Unit 3",
-      "note": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
+      "word": "fierce",
+      "pos": "adj",
+      "unit": "Unit 3",
+      "def_en": "powerful, violent, and aggressive (weather/storm)",
+      "kr": "사나운, 맹렬한",
+      "ex": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
     },
     {
-      "zh": "growth",
-      "py": "[n · Unit 3]",
-      "kr": "the process of increasing (성장, 증가)",
-      "level": "Unit 3",
-      "note": "Rapid population growth forces municipal borders outward."
+      "word": "growth",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "the process of increasing",
+      "kr": "성장, 증가",
+      "ex": "Rapid population growth forces municipal borders outward."
     },
     {
-      "zh": "income",
-      "py": "[n · Unit 3]",
-      "kr": "money that a person earns (소득, 수입)",
-      "level": "Unit 3",
-      "note": "Urban workers generally earn higher average incomes than agricultural labor."
+      "word": "income",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "money that a person earns",
+      "kr": "소득, 수입",
+      "ex": "Urban workers generally earn higher average incomes than agricultural labor."
     },
     {
-      "zh": "lower",
-      "py": "[v · Unit 3]",
-      "kr": "to move down or reduce the level/amount (낮추다, 내리다)",
-      "level": "Unit 3",
-      "note": "Hydraulic gates can lower or raise water levels during floods."
+      "word": "lower",
+      "pos": "v",
+      "unit": "Unit 3",
+      "def_en": "to move down or reduce the level/amount",
+      "kr": "낮추다, 내리다",
+      "ex": "Hydraulic gates can lower or raise water levels during floods."
     },
     {
-      "zh": "occasional",
-      "py": "[adj · Unit 3]",
-      "kr": "happening from time to time, not regularly (가끔의, 때때로의)",
-      "level": "Unit 3",
-      "note": "What was once an occasional storm has now become an annual crisis."
+      "word": "occasional",
+      "pos": "adj",
+      "unit": "Unit 3",
+      "def_en": "happening from time to time, not regularly",
+      "kr": "가끔의, 때때로의",
+      "ex": "What was once an occasional storm has now become an annual crisis."
     },
     {
-      "zh": "partially",
-      "py": "[adv · Unit 3]",
-      "kr": "partly, not completely (부분적으로)",
-      "level": "Unit 3",
-      "note": "During high tide, ground floors in Venice are partially submerged."
+      "word": "partially",
+      "pos": "adv",
+      "unit": "Unit 3",
+      "def_en": "partly, not completely",
+      "kr": "부분적으로",
+      "ex": "During high tide, ground floors in Venice are partially submerged."
     },
     {
-      "zh": "productive",
-      "py": "[adj · Unit 3]",
-      "kr": "able to achieve a significant amount or result (생산적인)",
-      "level": "Unit 3",
-      "note": "Knowledge-sharing clusters make urban professionals far more productive."
+      "word": "productive",
+      "pos": "adj",
+      "unit": "Unit 3",
+      "def_en": "able to achieve a significant amount or result",
+      "kr": "생산적인",
+      "ex": "Knowledge-sharing clusters make urban professionals far more productive."
     },
     {
-      "zh": "resident",
-      "py": "[n · Unit 3]",
-      "kr": "a person who lives in a particular place or area (거주자, 주민)",
-      "level": "Unit 3",
-      "note": "Every resident must be prepared for extreme weather occurrences."
+      "word": "resident",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "a person who lives in a particular place or area",
+      "kr": "거주자, 주민",
+      "ex": "Every resident must be prepared for extreme weather occurrences."
     },
     {
-      "zh": "separate",
-      "py": "[v · Unit 3]",
-      "kr": "to keep apart or divide (분리하다, 떼어놓다)",
-      "level": "Unit 3",
-      "note": "Massive seawalls separate the rising ocean from inland residential zones."
+      "word": "separate",
+      "pos": "v",
+      "unit": "Unit 3",
+      "def_en": "to keep apart or divide",
+      "kr": "분리하다, 떼어놓다",
+      "ex": "Massive seawalls separate the rising ocean from inland residential zones."
     },
     {
-      "zh": "spread out",
-      "py": "[v · Unit 3]",
-      "kr": "to cover a huge area (넓게 퍼지다, 확산되다)",
-      "level": "Unit 3",
-      "note": "Metropolises continue to spread out into surrounding rural provinces."
+      "word": "spread out",
+      "pos": "v",
+      "unit": "Unit 3",
+      "def_en": "to cover a huge area",
+      "kr": "넓게 퍼지다, 확산되다",
+      "ex": "Metropolises continue to spread out into surrounding rural provinces."
     },
     {
-      "zh": "suburb",
-      "py": "[n · Unit 3]",
-      "kr": "areas outside of a large city that have homes and businesses (교외 주거지구)",
-      "level": "Unit 3",
-      "note": "Families often migrate to quiet suburbs seeking affordable single homes."
+      "word": "suburb",
+      "pos": "n",
+      "unit": "Unit 3",
+      "def_en": "areas outside of a large city that have homes and businesses",
+      "kr": "교외 주거지구",
+      "ex": "Families often migrate to quiet suburbs seeking affordable single homes."
     },
     {
-      "zh": "temporarily",
-      "py": "[adv · Unit 3]",
-      "kr": "for a limited period of time; not permanently (일시적으로)",
-      "level": "Unit 3",
-      "note": "Stores had to close temporarily while municipal pumps drained floodwater."
+      "word": "temporarily",
+      "pos": "adv",
+      "unit": "Unit 3",
+      "def_en": "for a limited period of time; not permanently",
+      "kr": "일시적으로",
+      "ex": "Stores had to close temporarily while municipal pumps drained floodwater."
     },
     {
-      "zh": "tend to",
-      "py": "[v · Unit 3]",
-      "kr": "to usually do something or be a certain way (~하는 경향이 있다)",
-      "level": "Unit 3",
-      "note": "Cities tend to offer superior healthcare and university facilities."
+      "word": "tend to",
+      "pos": "v",
+      "unit": "Unit 3",
+      "def_en": "to usually do something or be a certain way",
+      "kr": "~하는 경향이 있다",
+      "ex": "Cities tend to offer superior healthcare and university facilities."
     },
     {
-      "zh": "urban",
-      "py": "[adj · Unit 3]",
-      "kr": "relating to a city (도시의)",
-      "level": "Unit 3",
-      "note": "The planet has crossed the threshold into an urban majority."
+      "word": "urban",
+      "pos": "adj",
+      "unit": "Unit 3",
+      "def_en": "relating to a city",
+      "kr": "도시의",
+      "ex": "The planet has crossed the threshold into an urban majority."
     },
     {
-      "zh": "alternative",
-      "py": "[n · Unit 5]",
-      "kr": "one option instead of another (대안, 양자택일)",
-      "level": "Unit 5",
-      "note": "Geotourism offers a sustainable alternative to destructive mass tourism."
+      "word": "alternative",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "one option instead of another",
+      "kr": "대안, 양자택일",
+      "ex": "Geotourism offers a sustainable alternative to destructive mass tourism."
     },
     {
-      "zh": "awareness",
-      "py": "[n · Unit 5]",
-      "kr": "knowledge that something exists (인식, 의식)",
-      "level": "Unit 5",
-      "note": "The campaign aims to raise environmental awareness among international travelers."
+      "word": "awareness",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "knowledge that something exists",
+      "kr": "인식, 의식",
+      "ex": "The campaign aims to raise environmental awareness among international travelers."
     },
     {
-      "zh": "comfort",
-      "py": "[n · Unit 5]",
-      "kr": "a state of ease or well-being (안락, 편안함)",
-      "level": "Unit 5",
-      "note": "Modern eco-lodges provide luxury and comfort without depleting energy."
+      "word": "comfort",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "a state of ease or well-being",
+      "kr": "안락, 편안함",
+      "ex": "Modern eco-lodges provide luxury and comfort without depleting energy."
     },
     {
-      "zh": "distinctive",
-      "py": "[adj · Unit 5]",
-      "kr": "special; very different (독특한, 구별되는)",
-      "level": "Unit 5",
-      "note": "Venice possesses a distinctive architecture shaped by its marine canals."
+      "word": "distinctive",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "special; very different",
+      "kr": "독특한, 구별되는",
+      "ex": "Venice possesses a distinctive architecture shaped by its marine canals."
     },
     {
-      "zh": "earn a living",
-      "py": "[phr · Unit 5]",
-      "kr": "to get money to pay for things that you need (생계를 유지하다, 돈을 벌다)",
-      "level": "Unit 5",
-      "note": "Indigenous residents earn a living as official eco-tour guides."
+      "word": "earn a living",
+      "pos": "phr",
+      "unit": "Unit 5",
+      "def_en": "to get money to pay for things that you need",
+      "kr": "생계를 유지하다, 돈을 벌다",
+      "ex": "Indigenous residents earn a living as official eco-tour guides."
     },
     {
-      "zh": "ecological",
-      "py": "[adj · Unit 5]",
-      "kr": "relating to the relationship between living things and their surroundings (생태학적인, 환경의)",
-      "level": "Unit 5",
-      "note": "Resorts must calculate their ecological footprint prior to development."
+      "word": "ecological",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "relating to the relationship between living things and their surroundings",
+      "kr": "생태학적인, 환경의",
+      "ex": "Resorts must calculate their ecological footprint prior to development."
     },
     {
-      "zh": "economy",
-      "py": "[n · Unit 5]",
-      "kr": "the system by which a governments industry and money are organized (경제)",
-      "level": "Unit 5",
-      "note": "The local island economy relies almost exclusively on overseas visitors."
+      "word": "economy",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "the system by which a governments industry and money are organized",
+      "kr": "경제",
+      "ex": "The local island economy relies almost exclusively on overseas visitors."
     },
     {
-      "zh": "enriching",
-      "py": "[adj · Unit 5]",
-      "kr": "providing more appreciation or enjoyment (풍요롭게 하는, 보람 있는)",
-      "level": "Unit 5",
-      "note": "Authentic cultural exchanges make travel far more enriching than sightseeing."
+      "word": "enriching",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "providing more appreciation or enjoyment",
+      "kr": "풍요롭게 하는, 보람 있는",
+      "ex": "Authentic cultural exchanges make travel far more enriching than sightseeing."
     },
     {
-      "zh": "harmful",
-      "py": "[adj · Unit 5]",
-      "kr": "damaging; dangerous (해로운, 유해한)",
-      "level": "Unit 5",
-      "note": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
+      "word": "harmful",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "damaging; dangerous",
+      "kr": "해로운, 유해한",
+      "ex": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
     },
     {
-      "zh": "landmark",
-      "py": "[n · Unit 5]",
-      "kr": "a building or structure with historical or cultural significance (랜드마크, 유서 깊은 건축물)",
-      "level": "Unit 5",
-      "note": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
+      "word": "landmark",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "a building or structure with historical or cultural significance",
+      "kr": "랜드마크, 유서 깊은 건축물",
+      "ex": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
     },
     {
-      "zh": "maintain",
-      "py": "[v · Unit 5]",
-      "kr": "to keep at a certain level (유지하다, 보전하다)",
-      "level": "Unit 5",
-      "note": "Park authorities restrict tourist volume to maintain fragile trails."
+      "word": "maintain",
+      "pos": "v",
+      "unit": "Unit 5",
+      "def_en": "to keep at a certain level",
+      "kr": "유지하다, 보전하다",
+      "ex": "Park authorities restrict tourist volume to maintain fragile trails."
     },
     {
-      "zh": "necessary",
-      "py": "[adj · Unit 5]",
-      "kr": "essential; required (필수적인, 필요한)",
-      "level": "Unit 5",
-      "note": "Strict quotas are necessary to protect ancient ruins from overtourism."
+      "word": "necessary",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "essential; required",
+      "kr": "필수적인, 필요한",
+      "ex": "Strict quotas are necessary to protect ancient ruins from overtourism."
     },
     {
-      "zh": "objective",
-      "py": "[n · Unit 5]",
-      "kr": "a goal (목표, 목적)",
-      "level": "Unit 5",
-      "note": "A primary objective of geotourism is the preservation of geographic character."
+      "word": "objective",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "a goal",
+      "kr": "목표, 목적",
+      "ex": "A primary objective of geotourism is the preservation of geographic character."
     },
     {
-      "zh": "official",
-      "py": "[adj · Unit 5]",
-      "kr": "relating to a government or an organization (공식적인, 공인된)",
-      "level": "Unit 5",
-      "note": "All visitors must be escorted by official licensed indigenous guides."
+      "word": "official",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "relating to a government or an organization",
+      "kr": "공식적인, 공인된",
+      "ex": "All visitors must be escorted by official licensed indigenous guides."
     },
     {
-      "zh": "partnership",
-      "py": "[n · Unit 5]",
-      "kr": "a way of working with another person, group, or organization (협력 관계, 파트너십)",
-      "level": "Unit 5",
-      "note": "Sustainable travel requires an equal partnership between operators and locals."
+      "word": "partnership",
+      "pos": "n",
+      "unit": "Unit 5",
+      "def_en": "a way of working with another person, group, or organization",
+      "kr": "협력 관계, 파트너십",
+      "ex": "Sustainable travel requires an equal partnership between operators and locals."
     },
     {
-      "zh": "preserve",
-      "py": "[v · Unit 5]",
-      "kr": "to keep in a certain condition (보존하다, 지키다)",
-      "level": "Unit 5",
-      "note": "Nations establish marine sanctuaries to preserve endangered coral reefs."
+      "word": "preserve",
+      "pos": "v",
+      "unit": "Unit 5",
+      "def_en": "to keep in a certain condition",
+      "kr": "보존하다, 지키다",
+      "ex": "Nations establish marine sanctuaries to preserve endangered coral reefs."
     },
     {
-      "zh": "renewable",
-      "py": "[adj · Unit 5]",
-      "kr": "able to be replaced naturally (재생 가능한)",
-      "level": "Unit 5",
-      "note": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
+      "word": "renewable",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "able to be replaced naturally",
+      "kr": "재생 가능한",
+      "ex": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
     },
     {
-      "zh": "spiritual",
-      "py": "[adj · Unit 5]",
-      "kr": "relating to a higher purpose rather than just material needs (영적인, 정신적인)",
-      "level": "Unit 5",
-      "note": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
+      "word": "spiritual",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "relating to a higher purpose rather than just material needs",
+      "kr": "영적인, 정신적인",
+      "ex": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
     },
     {
-      "zh": "sustainable",
-      "py": "[adj · Unit 5]",
-      "kr": "able to continue in the long-term (지속 가능한)",
-      "level": "Unit 5",
-      "note": "Sustainable tourism ensures heritage survives for future generations."
+      "word": "sustainable",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "able to continue in the long-term",
+      "kr": "지속 가능한",
+      "ex": "Sustainable tourism ensures heritage survives for future generations."
     },
     {
-      "zh": "vital",
-      "py": "[adj · Unit 5]",
-      "kr": "necessary or extremely important (필수적인, 극히 중대한)",
-      "level": "Unit 5",
-      "note": "Educating international guests on cultural etiquette is of vital importance."
+      "word": "vital",
+      "pos": "adj",
+      "unit": "Unit 5",
+      "def_en": "necessary or extremely important",
+      "kr": "필수적인, 극히 중대한",
+      "ex": "Educating international guests on cultural etiquette is of vital importance."
     }
   ],
   "qa": [
     {
+      "id": "billy-q1",
+      "num": 1,
       "question": "[Q1] A part or side of something.",
-      "answer": "정답: aspect (n) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+      "options": [
+        "income",
+        "aspect",
+        "barrier",
+        "resident"
+      ],
+      "answer": 2,
+      "explanation": "어휘 영영 정의: aspect: a part or side of something"
     },
     {
+      "id": "billy-q2",
+      "num": 2,
       "question": "[Q2] Involving a lot of different parts; difficult to understand.",
-      "answer": "정답: complex (adj) | 해설: Cengage 교재 Unit 1 p.4 공식 정의."
+      "options": [
+        "cognitive",
+        "controversial",
+        "complex",
+        "intense"
+      ],
+      "answer": 3,
+      "explanation": "어휘 영영 정의: complex: involving a lot of different parts; difficult to understand"
     },
     {
+      "id": "billy-q3",
+      "num": 3,
       "question": "[Q3] Able to continue in the long-term without damaging the environment.",
-      "answer": "정답: sustainable (adj) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+      "options": [
+        "renewable",
+        "sustainable",
+        "distinctive",
+        "productive"
+      ],
+      "answer": 2,
+      "explanation": "어휘 영영 정의: sustainable: able to continue in the long-term"
     },
     {
+      "id": "billy-q4",
+      "num": 4,
       "question": "[Q4] To train someone to follow rules or codes of behavior.",
-      "answer": "정답: discipline (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+      "options": [
+        "observe",
+        "discipline",
+        "establish",
+        "replace"
+      ],
+      "answer": 2,
+      "explanation": "어휘 영영 정의: discipline: to train someone to follow rules"
     },
     {
+      "id": "billy-q5",
+      "num": 5,
       "question": "[Q5] Having a large amount of something close together.",
-      "answer": "정답: dense (adj) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+      "options": [
+        "urban",
+        "occasional",
+        "dense",
+        "fierce"
+      ],
+      "answer": 3,
+      "explanation": "어휘 영영 정의: dense: having a large amount of something close together"
     },
     {
+      "id": "billy-q6",
+      "num": 6,
       "question": "[Q6] A building or structure with historical or cultural significance.",
-      "answer": "정답: landmark (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+      "options": [
+        "suburb",
+        "landmark",
+        "canal",
+        "barrier"
+      ],
+      "answer": 2,
+      "explanation": "어휘 영영 정의: landmark: building/structure with historical significance"
     },
     {
+      "id": "billy-q7",
+      "num": 7,
       "question": "[Q7] Pain, either mental or physical.",
-      "answer": "정답: suffering (n) | 해설: Cengage 교재 Unit 1 p.4 공식 정의 (grief는 사별 후 슬픔)."
+      "options": [
+        "grief",
+        "suffering",
+        "discipline",
+        "behavior"
+      ],
+      "answer": 2,
+      "explanation": "어휘 영영 정의: suffering: pain, either mental or physical"
     },
     {
+      "id": "billy-q8",
+      "num": 8,
       "question": "[Q8] A way of working with another person, group, or organization.",
-      "answer": "정답: partnership (n) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+      "options": [
+        "partnership",
+        "social structure",
+        "extended family",
+        "objective"
+      ],
+      "answer": 1,
+      "explanation": "어휘 영영 정의: partnership: a way of working with another person/org"
     },
     {
+      "id": "billy-q9",
+      "num": 9,
       "question": "[Q9] To notice something after looking closely.",
-      "answer": "정답: observe (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+      "options": [
+        "treat",
+        "observe",
+        "establish",
+        "preserve"
+      ],
+      "answer": 2,
+      "explanation": "어휘 영영 정의: observe: to notice something after looking closely"
     },
     {
+      "id": "billy-q10",
+      "num": 10,
       "question": "[Q10] A state of ease or well-being.",
-      "answer": "정답: comfort (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+      "options": [
+        "comfort",
+        "awareness",
+        "recognition",
+        "economy      ### [Part 2] Contextual Cloze & Collocations (Questions 11 ~ 15) > **Directions**: Choose the best word or phrase to fill in the blank in each sentence."
+      ],
+      "answer": 1,
+      "explanation": "어휘 영영 정의: comfort: a state of ease or well-being"
     },
     {
-      "question": "[Q11] After being hit by three storms, the harbor closed ______ while repairs completed.",
-      "answer": "정답: temporarily (adv) | 해설: 수리 기간 동안 한시적/일시적 폐쇄."
+      "id": "billy-q11",
+      "num": 11,
+      "question": "[Q11] After being hit by three major storms in a month, the historic seaside village had to close its harbor ______ while engineers completed structural repairs.",
+      "options": [
+        "repeatedly",
+        "temporarily",
+        "previously",
+        "partially"
+      ],
+      "answer": 2,
+      "explanation": "문맥 어휘 빈칸: temporarily: 수리 기간 동안 '일시적으로' 폐쇄"
     },
     {
-      "question": "[Q12] Raising public ______ regarding recycling is a vital prerequisite for green cities.",
-      "answer": "정답: awareness (n) | 해설: 필수 콜로케이션 raise public awareness."
+      "id": "billy-q12",
+      "num": 12,
+      "question": "[Q12] The mayor emphasized that raising public ______ regarding recycling practices is a vital prerequisite for building a green city.",
+      "options": [
+        "awareness",
+        "concentration",
+        "comfort",
+        "income"
+      ],
+      "answer": 1,
+      "explanation": "문맥 어휘 콜로케이션: raise public awareness: 대중 인식을 고취하다"
     },
     {
-      "question": "[Q13] Wild animals when threatened display unpredictable ______ that puts observers in danger.",
-      "answer": "정답: behavior (n) | 해설: 동물 행동 패턴 unpredictable behavior."
+      "id": "billy-q13",
+      "num": 13,
+      "question": "[Q13] When wild animals feel threatened, they often display unpredictable ______ that can put observers in danger.",
+      "options": [
+        "grief",
+        "discipline",
+        "behavior",
+        "gender"
+      ],
+      "answer": 3,
+      "explanation": "문맥 어휘 빈칸: unpredictable behavior: 예측 불가능한 행동 양식"
     },
     {
-      "question": "[Q14] Developing nations struggle with sprawl because cities continue to ______ into farmland.",
-      "answer": "정답: spread out (v) | 해설: 도시 외곽으로의 지리적 확산."
+      "id": "billy-q14",
+      "num": 14,
+      "question": "[Q14] Developing nations often struggle with uncontrolled urban sprawl because major cities continue to ______ into nearby agricultural zones.",
+      "options": [
+        "spread out",
+        "earn a living",
+        "tend to",
+        "separate"
+      ],
+      "answer": 1,
+      "explanation": "문맥 어휘 구동사: spread out: 도시 외곽으로 뻗어나가다/확산되다"
     },
     {
-      "question": "[Q15] In order to ______ the ancient temple from acid rain, authorities installed glass barriers.",
-      "answer": "정답: preserve (v) | 해설: 훼손으로부터 보존하다 preserve."
+      "id": "billy-q15",
+      "num": 15,
+      "question": "[Q15] In order to ______ the ancient temple from acid rain and tourist vandalism, the government installed protective glass barriers.",
+      "options": [
+        "replace",
+        "discipline",
+        "preserve",
+        "lower      ### [Part 3] Reading Comprehension & Skill Analysis (Questions 16 ~ 23) > **Directions**: Read each passage and answer the questions based on the text.  #### [Passage 1: Animal Cognition] In a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance."
+      ],
+      "answer": 3,
+      "explanation": "문맥 어휘 빈칸: preserve: 산성비와 훼손으로부터 사원을 '보존하다'"
     },
     {
-      "question": "[Q16] [Reading 1 Main Idea] Betty the crow tool experiment.",
-      "answer": "정답: Betty the crow proved animals invent tools through cognitive planning rather than chance. | 해설: 까마귀의 도구 제작은 인지적 계획에 기초함."
+      "id": "billy-q16",
+      "num": 16,
+      "question": "[Q16] What is the main idea of Passage 1?",
+      "options": [
+        "New Caledonian crows have the largest brain-to-body ratio among all bird species.",
+        "Betty the crow proved that animals can invent tools through cognitive planning rather than simple chance.",
+        "Laboratory experiments on animals frequently produce controversial and untrustworthy results.",
+        "Using wire hooks is an innate survival skill passed down through crow generations."
+      ],
+      "answer": 2,
+      "explanation": "독해 대의 파악: 인지적 계획을 통한 도구 제작 증명 (Main Idea)"
     },
     {
-      "question": "[Q17] [Supporting Detail] Evidence of crow understanding physical cause-effect.",
-      "answer": "정답: The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve food. | 해설: 먹이를 꺼내기 전 도구를 먼저 가공함."
+      "id": "billy-q17",
+      "num": 17,
+      "question": "[Q17] Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
+      "options": [
+        "The meat was floating in deep water.",
+        "Several straight wires were scattered on the table.",
+        "The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve the food.",
+        "The container was placed inside a laboratory cage.      #### [Passage 2: Urban Living] Today, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water."
+      ],
+      "answer": 3,
+      "explanation": "세부 근거(Supporting): 구부려서 갈고리를 먼저 만드는 계획적 행동"
     },
     {
-      "question": "[Q18] [Reading 3 Detail] Major reason cities generate over 80% of global GDP.",
-      "answer": "정답: The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure. | 해설: 지식 공유와 규모의 경제."
+      "id": "billy-q18",
+      "num": 18,
+      "question": "[Q18] According to Passage 2, what is one major reason why cities produce so much wealth?",
+      "options": [
+        "Rural residents donate a significant portion of their income to metropolitan projects.",
+        "The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure.",
+        "Cities occupy over 80 percent of the Earth's total land area.",
+        "Governments ban commercial activity outside metropolitan boundaries."
+      ],
+      "answer": 2,
+      "explanation": "세부 팩트 확인: 인구 집중으로 인한 지식 공유 및 인프라 효율성"
     },
     {
-      "question": "[Q19] [Cause & Effect] Cause of sprawling informal settlements (slums).",
-      "answer": "정답: The failure of municipal governments to manage growth and provide affordable housing. | 해설: 도시 주택 관리 실패."
+      "id": "billy-q19",
+      "num": 19,
+      "question": "[Q19] What causes the expansion of sprawling informal settlements (slums)?",
+      "options": [
+        "Too much investment in mass transit systems.",
+        "A decline in global gross domestic product.",
+        "The failure of municipal governments to manage growth and provide affordable housing.",
+        "Excessive dispersal of people into remote rural towns.      #### [Passage 3: Sustainable Tourism] The tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers."
+      ],
+      "answer": 3,
+      "explanation": "인과 추론: 주택 공급 및 도시 관리 실패로 인한 슬럼화"
     },
     {
-      "question": "[Q20] [Reading 5 Problem] Initial prompt for Palau tourism policy shift.",
-      "answer": "정답: Mass tourism was severely damaging the islands coral reefs and marine ecosystem. | 해설: 과잉 관광의 산호초 파괴."
+      "id": "billy-q20",
+      "num": 20,
+      "question": "[Q20] What problem initially prompted the government of Palau to change its tourism policy?",
+      "options": [
+        "The economy collapsed because tourists refused to visit the island.",
+        "Foreign tour operators refused to employ indigenous islanders.",
+        "Mass tourism was severely damaging the island's coral reefs and marine ecosystem.",
+        "Hotel companies were unable to find renewable sources of solar energy."
+      ],
+      "answer": 3,
+      "explanation": "세부 팩트 확인: 대중 관광으로 인한 산호초 및 해양 생태계 파괴"
     },
     {
-      "question": "[Q21] [Reading 5 Fact] How Palau funds conservation partnerships with rangers.",
-      "answer": "정답: By collecting a mandatory green fee from foreign visitors. | 해설: 입국 관광객 green fee 징수."
+      "id": "billy-q21",
+      "num": 21,
+      "question": "[Q21] How does the Palau government fund its conservation partnerships with indigenous rangers?",
+      "options": [
+        "By borrowing money from multinational banking organizations.",
+        "By collecting a mandatory green fee from foreign visitors.",
+        "By selling historic landmarks to international hotel chains.",
+        "By permitting cruise ships to anchor directly on coral reefs."
+      ],
+      "answer": 2,
+      "explanation": "세부 팩트 확인: 외국인 대상 의무적 green fee 징수를 통한 기금 조성"
     },
     {
-      "question": "[Q22] [Concept Definition] What is the Palau Pledge?",
-      "answer": "정답: A legal commitment signed by incoming visitors to protect the environment. | 해설: 여권에 서명하는 법적 환경 보호 서약."
+      "id": "billy-q22",
+      "num": 22,
+      "question": "[Q22] Which of the following words best describes the Palau Pledge?",
+      "options": [
+        "An optional questionnaire about traveler preferences.",
+        "A commercial contract that allows tourists to collect marine specimens.",
+        "A legal commitment signed by incoming visitors to protect the environment.",
+        "A temporary guideline that applies only during stormy seasons."
+      ],
+      "answer": 3,
+      "explanation": "개념 어휘 이해: 여권에 서명하는 법적 환경 보호 서약 (Palau Pledge)"
     },
     {
-      "question": "[Q23] [Author Purpose] Primary purpose of Palau passage.",
-      "answer": "정답: Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism. | 해설: 지속 가능 관광 모델 제시."
+      "id": "billy-q23",
+      "num": 23,
+      "question": "[Q23] The author's primary purpose in writing Passage 3 is to:",
+      "options": [
+        "Criticize the government of Palau for imposing excessive regulations on travelers.",
+        "Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism.",
+        "Warn tourists that visiting island nations is becoming economically unaffordable.",
+        "Argue that all tourism should be banned to protect the Pacific Ocean.      ### [Part 4] Visual Analysis & Cause-Effect Reasoning (Questions 24 ~ 26)"
+      ],
+      "answer": 2,
+      "explanation": "작가의도/목적 파악: 혁신 정책과 파트너십을 통한 지속 가능 관광 모델 제시"
     },
     {
-      "question": "[Q24] [Visual Analysis] Urbanization vs Population Growth data.",
-      "answer": "정답: Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth. | 해설: 비율(도시화율)과 증가율 대조."
+      "id": "billy-q24",
+      "num": 24,
+      "question": "[Q24] Look at the following statistical summary regarding world urban populations:\n> - Region A: 82% urban population, population growth rate +0.4% per year\n> - Region B: 43% urban population, population growth rate +2.8% per year\n> - Region C: 51% urban population, population growth rate +1.5% per year\n\nWhich statement is an accurate deduction from the data?",
+      "options": [
+        "Region B is already more urbanized than Region A.",
+        "Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth.",
+        "Region C will never reach a 60% urban population level.",
+        "Population growth in Region A is fiercely accelerating due to high fertility rates."
+      ],
+      "answer": 2,
+      "explanation": "시각 도표/통계 분석: 도시화율(비율)과 인구 증가율(속도)의 대조 분석"
     },
     {
-      "question": "[Q25] [Cause vs Effect Signal Words] Which signals a CAUSE?",
-      "answer": "정답: As a result of | 해설: As a result of 뒤에는 원인이 오며, Therefore/Consequently는 결과를 유도함."
+      "id": "billy-q25",
+      "num": 25,
+      "question": "[Q25] In analyzing causes and effects, which transition word signals a cause rather than an effect?",
+      "options": [
+        "Therefore",
+        "Consequently",
+        "As a result of",
+        "For this reason"
+      ],
+      "answer": 3,
+      "explanation": "인과 접속사 판별: As a result of (~의 원인으로 인해) vs 나머지(결과 유도)"
     },
     {
-      "question": "[Q26] [Causal Analysis] Direct effect of ancient citadel stone degradation.",
-      "answer": "정답: Daily visitor admissions were restricted to 2,500. | 해설: 주절의 행정적 조치(입장 제한)가 직접적 결과임."
+      "id": "billy-q26",
+      "num": 26,
+      "question": "[Q26] Read the sentence: *\"Because overtourism degraded the stone masonry of the ancient citadel, authorities restricted daily admissions to 2,500 visitors.\"*  \nWhat is the direct effect in this sentence?",
+      "options": [
+        "Stone masonry was built inside the citadel.",
+        "Daily visitor admissions were restricted to 2,500.",
+        "Overtourism was eliminated entirely.",
+        "Authorities banned all historic preservation projects.      ### [Part 5] Grammar & Essay Structure (Questions 27 ~ 30)"
+      ],
+      "answer": 2,
+      "explanation": "인과 구조 분석: 직후 결과: 일일 입장객 수를 2,500명으로 제한"
     },
     {
-      "question": "[Q27] [Grammar: if..., then...] Correct real conditional sentence.",
-      "answer": "정답: If tourists visit sensitive ecological reserves, then they will damage rare flora. | 해설: if절에는 현재시제(visit), 주절에는 will+동사원형."
+      "id": "billy-q27",
+      "num": 27,
+      "question": "[Q27] Choose the grammatically correct sentence using the real conditional (`if..., then...`).",
+      "options": [
+        "If tourists will visit sensitive ecological reserves, then they will damage rare flora.",
+        "If tourists visit sensitive ecological reserves, then they will damage rare flora.",
+        "If tourists visited sensitive ecological reserves, then they would damage rare flora.",
+        "If tourists visit sensitive ecological reserves, then they damaged rare flora."
+      ],
+      "answer": 2,
+      "explanation": "조건문 시제 일치: If + 현재동사 (visit), then will + 동사원형"
     },
     {
-      "question": "[Q28] [Grammar: Comparison] Correct comparative structure.",
-      "answer": "정답: Wildlife tourism in Costa Rica is far more enriching than mass cruise travel. | 해설: more... than 구조 및 far 수식 완벽."
+      "id": "billy-q28",
+      "num": 28,
+      "question": "[Q28] Which sentence correctly makes a comparison between two subjects?",
+      "options": [
+        "Modern eco-lodges are much more sustainable that conventional high-rise hotels.",
+        "Rural areas tend to have a denser population as urban centers.",
+        "Wildlife tourism in Costa Rica is far more enriching than mass cruise travel.",
+        "Chimpanzees have the same cognitive skills than human infants."
+      ],
+      "answer": 3,
+      "explanation": "비교급 구문 정확성: far more enriching than (훨씬 더 풍요로운)"
     },
     {
-      "question": "[Q29] [Essay Structure] Standard location of Thesis Statement.",
-      "answer": "정답: At the end of the introductory paragraph as the final sentence. | 해설: 서론 단락의 마지막 문장."
+      "id": "billy-q29",
+      "num": 29,
+      "question": "[Q29] Where should the Thesis Statement typically be positioned within an essay?",
+      "options": [
+        "At the very beginning of the introductory paragraph as the first sentence.",
+        "At the end of the introductory paragraph as the final sentence.",
+        "In the middle of the second body paragraph.",
+        "At the very end of the concluding paragraph as a parting thought."
+      ],
+      "answer": 2,
+      "explanation": "에세이 구조 공식: 서론 단락의 맨 마지막 문장에 위치하는 Thesis Statement"
     },
     {
-      "question": "[Q30] [Paragraph Structure] Role of a Body Paragraph Topic Sentence.",
-      "answer": "정답: To state the main idea of that specific body paragraph and connect it to the essays central thesis. | 해설: 본론 중심 생각 제시 및 논지 연결."
+      "id": "billy-q30",
+      "num": 30,
+      "question": "[Q30] In a five-paragraph academic essay, what is the primary role of a Topic Sentence in a body paragraph?",
+      "options": [
+        "To present a catchy quote that has no relation to the rest of the text.",
+        "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
+        "To summarize the entire essay and offer a call to action.",
+        "To list all supporting statistics without making any interpretive claims.      ## [제5장] 정답표, 심층 해설 및 오답 매력도 완벽 분석"
+      ],
+      "answer": 2,
+      "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"
     }
   ]
 }

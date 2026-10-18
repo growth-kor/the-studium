@@ -2,12 +2,1929 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "DasOkZYS9p41hisrbkYcdA==",
-    "iv": "0KJS/JFtQAZlTz2D",
-    "ciphertext": "bpkOdSvdJOu0x74qvT6oTEIdE2Yq2Xqv113Fb0HiHgFZP1GA1d2s0X4VJ2hwGM8bMxU0wP4KQIedYxMzJUubN4v9eXHeUKhIBGSVWfC1vFkiBiEjoKpPoXmoh5WCAo+8qCWRUPP8fmZ+/V/mNpV/dBy+VptJNe62D7ZY6vpY9ciG6kPHSyP2oGY5zE3nFJb5CI9dSqEdpq0u8uiv6qskpiOkT7n6SMnSIhuoWYBEMMAOdPf1t6Ht50NirwBdAH+KWFk7FIfBU+B300s37Uvlb3bMXwYcObPd30V0Qhjle7pjI/3FgeI/eCnsx5tmcJDAGcE2fk4hwVfpcDyxygt9TLPSeqpGYl+raiERoztWiv8uaVIlEqOc90oalTzoEjDsIy6BhqgeB/pkg1Wa6I7tYu7jQwjIHFRDa9DPHVoi98LG2m92jigwZMdrKcJMeb4ll0M2vkp4W7RbHryZPB3Lf+dW9NqFhLQoFYhWvNn43xXw5p6HJb14yweIHZmsI6O9tM2eLowGEpwIpYivVyqacJEjxwiS5UAGcdPAiMvBh4CKU2k3TP7szfmpSKW1w2/HQvpliudRwIwo7uLiUfJ0khaJ2hlEJqdAoihnSmPfGDF/i3zCynppRumQQh2WEUos0iLuqjs1ahH3UrzR/LEFKSs+seg4Tes0ZzqYjb+yHTZDGPnixzHCLuE5bYEY5GI79LetqEJN5PY8hRQ/vNrP0CxQv0TXhZa0viilXKCrW+8ujpF9vVEvltqJ14xpgocBjdu+xAzfZcmIuHEsNJFPRRQS/iihF6k+ULRhM5WFdWFkyQeHqn6hD1SS/2nFtIFVMQuESgQhUtjj0rKYEGqOZydEdpbiAIKU3sL4pi8ty08h8We9FCgjodzDBvCtcgInGg86UZoi3e1zECAxjTm3sIVQ1uwO5aKxp7/eTodNXqE5nAi5w1tK26+hLZH43MoFRtMiT1FFv+4Io6kdIvehkpg6TMHwpYrBh/7OctXTNZLcySDqsjKHuX3z50dynzjJsbNEMSBQcmIcFamRoGvCXYxb6vBeo/vyQVtR236bal8W1tRPh7p2XNj8HGv4jAj6Ar98JwcPlWd0jUcKzrsgftMZZIPoSda18Bxbzr/9RIWbSdpR1kVe8vE6JTgVs8Eu8fEQM4gdsBJan/eijreycmwX4TQfNrYlUYyjobfqv8m2HTbkdCvdxzfZHR8Pg6tVs+ajYrf/I6dMDhEjGSZSZ2VQjglsua6mMbAM9/Wd1nZEp+SPZZIvFaUMpiII9XxhwI/liP/wXV4kqp6HHDfw04u+ioGFtUEqNS9UGtwlLASriOxFmMVor8WV066yG0upG6e5g4SwoBBpbpDv3BaM/D9G0GJg2deK+TOEGf67EiBCStTBmKR9GVpMyC1Dyr0oukP1ZA0yziNs19TJBxSn9kcMRM07Me5ZcpSykIuwD4uPL5/omIwcq0lYvGBjkmnJ9dTJfyAwl9AwvpfANkRj54NTLYT2a4lXT/Eyn6pUV1Se17ctKaUnVq2bxJcVo40wAEaSHtatpxWa5DAMvqf+ZOZTShiO5Jw4W+C5Z/9TX+fyihiVEupisA3zyWigFY45oYcrESo3oO3pysgH5xYacoRCXJZSsoNM75pO2uIJq7cV5W6ZuLYmxtypk+Upb0bgwWjloIbmQCfmiA/0EN01TEZz5DcPFQ4XvcFz5KEXkfdIrSLTTddgRknun0Uoe4R6CutDJ7o5fmxRC0BcrKr4EdcVAaxkmgA8krKBZxdhRx7A5V1yC7HxrsBOjXt92VRVuz0jD1iN7ZMSb8toXAQUEjnWxCKE27ljOiG3lqrjrThxkWv2V778leSL7OIeEErNGgOhOPy31QNiZyc10Y7cv1M2uUdfsRcEqGPghTd2XDcaBf0MEJvZ5EtJMv3pAlJqp8IxNkPzxoHr4+eV/lALg7J3BQ4wU/Iq/wi2UtkSpT40c6+GqkfnXj9FTMyt47ZOMWVHtdyyf8PFa+3ciFwxHpMJ7xck7Jl5rKRLtdfGh9cbS174xDW9OQ6c5XhNP4opuW65yLtPxGgU0k7jDWtXjOYQBnj9X/9A0BEh8A6VfeZg8539sLY9Fl74LJW3XpEAjDZPbNKCHOircW685P1+8hNdAZ3Ck1woKnTqK16FDw6dPHCvfnYy3KF59Jbo5jTtPjFn8sKX1AqhE8Nz9ozIRG9xmNbvs8kaT9NNPZs0w4u7t53RSRJz9Tb0eUR7Wh9+jp5iJphsV9BSioX6Ql6AZ8WyihCY4+AEkEe9vFDxNeWHQSQJl90HGGusD4Zar4dT5iGHAK5K35ZTt95DDRgvx/edFWMPf8xnnTco72wEmUcCx5NUE6Un49xE4xL5Elcj1jZhzAuYJ7iQZNT2hV9ysZm2IadBlWR4PInRV1easouw87Tg1apK5Q7WEHFisMdLP+cWfcSTl/ThqC61oVpRxzFyz1Z9IHxBtxuLxZTZQBTNVxiaoxKQ7O0z2zUyr4QzKg5qWGxA2Fe3KwkW5bpd/nMkm1VjN1RchfTD6fQat0zDBS0FrTZIoe2Mi9iqlN2R4+2R6cSFDlspbFR/rKDXZSfu/rcu7MIaNU5CUFxHWb856bJjXcmb5QOq6x3n96FPIZTMEmazvQA9hybYzqkuGEKYgMM91oVIbQegT7ZdnCjlAfi0uNFFtvIUsm6umZT8H9fDww9Nvtnr1VFcnEouBik7C9sqNInYbVT5XTYcEcs1hRAj7X4vavqujgHb4mVECw6oCjUKU6UXRo8xfX0ATaBiyrARsDOfpM7qmDMyauhTCWoV+I7D/LC9T0lhz3gvdQgrAlvrInVwp+bA1GF3BPuT8GSa6mb8yXVrHbdekNQwwwxnzhvnV/teMThxiuFq6R0n4pNajrubQyqZH0vIccleEmRQn4Wy61BFNJW0aB2A+s5HLtE4k8iE1/GXRB7ohE6aCDaAksQkZzIegwNKMr473NhodOoTqAE98BXXN0vaLFEF4nePOi9vZIHRJWE6ynWKYWbNIAuXBfY5drrxKL4wDeAijKjsy1ercBWoyNlXb20yvI5cG0WTVmXoxzZQVdZdxoEM0UEMxSLyuXNawHT7SCl1Qa8/cD99crfKew7s/N7IE0kMzC7zfnHOaigtJqTONlw1p9OKPQHQH9+rZQ43AI1/4ybNL8LA17SFSS1Yg9GYBESQAaIs4znSjXam4s44QQMsJNVqZokCjT3ak+aFvhGZ1MjvyMrwxEpBS/2i56HbfRS/x0UKJW1eV2uGsMtAGB5Fxbqh8tYQICBthtnWPRHsf9PLev8/uu9bA3VgtjhJMbdNaeZnq+1OpZ9xo+4GwEHoIofJNULqf9X6EtcE8KFiqYPV/MTGaFjkTIiJuS72kXVzbQxmRM1aUK/X4NgayK8TgKjEC49ksZToDk7YqhAsxpZFrB3rOeV8KvICp1A5CCMPwN49HHaUuezING+NzyuwzhhSOWP1hOglcedR98JzRkzI/UeaAPxmhQgCA5mpO0SmsWcT94G9fzHXUhy51v2Fnvev17CQKEKTJGsTC3Tmu8OxSnB0yClFN/pllywinYglyFYVJU6DtTaMy/CWLtM3179R5uhHTaOvogd3ujqr39Vq4UiHpuDG+iJQb6zJFunEE5GNLhNlEJ21ad+ec5gSJ52LAuSkUY3bTMASisq07juVuSwDxhNN7it3EI9VF7KK4jlQkO7ZvUj9hsisqDTiqG2yOMCG54IXvdr8JmlHG9HSeiiLK0rpk214D/UAESH3VnyBs+5JbCc0bCxM4iGHML17tNxWf17hnb2cgt8rmxisJoubTnsLjJNkgHDNUcsLMw7nXoSK9eloDHHGaraHfUV/vePPv0GhbiZ5DrTnPUJXLG8opsKmrrsn7bxK1FxDcQRgJtL+9ofPrfRISzyltoFQAvsGV1h3wM6fno41NZ/uYiT3XIkNNJ4MeM/QvCvXh4uabV+Ra4MON/l8jpmYpecizEsqWf4uc/oUuRzIz6XYXlFmUzD3pcLq/T5k6AoFMx8AWjIxZkoIyolRjOt6c5HSWNR/QSzGlTUd52dP0CtkprRqjurmD6/XRvNC9z0kmZVnd9mP8cmbNa9R6XSIFHq92suu51TE/8usXk6ZfFaBrKOFmtB4+2NI8DUFZyvuhuNeJ3+cc24n+ArHd1EAr8mQd6AjF1UmjVYAnqSsLsvHrkiFhgbDcDdoTLfK/h/yp6x9nGHEOQrje4ccwpeX5KbRVO1sX1V4rJ4PKlskjNjLDGfbOMK3bjwFkDw0H7kJ3iNdqS5N+V71OyWJncmUUwGPfPIhGY5Tq+3qb69/AZQgFQGouFpOjsAEZWgmPMrQqy2e"
+    "salt": "QS5Ym8d2+3JfutmL7PC9YA==",
+    "iv": "BUWwKcs38DegvBWO",
+    "ciphertext": "zfbIRxICYIY4CCOf16r4E7hpab73Dm2EWATKWLKC8vT0R5weNo6OMPmbYsHRNC7M3VqJ5hIiwMqiCoiRKpgItsEMKX9NxEjmD6qtro+sf5gq1NfVZ+7CqJRa2cfhPzv6R1Ec2GxPd7OfyS7sdQSzQRVtkpxeKeIiw5RL5jKlnRkdCmd8HExHT2VvgKZ5hTyGZA4wkVArSJ1kV5wwdsPbIc9XgmTUck9bqpR0M/XFyezkN4hSHsIukvqI6pbq9zyddpLbPLGWkdRsCmW3tiRBvyqxVSbFUknsqj5yeB9AQhkTmVhWjM0dYDnTW/19tDY+qbSdUCTOKmkHPAQXTMvWjZp9GvESb+oWjt7YyBzBCXCY9+RUTDbV/zxvfGmhA7PJcfX5t76r0GQAX0ENUadAMKc+EwmAD25naZNtSDLrAeparJaKVv0oa5thz3vFbaw9tdzPssONAxg6IFnY7rCxEx43uy10UOGg31YQHPvmQfEB+BcVgNKSrDgYsNLEqHWGQWBhLCbsHtXdHEzzHchLhkKDeRBaq474IGmjgq0aLO+rrLg1qRifJ/hcolV+lCfKs2U65l9BeGCuLLrKvc8vwPorNeyXe5u4NAzJQPwEkmxf8wGyeiO+/2tvUuVDYamGQpWlzEllDlbNd4/tJVaMDIVXammaJIoV+NihK/7j+gWgF9FfiJDLX1RuRBkJexk6eddmVAVwOYZ6CI+YSNZd+7gP+Vtp2dIiCJzRhV7YhIj4diGs9TXdidiFyEs3Cgjm+lESBYJtl56O0W7Ao0wuXzHJ89JwO4suW7zuewB6MH8TABtKIBXmNStq6dc8gHmKmHiKtBTbXEepWEp2ueZgd8gCScOjX0NvhMLVGL3fQraB9bYnXdlGJevT5Sa5pKubEbBfK3WxZNAOGXVXBhL5nhKHI13gtNH+UGQLprFDI3QcVHEiN6azbF/B+Z3AMP+4x9opOlsmczQdtht5mwm4eBsnqgW3JUtCAFjLM3siVfVKPKP5plTC67x4AoJR42jXYKsoG8lSM7YdzSDRa/Mnte13/BN65IfCXOaVSydhtfWgjyoM8FGLWGFT2ncrp9JQ6l5kX05Gf4KVmPEqCB0SCqzZjqEyKp23x4IKWdRfc1CmzrPm7bK023Owoej5v6Gf0MO8TLtSaVKM1lHod/q+05riwDX9l1KJV+xswzeqyo0cJPYG89YzrieeD3y9lE+W6g42P9jeGln+dNw3Q3F8jvD7Ixxuife2TKTbBKXPOuffw3rMRnfGHkR/n/N0IXKUCWMtw7uR6o0s+lNCR0uia6L0IaWDYl6Km4SyWorgzGqGyYtnQe8CE3zWE1YFBPRyOYcd7vDMGC2ui4W7Xmg5MU0RL0DTo6utpESmytMt+/dn8VkmaQl/nbeBNPyZhnjIv4ZIbK1C6NiZr7xS/hPPizBiQ45c39sHuLEgHiIoxpLOMTqW+saU+4SORMUGQMFXYvwVu3uIvbiD4hT7+adWMgqAD49lF+05kSFb28xsWCkXTRQZ2Z3BcxqEz4qNDN4awwdfpE60mrEgYk2EBkCx0CzbBES1/ou7XtyADpn4QjLpCqEnrh6PmsGTcv2tjl0C22nfE6vQxNYErOnNZSLqC2/GiaSYFmghc0jfajKO0fap78zmXAEH+bziYlQmVwuehKogo9qFR7ILSpk3IJzHe9TFAzJjoaA00tdgK+K93YRCx2BzylzSqnH3RKxE4/yJtI5UI/bqGiGSmtJWcn5OrKwGCHxAIi3PJXHYxK02oLkiB+y6mGqF/jOZ3Yrsd1J1nDS8MFLS4vxxi9EjfMoyT7G1Za7b20y6ItaSs32Xx0g7UfCvk6iyqK2lkleIJcvfag3fjbQOzV78aZ9e6dfrw2Z0mLdFXW/oSwl35sD6/lLiwhzy6pGoWzteLj4ScZy2p8lorC1DenpaRu3KVRX/xVWqXvxSE03RplYkH36JND56LgT1wyawfgZlARpahQcFDLAHEYfbdOfYjd5oJmwQDy2jF/+V/Jki1DfSPkiFM/gnZ2EacRvfnc2gKQaVaYcF0gCGHSYyj+M6lb9WDMjeISCr4qRLTkpyMJDurnrD5D/3nQTV9JVM1QTmW0YNvB24IFC1XW859ptrmNF12iD+c1PdXS0SSA+VzLPFix28JOXh2ZakroI82OAA8O9pTMvK+cLuuusFxM1wOfZvYt1HF1ksMLHsx7c+zG5aTchgpo5pfz6EiqKJadOJO1SsxkYndLlCMsXidxL+7vhj5O8tRHcx0VKJe+AEyqvFlGSldxq8Ev9dGIDWJgvy2ML+BRoPhKgLm2mN9uKybajoVEwxt9AQeDAwW2XVNpEEzNiVIz4BzF9gJAcN6sJkCwDPzleduHKS1wUvV+x3ga71gTVwBg+3SoKp3bEJIfj7V9IGQg//wNOMN/Aj7AOfBIMvXvJ6ZGwgCiHmooXs1KXmSmy7BdR3UDJw9wJ07X60eTZRnstulcbIMV29LiETgk+7KgCS7xE5G2dSEl501MeWfBtpfKSg4YT9XrOkf8dx//+ioV9tYk7gI41C0T6SL2lGxbS26Q8yPFyFU3ggMxscEFUFRAKau8JooNG+4NYhY9/uNe1PWB7bfv/CBg5AhcnV6uUQ3tD0K3b1sBKNuJ+jksyXVT8NMcRy0QUkY4ThDCGnrCN6uXdxosgTQh7lQd5/MrJgf4Aso5Eil586MNNy5uM1NW6T6cFxN/+py9mxNKCPZhvoyVzxTQ4zQM6B4h3sVkeNPR72Bo2TLcltpHPJq2427JHyIoiO5bedGxXHKrjK1vNy9d7nF4cGLokF3AVhSSjSwD0Np8ypH5lZ3ad6lNUvMeg28CeZcSSxOL7rpPHj7ldOx7lQ+k2Ui+QbSVp1kDZQbseO33D1b0YdvHh1rvUFXB2wKY8uF/JGUdBlY9wxTyiqsy5XoMgCuqPv/uHrQbLfm4GPXWB9ibl8wdRWfGTsBIYWbI3mu9VDH6u1x5OwTUIb+yl722lkWZxu0s6/hii7D34txk8qL88XvAPH1MUgJFKD3F3wia/0m//FqWdTTVSMnpWFY/zPaQiGpl+JI54OCAWwtcRHt+MSI9E1uNN6SmrTOef34nQl5RHk925hp3WnMQOYB9ruBF6zdGelRwfX1jc1ev980BMQBpjmVN9TUNdMgZ/m3YCIsT6tqqN0QoNxQ91izDD61zF/LGYPIWRjxLF1CIF6FTWvGpqYohZXyyTmhrVrgQhiFpHuffMLBg1rdwxsxee1J9T5PN3Y7NR4gYDD59l0QX8tqBkifkCD6eqYx/NCtzrkCKHgIuQC9mCKFqAkhpktf2VulwdB9yILG3OSOdRQYB2eFYiiZVy8CrtwGHacXdXQCwYpXnUgLUh2/wQ+7Ro6fdu+B4HUagv/Oea+bOXGmqujUQKqrhL/PgXyNRnwjsk1arK8eJjUawhpS2NOZ+/tBY36wxPuMu2PMD92qXTEmguBVlKbLncS90K0YJOond1b58ZAtOlrfbkDgy9ctUFxQrzOpACCFL7Y2xU0J81P44CoJyovcHzt0diMChRI7aVojetYejIcVfahIVFp4iMIgn8ZkfuaB2NCXcRjCa9v/E8CLxiT29ia9la1gxLoE7EZ1m55xPe5pMVXntLj7LM14t2uRKUdZPiPBBS29cPhJAKxYduwM8uX/rnmVyRD5xOYi//1CMDFDh1T1sqkMpxCEWD4OlwYGxBMDeq/JZ4XtyB3bcYwtOOgjPx3Jz+rLJTtBZTlR9D2n/vD9XqICZs4hmBbRl9GE344Fm2DzazyBM3+gDHiQGHL+F0DbXpg7pM19Z5JGXNFbC2dEr/ejAGkRqI+ZKkBYhRn39V0k155q/4+hVC+1Wz4AQIYfjG7sLiTLSL+cy1QDdbcFxyGTs+aM7QPAEH5mCy6ald1i7ulHqIywUPuOG3S26U/P9kBFPts9f9eCJHEDBQM2u8+dchrHdwAmiqSfqfwMtzleWHWPXpwzoPP2K5AmkTAJSLZHHmxzvtgxSQXaKSvHGcinXvfwGxb0JJgjlHkGPvSK5Mv0qXDT/OnWIDI0utoiEhNPWRAWNQN+I6OFlrLolIoBOa3v7whNArPs4w9+KtfouMAXZ08GZQtOEitr969sR+lDLrCZcbsWwFxiuDSeP0Kk5PmPT0emhBnamvjb3a4rRr/D/hLhVMeHGmS4TV+i67Mxa/xIkXGBTBsdhMaZybSbHDoVt9Oarkm+Kgo8eW+yQ7x7HNbL5n2FE7lQQa4iClTdqiTXdiomh0KID5hoHbxSvSuIUKHUr/mflXawvpvtC08gizkSNr/W9iHiNDYBfG3VNm4H3n50qi9IcbxQneUAi0pRXLm6j0cOjImt3ls/tQ2thItE8gX8oQIEmJHYS6ATWK1jcpyPUiexmp7a3LUN6NlP4worfjL/CMfs8vCDJueYRVlJHeEu+0HBiLq0nedWfiPNJa8rFHGiE5b1zwMmLXbk29pXAO7iPcvFsDvG9dHcDM+jsN5EAs4NRUulm79pzbRFgeZi/hIpE4M35jZl72SXhztcWfzWEyEggRdF+//SqiSmwoz2BUVCz+YG37PTMdziJr669t+tDNyobDsZXECXGv7aFJe86ZqanxHlcCY/aAvgmHvFwtMGB2s2Mifey1IojIFwEjjenKlpJUOIbeAydLKeuXCBUG9IeNi1Yo6/1XHJ4gbCe5//ibQZxcQkYI9a/nCxDhD224/F3ZxVC/Gusm4gDis6c6J4VF5utbltEKUTxnAY8iCVKTkVM4ees/5v3ZsMXctaMLhbQEM0H7XS6dhvPD2PqGh6/CWTpdfR/Hz869LaUkAe+Esxo8/8W/KWsprLKbLwBmDP2+iF/a45nN47UPUYMc+iMfVJAV4Wc4GQ/slbvb9ysaAWq5RjFFdftWKhOze/xPMEOUNwN4Xxuej0RhGpQHkG9BbJimiUMtifs54jPetqI4KPR5N1Re/mlYxltLSFU9DEYktvinAIR6ehT9aRm0UxaNEDrpMUZt6URtWpgxW1gzgIs4XuD0PetxlxNQOiFpBWBLb7LjmHfKXlb/jmyN3pqd7Vu9e16MTSq5a1uiCbJtFR+sMC9Neuh9X7hREvWI+tN2OuGzfKeBQWC/NwyZV3tUIwUenPd4zt+2t+nB0HB2DJa6Nx05dFXwTb4/OC7VWnaCxqKDvFi1I9SInYmxl4zpnIarUAmy/+PJC5SdE292K52t8+8b1gWNhqoE0OFcYs8W7G3ftYV3SLmqrGqNrffsG1bHUPpky5vuX1sQTx+nAiY8Px5+N4KddE6bnLqyDOyn9nu/Nrmgs/UZ5h/BfcWjhsz3rdneSlVR3vyVAH0fnjUC69qkHLb8NXe2UQXfrbYr8livgIwg09UZBVrOPykXHDSryOewg5AhualzvHKUafoplxaoXj+R0PF9uzQCy1IkJyIdMrxhpYPL9SVA1OM4Cve3lo/Yf6EOIwMjPJR04DywH/9wzAkGdlRE7LgvAy/M9l8r7gTL3hY+vRRVL3JKVOvpc9SijeKIP9vkpjojcpSODLvWhIDEjJB/jghPQWhBWVKJbwbznjA1n0jZHNpxssBT9/fF6XM6P8tI7JISGqjfNfV87fz9L8h3q3dGnK+PmgmjRDFeJYDmvprzEWxh9pG7FEPjJ4DdDuL9K/ah6ft7ecZXMLkfmDTxgWeASsdyU7+AW2/2Wi0OGSAd7SgsWO8q5EJbWUTrVC6iQIB86x3vBQ5vFaKU1hOLLCjuM3LAwsFN1kRmMn2gTI2ESJk6xjFtcis7XcCOB4AFbasCBPabyGpyp+KHyeqRLL1eLbwnepF7x4Y4treUTvJU9o28v7DCLfJftt/luJ/J6qPlJnPgsWwYKMOgpDp8Xl7Wkee6N4hPzBnM/gjPshtzCqwODvIS9ERGSbv8FSMwQSKrulMOS7VaGlUIpmkpoNhqYmIqr3R17TBYGURuEm6qqdnZktLJflIdUGsfxxugmBj6OauDV2G7O1F8Sn4imVy5NNOpmbzim7AIMiIZirqUdtP/huP3oq/Apzk/ZgZnKiRe919xF9e8hMkAgNfW6hT96mjkhiFZ0J2j+Fafe4j+y739zU/wyTxVkH2dPYeKWmGWgvJK+95ap7W68Iqlu8aCoEq3dcTDzI9TAUusWSIfctNEaNClG"
   },
-  "weekly_courses": [],
+  "weekly_courses": [
+    {
+      "day": "월요일",
+      "courses": [
+        {
+          "id": "mon-zh-b1-integ",
+          "name": "중국어B1(통합실습)",
+          "time": "5~6교시 (13:00~15:00)",
+          "room": "인문관 301호",
+          "prof": "정혜선 교수님",
+          "midterm_book": "산문 《背影》 · 동화책 《团圆》 · 강독 《雨的四季》",
+          "tasks": [
+            {
+              "title": "《背影》 2페이지 번역 및 수업 낭독 연습 (완비)",
+              "done": true
+            },
+            {
+              "title": "《团圆》 14개 씬 줄거리 & 10줄 감상문(读后感) 체화",
+              "done": true
+            },
+            {
+              "title": "《雨的四季》 겨울비 11문장 & 결문 6문장 낭독 준비",
+              "done": true
+            },
+            {
+              "title": "중간고사 산문 《背影》 7개 문단 3단 대역 전수 암기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "mon-zh-b1-speak",
+          "name": "중국어B1(듣기·말하기)",
+          "time": "3~4교시 (11:00~13:00)",
+          "room": "백년관 207호",
+          "prof": "Wu Juan (오연) 교수님",
+          "midterm_book": "신개념 중국어 3",
+          "tasks": [
+            {
+              "title": "제5과 《画像》 본문 낭독 & 신출 단어 13종 복습 (완비)",
+              "done": true
+            },
+            {
+              "title": "부사 从来不 vs 从来没 문법 공식 체화",
+              "done": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "화요일",
+      "courses": [
+        {
+          "id": "tue-adv-comm",
+          "name": "Adv Communication for Global Leaders",
+          "time": "1~2교시 (09:00~11:00)",
+          "room": "인문관 403호",
+          "prof": "Dr. Reid McLain (원어민 교수님)",
+          "midterm_book": "Robert Bolton, People Skills (Chapters 5, 6, 7)",
+          "tasks": [
+            {
+              "title": "Quiz 3 대비 People Skills 5·6·7장 영한대역 원문 정독 (완비)",
+              "done": true
+            },
+            {
+              "title": "11대 반영적 경청 지침 및 경청 금지 5대 상황 원칙 체화",
+              "done": true
+            },
+            {
+              "title": "Dr. McLain 스타일 4지선다 적중 모의고사 15문항 풀이 및 오답 정리",
+              "done": false
+            },
+            {
+              "title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7% vs 93%) 및 학자 매칭 암기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "tue-college-eng",
+          "name": "College English 2 (Billy Joseph Fitzgerald)",
+          "time": "5~6교시 (13:00~15:00)",
+          "room": "0508호",
+          "prof": "Billy Joseph Fitzgerald (원어민 / 성적비중 60%)",
+          "midterm_book": "Pathways 3 (Reading, Writing, and Critical Thinking)",
+          "tasks": [
+            {
+              "title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기",
+              "done": true
+            },
+            {
+              "title": "Reading 1 본문 3편 (What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독",
+              "done": true
+            },
+            {
+              "title": "Cengage Test Bank 실전 모의고사 30문항 풀이 및 오답 점검",
+              "done": false
+            },
+            {
+              "title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 25문장 영작 암기",
+              "done": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "수요일",
+      "courses": [
+        {
+          "id": "wed-college-eng",
+          "name": "College English 2 (김나나 교수님)",
+          "time": "4교시 (12:00~13:00)",
+          "room": "0508호",
+          "prof": "김나나 교수님 (KNN / 성적비중 30%)",
+          "midterm_book": "Prism Reading 3 (Unit 5 Architecture & Unit 6 Energy)",
+          "tasks": [
+            {
+              "title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 영한 정밀 대역 정독",
+              "done": true
+            },
+            {
+              "title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 영한 정밀 대역 정독",
+              "done": true
+            },
+            {
+              "title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리",
+              "done": false
+            },
+            {
+              "title": "서술형 번역 4문항 채점 기준표 및 지칭 대명사 추론 4문항 암기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "wed-data-struct",
+          "name": "Data Structure (자료구조)",
+          "time": "3~4교시 (11:00~13:00)",
+          "room": "공학관 204호",
+          "prof": "김은경 교수님 (천인국·최영규 교재)",
+          "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사)",
+          "tasks": [
+            {
+              "title": "중간고사 범위 1~5장 객관식/단답형 연습문제 CBT 129문항 완독",
+              "done": false
+            },
+            {
+              "title": "김은경 교수님 지필고사 대비 7대 고난도 손코딩 & 상태 추적 챌린지 풀이",
+              "done": false
+            },
+            {
+              "title": "원형 큐(MAX_QSIZE=5) 및 덱 모듈러(%) 연산 포인터 이동 정밀 추적",
+              "done": false
+            },
+            {
+              "title": "스택 기반 중위->후위 수식 변환 및 피연산자 스택 계산 과정 손추적",
+              "done": false
+            },
+            {
+              "title": "Big-O 시간 복잡도(c, n_0) 수학적 증명 및 하노이의 탑 점화식 유도",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "wed-global-biz",
+          "name": "Global Business Environment",
+          "time": "5~6교시",
+          "tasks": [
+            {
+              "title": "글로벌 통상 환경 케이스 스터디 읽기",
+              "done": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "목요일",
+      "courses": [
+        {
+          "id": "thu-mis",
+          "name": "MIS for Business Innovation",
+          "time": "3~4교시",
+          "tasks": [
+            {
+              "title": "비즈니스 정보 시스템 및 IT 혁신 사례 정리",
+              "done": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "books": {
+    "adv_comm": {
+      "id": "adv_comm",
+      "name": "People Skills (Chapters 5, 6, 7)",
+      "author": "Robert Bolton",
+      "category": "고급소통 (Dr. Reid McLain)",
+      "sections": [
+        {
+          "id": 1,
+          "title": "제5장: Why Reflective Responses Work",
+          "short_title": "5장 원리",
+          "sentences": [
+            {
+              "zh": "Why Reflective Responses Work ---",
+              "kr": "반사적 반응이 작동하는 이유 ---",
+              "py": ""
+            },
+            {
+              "zh": "People who are learning to listen more effectively often wonder why such importance is placed on reflective responses. When they are introduced to the concept, they often think that this way of listening is too structured, too mechanical, and not \"natural\" enough. This chapter explores some of those concerns and then examines six problems of human communication that can be alleviated by reflective listening. The chapter concludes with what I believe is the best method of moving beyond one's doubts about the effectiveness of reflective listening.",
+              "kr": "더 효과적으로 듣는 법을 배우는 사람들은 왜 성찰적 반응이 그렇게 중요하게 여겨지는지 궁금해합니다. 그들은 이 개념을 접할 때 이러한 청취 방식이 너무 구조화되고, 너무 기계적이며, 충분히 \"자연스럽지\" 않다고 생각하는 경우가 많습니다. 이 장에서는 이러한 우려 사항 중 일부를 살펴보고 반성적 경청을 통해 완화될 수 있는 인간 의사소통의 여섯 가지 문제를 검토합니다. 이 장에서는 성찰적 경청의 효과에 대한 의심을 뛰어넘는 최선의 방법이라고 생각하는 것으로 결론을 내립니다.",
+              "py": ""
+            },
+            {
+              "zh": "People in our seminars often say,iWhen I listen reflectively, I have to stop and think of how to respond. I'm not myself when I do this. Using these listening skills is too contrived and too lacking in spontaneity.\" One or more of three basic issues is usually relevant to this kind of concern.",
+              "kr": "우리 세미나에 참석하는 사람들은 종종 다음과 같이 말합니다. i반성적으로 들을 때 멈춰서 어떻게 대응할지 생각해야 합니다. 이 일을 할 때 나는 나 자신이 아닙니다. 이러한 듣기 기술을 사용하는 것은 너무 인위적이고 자발성이 너무 부족합니다.\" 일반적으로 세 가지 기본 문제 중 하나 이상이 이러한 종류의 우려와 관련이 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "First, when people learn a new set of skills, they usually go through an awkward and self-conscious stage before they are at home with the skills. A person's ability often decreases when practicing a new method. When I went out for basketball, the coach made me change my method of taking a particular shot. For the next few days, my percentage of baskets dropped significantly. Soon, however, I was shooting better than ever. Similarly, when people first try using these listening skills, they often tell us that they are trying so hard not to send roadblocks and are working so diligently to phrase reflective responses that they miss what the speaker is saying! This does happen to many people, but fortunately only for a brief period.",
+              "kr": "첫째, 사람들이 새로운 기술을 배울 때, 그 기술을 익히기 전에 일반적으로 어색하고 자의식적인 단계를 거칩니다. 새로운 방법을 연습하다 보면 사람의 능력이 떨어지는 경우가 많습니다. 농구하러 나갔을 때 코치님은 나에게 특정한 슛을 던지는 방법을 바꾸라고 하셨다. 다음 며칠 동안 내 장바구니 비율이 크게 떨어졌습니다. 그러나 곧 나는 그 어느 때보다 더 잘 촬영할 수 있게 되었습니다. 마찬가지로, 사람들이 이러한 듣기 기술을 처음 사용하려고 할 때, 그들은 장애물을 보내지 않으려고 너무 열심히 노력하고 있으며 반성적인 답변을 표현하기 위해 너무 부지런히 노력하고 있어서 말하는 사람이 말하는 것을 놓친다고 종종 말합니다. 이런 일이 많은 사람들에게 발생하지만 다행히도 짧은 기간 동안만 발생합니다.",
+              "py": ""
+            },
+            {
+              "zh": "Someone has said there are four stages in the process of improving communication. At first, when learning about the impact of the roadblocks you've been sending, you may feel guilty. Then, when you try these skills, this \"new\" way of relating seems wooden and artificial. It feels phony. Atter using the methods for a few weeks, you might start to feel skillful with them. And, after using the skills regularly, this way of relating becomes so integrated into your communication style that you'll naturally do it well and without conscious awareness. The skills become virtually automatic.",
+              "kr": "어떤 사람은 의사소통을 개선하는 과정에 네 가지 단계가 있다고 말했습니다. 처음에는 당신이 보낸 장애물의 영향에 대해 알게 되면 죄책감을 느낄 수도 있습니다. 그렇다면 이러한 기술을 시도해 보면 이 \"새로운\" 관계 방식은 나무같고 인위적인 것처럼 보입니다. 가짜처럼 느껴집니다. 몇 주 동안 이 방법을 사용하면 익숙해지기 시작할 수도 있습니다. 그리고 이 기술을 정기적으로 사용한 후에는 이러한 관계 방식이 의사소통 스타일에 통합되어 의식적인 자각 없이도 자연스럽게 잘하게 될 것입니다. 기술은 사실상 자동으로 이루어집니다.",
+              "py": ""
+            },
+            {
+              "zh": "A second issue that is relevant here is the amount of structure involved in this kind of listening. Beginners at listening skills often think that reflective responses are too rule governed and therefore seem artificial and disrupt the free flow of a conversation. Actually, even the freest-flowing interactions are very structured, rule-governed interchanges. Richard Bandler and John Grinder wrote: ---",
+              "kr": "여기서 관련된 두 번째 문제는 이러한 종류의 듣기에 관련된 구조의 양입니다. 듣기 기술을 처음 접하는 사람들은 반성적 반응이 너무 규칙에 따라 통제되어 인위적인 것처럼 보이고 대화의 자유로운 흐름을 방해한다고 생각하는 경우가 많습니다. 실제로 가장 자유로운 상호작용조차도 매우 체계적이고 규칙에 따라 이루어지는 상호교환입니다. Richard Bandler와 John Grinder는 다음과 같이 썼습니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "When humans communicate-when we talk, discuss, writewe... are almost never conscious of the way in which we order and structure the words we select. Language so fills our world that we move through it as a fish swims through water. Although we have little or no consciousness of the way in which we form our communication, our activity-the process of using language-is highly structured. For example, if you take this sentence which you are now reading and reverse the order of the words, the results would be nonsense. Here it is in reverse order: \"Nonsense be would results the, words the of order the reverse and reading now are you which sentence this take you if, example for. Bandler and Grinder continued: Our behavior... when communicating is rule-governed behavior. Even though we are not normally aware of the structure in the process of... communication, that structure, the structure of language, can be understood in regular patterns.' There is no such thing as unstructured communication. Some of the rules that foster clear communication have been transmitted fairly effectively in our society, while other important structures of communication, like reflective listening, are rarely transmitted. As a result, when we learn these new skills, they seem strange and artificial at first. But they are no more artificial than the rules of sentence structure, spelling, and so on. Even when I adhere to the patterns of language and the structure of listening skills, I can infuse my individuality into a conversation by what I call style. Style expresses my unique self through nonverbal elements, special wordings, rate of speaking, and other factors that disclose the real me. Though I may choose to use the same skills as someone else, that does not mean we will communicate alike. Our styles will be very different, so each of our ways of relating will be unique. This kind of distinction can be found in many fields. For example, certain fingerings are recommended for beginners learning to play the guitar. Individual guitar players using identical methods (e.g., fingerings) may sound very different from one another, even when playing the same song, because their styles are so personal.",
+              "kr": "인간이 의사소통을 할 때, 즉 말하고, 토론하고, 쓸 때 우리는 우리가 선택한 단어의 순서와 구조를 거의 인식하지 못합니다. 언어는 우리의 세계를 가득 채워서 물고기가 물속을 헤엄치듯 우리가 그 세계를 헤쳐나가게 합니다. 비록 우리가 의사소통을 형성하는 방식에 대해 거의 또는 전혀 의식하지 못하더라도 우리의 활동, 즉 언어를 사용하는 과정은 고도로 구조화되어 있습니다. 예를 들어, 지금 읽고 있는 이 문장을 단어의 순서를 반대로 바꾸면 결과는 말도 안 되는 결과가 됩니다. 여기서는 역순으로 되어 있습니다. \"말도 안 되는 소리는 순서가 반대이고 지금 읽으면 이 문장이 어떤 문장으로 이어지는지 알 수 있습니다. Bandler와 Grinder는 계속해서 다음과 같이 말했습니다. 의사소통할 때 우리의 행동은... 의사소통이 규칙에 따라 이루어지는 행동입니다. 비록 우리가 일반적으로 의사소통 과정의 구조를 인식하지 못하더라도... 의사소통 과정의 구조, 즉 언어의 구조는 규칙적인 패턴으로 이해될 수 있습니다.' 구조화되지 않은 의사소통이란 없습니다. 명확한 의사소통을 촉진하는 일부 규칙은 우리 사회에서 상당히 효과적으로 전달된 반면, 반사적 경청과 같은 다른 중요한 의사소통 구조는 거의 전달되지 않았습니다. 결과적으로 우리가 이러한 새로운 기술을 배울 때 처음에는 그것이 이상하고 인위적으로 보입니다. 그러나 이는 문장 구조, 철자법 등의 규칙만큼 인위적이지 않습니다. 언어의 패턴과 듣기 기술의 구조를 고수하더라도 나는 스타일이라고 부르는 방식으로 대화에 내 개성을 불어넣을 수 있습니다. 스타일은 비언어적 요소, 특별한 표현, 말하는 속도 등 진짜 나를 드러내는 요소를 통해 나만의 독특한 자아를 표현합니다. 내가 다른 사람과 동일한 기술을 사용하기로 선택할 수 있다고 해서 우리가 똑같이 의사소통한다는 의미는 아닙니다. 우리의 스타일은 매우 다를 것이므로 관계를 맺는 방식도 각각 독특할 것입니다. 이런 종류의 구별은 많은 분야에서 찾아볼 수 있습니다. 예를 들어, 기타 연주를 배우는 초보자에게는 특정 운지법이 권장됩니다. 동일한 방법(예: 운지법)을 사용하는 개별 기타 연주자는 같은 노래를 연주하더라도 스타일이 매우 개인적이기 때문에 서로 매우 다르게 들릴 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "The third issue is that while some kinds of spontaneity are highly desirable, other kinds are very destructive. People need to examine their \"nal---",
+              "kr": "세 번째 문제는 어떤 종류의 자발성은 매우 바람직하지만 다른 종류는 매우 파괴적이라는 것입니다. 사람들은 자신의 \"최종---\"을 조사해야 합니다.",
+              "py": ""
+            },
+            {
+              "zh": "ural\" reactions and learn what effects they have. As noted in Chapter , roadblocks-which tend to be used very spontaneously-can drive wedges between people and tend, when used repeatedly, to diminish both parties.",
+              "kr": "ural\" 반응을 확인하고 그것이 어떤 효과를 갖는지 알아보세요. 장에서 언급했듯이 매우 자연스럽게 사용되는 경향이 있는 장애물은 사람들 사이를 쐐기로 몰아넣을 수 있으며, 반복적으로 사용하면 양측 모두를 약화시키는 경향이 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "When people use reflective skills often enough to become proficient at it, when they realize how much all interpersonal communication is governed by rules, and when they realize the destructiveness of spontaneous use of roadblocks, they are otten willing to discipline themselves to engage in reflective listening when it is appropriate.",
+              "kr": "사람들이 숙고할 만큼 충분히 자주 성찰 기술을 사용할 때, 모든 대인 관계 의사소통이 규칙에 의해 지배되는 정도를 깨달을 때, 장애물의 자발적인 사용이 파괴적이라는 것을 깨달을 때, 그들은 종종 적절할 때 성찰적 경청에 참여하기 위해 스스로를 훈련할 의향이 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Six problems of human communication make reflective listening especially appropriate. Four of these problems are common to speakers, two to listeners. The first speaker problem is that words have different meanings for different people. The second is that people often \"code\" their messages so that their real meaning is masked. Third, people frequently beat around the bush-they talk about one thing when another agenda is far more important to them. Finally, many people have trouble getting in touch with and constructively handling their feelings. Listeners have their problems too. They are easily distracted from the speaker's message and often hear through filters that distort much of what was actually said. Let's take a closer look at each of these problems. Words: Imprecise Vehicles of Communication Often the experiences we most want to express do not fit into words and sentences very well. We are not able to say precisely what we mean. As philosopher Alfred North Whitehead said, The success of language in conveying information is highly overrated.\" ' Danish scientist Piet Hein also commented on this difficulty: \"Ideas go in and out of words as air goes in and out of a room with all windows and doors widely open.\" And T. S. Eliot tells us in poetry: Words strain, Crack and sometimes break, under the burden, Under the tension, slip, slide, perish, Decay with imprecision, will not stay in place, Will not stay still.* ---",
+              "kr": "인간 의사소통의 여섯 가지 문제는 성찰적 경청을 특히 적절하게 만듭니다. 이러한 문제 중 4개는 화자에게 공통적으로 발생하고 2개는 청취자에게 공통적으로 발생합니다. 첫 번째 화자 문제는 단어가 사람마다 다른 의미를 갖는다는 것입니다. 두 번째는 사람들이 메시지의 실제 의미가 가려지도록 메시지를 \"코드화\"하는 경우가 많다는 것입니다. 셋째, 사람들은 자주 이리 저리 돌아다닙니다. 그들은 다른 의제가 그들에게 훨씬 더 중요할 때 한 가지만 이야기합니다. 마지막으로, 많은 사람들은 자신의 감정을 이해하고 건설적으로 처리하는 데 어려움을 겪습니다. 청취자에게도 문제가 있습니다. 그들은 말하는 사람의 메시지에서 쉽게 주의가 산만해지며 실제로 말한 내용의 대부분을 왜곡하는 필터를 통해 듣는 경우가 많습니다. 이러한 문제 각각에 대해 자세히 살펴보겠습니다. 단어: 부정확한 의사소통 수단 우리가 가장 표현하고 싶은 경험이 단어와 문장에 잘 들어맞지 않는 경우가 많습니다. 우리는 우리가 의미하는 바를 정확하게 말할 수 없습니다. 철학자 Alfred North Whitehead가 말했듯이, 정보 전달에 있어 언어의 성공은 매우 과대평가되었습니다.\" 덴마크 과학자 Piet Hein도 이 어려움에 대해 다음과 같이 논평했습니다. \"모든 창문과 문이 활짝 열려 있는 방에 공기가 드나들듯이 아이디어는 말에 들어오고 나갑니다.\" 그리고 T. S. Eliot는 시에서 우리에게 말합니다: 부담 속에서 말은 긴장되고, 갈라지고 때로는 부서지고, 긴장 속에서 미끄러지고, 미끄러지고, 멸망하고, 부정확한 쇠퇴는 제자리에 머물지 않을 것입니다. 가만히 있지 마세요.* ---",
+              "py": ""
+            },
+            {
+              "zh": "Reflective listening enhances communication because it helps verif the listener's understanding of what the speaker said. At various points in the conversation, the reflective listener repeats in their own words the co of what they heard the speaker say. If there is some misunderstanding t speaker can correct it immediately. Guesswork Is Involved in Understanding the Meaning of the Speaker's \"Code\" When world leaders want to communicate sensitive information of national importance, they send coded messages that they hope will be weintelligible to agents of other countries. In the course of normal converstion, we trequently do something similar: at times we are ambivalent abo: our desire to express ourselves authentically. Part of us desperately wants to make ourselves known and part of us wants to stay in hiding. So we ofer find ourselves speaking obscurely about our thoughts and even less clean about our feelings. Just as the military conceals its messages in code for national security purposes, so each of us sometimes chooses ways to code o messages for personal security purposes. Often we code our messages without trying. We have been trainer from early childhood to express ourselves indirectly on many topics a feelings. All of us have spent a lifetime coding our own messages and decoci the messages of others. When my children were young, for example, te asked a lot of questions at bedtime. Usually those questions realy mea \"Please stay with me a little longer.\" A husband brings his wife coffee in re at the beginning of each day. She decodes the behavior and hears the Issage: \"He loves me and wants to tell me in small ways.\" A manager tes subordinate that she showed the subordinate's report to the president or acompany. The subordinate decodes the messages and hears the means \"She is pleased with my performance.\" Unfortunately, the unscrambling of coded messages does not and proceed this smoothly. For one thing, we often forget to consider what we need to decode the other person's message. A couple of years ago, I received a letter from friends who, unknow me, were having serious marital problems. I thought it an interesting lea and showed it to Dot, my wife. She said, Their marriage is in trouble sathey are sending this letter as a call for help.\" I reread the heavily coded les and discovered the hidden signs of distress and the plea for help. I mat ---",
+              "kr": "반성적 청취는 화자가 말한 내용을 청취자가 이해하고 있는지 확인하는 데 도움이 되기 때문에 의사소통을 향상시킵니다. 대화의 다양한 지점에서, 반성적인 청취자는 화자가 말하는 것을 들은 내용을 자신의 말로 반복합니다. 오해가 있는 경우 스피커가 즉시 수정할 수 있습니다. 연사의 \"코드\" 의미를 이해하는 데 추측이 필요합니다. 세계 지도자들은 국가적으로 중요한 민감한 정보를 전달하려고 할 때 다른 국가의 요원이 이해할 수 있기를 바라는 암호화된 메시지를 보냅니다. 정상적인 대화 과정에서 우리는 종종 비슷한 일을 합니다. 때때로 우리는 자신을 진정으로 표현하려는 욕구에 대해 양가적인 태도를 취합니다. 우리 중 일부는 필사적으로 자신을 알리고 싶어하고 일부는 숨어 있기를 원합니다. 그래서 우리는 자신의 생각에 대해 모호하게 말하고 감정에 대해서는 훨씬 덜 순수하게 말하는 자신을 발견하게 됩니다. 군대가 국가 보안 목적으로 메시지를 코드로 숨기는 것처럼, 우리 각자는 때때로 개인 보안 목적으로 메시지를 코드화하는 방법을 선택합니다. 종종 우리는 시도하지 않고 메시지를 코딩합니다. 우리는 어린 시절부터 많은 주제에 대해 자신의 감정을 간접적으로 표현하는 훈련을 해왔습니다. 우리 모두는 자신의 메시지를 코딩하고 다른 사람의 메시지를 해독하는 데 평생을 보냈습니다. 예를 들어, 내 아이들이 어렸을 때, 당신은 잠자리에 들 때 많은 질문을 했습니다. 보통 그 질문은 \"조금만 더 내 옆에 있어주세요\"를 의미합니다. 남편은 매일 아침 아내에게 커피를 가져옵니다. 그녀는 행동을 해독하고 Issage의 말을 듣습니다. \"그는 나를 사랑하고 작은 방법으로 나에게 말하고 싶어합니다.\" 과장은 부하직원에게 부하직원의 보고서를 사장이나 회사에 보여줬다고 한다. 부하 직원은 메시지를 해독하고 \"그녀는 내 성과에 만족합니다\"라는 뜻을 듣습니다. 불행하게도 암호화된 메시지의 해독은 원활하게 진행되지 않으며 진행되지 않습니다. 우선, 우리는 다른 사람의 메시지를 해독하는 데 필요한 것이 무엇인지 고려하는 것을 종종 잊어버립니다. 몇 년 전, 나는 모르는 사이 심각한 결혼 문제를 겪고 있는 친구들로부터 편지를 받았습니다. 나는 그것이 흥미로운 레아라고 생각하고 그것을 내 아내 도트에게 보여주었다. 그녀는 \"그들의 결혼 생활에 문제가 있어서 도움을 요청하기 위해 이 편지를 보내고 있습니다.\"라고 말했습니다. 나는 무겁게 코딩된 파일을 다시 읽고 숨겨진 고통의 징후와 도움을 요청하는 내용을 발견했습니다. 나는 ---",
+              "py": ""
+            },
+            {
+              "zh": "a point to visit them soon after and discovered that Dot was right-their marriage was on the verge of breakup and they desperately wanted to talk with me. One of the basic reasons for miscommunication is that decoding is always guesswork. We can hear others' words and can observe their actions, but we can only infer what the words and actions mean.",
+              "kr": "곧 그들을 방문하여 Dot이 옳았다는 것을 알게되었습니다. 그들의 결혼 생활은 파탄 직전이었고 그들은 필사적으로 나와 이야기하고 싶어했습니다. 잘못된 의사소통의 기본적인 이유 중 하나는 디코딩이 항상 추측에 불과하다는 것입니다. 우리는 다른 사람의 말을 듣고 그들의 행동을 관찰할 수 있지만, 그 말과 행동이 무엇을 의미하는지 유추할 수 있을 뿐입니다.",
+              "py": ""
+            },
+            {
+              "zh": "The diagram in Figure 5.1 suggests that a person's behaviors are easily observable-they are on the outside. A person's thoughts, however, are not directly observable; our only clue to these are the person's behaviors (words and actions). The emotions are pictured in the core of the individual's being because they are often concealed very carefully. As with thoughts, our only due to a person's feelings comes to us indirectly through their behaviors.",
+              "kr": "그림 5.1의 다이어그램은 사람의 행동을 쉽게 관찰할 수 있음을 보여줍니다. 즉, 행동은 외부에 있습니다. 그러나 사람의 생각은 직접적으로 관찰할 수 없습니다. 이에 대한 유일한 단서는 그 사람의 행동(말과 행동)입니다. 감정은 종종 매우 조심스럽게 숨겨져 있기 때문에 개인 존재의 핵심에 그려집니다. 생각과 마찬가지로 사람의 감정으로 인해 우리는 행동을 통해 간접적으로 우리에게 다가옵니다.",
+              "py": ""
+            },
+            {
+              "zh": "Figure 5.1. One person can see or hear another person's behaviors. The thoughts and feelings can only be guessed at.",
+              "kr": "그림 5.1. 한 사람은 다른 사람의 행동을 보거나 들을 수 있습니다. 생각과 감정은 추측만 가능합니다.",
+              "py": ""
+            },
+            {
+              "zh": "When one person tries to say something to another, a very inexact process takes place. The way a statement is sent and received can be portrayed as in Figure 5.2.",
+              "kr": "한 사람이 다른 사람에게 무언가를 말하려고 하면 매우 부정확한 과정이 발생합니다. 명령문이 전송되고 수신되는 방식은 그림 5.2와 같이 묘사될 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "sakers Thoughts and Easings (Private, known only to oneself.) Speaker's Actions and/or Words (These are often imprecise or velled expressions of one's thoughts and feelings or even attempts at concealment.) Listener's Interpretation of the Meaning Behind the Speaker's Acts and Words (Private, known only to the listener.) Figure 5.2. The inexactness of the communication process. ---",
+              "kr": "세이커 생각과 완화(비공개, 자신에게만 알려짐.) 화자의 행동 및/또는 말(이것은 종종 자신의 생각과 감정을 부정확하거나 불명확하게 표현하거나 심지어 숨기려는 시도이기도 합니다.) 화자의 행동과 말 뒤에 숨은 의미에 대한 청자의 해석(비공개, 청자에게만 알려짐.) 그림 5.2. 의사소통 과정의 부정확성. ---",
+              "py": ""
+            },
+            {
+              "zh": "66 Let's take a look at how these imprecise sending and receiving processes work in daily life. A sales manager spoke sternly to a subordinate: You've got to start getting serious about your job. You're just not as committed as the rest of us.\" As often happens, what was meant was not what was received. The coding (putting feelings and/or thoughts into words and/ or actions) and the decoding process tor that comment went as shown in Figure 5.3.",
+              "kr": "66 이러한 부정확한 전송 및 수신 프로세스가 일상 생활에서 어떻게 작동하는지 살펴보겠습니다. 한 영업 관리자가 부하 직원에게 엄중하게 말했습니다. 이제 자신의 일에 대해 진지하게 생각해야 합니다. 당신은 우리만큼 헌신적이지 않습니다.\" 종종 그렇듯이, 의도된 내용은 수신된 내용과 다릅니다. 해당 의견에 대한 코딩(감정 및/또는 생각을 단어 및/또는 행동으로 표현)과 디코딩 프로세스는 그림 5.3에 표시된 대로 진행되었습니다.",
+              "py": ""
+            },
+            {
+              "zh": "You're 20% below your sales quota.\" You've got to start getting serious about your job. You're just not as committed as the rest of us.\" \"My manager doesn't think I'm right for this job.\" Figure 5.3. Typical coding-decoding process. Our tendency to decode another's message inaccurately leads to needless misunderstanding on both sides. Since the speaker's thoughts and feelings are private, the listener can only guess what they are. And since the listener's interpretation of the speaker's meaning is private and known only to the listener, neither may be aware that a misunderstanding exists. Misunderstandings like this need not happen. In the previous example, the manager could have spoken more directly and accurately. We will wors on that skill in Part 3 of this book. But the subordinate could have clarified the communication problem by using reflecting skills: Sales manager: You've got to start getting serious about your job. You're just not as committed as the rest of us. Sales rep: Sales manager: It sounds as if you don't think I'm right for the job. No, it's not that. My concern is that you are 20 percent below your sales quota. Sales rep: Sales manager: Your main worry is that I'm not making my number. Yes, that's right. One of my priorities this year is that every salesperson in this department achieve their quotas. What can I do to help? Sales rep: Well, I'm having trouble with one of my target ac counts. How about coming with me on my next call? If 1 can get that one account, I'll be over my quora. ---",
+              "kr": "\"당신은 판매 할당량보다 20% 낮습니다.\" 당신은 당신의 직업에 대해 진지하게 생각하기 시작해야 합니다. 당신은 우리만큼 헌신적이지 않습니다.\" \"제 상사는 제가 이 일에 적합하지 않다고 생각합니다.\" 그림 5.3. 일반적인 코딩-디코딩 프로세스. 다른 사람의 메시지를 부정확하게 해독하려는 우리의 경향은 양측 모두에게 불필요한 오해를 불러일으킵니다. 말하는 사람의 생각과 감정은 사적이므로 듣는 사람은 그것이 무엇인지 추측만 할 수 있습니다. 이런 오해는 일어날 필요가 없습니다. 이전 예에서는 관리자가 이 책의 3부에서 해당 기술에 대해 설명할 수 있습니다. 그러나 부하 직원은 자신의 업무에 대해 진지하게 생각해야 합니다. 영업 담당자: 영업 관리자: 제가 그 일에 적합하지 않다고 생각하는 것 같습니다. 그게 아니라 내 관심사는 당신이 판매 할당량보다 20% 낮다는 것입니다. 판매 담당자: 당신의 가장 큰 걱정은 제가 제 번호를 얻지 못한다는 것입니다. 예, 맞습니다. 올해 내 우선순위 중 하나는 이 부서의 모든 판매원이 할당량을 달성하는 것입니다. 판매 담당자: 글쎄, 내 목표 계정 중 하나에 문제가 있습니다. 쿼라.---",
+              "py": ""
+            },
+            {
+              "zh": "Unreal!\" That's what many people think to themselves when they read a dialogue like this. \"People don't converse that way in real life.\" It's true, most people don't talk that way. And the misunderstandings that develop in their normal conversations are enormous. But in some organizations, when someone is under stress, others listen this way and misunderstandings are kept to a minimum. The Presenting Problem May Not Be the Major Concern People rarely begin a conversation by communicating the things that are of greatest concern. A woman involved in counseling said, \"I was so afraid before the counseling began that I would get to that subject-and afraid that I wouldn'ti This ambivalence about speaking of what is most significant to the person is common. What is most important to share is often the area where we are most vulnerable. We all conceal much of ourselves from others. Everyonetravels incog nito\" to some degree. Yet it is often the very things that we sometimes most want to discuss that we hide most carefully. This results in a phenomenon popularly known as \"beating around the bush.\" We talk around sensitive topics, sometimes couching it as a different subject altogether. Psychologists sometimes speak of the \"presenting problem\" and the \"basic problem.\" Parents may confront a teacher or guidance counselor with a complaint about the way their child is being treated in school. With skillful listening, the conversation may move to topics of greater concern to the parent. The child's treatment in school is probably a real concern, but something else, like their inability to cope with the child at home, may be the underlying problem on their minds. Many speakers test the water to see whether they can trust the vulnerabe areas of their lives to another. Research shows that empathic reflections that demonstrate understanding and acceptance are much more likely to foster exploration of these important areas than are the more typical responses in our culture. Unfortunately, most people are prone to zero in on and solve the least important problems-the presenting problems-while the more critical problems and issues remain hidden. Coming up with good solutions to minor problems while the deeper concerns are not even addressed is one of the biggest sources of inefficiency in business, government, schools, Jamilies, and other institutions. ---",
+              "kr": "\"비현실적이야!\" 많은 사람들이 이런 대화를 읽을 때 스스로 그렇게 생각합니다. \"실생활에서는 사람들이 그런 식으로 대화하지 않아요.\" 사실, 대부분의 사람들은 그런 식으로 말하지 않습니다. 그리고 그들의 일상적인 대화에서 발생하는 오해는 엄청납니다. 하지만 일부 조직에서는 누군가가 스트레스를 받을 때 다른 사람들이 이렇게 듣고 오해를 최소화합니다. 현재의 문제는 주요 관심사가 아닐 수 있습니다. 사람들은 가장 우려되는 사항을 전달하면서 대화를 시작하는 경우가 거의 없습니다. 상담에 참여한 한 여성은 \"상담을 시작하기 전에는 그 주제에 접근할까봐 너무 두려웠고, 그렇게 하지 못할까봐 두려웠다\"고 말했다. 개인에게 가장 중요한 것을 말하는 것에 대한 이러한 양면성은 흔히 있는 일이다. 공유해야 할 가장 중요한 것은 종종 우리가 가장 취약한 영역이다. 우리 모두는 다른 사람들에게 자신의 많은 부분을 숨긴다. 모두가 어느 정도 익명으로 여행한다\"고 말했다. 그러나 우리가 가장 조심스럽게 숨기는 것은 때때로 우리가 가장 논의하고 싶은 바로 그 일들입니다. 이로 인해 \"수풀 주위를 두드리는 현상\"이라고 널리 알려진 현상이 발생합니다. 우리는 민감한 주제에 관해 이야기하며 때로는 그것을 완전히 다른 주제로 간주하기도 합니다. 심리학자들은 때때로 \"현안적인 문제\"와 \"기본적인 문제\"에 관해 이야기합니다. 학부모는 자녀가 학교에서 대우받는 방식에 대한 불만을 교사나 상담사에게 직접 제기할 수 있습니다. 잘 들어주면 대화는 부모가 더 관심을 두는 주제로 옮겨갈 수 있습니다. 학교에서 아이를 대하는 것이 아마도 진짜 걱정거리일 수도 있지만, 집에서 아이를 대처할 수 없는 것과 같은 다른 문제가 마음속에 있는 근본적인 문제일 수도 있습니다. 많은 연사들은 자신의 삶에서 취약한 영역을 다른 사람에게 신뢰할 수 있는지 확인하기 위해 물을 테스트합니다. 연구에 따르면 이해와 수용을 보여주는 공감적 성찰은 우리 문화의 일반적인 반응보다 이러한 중요한 영역에 대한 탐구를 촉진할 가능성이 훨씬 더 높습니다. 불행하게도 대부분의 사람들은 가장 중요하지 않은 문제, 즉 현재의 문제에 초점을 맞춰 해결하는 경향이 있지만 더 중요한 문제와 문제는 숨겨져 있습니다. 더 깊은 우려 사항도 해결되지 않은 상태에서 사소한 문제에 대한 좋은 해결책을 찾는 것은 기업, 정부, 학교, Jamies 및 기타 기관에서 비효율성의 가장 큰 원인 중 하나입니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "The Speaker May Be Oblivious toor Consumed by-Their Emotions Many of us experience two types of problems with our feelings. On the one hand, we are often unaware of our own emotions. On the other hand, feelings sometimes surge through us with such force that reason becomes impotent. We find ourselves dangerously out of control and unable to direct our own destinies at that time. The first condition comes when we are blind to our emotions. The second condition is caused when we are blinded by our emotions. Reflective listening helps in both situations. Ours is a culture that teaches people to repress their feelings. From an early age, children are taught to distort or repress their feelings. \"Be nice to your sister.\" \"Stop crying. \"How many times have I told you not to get angry!\" \"Let the other children play with your toys.\" \"I don't care how you feel-just do it.\" \"You don't know what is good for you.\" \"Stop that silly laughter.\" Men in our society tend to receive permission to feel some things but not others. Typically it is acceptable for men to feel angry and act aggressively, but it is not all right for them to admit fear or to want to take a submissive role sometimes. Women are often allowed to experience fear and cry, but are taught not to express or even be aware of anger when it is consuming them. Other cultural conditioning teaches women, as well as all people in certain ethnic and religious subcultures, to place others' needs before their own. To the extent that emotions are stifled, people lead dwarfed and stunted lives. Our emotions help shape our values. They are a fundamental part of our motivation and help to determine our direction and purpose in lite. Emotions provide us with needed clues for solving our problems; they are central to our relatedness to others. The function of an emotional mirror is to reflect feelings as they are, without distortion: \"It looks as though you are very angry\" \"It sounds like you hate him.\" \"It seems that you are disgusted with the whole setup.\" At other times, instead of being numb to our emotions, we are consumed by them. On these occasions, feelings block our rational capacity. We talk about \"being in the grip of powerful emotions\" implying that for the moment, our feelings have usurped our inner being and control us. When we are ruled by our emotions in such a way that neither reason nor willpower has any influence, we are likely to behave in ways detrimental to ourselves or others. In ---",
+              "kr": "말하는 사람은 자신의 감정에 사로잡혀 있을 수도 있습니다. 우리 중 많은 사람들이 감정에 대해 두 가지 유형의 문제를 경험합니다. 한편으로, 우리는 종종 자신의 감정을 인식하지 못합니다. 반면에, 이성이 무력해질 정도로 감정이 우리를 휩싸는 경우도 있습니다. 우리는 그 당시 위험할 정도로 통제 불능에 빠져 있고 우리 자신의 운명을 지시할 수 없다는 것을 알게 됩니다. 첫 번째 조건은 우리가 감정에 눈이 멀었을 때 발생합니다. 두 번째 상태는 감정에 눈이 멀 때 발생합니다. 반사적 청취는 두 상황 모두에 도움이 됩니다. 우리 문화는 사람들에게 자신의 감정을 억누르도록 가르치는 문화입니다. 아이들은 어릴 때부터 자신의 감정을 왜곡하거나 억압하는 법을 배웁니다. \"언니한테 잘해줘.\" \"그만 울어라. \"화내지 말라고 내가 몇 번이나 말했느냐!\" \"다른 애들은 장난감 가지고 놀게 놔둬라.\" \"네 기분은 상관없어, 그냥 해라.\" \"네게 뭐가 좋은지 모르잖아.\" \"그 바보 같은 웃음은 그만둬라.\" 우리 사회의 남자들은 어떤 감정은 허락받고 어떤 감정은 허락받지 못하는 경향이 있다. 여성은 종종 두려움과 울음을 경험할 수 있지만 분노를 표현하지 않도록 배웁니다. 다른 문화적 조건은 여성뿐만 아니라 특정 인종 및 종교적 하위 문화의 모든 사람들에게 자신의 욕구보다 다른 사람의 욕구를 우선시하도록 가르칩니다. 우리의 감정은 우리의 가치를 형성하는 데 도움이 되며 우리의 방향과 목적을 결정하는 데 도움이 됩니다. 감정적 거울의 기능은 감정을 왜곡 없이 그대로 반영하는 것입니다. \"당신은 그 사람을 싫어하는 것 같습니다.\" \"당신은 모든 상황에 혐오감을 느끼는 것 같습니다.\" 어떤 경우에는 감정이 우리의 이성적 능력을 방해한다는 것을 의미합니다. 우리가 이성과 의지력 모두 영향을 미치지 않는 방식으로 감정의 지배를 받을 때 우리는 자신이나 다른 사람에게 해로운 방식으로 행동할 가능성이 높습니다.",
+              "py": ""
+            },
+            {
+              "zh": "return to our rational abilities. such situations, reflective responses can help us cope with our feelings and Many people believe that it a person inflamed with an emotion is encouraged to talk about it, the feeling will escalate. It is also widely thought that people in the grips of an emotion are more likely to act on the emotion if they verbalize it. For example, it is commonly believed that a person who is furious with another will act on that anger if they verbalize their emotions.",
+              "kr": "우리의 합리적인 능력으로 돌아갑니다. 그러한 상황에서 반성적인 반응은 우리가 감정에 대처하는 데 도움이 될 수 있으며 많은 사람들은 감정에 염증이 있는 사람이 그것에 대해 이야기하도록 장려되면 감정이 더욱 커질 것이라고 믿습니다. 또한 감정에 사로잡힌 사람들은 감정을 말로 표현하면 그 감정에 따라 행동할 가능성이 더 높다고 널리 알려져 있습니다. 예를 들어, 다른 사람에게 분노한 사람이 자신의 감정을 말로 표현하면 그 분노에 따라 행동할 것이라고 일반적으로 믿어집니다.",
+              "py": ""
+            },
+            {
+              "zh": "The reverse is more often true. When a person has a chance to talk about strong feelings to an empathic listener, the likelihood of acting irrationally on the basis of those feelings is diminished. The process of talking on a feeling level drains off much of the excess emotion so that the speaker has less need to act out the feelings irrationally. Many Listeners Are Easily Distracted While speaking one's real meanings is not easy, the listener at the other end of the conversation is often beset by problems too. Many listeners are easily distracted and become consumed with their own thoughts while the speaker is talking. Also, we all have at least a few emotional filters that block or distort some of the meanings being sent to us. Let's turn now to ways in which reflective responses can help listeners deal more effectively with these problems. One of the reasons for poor listening (and also for good listening) is that people can think much faster than they can talk. The average rate of speech for most Americans is about 125 words per minute. This rate is slow for the ear and brain, which can process words about four times that fast. While we listen, we have a lot of spare energy for thinking. Listeners often use their extra mental capacity poorly. After beginning to listen to a friend with interest, our minds may grow bored with the slow pace of the conversation. We soon find that we can take a mental vacation and still get a bit of the message. So while our friend continues to talk, we plan the next day's work or relish last week's tennis victory. We check back with our friend from time to time, note the direction of the conversation, and make a few appropriate remarks, but spend most of the time with our own thoughts. Sometimes we miss a turn in the conversation or a subtlety in what our friend has communicated, and we end up missing a central point that was shared. Remember the fable of the tortoise and the hare? Poor listeners often end up in the predicament of the hare who raced the slow-moving tortoise.",
+              "kr": "그 반대가 사실인 경우가 더 많습니다. 공감하는 청취자에게 강한 감정에 대해 이야기할 기회가 있으면 그러한 감정에 기초하여 비합리적으로 행동할 가능성이 줄어듭니다. 감정 수준에 따라 말하는 과정은 과도한 감정을 상당 부분 빼내므로 말하는 사람이 그 감정을 비합리적으로 표현할 필요가 줄어듭니다. 많은 청취자는 쉽게 주의가 산만해집니다. 자신의 진정한 의미를 말하는 것은 쉽지 않지만, 대화의 반대편에 있는 청취자 역시 종종 문제로 인해 어려움을 겪습니다. 많은 청취자들은 화자가 말하는 동안 쉽게 주의가 산만해지며 자신의 생각에 사로잡히게 됩니다. 또한 우리 모두는 우리에게 전달되는 의미 중 일부를 차단하거나 왜곡하는 감정 필터를 최소한 몇 개 가지고 있습니다. 이제 반사적 반응이 청취자가 이러한 문제를 보다 효과적으로 처리하는 데 도움이 될 수 있는 방법을 살펴보겠습니다. 듣기가 좋지 않은 이유 중 하나는(그리고 듣기가 좋은 경우에도) 사람들이 말하는 것보다 생각하는 것이 훨씬 빠르기 때문입니다. 대부분의 미국인의 평균 말하는 속도는 분당 약 125단어입니다. 이 속도는 귀와 뇌에 비해 느리며, 단어를 처리할 수 있는 속도는 그보다 4배 정도 빠릅니다. 듣는 동안 우리는 생각할 수 있는 많은 여유 에너지를 갖게 됩니다. 청취자는 종종 추가 정신적 능력을 제대로 활용하지 못합니다. 관심을 갖고 친구의 말을 듣기 시작한 후, 우리의 마음은 대화의 느린 속도로 인해 지루해질 수 있습니다. 우리는 정신적인 휴가를 보내면서도 여전히 약간의 메시지를 얻을 수 있다는 것을 곧 알게 됩니다. 그래서 친구가 계속 이야기하는 동안 우리는 다음 날 일을 계획하거나 지난 주의 테니스 승리를 즐깁니다. 우리는 수시로 친구를 확인하고, 대화의 방향을 메모하고, 적절한 발언을 몇 가지 하기도 하지만, 대부분의 시간을 자신의 생각으로 보냅니다. 때때로 우리는 대화의 방향을 놓치거나 친구가 전달한 내용의 미묘한 점을 놓치고 결국 공유된 중심점을 놓치게 됩니다. 거북이와 토끼의 우화를 기억하시나요? 불쌍한 청취자들은 종종 느리게 움직이는 거북이를 경주하는 토끼의 곤경에 빠지게 됩니다.",
+              "py": ""
+            },
+            {
+              "zh": "The hare stopped by the side of the road to go to sleep; the tortoise finally ---",
+              "kr": "토끼는 잠을 자려고 길가에 멈춰 섰습니다. 드디어 거북이 ---",
+              "py": ""
+            },
+            {
+              "zh": "passed the hare and won the race. When the hare awakened, it was too le, to catch up. Poor listeners get off the track for a while and then find they co not catch up to the thoughts being expressed by the slower-talking speaker There are many times, of course, when we manage to go off on ment, tangents and still concentrate on the conversation enough to have a fair. good understanding of its content. This does not constitute good listenie by my definition. When this happens we are not deeply involved in the in teraction. We are not personally present with the other person in a rich ate fulhiling way. Filters Distort What the Listener Hears John Drakeford wrote about \"attention filters\" that keep us fron being overwhelmed by the increasing amount of information that bomber? our senses each day. Our brains strive to improve our signal-to-noise raby filtering out the noise of daily living so we can focus on what's most in portant. But \"while there is obviously wisdom in the natural tendency o have not to listen,\" he wrote, this protective mechanism \"also does us a ci service because it causes us to miss many of the things to which we sho listen. s In addition to the attention filters Drakeford described, each of us ha what might be called emotional filters that block or distort our understanc ing. Most people have heard of Pavlov's famous experiment in which h taught a dog to salivate at the sound of a bell. In the 1930s, Gregory Raza of New York's Queens College, conditioned people to salivate in response n certain words like style and urn. Razran's experiments demonstrated tha is possible to systematically give words emotional connotations that are tonal unrelated to their rational meanings.",
+              "kr": "토끼를 이기고 경주에서 승리했습니다. 토끼가 깨어났을 때 따라잡기가 너무 어려웠습니다. 불쌍한 청취자들은 잠시 길을 벗어나서 천천히 말하는 화자가 표현하는 생각을 따라잡지 못한다는 것을 알게 됩니다. 물론 우리가 가까스로 말을 이어가면서도 여전히 공정할 만큼 대화에 집중하는 경우가 많이 있습니다. 내용을 잘 이해하고 있습니다. 내 정의에 따르면 이것은 좋은 청취를 구성하지 않습니다. 이런 일이 발생하면 우리는 상호작용에 깊이 관여하지 않습니다. 우리는 풍성하고 만족스러운 방식으로 다른 사람과 개인적으로 함께 있지 않습니다. 필터는 듣는 사람이 듣는 것을 왜곡합니다. John Drakeford는 폭격기의 증가하는 정보량에 우리가 압도당하지 않도록 해주는 \"주의 필터\"에 대해 썼습니다. 매일 우리의 감각. 우리의 두뇌는 가장 중요한 것에 집중할 수 있도록 일상 생활의 소음을 필터링하여 신호 대 잡음비를 개선하려고 노력합니다. 그러나 \"듣지 않으려는 자연스러운 경향에는 분명히 지혜가 있지만\" 그는 썼습니다. 이 보호 메커니즘은 \"우리가 듣는 많은 것을 놓치게 하기 때문에 우리에게 CI 서비스도 제공합니다. Drakeford가 설명한 주의 필터 외에도 우리 각자는 우리의 이해를 막거나 왜곡하는 감정 필터라고 부를 수 있는 것이 있습니다. 대부분의 사람들은 개에게 종소리에 침을 흘리도록 가르친 파블로프의 유명한 실험에 대해 들어봤습니다. 1930년대 뉴욕 퀸즈 칼리지의 그레고리 라자(Gregory Raza)는 스타일이나 항아리와 같은 특정 단어에 대한 반응으로 사람들이 침을 흘리도록 조절했습니다. Razran의 실험은 단어의 이성적 의미와 무관한 음조에 감정적인 의미를 체계적으로 부여하는 것이 가능하다는 것을 보여주었습니다.",
+              "py": ""
+            },
+            {
+              "zh": "The conditioning process by which most of us develop our emotona filters is often less systematic but not necessarily less powerful than Rares approach. In our childhood, parents, teachers, or other esteemed adults ur peers may have coupled words like hospital, politician, and taxes with que sneers, scowls, frowns, or other gestures of contempt. Other seemingly nea tral words and ideas may have been accompanied by smiles and other sup of pleasure. Once such conditioning takes place, often without design, ta child (or adult) reacts to the words emotionally. The gut-level response i the now emotionally laden word interferes with the reception of mess containing that word. Our expectations of others constitute another set of filters throug? ---",
+              "kr": "우리 대부분이 감정 필터를 개발하는 조건화 프로세스는 종종 덜 체계적이지만 반드시 Rares 접근 방식보다 덜 강력하지는 않습니다. 어린 시절, 부모, 교사 또는 동료들이 존경하는 다른 성인들은 병원, 정치인, 세금과 같은 단어를 비웃고, 얼굴을 찌푸리고, 눈살을 찌푸리거나 기타 경멸의 몸짓으로 결합했을 수 있습니다. 겉으로는 순수해 보이는 다른 말과 생각에는 미소와 다른 기쁨의 만찬이 동반되었을 수도 있습니다. 의도하지 않은 채 그러한 조건이 형성되면 어린이(또는 성인)는 그 단어에 감정적으로 반응합니다. 이제 감정적으로 가득 찬 단어에 대한 직감적 반응은 그 단어가 포함된 혼란스러운 내용을 받아들이는 것을 방해합니다. 다른 사람들에 대한 우리의 기대는 또 다른 필터 세트를 구성합니까? ---",
+              "py": ""
+            },
+            {
+              "zh": "which we listen. During sensitive union negotiations, a manager later admitted to a friend, \"Sometimes I don't listen well because of what I expect the union leader to say\" Numerous couples are in a similar boat. A husband may think he knows what his partner will say on a given topic and respond on the basis of his expectations rather than in terms of what his partner actually said. Parents and children misunderstand each other similarly.",
+              "kr": "우리가 듣는 것. 민감한 노조 협상 과정에서 한 매니저는 나중에 친구에게 “노조 위원장이 하는 말을 기대해서 잘 듣지 않을 때가 있다”고 털어놨다. 비슷한 상황에 있는 커플이 많다. 남편은 특정 주제에 대해 파트너가 무엇을 말할지 자신이 알고 있다고 생각하고 파트너가 실제로 말한 내용보다는 자신의 기대에 따라 반응할 수 있습니다. 부모와 자녀는 서로를 비슷하게 오해합니다.",
+              "py": ""
+            },
+            {
+              "zh": "In The First and Last Freedom, the Indian philosopher Jiddu Krishnamurti wrote: To be able to really listen, one should abandon or put aside all prejudices.... When you are in a receptive state of mind, things can be easily understood.... But, unfortunately, most of us listen through a screen of resistance. We are screened with prejudices, whether religious or spiritual, psychological or scientific; or, with daily worries, desires and fears. And with these fears for a screen, we listen. Therefore, we listen really to our own noise, our own sound, not to what is being said.? Reflective responses are effective ways to correct the misunderstandings that occur because of our filters. If what we reflect back is inaccurate, the other person virtually always corrects it. A Check on Accuracy: A Channel for Warmth and Concern Since it is so difficult for us to say precisely what is on our mind and in our heart, and since it is so hard for us to listen without distraction or distortion to what others are saying, we desperately need a check for accuracy in our conversations. To do this, effective listeners frequently reflect back the essence of what they've heard as a check that their understandings match their speakers' meanings. As important as accuracy is in communication, most people want more than that. They crave the warmth and concern that comes from another human being. In moments of strong feeling, significant worries, or serious problems, a person often feels alone and needs human contact and support.",
+              "kr": "인도의 철학자 지두 크리슈나무르티(Jiddu Krishnamurti)는 최초이자 마지막 자유(The First and Last Freedom)에서 다음과 같이 썼습니다. 진정으로 들을 수 있으려면 모든 편견을 버려야 합니다.... 수용적인 마음 상태에 있으면 모든 것이 쉽게 이해될 수 있습니다.... 그러나 불행하게도 우리 대부분은 저항의 화면을 통해 듣습니다. 우리는 종교적이든 영적이든, 심리적이든 과학적이든 편견으로 검사를 받습니다. 또는 매일의 걱정, 욕망, 두려움이 있습니다. 그리고 화면에 대한 이러한 두려움을 가지고 우리는 귀를 기울입니다. 그러므로 우리는 실제로 말하는 내용이 아니라 우리 자신의 소음, 우리 자신의 소리에 귀를 기울입니다.? 반사적 응답은 필터로 인해 발생하는 오해를 바로잡는 효과적인 방법입니다. 우리가 반영한 내용이 부정확하면 상대방이 거의 항상 이를 수정합니다. 정확성 점검: 따뜻함과 관심을 위한 통로 우리 생각과 마음 속에 있는 것을 정확하게 말하는 것이 너무나 어렵고, 다른 사람들이 말하는 것을 주의가 산만해지거나 왜곡되지 않고 듣는 것도 너무나 어렵기 때문에, 우리는 대화의 정확성을 확인하는 것이 절실히 필요합니다. 이를 위해 효과적인 청취자는 자신이 이해한 내용이 화자의 의미와 일치하는지 확인하기 위해 자신이 들은 내용의 본질을 자주 반영합니다. 의사소통에서 정확성만큼 중요한 것은 대부분의 사람들이 그 이상을 원한다는 것입니다. 그들은 다른 인간에게서 오는 따뜻함과 관심을 갈망합니다. 강한 감정, 심각한 걱정, 심각한 문제의 순간에 사람은 종종 외로움을 느끼고 인간의 접촉과 지원이 필요합니다.",
+              "py": ""
+            },
+            {
+              "zh": "The empathic listener is there for the other in a unique way that communicates warmth and concern. The reflective listener helps the other person to experience community in the midst of a private and sometimes lonely struggle. ---",
+              "kr": "공감하는 경청자는 따뜻함과 관심을 전달하는 독특한 방식으로 상대방을 위해 존재합니다. 성찰적인 경청자는 상대방이 사적이고 때로는 외로운 투쟁 속에서도 공동체를 경험할 수 있도록 도와줍니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Explaining some of the rationale for reflective listening helps many people realize why this method of listening can foster better interpersonal understanding. Theory contributes to \"informed consent\" and thereby allows us to experiment with new ways of relating, not just because some authority\" advocates those methods, but because our own minds agree that these methods may make sense after all.",
+              "kr": "반성적 경청의 몇 가지 이론적 근거를 설명하면 많은 사람들이 이 경청 방법이 더 나은 대인 관계 이해를 촉진할 수 있는 이유를 깨닫는 데 도움이 됩니다. 이론은 \"사전 동의\"에 기여하며 이를 통해 우리는 새로운 관계 방식을 실험할 수 있습니다. 이는 일부 권위자가 이러한 방법을 옹호하기 때문이 아니라 결국 이러한 방법이 의미가 있다는 데 우리 자신의 마음이 동의하기 때문입니다.",
+              "py": ""
+            },
+            {
+              "zh": "The ultimate test, however, is not in the mind but in the arena of daily life. Regardless of theory, the issue of whether the reflections used enhance or diminish communication must be determined in the rough and tumble of one's daily interactions. Ultimately the worth of reflective responses cannot be decided in the mind but must be decided on the basis of experience. Thomas Carlyle, the English essayist, wrote,i Doubt of any sort cannot be removed except by actioni Constructive skepticism field-tests the hypotheses it is examining. The next two chapters contain guidelines that will help you develop improved reflecting skills. They will help you develop sufficient ability to give this approach to listening a fair trial.",
+              "kr": "그러나 궁극적인 시험은 마음이 아니라 일상생활의 무대에 있습니다. 이론에 상관없이, 사용된 반성이 의사소통을 향상시키거나 감소시키는 문제는 일상적인 상호 작용의 거칠고 혼란스러운 상황에서 결정되어야 합니다. 궁극적으로 반성적 반응의 가치는 마음속에서 결정될 수 없고 경험을 바탕으로 결정되어야 합니다. 영국의 수필가인 Thomas Carlyle은 다음과 같이 썼습니다. 어떤 종류의 의심도 행동을 통해서만 제거될 수 있습니다. 건설적 회의론은 조사 중인 가설을 현장 테스트합니다. 다음 두 장에는 향상된 성찰 기술을 개발하는 데 도움이 되는 지침이 포함되어 있습니다. 그들은 공정한 재판을 경청하기 위한 이러한 접근 방식을 제공할 수 있는 충분한 능력을 개발하는 데 도움이 될 것입니다.",
+              "py": ""
+            },
+            {
+              "zh": "When people are introduced to reflective listening skills, they are often skeptical about its appropriateness in their lives. They feel awkward and phony when they first use the skills. This, however, is only one stage of skill development and quickly passes as they continue developing the skills. Some people complain that this method is \"too structured.\" That complaint seems less pertinent when we see that all communication is inevitably structured and realize that structure does not prevent the expression of individual style. Again, people say this method constrains their spontaneity. While it may be good to value many kinds of spontaneity, the damage done by the impulsive use of roadblocks makes reflective responses essential to interpersonal understanding. Then, too, reflective listening makes more sense to some people when they consider six peculiarities of human communication:",
+              "kr": "사람들이 성찰적 경청 기술을 접할 때, 그것이 자신의 삶에 적합한지에 대해 회의적인 경우가 많습니다. 그들은 처음 기술을 사용할 때 어색함과 가짜 느낌을 받습니다. 그러나 이것은 기술 개발의 한 단계일 뿐이며 기술을 계속 개발함에 따라 빠르게 통과됩니다. 어떤 사람들은 이 방법이 \"너무 구조적\"이라고 불평합니다. 모든 의사소통이 필연적으로 구조화되어 있고 구조가 개인 스타일의 표현을 방해하지 않는다는 것을 알면 그러한 불만은 덜 적절해 보입니다. 다시 말하지만, 사람들은 이 방법이 그들의 자발성을 제한한다고 말합니다. 다양한 종류의 자발성을 중요하게 생각하는 것이 좋을 수도 있지만, 충동적인 장애물 사용으로 인한 피해는 대인 관계 이해에 반성적인 반응을 필수적으로 만듭니다. 또한 인간 의사소통의 여섯 가지 특징을 고려할 때 일부 사람들에게는 반성적 경청이 더 의미가 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "1. Words have different meanings for different people.",
+              "kr": "1. 단어는 사람마다 다른 의미를 갖습니다.",
+              "py": ""
+            },
+            {
+              "zh": "2. People often \"code\" their messages. ---",
+              "kr": "2. 사람들은 종종 자신의 메시지를 \"코드화\"합니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "3. People frequently talk about \"presenting problems\" when another topic is of greater concern to them.",
+              "kr": "3. 사람들은 다른 주제에 더 큰 관심이 있을 때 \"문제 제기\"에 대해 자주 이야기합니다.",
+              "py": ""
+            },
+            {
+              "zh": "4. Speakers may be blind to or blinded by their emotions.",
+              "kr": "4. 화자는 자신의 감정에 눈이 멀거나 눈이 멀 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "5. Listeners are often easily distracted.",
+              "kr": "5. 듣는 사람은 종종 쉽게 주의가 산만해집니다.",
+              "py": ""
+            },
+            {
+              "zh": "6. Listeners hear through \"filters\" that distort much of what is being said. Reflective listening provides a check for accuracy and a channel through which warmth and concern can be communicated. While theory helps inform one's decision about whether to experiment with reflective responses, the ultimate test of the worth of these methods cannot be determined by the rationale developed in this chapter but only by your experience of using the skills in daily life. ---",
+              "kr": "6. 청취자는 말하는 내용의 대부분을 왜곡하는 \"필터\"를 통해 듣습니다. 성찰적인 경청은 정확성을 확인하고 따뜻함과 관심을 전달할 수 있는 채널을 제공합니다. 이론은 성찰적 반응을 실험할지 여부에 대한 결정을 내리는 데 도움이 되지만, 이러한 방법의 가치에 대한 궁극적인 테스트는 이 장에서 개발된 이론적 근거에 의해 결정될 수 없으며 일상 생활에서 기술을 사용하는 경험에 의해서만 결정됩니다. ---",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "제6장: Reading Body Language",
+          "short_title": "6장 비언어",
+          "sentences": [
+            {
+              "zh": "Reading Body Language We all, in one way or another, send our little messages out to the world.... And rarely do we send our messages consciously. We act out our state of being with nonverbal body language. We lift one eyebrow for disbelief. We rub our noses for puzzlement. We clasp our arms to isolate ourselves or to protect ourselves. We shrug our shoulders for indifference, wink one eye for intimacy, tap our fingers for impatience, slap our foreheads for forgetfulness. The gestures are numerous, and while some are deliberate... there are some, such as rubbing our noses for puzzlement or clasping our arms to protect ourselves, that are mostly unconscious.' -Julius Fast, author ---",
+              "kr": "신체 언어 읽기 우리 모두는 어떤 방식으로든 우리의 작은 메시지를 세상에 보냅니다.... 그리고 의식적으로 메시지를 보내는 경우는 거의 없습니다. 우리는 비언어적 신체 언어로 자신의 상태를 표현합니다. 우리는 믿을 수 없다는 이유로 한쪽 눈썹을 들어올립니다. 우리는 어리둥절해서 코를 비비고 있습니다. 우리는 자신을 고립시키거나 자신을 보호하기 위해 팔짱을 끼고 있습니다. 우리는 무관심을 나타내기 위해 어깨를 으쓱하고, 친밀감을 나타내기 위해 한쪽 눈을 윙크하고, 조급함을 나타내기 위해 손가락을 두드리며, 건망증을 나타내기 위해 이마를 칩니다. 몸짓은 다양하고 일부는 고의적이지만... 당황해서 코를 비비거나 자신을 보호하기 위해 팔을 움켜쥐는 등의 일부 동작은 대부분 무의식적입니다.' -Julius Fast, 저자 ---",
+              "py": ""
+            },
+            {
+              "zh": "A person cannot not communicate. Though someone may decide to stop talking, it is impossible to stop behaving. Behaviors-facial expressions, posture, gestures, and other actions-provide an uninterrupted stream of information and a constant source of clues to the feelings that person is experiencing. The reading of body language therefore is one of the most significant skills of good listening. Only a small portion of the understanding one gains in face-to-face interaction comes from words. One prominent authority claims that a mere 35 percent of the meaning of communication derives from words; the remainder comes from body language.? Albert Mehrabian stated in a widely quoted article that in situations he examined, only 7 percent of the impact was verbal; the remaining 93 percent was nonverbal.' You may question the specific percentages these researchers arrived at, but few people dispute the general direction of their findings-that body language is a very important medium of communication. Psychotherapist Alexander Lowen put it this way: 'No words are so clear as the language of body expression once one has learned to read it.\" Nonverbal communication was the only language used throughout most of humanity's existence. For millennia, there was no oral or written language. Body language was the sole means of communication. While body language has been a source of interpersonal understanding from the beginning of humanity, only in the past few decades have behavioral scientists started making systematic observations of nonverbal meanings. They have developed intricate notational systems, filmed people interacting for slow-motion frame-by-frame analysis, and conducted thousands of other experiments. When we add this scientific knowledge to our own instinctual awareness of unspoken communication, we have a significant way to better understand the meanings of others.",
+              "kr": "사람은 의사소통을 할 수 없습니다. 누군가 말을 멈추기로 결정하더라도 행동을 멈추는 것은 불가능합니다. 행동(얼굴 표정, 자세, 몸짓 및 기타 행동)은 중단 없는 정보 흐름과 개인이 경험하고 있는 감정에 대한 지속적인 단서 소스를 제공합니다. 따라서 신체 언어를 읽는 것은 좋은 듣기의 가장 중요한 기술 중 하나입니다. 대면 상호작용에서 얻는 이해 중 극히 일부만이 말에서 나옵니다. 한 저명한 권위자는 의사소통의 의미 중 단지 35퍼센트만이 말에서 나온다고 주장합니다. 나머지는 신체 언어에서 나옵니다.? Albert Mehrabian은 널리 인용된 기사에서 자신이 조사한 상황에서 언어적 영향은 7%에 불과하다고 밝혔습니다. 나머지 93%는 비언어적이었습니다.' 연구자들이 도달한 구체적인 비율에 대해 의문을 제기할 수 있지만, 신체 언어가 의사소통의 매우 중요한 매체라는 연구 결과의 일반적인 방향에 대해 이의를 제기하는 사람은 거의 없습니다. 심리치료사 알렉산더 로웬(Alexander Lowen)은 다음과 같이 말했습니다. '읽는 법을 배운 후에 신체 표현의 언어만큼 명확한 단어는 없습니다.\" 비언어적 의사소통은 인류 존재의 대부분 동안 사용된 유일한 언어였습니다. 수천 년 동안 구두나 서면 언어는 없었습니다. 신체 언어는 의사소통의 유일한 수단이었습니다. 신체 언어는 인류 초기부터 대인 관계 이해의 원천이었지만 지난 수십 년 동안 행동 과학자들이 비언어적 의미를 체계적으로 관찰하기 시작했습니다. 표기 시스템, 슬로우 모션 프레임별 분석을 위해 상호 작용하는 사람들을 촬영하고 수천 가지 다른 실험을 수행했습니다. 무언 의사 소통에 대한 우리 자신의 본능적 인식에 이러한 과학적 지식을 추가하면 다른 사람의 의미를 더 잘 이해할 수 있는 중요한 방법이 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Though there is overlap in the type of information transmitted verbally and that transmitted nonverbally, there is a natural division of labor, with each source better at conveying certain types of messages. Words are best for communicating factual information. If you are trying to tell someone the title of a book or the day's weather, the price of an ---",
+              "kr": "구두로 전달되는 정보 유형과 비언어적으로 전달되는 정보 유형에는 중복이 있지만 각 소스가 특정 유형의 메시지를 더 잘 전달하는 자연스러운 업무 분업이 있습니다. 사실적인 정보를 전달하는 데는 말이 가장 좋습니다. 누군가에게 책 제목이나 그날의 날씨를 말하려고 한다면, 책의 가격은 ---",
+              "py": ""
+            },
+            {
+              "zh": "article of clothing or the essence of Plato's philosophy, you rely primarily on Words are also used to describe emotions and are typically used in com. bination with body language to do this. In the emotional realm, however, Friesen noted, the advantage is with body language because, as Paul Ekman and Wallace The rapid facial signals are the primary system tor expression of emotion. It is the face you search to know whether someone is angry, disgusted, afraid, sad, etc. Words cannot always describe the feelings people have; often words are not adequate to express what you see in the look on someone's face at an emotional moment. Nonverbals not only portray a person's feelings; they often indicate how the person is coping with their feelings. For example, the expression on a person's face may indicate that they're angry. The rest of that person's body shows what they're doing with those angry feelings. They may approach another with menacing posture and clenched fists, ready for combat. Or the? may try to repress the anger through muscular tension. They may vent their feelings by stamping their feet, flailing their arms, slamming the door, and so on. You can gain insight into what a person is doing with their feelings by watching their body language. People's feelings about their relationships are primarily communicated through their nonverbals. When people position themselves at a considerable distance from each other, tense their bodies, avoid facing each other and making eye contact, the relationship is probably not faring very well. As Gerard Egan says, the averted face may mean an averted heart.",
+              "kr": "의복이나 플라톤 철학의 본질에 주로 의존하는 단어는 감정을 설명하는 데에도 사용되며 일반적으로 com에서 사용됩니다. 이를 위해 신체 언어를 사용합니다. 그러나 감정 영역에서는 Paul Ekman과 Wallace처럼 빠른 얼굴 신호가 감정 표현을 위한 주요 시스템이기 때문에 신체 언어의 이점이 있다고 Friesen은 지적했습니다. 누군가가 화가 났는지, 역겨워하는지, 두려워하는지, 슬픈지 등을 알기 위해 검색하는 것은 얼굴입니다. 사람들이 느끼는 감정을 항상 말로 표현할 수는 없습니다. 감정적인 순간에 누군가의 얼굴 표정에서 본 것을 표현하기에는 종종 말로는 적절하지 않습니다. 비언어적 표현은 사람의 감정을 묘사할 뿐만 아니라; 그들은 종종 그 사람이 자신의 감정에 어떻게 대처하고 있는지를 나타냅니다. 예를 들어, 사람의 얼굴 표정은 그 사람이 화가 났음을 나타낼 수 있습니다. 그 사람의 신체 나머지 부분은 화가 난 감정으로 무엇을 하고 있는지를 보여줍니다. 그들은 위협적인 자세와 주먹을 꽉 쥐고 전투 준비를 하고 다른 사람에게 접근할 수도 있습니다. 아니면? 근육의 긴장을 통해 분노를 억제하려고 할 수도 있습니다. 그들은 발을 구르거나, 팔을 휘두르거나, 문을 쾅 닫는 등의 방법으로 자신의 감정을 표출할 수 있습니다. 신체 언어를 관찰하면 그 사람이 자신의 감정으로 무엇을 하고 있는지에 대한 통찰력을 얻을 수 있습니다. 관계에 대한 사람들의 감정은 주로 비언어적 표현을 통해 전달됩니다. 사람들이 서로 상당한 거리를 두고 자리를 잡고, 몸을 긴장시키고, 서로 마주보는 것을 피하고, 눈을 마주치지 않는다면, 아마도 관계는 별로 좋지 않을 것입니다. Gerard Egan이 말했듯이, 회피된 얼굴은 회피된 마음을 의미할 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "The approach to communication outlined in this book stresses the primacy of feelings. Unquestionably the content of the conversation can be very important. When the emotions are strongly engaged, however, they should normally receive primary attention. Since nonverbals are the major means of commun cating emotions, they are central to understanding many of the most importan things that others communicate to us.",
+              "kr": "이 책에 설명된 의사소통 방식은 ​​감정의 중요성을 강조합니다. 의심할 바 없이 대화의 내용은 매우 중요할 수 있습니다. 그러나 감정이 강하게 개입되면 일반적으로 일차적인 관심을 받아야 합니다. 비언어적 표현은 감정을 전달하는 주요 수단이기 때문에 다른 사람이 우리에게 전달하는 가장 중요한 것들을 이해하는 데 핵심이 됩니다.",
+              "py": ""
+            },
+            {
+              "zh": "There are times when each of us uses words in ways designed to hide ow feelings. Sometimes these tendencies toward deception are buried in ow subconscious and we are not even aware of our efforts to conceal then. ---",
+              "kr": "우리 각자는 자신의 감정을 숨기기 위해 고안된 방식으로 말을 사용할 때가 있습니다. 때때로 이러한 속임수 경향은 잠재의식 속에 묻혀 있고, 우리는 그때 숨기려는 우리의 노력조차 인식하지 못합니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Similarly, each of us has learned to control our body language. Whether sunsciously or subconsciously, we try to control the expression of emotion w communicate through our nonverbals. We may shrug our shoulders in feigned indifference when in fact the issue is very important to us. We may camouflage anger with a false smile. We may tense certain muscles to prevent crying when we are sad. We may put on a poker face to cover up the emotions that we are experiencing. In other words, under certain circumstances and in varying degrees, each of us tries to mask our feelings with deceptive body language. We may be successful at choosing words to create a facade. But when we try to control our nonverbals, our bodies usually telegraph the truth about our feelings. Lie detectors are effective precisely because people who can concoct a misleading story have a much more difficult time controlling their physical responses. Even when we make a determined effort not to show emotions in our body language, our true feelings usually leak past the attempt at control, though sometimes only for a fleeting moment. In one experiment, researchers instructed a man not to show any emotion when viewing a film designed to arouse feelings. When interviewed later, he was confident that he had successtully concealed his feelings. The pictures taken as the subject viewed the film, however, demonstrated how his feeling of disgust temporarily leaked through all his efforts at control.",
+              "kr": "마찬가지로, 우리 각자는 신체 언어를 통제하는 법을 배웠습니다. 선의적으로든 무의식적으로든 우리는 비언어적 표현을 통해 의사소통을 통해 감정 표현을 통제하려고 노력합니다. 실제로는 문제가 우리에게 매우 중요한데도 무관심한 척 어깨를 으쓱할 수도 있습니다. 거짓된 미소로 분노를 위장할 수도 있습니다. 우리는 슬플 때 울지 않기 위해 특정 근육을 긴장시킬 수 있습니다. 우리는 우리가 겪고 있는 감정을 은폐하기 위해 포커페이스를 취할 수도 있습니다. 즉, 특정 상황에서 다양한 정도에서 우리 각자는 기만적인 신체 언어로 자신의 감정을 가리려고 노력합니다. 우리는 외관을 만들기 위해 단어를 선택하는 데 성공할 수도 있습니다. 그러나 우리가 비언어적 표현을 통제하려고 할 때 우리 몸은 대개 우리 감정에 대한 진실을 전달합니다. 거짓말 탐지기가 효과적인 이유는 오해의 소지가 있는 이야기를 만들어내는 사람들이 자신의 신체적 반응을 통제하는 데 훨씬 더 어려움을 겪기 때문입니다. 몸짓으로 감정을 표현하지 않으려고 단호하게 노력하더라도 우리의 진정한 감정은 통제하려는 시도를 지나 새어나가는 경우가 많지만, 때로는 아주 잠깐 동안일 뿐입니다. 한 실험에서 연구자들은 한 남자에게 감정을 불러일으키기 위해 제작된 영화를 볼 때 어떤 감정도 나타내지 말라고 지시했습니다. 나중에 인터뷰했을 때 그는 자신의 감정을 성공적으로 숨겼다고 확신했습니다. 그러나 주체가 영화를 보면서 찍은 사진은 그의 모든 통제 노력으로 인해 일시적으로 혐오감이 누출되는 모습을 보여줍니다.",
+              "py": ""
+            },
+            {
+              "zh": "The observation of body language is important to an effective listener because it communicates what is most important to the speaker. When a person is reluctant to put feelings into words, or is unable to find the right phrases to describe those emotions, or has repressed their feelings to the extent that they are not consciously aware of those feelings-in each of these situations, the person's nonverbals usually indicate the person's true feelings. As Sigmund Freud said, \"Self-betrayal oozes from all our pores.\"",
+              "kr": "신체 언어를 관찰하는 것은 말하는 사람에게 가장 중요한 것이 무엇인지 전달하기 때문에 효과적인 청취자에게 중요합니다. 사람이 감정을 말로 표현하는 것을 꺼리거나, 그러한 감정을 설명하는 올바른 문구를 찾을 수 없거나, 그러한 감정을 의식적으로 인식하지 못할 정도로 자신의 감정을 억압했을 때, 이러한 각 상황에서 그 사람의 비언어적 표현은 일반적으로 그 사람의 진정한 감정을 나타냅니다. 지그문트 프로이트(Sigmund Freud)가 말했듯이, \"자기배반은 우리의 모든 땀구멍에서 흘러나옵니다.\"",
+              "py": ""
+            },
+            {
+              "zh": "Five guidelines have helped me become more effective in responding to this silent language, the language of behavior. First, I make a conscious effort to focus my attention on the cues that I think will be most helpful. Second, I try to see each of the nonverbals in proper context. Third, I note incongruities when they exist. Fourth, I heighten my awareness of my own feelings about the interaction. And finally, I often reflect my understandings back to the other for confirmation or correction. ---",
+              "kr": "다섯 가지 지침은 제가 이 조용한 언어, 즉 행동의 언어에 더욱 효과적으로 대응할 수 있도록 도와주었습니다. 첫째, 나는 가장 도움이 될 것이라고 생각되는 단서에 주의를 집중하기 위해 의식적으로 노력합니다. 둘째, 나는 각각의 비언어적 표현을 적절한 맥락에서 보려고 노력합니다. 셋째, 나는 불일치가 존재할 때 이를 지적합니다. 넷째, 나는 상호작용에 대한 나 자신의 감정에 대한 인식을 높인다. 그리고 마지막으로 나는 이해한 내용을 상대방에게 다시 반영하여 확인이나 수정을 하는 경우가 많습니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Focus Attention on the Most Helpful Clues Contrary to popular opinion, we are presented with too many rather than too few clues about feelings from the person to whom we are listening. As listeners, we receive information about the speaker's emotions from six sources. In the auditory channel there are three sources: (1) the specific words that are spoken, (2) the sound of the voice, and (3) the rapidity of speech, the frequency and length of pauses, and how often the speech is disrupted by sounds like \"aah\" and \"mmm\" In the visual channel there are three additional sources of information about the person's feelings: (1) facial expression, (2) posture, and (3) gestures. These diverse stimuli can be overwhelming to listeners. We often miss some of the most significant messages coming from another person because we are distracted by more commanding sources of information. There is a common tendency to overrely on what psychologist Wilson Van Dusen referred to as the most untrustworthy source: the words that are spoken. Greater sensitivity to and concentration on the nonverbal elements of communication will usually facilitate better understanding. Facial Expression There is broad agreement among behavioral scientists that the face is the most important source of information about the emotions. To discover what a speaker is feeling, observe their changing facial expressions in a way that does not threaten them. Charles Darwin, who propounded the theory of evolution, wrote a pioneering book on body language, The Expression of the Emotions in Man and Animals. One of his key hypotheses, that people can decipher someones emotions from facial expressions, has been confirmed by research.",
+              "kr": "가장 유용한 단서에 주의를 집중하십시오. 대중의 의견과는 달리, 우리는 듣고 있는 사람의 감정에 대해 너무 적은 단서가 아니라 너무 많은 단서를 제시합니다. 청자로서 우리는 여섯 가지 소스로부터 화자의 감정에 대한 정보를 받습니다. 청각 채널에는 세 가지 소스가 있습니다. (1) 말하는 특정 단어, (2) 음성 소리, (3) 말하는 속도, 일시 중지의 빈도와 길이, \"아\" 및 \"으음\"과 같은 소리로 인해 말이 중단되는 빈도 시각적 채널에는 사람의 감정에 대한 세 가지 추가 정보 소스가 있습니다: (1) 얼굴 표정, (2) 자세, (3) 몸짓. 이러한 다양한 자극은 청취자에게 부담을 줄 수 있습니다. 우리는 더 강력한 정보원에 정신이 팔려 다른 사람이 보내는 가장 중요한 메시지 중 일부를 놓치는 경우가 많습니다. 심리학자 Wilson Van Dusen이 가장 신뢰할 수 없는 출처라고 언급한 것, 즉 말하는 단어에 과도하게 의존하는 일반적인 경향이 있습니다. 의사소통의 비언어적 요소에 대한 더 큰 민감성과 집중은 일반적으로 더 나은 이해를 촉진합니다. 표정 표정 행동과학자들은 얼굴이 감정에 관한 정보를 얻는 가장 중요한 원천이라는 점에 폭넓게 동의합니다. 말하는 사람이 무엇을 느끼는지 알아내려면 위협하지 않는 방식으로 얼굴 표정의 변화를 관찰하십시오. 진화론을 창시한 찰스 다윈(Charles Darwin)은 신체 언어에 관한 선구적인 책인 인간과 동물의 감정 표현(The Expression of the Emotions in Man and Animals)을 썼습니다. 사람들이 얼굴 표정을 통해 누군가의 감정을 해독할 수 있다는 그의 주요 가설 중 하나가 연구를 통해 확인되었습니다.",
+              "py": ""
+            },
+            {
+              "zh": "The face not only discloses specific emotions; it telegraphs what realy matters to a person. At times, a person's face will take on a natural and lively intensity. This may occur in the midst of a conversation that seems relatively unimportant. When this happens, the listener can zero in on the area of conversation that seemed to cause the reaction and thus converse about topics of high emotional priority to the other person. You can undoubtedly recal moments in otherwise mundane conversations when your companions face lit up and they then described a particular interest with great animation.",
+              "kr": "얼굴은 특정한 감정을 드러낼 뿐만 아니라; 그것은 사람에게 정말로 중요한 것이 무엇인지를 알려줍니다. 때때로 사람의 얼굴은 자연스럽고 생기 넘치는 강렬함을 띠게 됩니다. 이는 상대적으로 중요하지 않아 보이는 대화 중에 발생할 수 있습니다. 이런 일이 발생하면 듣는 사람은 반응을 일으키는 것처럼 보이는 대화 영역에 초점을 맞추고 상대방에게 감정적 우선 순위가 높은 주제에 대해 대화할 수 있습니다. 일상적인 대화에서 동료들이 환한 얼굴을 하고 멋진 애니메이션으로 특별한 관심사를 설명하는 순간을 의심할 여지 없이 떠올릴 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "The eyes and facial tissue surrounding them can be most eloquent. Eyes twinkle with joy, become red and watery with sadness, and can be piercing ---",
+              "kr": "눈과 그 주변의 얼굴 조직이 가장 웅변적일 수 있습니다. 눈은 기쁨으로 반짝거리고, 슬픔으로 인해 붉어지고 눈물이 나며, 날카로운 느낌을 줍니다 ---",
+              "py": ""
+            },
+            {
+              "zh": "In many cultures, warm eye contact is the purest form of reciprocity, the highest level of psychic union. We would do well to listen to what people say with their eyes. As we enter middle age and beyond, our most consistent emotional states become etched on our faces. Some older faces communicate warmth and openness, suggesting a lifetime of happiness. Others express chronic disapproval, as though nothing in the world ever was quite right for them. (Maybe it wasn't.) Vocal Clues A passage in The Journal of John Woolman describes the eighteenthcentury Quaker's communication with Chief Papunehang, who commented to an interpreter about the prayer whose English words he had not understood: \"I love to feel where words come from.\" Effective listeners hear far more than a speaker's words; they listen to the pitch, rate, timbre, and the other subtle nuances of voice that communicate meaning. The voice provides one of the best ways of understanding an individual. That is why, when a patient entered the consulting room of psychotherapist Rollo May, the counselor often asked himself, \"What does the voice say when I stop listening to the words and listen only to the tone?\" At an elementary level, virtually everyone distinguishes meanings by noting differences in vocal qualities. For example, the statement \"What a weekend I had\" can have at least two different meanings depending on the tone of voice of the speaker. The ambiguous phrase might mean that it was a truly enjoyable weekend. With different vocal qualities, however, the listener would assume that it was unpleasant. If an individual's voice is quavering when they say, \"I quit my job\" it might indicate they are sad, angry, or fearful about leaving. But if their voice is bright and bouncy, it would suggest that they're excited by their choice. Feelings like anger, enthusiasm, and joy tend to be accompanied by increased rapidity of speech, higher volume, and higher pitch. A slowerthan-normal rate of speech and lower volume and pitch tend to characterize feelings such as boredom or depression. Dr. Len Sperry suggested that the following voice characteristics (technically called paralanguage) are likely to have the meanings described in the right-hand column:\" ---",
+              "kr": "많은 문화권에서 따뜻한 눈맞춤은 가장 순수한 형태의 호혜성이며, 가장 높은 수준의 정신적 결합입니다. 우리는 사람들이 눈으로 말하는 것을 듣는 것이 좋을 것입니다. 중년 이후에는 가장 일관된 감정 상태가 얼굴에 새겨집니다. 일부 노인의 얼굴은 따뜻함과 개방성을 전달하여 평생의 행복을 암시합니다. 다른 사람들은 마치 세상에 자신에게 딱 맞는 것은 아무것도 없는 것처럼 만성적인 불만을 표현합니다. (아마도 그렇지 않았을 수도 있습니다.) 음성 단서 The Journal of John Woolman의 한 구절은 18세기 퀘이커와 파푸네항 추장과의 의사소통을 묘사하고 있습니다. 파푸네항 추장은 자신이 이해하지 못한 영어 단어의 기도에 대해 통역사에게 \"나는 단어가 어디서 나오는지 느끼는 것을 좋아합니다.\"라고 말했습니다. 효과적인 청취자는 화자의 말보다 훨씬 더 많은 것을 듣습니다. 그들은 의미를 전달하는 음높이, 속도, 음색 및 기타 목소리의 미묘한 뉘앙스를 듣습니다. 목소리는 개인을 이해하는 가장 좋은 방법 중 하나를 제공합니다. 그래서 심리치료사 롤로 메이의 상담실에 환자가 들어오면 상담사는 “말을 듣지 않고 톤만 들으면 그 목소리는 무슨 말을 하는가?”라고 자문하곤 했다. 초등 수준에서는 사실상 모든 사람이 음성 특성의 차이를 알아차림으로써 의미를 구별합니다. 예를 들어, \"What a Weekend I had\"라는 진술은 말하는 사람의 목소리 톤에 따라 적어도 두 가지 다른 의미를 가질 수 있습니다. 모호한 표현은 정말 즐거운 주말이었다는 뜻일 수도 있습니다. 그러나 보컬 특성이 다르기 때문에 듣는 사람은 그것이 불쾌하다고 생각할 것입니다. 개인이 \"직장을 그만뒀어요\"라고 말할 때 목소리가 떨린다면 이는 그 사람이 슬프거나 화가 났거나 회사를 떠나는 것이 두렵다는 뜻일 수 있습니다. 하지만 목소리가 밝고 탄력이 있다면, 자신의 선택에 들떠 있다는 뜻일 것이다. 분노, 열정, 기쁨과 같은 감정은 말의 속도 증가, 음량 증가, 음조 증가를 동반하는 경향이 있습니다. 정상보다 느린 속도와 낮은 볼륨 및 음조는 지루함이나 우울증과 같은 감정의 특징을 나타내는 경향이 있습니다. Len Sperry 박사는 다음 음성 특성(기술적으로 준언어라고 함)이 오른쪽 열에 설명된 의미를 가질 가능성이 높다고 제안했습니다.\" ---",
+              "py": ""
+            },
+            {
+              "zh": "Paralanguage Monotone voice Slow speed, low pitch High voice, emphatic pitch Ascending tone Abrupt speech Terse speed, loud tone High pitch, drawn-out speech Probable Feeling/Meaning Boredom Depression Enthusiasm Astonishment Defensiveness Anger Disbelief Some people become exceptionally proficient at understanding others by listening skillfully to their manner of speaking. Erle Stanley Gard ner, the famous mystery writer and creator of Perry Mason, told of the skill his lawyer-partner developed in detecting critical information from vocal clues-information that went unnoticed by virtually everyone else. In an article in Vogue magazine, Gardner said: During the years that he was my partner, when we were in court together, he made it a point not to look at the witness on the stand; he kept his eyes on a piece of paper, sometimes taking down what the witness was saying in shorthand, sometimes simply doodling, but always listening to the voice of the witness. At some stage in the examination, my partner would nudge me with his elbow. Invariably that meant that the witness was either lying at that point in the testimony, or was trying to cover up something. My untrained ears were never able to detect these subtle changes of voice and tempo, but my partner could spot them with startling accuracy.\" Although you and I may never reach the proficiency of Gardner's partner, we can notice the pitch and timbre of a person's voice, the rhythm of speech, and the rapidity of expression. These vocal qualities help us to tune into the mood of the speaker. This sense of the speaker's emotions can then be reflected back for confirmation. ---",
+              "kr": "보조 언어 단조로운 목소리 느린 속도, 낮은 음조 높은 목소리, 강한 음조 상승하는 어조 갑작스러운 말의 간결한 속도, 큰 음조 높은 음조, 길게 늘어지는 말 가능성 있는 느낌/의미 지루함 우울증 열정 경악 방어 분노 불신 일부 사람들은 다른 사람의 말하는 방식을 능숙하게 경청함으로써 다른 사람을 이해하는 데 유난히 능숙해집니다. 유명한 미스터리 작가이자 페리 메이슨(Perry Mason)의 창시자인 얼 스탠리 가드너(Erle Stanley Gardner)는 자신의 변호사이자 파트너가 거의 모든 사람이 알아채지 못하는 음성 단서, 즉 정보에서 중요한 정보를 찾아내는 데 개발한 기술에 대해 이야기했습니다. Vogue 잡지의 기사에서 Gardner는 다음과 같이 말했습니다. 그가 나의 파트너였던 수년 동안, 우리가 함께 법정에 있을 때, 그는 증인석에 있는 증인을 보지 말라고 했습니다. 그는 종이에 시선을 고정하고 때로는 증인이 말하는 것을 속기로 적고 때로는 단순히 낙서를 하면서 항상 증인의 목소리에 귀를 기울였습니다. 시험 중 어느 단계에서 내 파트너가 팔꿈치로 나를 쿡쿡 찔렀습니다. 이는 변함없이 증인이 증언의 그 시점에 거짓말을 하고 있거나 무언가를 은폐하려 한다는 것을 의미했습니다. 훈련되지 않은 내 귀는 이러한 미묘한 목소리와 템포의 변화를 결코 감지할 수 없었지만 내 파트너는 놀라울 정도로 정확하게 이를 찾아낼 수 있었습니다.\" 비록 당신과 내가 가드너의 파트너의 능숙함에 결코 도달하지 못할지라도 우리는 사람 목소리의 음조와 음색, 말하는 리듬, 표현의 속도를 알아차릴 수 있습니다. 이러한 보컬 특성은 우리가 말하는 사람의 분위기에 맞추는 데 도움이 됩니다. 그런 다음 말하는 사람의 감정에 대한 이러한 감각은 확인을 위해 다시 반영될 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "81 Posture, Gestures, and Actions A person's posture and body movement can speak volumes about their feelings, self-image, and energy level. 'The movements of the head, arms, hands, legs, and feet can be very revealing. A person wanting to terminate a conversation, for instance, may stretch their legs, tap their fingers on the desk, or sit in an upright position in preparation for leaving. One person discovered that when their supervisor began swiveling in their chair, the conversation was, for all intents and purposes, over. We can also learn about people's feelings by understanding the meaning of what, for want of a better word, I term actions. Child psychologists are aware that much annoying behavior at home can be a cry for help in veiled form. Parents of young children often discover that when a new baby in the family receives much attention, the older sibling(s) may revert to babyish ways. This behavior is usually an urgent plea for more attention. Children who consistently disrupt the classroom have probably decided that the only way they will be noticed is to misbehave. The manager who grows less productive may be demonstrating disappointment or anger at lack of mobility in the company. The empathic listener observes these kinds of actions and devises ways of checking out the accuracy of those observations. Read Nonverbals in Context Much of the popular literature on body language is misleading when it suggests that certain gestures can be counted on to have specific and reliable meanings. Leading authorities claim that no gesture, in and of itself, has a specific meaning. No single motion ever stands alone. It is always part of a pattern, and its meaning is best understood in context. A specific gesture is like a word in a paragraph. The word can have many meanings, but only in the context of the paragraph or chapter can we accurately understand its intended meaning. To a much greater extent, the meaning of a gesture becomes more understandable when it is viewed as part of the larger pattern in which it occurs. Abne Eisenberg and Ralph Smith Jr. write: Most words have only a few meanings, depending on who is using them in which circumstances. But the wrinkling of a nose is a sign that can have a thousand different meanings, each dependent on the set of signs that accompany it, the personality of the wrinkler, and the context of the wrinkling. For this reason, it is hard to assign general meaning to any isolated nonverbal sign, even though ---",
+              "kr": "81 자세, 몸짓, 행동 사람의 자세와 몸의 움직임은 그 사람의 감정, 자아상, 에너지 수준에 대해 많은 것을 말해 줄 수 있습니다. '머리, 팔, 손, 다리, 발의 움직임은 매우 드러날 수 있습니다. 예를 들어, 대화를 끝내고 싶은 사람은 떠날 준비를 하기 위해 다리를 쭉 뻗거나 손가락으로 책상을 두드리거나 똑바로 앉을 수도 있습니다. 한 사람은 상사가 의자에서 회전하기 시작했을 때 모든 의도와 목적을 위해 대화가 끝났다는 것을 발견했습니다. 우리는 또한 더 나은 표현이 필요해서 행동이라고 부르는 것의 의미를 이해함으로써 사람들의 감정에 대해 배울 수 있습니다. 아동 심리학자들은 집에서 짜증나는 행동이 은밀하게 도움을 청하는 것일 수 있다는 것을 알고 있습니다. 어린 자녀를 둔 부모들은 새로 태어난 아기가 가족의 많은 관심을 받으면, 형(들)이 다시 유치한 태도로 되돌아가는 것을 종종 발견합니다. 이러한 행동은 일반적으로 더 많은 관심을 요청하는 긴급한 호소입니다. 지속적으로 교실을 방해하는 아이들은 아마도 자신들이 주목받을 수 있는 유일한 방법은 나쁜 행동을 하는 것이라고 결정했을 것입니다. 생산성이 떨어지는 관리자는 회사 내 이동성 부족에 대해 실망하거나 분노를 표출할 수 있습니다. 공감하는 청취자는 이러한 종류의 행동을 관찰하고 그러한 관찰의 정확성을 확인하는 방법을 고안합니다. 맥락에 맞게 비언어적 표현 읽기 신체 언어에 관한 많은 인기 문헌은 특정 제스처가 구체적이고 신뢰할 수 있는 의미를 가질 수 있다고 제안할 때 오해의 소지가 있습니다. 주요 당국은 어떤 제스처도 그 자체로는 특별한 의미를 갖지 않는다고 주장합니다. 어떤 단일 동작도 홀로 서 있지 않습니다. 이는 항상 패턴의 일부이며 그 의미는 문맥에서 가장 잘 이해됩니다. 특정 동작은 단락의 단어와 같습니다. 단어에는 여러 가지 의미가 있을 수 있지만 단락이나 장의 맥락에서만 해당 단어의 의도된 의미를 정확하게 이해할 수 있습니다. 제스처의 의미는 그것이 발생하는 더 큰 패턴의 일부로 볼 때 훨씬 더 이해하기 쉬워집니다. Abne Eisenberg와 Ralph Smith Jr.는 다음과 같이 썼습니다. 대부분의 단어는 누가 어떤 상황에서 사용하는지에 따라 몇 가지 의미만 갖습니다. 그러나 코의 주름은 수천 가지의 다른 의미를 가질 수 있는 기호이며, 각각은 그에 수반되는 일련의 기호, 주름살의 성격, 주름의 맥락에 따라 달라집니다. 이러한 이유로 고립된 비언어적 기호에 일반적인 의미를 부여하는 것은 어렵습니다.",
+              "py": ""
+            },
+            {
+              "zh": "82 a specific meaning in a particular context is obvious. We would hazard no guess about what nose wrinkling means in general, but few people in the course of a conversation would take umbrage at a sentence such as, \"Joan is wrinkling her nose because she can't stand the smell of fried mushrooms.\" 12 Not only does a particular gesture need to be seen in the context of other body movements, it should be related to the person's words too. If we listen only to words or only to body language, our listening is partial at best.",
+              "kr": "82 특정 맥락에서 특정 의미가 분명합니다. 코 주름이 일반적으로 무엇을 의미하는지 짐작할 수는 없지만, 대화 중에 \"조앤은 튀긴 버섯 냄새를 참을 수 없어서 코를 찡그린다\"와 같은 문장에 분노하는 사람은 거의 없습니다. 12 특정 몸짓은 다른 신체 움직임의 맥락에서 보여야 할 뿐만 아니라 그 사람의 말과도 관련이 있어야 합니다. 우리가 말만 듣거나 몸짓 언어만 듣는다면, 우리의 듣기는 기껏해야 부분적인 것입니다.",
+              "py": ""
+            },
+            {
+              "zh": "The goal of the effective listener is to receive cues from the whole person. Note Discrepancies You have probably noted occasions when a person's words communicated one message but their nonverbals suggested a very different meaning. I once witnessed a conversation in which a wife said to her husband, You seem upset with me.\" His face flushed red, he leaned forward, and, glaring at her, replied, \"I am not angry.\" Which would you believe: his words or what his physical presence is communicating? There are also times when body language is a smokescreen designed to hide the poignancy of the words a person hardly dares to speak. I have heard dozens of people tell the deepest griefs of their lives while cloaking their anguished feelings with a chuckle: iI just got fired after twenty-five years on the job (laughing). So, how's your day goingi When people hear the laugh and the tragic content, they are usually caught off guard or choose to avoid facing the pain. They typically laugh with the person. This behavior is so common in our society that we even have a phrase to describe it. Ihe person who deals with sorrows this way is \"laughing it off.\"",
+              "kr": "효과적인 청취자의 목표는 전체 사람으로부터 신호를 받는 것입니다. 불일치 참고 아마도 사람의 말이 하나의 메시지를 전달하지만 비언어적 표현이 매우 다른 의미를 암시하는 경우를 언급했을 것입니다. 아내가 남편에게 \"당신은 나에게 화가 난 것 같다\"고 말하는 대화를 목격한 적이 있다. 그는 얼굴을 붉히며 앞으로 몸을 숙이고 그녀를 노려보며 \"나는 화나지 않는다\"고 대답했다. 그의 말과 그의 육체적 존재가 무엇을 전달하고 있는지 무엇을 믿겠는가? 몸짓은 사람이 감히 말하지 못하는 말의 신랄함을 감추기 위한 연막일 때도 있다. 25년 근무하고 막 해고됐어요(웃음).. 요즘은 잘 지내세요 ㅋㅋㅋ 사람들은 웃음과 비극적인 내용을 들으면 대개 당황하거나 고통을 회피하는 경향이 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Actually, when there is a discrepancy between words and body language, both messages are important. When someone laughs as they tell of a personal tragedy, it may mean that they want to share this part of their life but don't want to burden the other person-or they may be ambivalent about discovering and sharing their depth of feeling on the topic. Of course. there may be other meanings besides the ones I suggested. The point is that when there is a discrepancy between a person's words and nonverbals (or between two aspects of body language), it is helpful to search for the meanings in each of the channels of communication. ---",
+              "kr": "실제로 말과 몸짓 사이에 불일치가 있을 때는 두 가지 메시지가 모두 중요합니다. 누군가가 개인적인 비극에 대해 이야기하면서 웃는 것은 자신의 삶의 이 부분을 공유하고 싶지만 다른 사람에게 부담을 주고 싶지 않다는 의미일 수도 있고, 주제에 대한 자신의 감정의 깊이를 발견하고 공유하는 데 양가적인 태도를 보일 수도 있습니다. 물론. 제가 제안한 것 외에 다른 의미가 있을 수도 있습니다. 요점은 사람의 말과 비언어적 표현(또는 신체 언어의 두 측면 사이)에 불일치가 있을 때 각 의사소통 채널에서 의미를 찾는 것이 도움이 된다는 것입니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Be Aware of Your Own Feelings and Physical Reactions By becoming more aware of what your body is experiencing, you can often be more sensitive to what other people are feeling. I was once with a teenager whose father launched into a twenty-minute verbal attack on the boy. I knew that most of the things the father was saying were not true. There was no opportunity for dialogue between father and son-just one long tirade. My whole body became tense; my stomach was upset: When I focused on the discomfort of my body, I was better able to understand what the son was experiencing. One family therapist I know says that the atmosphere in a troubled family is easy to feel. When she is with such a family, she quickly senses her own discomfort. The atmosphere may be cold and icy, polite and boring, or very wary-as if waiting for an angry explosion. In those situations, the therapist's body develops its own discomfort. When her stomach feels queasy, her shoulders ache, or her head begins to throb, she tunes into those feelings and becomes more alert to what is happening in that family.",
+              "kr": "자신의 감정과 신체적 반응을 인식하십시오. 자신의 신체가 경험하는 것을 더 잘 인식함으로써 다른 사람들이 느끼는 것에 더 민감해질 수 있습니다. 나는 한때 십대 소년과 함께 있었는데, 그 아버지는 그 소년에게 20분 동안 언어 공격을 가했습니다. 나는 아버지가 하는 말이 대부분 사실이 아니라는 것을 알고 있었습니다. 아버지와 아들 사이에 대화할 기회는 전혀 없었습니다. 그저 장황한 장황한 이야기가 한 번뿐이었습니다. 온몸이 긴장됐어요. 속이 쓰렸다: 내 몸의 불편함에 집중하자 아들이 겪고 있는 고통을 더 잘 이해할 수 있었다. 내가 아는 한 가족 치료사는 문제가 있는 가족의 분위기를 쉽게 느낄 수 있다고 말합니다. 그런 가족과 함께 있으면 그녀는 자신의 불편함을 금방 느낀다. 분위기는 차갑고 차가울 수도 있고, 예의 바르고 지루할 수도 있고, 매우 조심스러울 수도 있습니다. 마치 화난 폭발을 기다리는 것처럼 말이죠. 그러한 상황에서 치료사의 신체는 자체적으로 불편함을 느끼게 됩니다. 배가 메스꺼워지고, 어깨가 아프고, 머리가 쑤시기 시작할 때, 그녀는 그러한 감정에 귀를 기울이고 가족에게 무슨 일이 일어나고 있는지 더욱 주의를 기울이게 됩니다.",
+              "py": ""
+            },
+            {
+              "zh": "The therapist Frieda Fromm-Reichman devised a method that helped her sense what her clients were feeling. She knew that posture and body movement were clues to her clients' emotions, so she would sensitively try to match her clients' posture and gestures with her own body. FrommReichman focused on what she was feeling when she assumed the client's position and her understanding of that client increased greatly. I am one of the many listeners who have used that method with much success. Obviously it's important to be sensitive when mirroring the other's position. If done clumsily or callously, it can be seen by the speaker as a put-down. Reflect the Feelings Back to the Sender As a reflective listener, once you have discerned the feelings of the speaker by reading their body language, you will normally try to reflect those feelings back to the speaker in your own words. In the process of verbalizing what you think the other may be feeling, several things may be achieved.",
+              "kr": "치료사 프리다 프롬-라이히만(Frieda Fromm-Reichman)은 내담자가 느끼는 감정을 감지하는 데 도움이 되는 방법을 고안했습니다. 그녀는 자세와 몸의 움직임이 고객의 감정에 대한 단서라는 것을 알고 있었기 때문에 고객의 자세와 몸짓을 자신의 몸에 맞추려고 세심하게 노력했습니다. FrommReichman은 고객의 입장을 맡을 때 자신이 느끼는 감정에 집중했고 그 고객에 대한 이해가 크게 향상되었습니다. 나는 그 방법을 사용해 큰 성공을 거둔 많은 청취자 중 한 명입니다. 분명히 상대방의 입장을 반영할 때 세심한 주의를 기울이는 것이 중요합니다. 서투르거나 냉담하게 행해지면 말하는 사람이 그것을 얕보는 사람으로 비칠 수 있습니다. 발신자에게 감정 반영 반영적 청취자로서 화자의 신체 언어를 읽어 화자의 감정을 식별한 후에는 일반적으로 자신의 말로 화자에게 그 감정을 반영하려고 노력할 것입니다. 상대방이 느끼고 있다고 생각하는 것을 말로 표현하는 과정에서 몇 가지 결과를 얻을 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "First, you check on the accuracy of your assumptions about the other's feelings. Second, you may help the speaker become more aware of the feelings they are experiencing. Third, your reflection encourages the other to speak about the feeling part of their situation. Fourth, when the speaker hears their teelings reflected back by an accepting listener, they usually feel understood.",
+              "kr": "먼저, 상대방의 감정에 대한 당신의 가정이 정확한지 확인합니다. 둘째, 말하는 사람이 자신이 겪고 있는 감정을 더 잘 인식하도록 도울 수 있습니다. 셋째, 당신의 성찰은 상대방이 자신의 상황에 대해 느끼는 부분에 대해 이야기하도록 장려합니다. 넷째, 화자는 수용적인 청자가 반사하는 자신의 말을 들을 때 대개 이해받는다고 느낍니다.",
+              "py": ""
+            },
+            {
+              "zh": "Finally, if the person chooses to speak deeply and freely about their feelings, they may experience a catharsis that results in greater resilience and ease. ---",
+              "kr": "마지막으로, 만약 그 사람이 자신의 감정에 대해 깊고 자유롭게 말하기로 선택한다면, 그들은 더 큰 탄력성과 편안함을 가져오는 카타르시스를 경험할 수 있습니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "When Chris's wife, Katie, came home from work, she slumped into her chair and said in halting words and despondent voice, 'Well, I finished that project I've been working on for the past two weeksi\" Chris recalled that before he began to pay increased attention to body language, he would have missed the whole point by responding, Well, I'm glad that's behind you.\" This time was different. Chris noted Katie's nonverbals, sat facing her, and responded, \"Even though it's completed, something is wrong and you're not satisfied.\" In that atmosphere of understanding and empathy, Katie began to talk about her frustration at work. They communicated at a depth that was rare in their eight years of marriage.",
+              "kr": "Chris의 아내 Katie가 직장에서 집으로 돌아왔을 때 그녀는 의자에 털썩 주저앉으며 머뭇거리는 말과 낙담한 목소리로 말했습니다. '글쎄, 지난 2주 동안 진행했던 프로젝트를 끝냈어.' Chris는 몸짓 언어에 더 많은 관심을 기울이기 전에는 '글쎄, 그게 너 뒤에 있어서 다행이야'라고 대답하여 요점을 놓쳤을 것이라고 회상했습니다. 이번에는 달랐다. Chris는 Katie의 비언어적 행동을 지적하고 그녀를 마주하고 앉아 \"완성되었지만 뭔가 잘못되어 만족스럽지 않습니다. \"라고 대답했습니다. 그런 이해와 공감의 분위기 속에서 케이티는 직장에서 느끼는 좌절감을 이야기하기 시작했습니다. 두 사람은 결혼 8년차 중 드물게 깊이 있는 대화를 나눴다.",
+              "py": ""
+            },
+            {
+              "zh": "For most of us, body language is a paradox. Sometimes nonverbals are so clear that nearly everyone can read them accurately. At other times, body language can be difficult to decipher. People often misinterpret the meaning of the \"silent language\" and when they do not bother to check out their interpretation, alienation or conflict may be generated needlessly. Commenting on the paradoxical state of the art of reading body language, Edward Sapir said it seems to operate \"in accordance with an elaborate and secret code that is written nowhere, known by none, and understood by all.\" Though the paradox will doubtless remain, increased attention to decoding nonverbals can effect a significant improvement in your communication.",
+              "kr": "우리 대부분에게 신체 언어는 역설입니다. 때로는 비언어적 표현이 너무 명확해서 거의 모든 사람이 정확하게 읽을 수 있을 때도 있습니다. 때로는 신체 언어를 해독하기 어려울 수도 있습니다. 사람들은 '침묵의 언어'의 의미를 잘못 해석하는 경우가 많고, 그 해석을 굳이 확인하지 않으면 불필요하게 소외나 갈등이 생길 수도 있다. 신체 언어를 읽는 기술의 역설적인 상태에 대해 언급하면서 에드워드 사피어(Edward Sapir)는 그것이 \"아무데도 기록되지 않고, 누구에게도 알려지지 않고, 모두가 이해하는 정교하고 비밀스러운 코드에 따라\" 작동하는 것 같다고 말했습니다. 역설은 의심할 바 없이 여전히 남아 있지만, 비언어적 표현을 해독하는 데 주의를 기울이면 의사소통이 크게 향상될 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Since so much of interpersonal communication is nonverbal, the reading of body language is one of the most important skills of effective listening. The nonverbal elements of communication are especially important in understanding the other person's feelings. We often try to conceal our feelings by controlling our nonverbals yet our emotions usually leak through efforts to regulate nonverbal expression. Several guidelines foster improved reading of body language:",
+              "kr": "대인 커뮤니케이션의 상당 부분이 비언어적이기 때문에 신체 언어를 읽는 것은 효과적인 경청의 가장 중요한 기술 중 하나입니다. 의사소통의 비언어적 요소는 상대방의 감정을 이해하는 데 특히 중요합니다. 우리는 종종 비언어적 표현을 통제하여 자신의 감정을 숨기려고 노력하지만, 비언어적 표현을 조절하려는 노력을 통해 감정이 누출되는 경우가 많습니다. 신체 언어 읽기 능력 향상을 촉진하는 몇 가지 지침은 다음과 같습니다.",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "제7장: Improving Reflecting Skills",
+          "short_title": "7장 경청기술",
+          "sentences": [
+            {
+              "zh": "Improving Your Reflecting Skills I want to hear you accurately, so I'll need to check out what I hear at crucial points to be as sure as I can that my meanings match your meanings. I get an inkling of what your meanings are from your words, your tone of voice, your face, gestures, and body movements. But it is only an inkling. I must check it out at times by replaying what I heard for your approval, until you agree that you have been heard I want to hear deeply, clearly, accurately enough that I am able-to some real extentto feel what you feel, hurt a bit where you hurt, and want for you the freedom to be all you are becoming.' —David Augsburger ---",
+              "kr": "성찰 능력 향상 나는 당신의 말을 정확하게 듣고 싶기 때문에 중요한 순간에 내가 듣는 내용을 확인하여 내 의미가 당신의 의미와 일치하는지 최대한 확신해야 합니다. 나는 당신의 말투, 목소리 톤, 얼굴, 몸짓, 몸짓에서 당신의 의미가 무엇인지 어렴풋이 알 수 있습니다. 그러나 그것은 단지 어렴풋한 생각일 뿐이다. 나는 당신의 승인을 위해 내가 들은 것을 때때로 재생하여 확인해야 합니다. 당신이 동의할 때까지 나는 당신이 느끼는 것을 어느 정도 실제적으로 느낄 수 있을 만큼 깊고, 명확하고, 정확하게 듣고 싶습니다. —데이비드 아우크스부르거 ---",
+              "py": ""
+            },
+            {
+              "zh": "Some guidelines will make your reflections more accurate and helpful to the speaker. These are the central focus of this chapter, which also briefly explores what listeners can do besides listening. It also reviews when reflective listening is and is not appropriate.",
+              "kr": "일부 지침은 당신의 반성을 더 정확하고 발표자에게 도움이 되도록 만들어줄 것입니다. 이것이 이 장의 중심 초점이며 청취자가 청취 외에 무엇을 할 수 있는지 간략하게 탐구합니다. 또한 성찰적 경청이 적절한지, 적절하지 않은지를 검토합니다.",
+              "py": ""
+            },
+            {
+              "zh": "Once you've learned to attend to the speaker and reflect the essence of the content or feeling that person is communicating, you're ready to improve your reflecting skills. The following guidelines can help you become an even better listener. Don't Fake Understanding There will be many times when you as a listener do not understand what the other person is saying. You may have daydreamed. You might be thinking of something that the speaker said earlier in the conversation. The speaker may not be able to state clearly what they mean. Though people commonly pretend that they are listening attentively and understand perfectly what is being said in those situations, it's important that your listening not be phony. Authenticity demands that we admit when we are lost and then work to get back on the track again.iI seem to have lost you. Would you go over that once more?\" \"I was with you up to the point that your mom became sick. Id like to hear again what happened next.\" Don't Tell the Speaker, \"I Know How You Feel\" When people begin to listen reflectively, many say something like, \"I know just how you feel.\" That is an inappropriate response for several reasons. First, it is untrue. Our reading of another's feelings is at best an approximation. No one can ever fully know what it is like to walk in another person's shoes. That statement may block the speaker's desire to share more information that would facilitate deeper understanding. Finally, the speaker will tend to doubt that you understand as much as you say you do. It is seldom helpful to tell another that you understand; what is needed is a demonstration that you do have some degree of understanding of their feelings. The goal is to perceive the speaker's experience fairly accurately and reflect back in an accepting way that communicates nonverbally, \"I'm with you.\" Then, ---",
+              "kr": "말하는 사람의 말에 주의를 기울이고 그 사람이 전달하는 내용이나 느낌의 본질을 반영하는 방법을 배웠다면, 반영 능력을 향상시킬 준비가 된 것입니다. 다음 지침은 당신이 더 나은 청취자가 되는 데 도움이 될 수 있습니다. 이해하는 척하지 마십시오. 듣는 사람으로서 상대방이 말하는 내용을 이해하지 못하는 경우가 많이 있을 것입니다. 당신은 공상을 했을 수도 있습니다. 당신은 화자가 대화 초반에 했던 말을 생각하고 있을 수도 있습니다. 말하는 사람은 그 내용이 무엇을 의미하는지 명확하게 설명하지 못할 수도 있습니다. 사람들은 일반적으로 주의 깊게 듣는 척하고 그러한 상황에서 말하는 내용을 완벽하게 이해하지만, 듣는 것이 거짓이 되지 않는 것이 중요합니다. 진정성은 우리가 길을 잃었을 때 인정하고 다시 궤도에 오르기 위해 노력할 것을 요구합니다.i나는 당신을 잃은 것 같습니다. 한 번 더 얘기해 주실래요?” “네 엄마가 아플 때까지 나는 너와 함께 있었다. 다음에 무슨 일이 일어났는지 다시 듣고 싶습니다.\" 발표자에게 말하지 마세요, \"네 기분이 어떤지 알아요\" 사람들이 반성적으로 듣기 시작하면 많은 사람들이 \"나는 당신이 어떻게 느끼는지 알아요\"와 같은 말을 합니다. 이는 여러 가지 이유로 부적절한 반응입니다. 첫째, 그것은 사실이 아닙니다. 다른 사람의 감정을 읽는 것은 기껏해야 근사치에 불과합니다. 누구도 다른 사람의 입장에서 걷는 것이 어떤 것인지 완전히 알 수 없습니다. 마지막으로, 화자는 당신이 말하는 것만큼 당신이 이해하고 있는지 의심하는 경향이 있습니다. 당신이 이해한다고 다른 사람에게 말하는 것은 거의 도움이 되지 않습니다. 필요한 것은 당신이 그들의 감정을 어느 정도 이해하고 있다는 것을 보여주는 것입니다. 목표는 화자의 경험을 상당히 정확하게 인식하고 \"나는 당신과 함께 있습니다\"라고 수용하는 방식으로 반영하는 것입니다.",
+              "py": ""
+            },
+            {
+              "zh": "without your ever saying, \"I know how you feel\" the other will sense that you really understand them. Vary Your Responses There is no one \"right\" response to a given statement, so let's look at a statement and some of the possible reflective responses that would be appropriate. A woman in her late twenties complained to a friend, \"My mother is always giving me advice about how to raise my kids. I wish she would mind her own business\" Possible responses include: \"It bugs you to have your mother intertere with your parenting\" «You are annoyed that she intrudes in your life that way? «You wish shed respect your parenting decisions\" «You hate it that she keeps putting in her two cents when you haven't asked.\"' Focus on the Feelings A friend of mine, Jack, visited his daughter's college on Parents' Weekend. He told me about a conversation they had over dinner at her favorie restaurant: Ruby: I don't want to stay here. It's too hard for me. I'm barely passing chem and calculus. It would be awful to have to face my friends if I flunked out. Jack: The work is too difficult. Ruby: (Tears in her eyes now) I'm afraid I'll flunk out. Jack totally ignored his daughter's feelings. He began to tell her that the treshman year was always the toughest, that she was smart, and that she would be able to regroup and make it through the semester. The interaction ended with Ruby sobbing and stepping outside to compose herself. As he told me what happened, Jack said, \"It wasn't until Ruby was cryne, that I remembered about tuning into feelings. Luckily we talked again the next morning and I did a better job of reflecting her anxiety and fears\" ---",
+              "kr": "당신이 \"당신이 어떻게 느끼는지 알아요\"라고 말하지 않고도 상대방은 당신이 그들을 정말로 이해하고 있다는 것을 느낄 것입니다. 응답을 다양하게 하십시오. 주어진 진술에 대해 하나의 \"올바른\" 응답은 없습니다. 따라서 진술과 적절할 수 있는 몇 가지 반성적 응답을 살펴보겠습니다. 20대 후반 여성은 친구에게 \"어머니가 아이 키우는 방법에 대해 늘 조언을 해주신다. 자기 일은 알아서 했으면 좋겠다\"고 불평했다. 가능한 대답은 \"어머니가 육아에 간섭하는 게 속상하다\"는 것이다. \"어머니가 네 인생에 끼어들어서 짜증나냐? \"당신은 당신의 양육 결정을 존중하고 싶습니다.\" \"당신이 요청하지도 않은데 그녀가 계속해서 2센트를 넣는 것을 당신은 싫어합니다.\"' 감정에 집중 내 친구 Jack이 부모님의 주말에 딸의 대학을 방문했습니다. 그는 그녀가 가장 좋아하는 레스토랑에서 저녁 식사를 하면서 나눈 대화에 대해 말했습니다. Ruby: 저는 여기에 머물고 싶지 않아요. 나에게는 너무 힘든 일이다. 나는 화학과 미적분학을 간신히 통과하고 있어요. 만약 내가 낙제하면 친구들과 마주해야 한다는 것은 끔찍할 것입니다. 잭: 일이 너무 힘들어요. 루비: (눈물을 흘리며) 낙제할까 봐 걱정이에요. 잭은 딸의 감정을 완전히 무시했습니다. 그는 그녀에게 treshman 시절이 항상 가장 힘들었고, 그녀는 똑똑했으며, 재편성하여 학기를 잘 이겨낼 수 있을 것이라고 말하기 시작했습니다. 상호작용은 루비가 흐느끼며 마음을 진정시키기 위해 밖으로 나가는 것으로 끝났습니다. Jack은 무슨 일이 있었는지 말하면서 \"루비가 울고 나서야 감정을 조절하는 것에 대해 기억했습니다. 운 좋게도 다음날 아침에 다시 이야기를 나눴고 그녀의 불안과 두려움을 더 잘 반영했습니다\"라고 말했습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Choose the Most Accurate Feeling Word Emotions are the key to vital communication. In reflecting emotions, it is important to ascertain the emotion, but also the degree of emotion. The feeling word should match the other's experience. A woman stood at the rim of the Grand Canyon for the first time, awed by the beauty of the constantly changing hues of red and purple. After a long silence, she turned to her partner and with eyes full of wonder and a sense of amazement in her voice said, \"This is magnificent. It is sublime.\" Her partner responded, \"You really like it here.\" It is a long emotional road from \"magnificent\" and \"sublime\" to \"You like it here.\" The more specific the listener is in reflecting the other person's feelings, the more helpful the listening tends to be. Unfortunately, most people have very limited feeling-word vocabularies. By preceding feeling-word adjectives with appropriate adverbs, you can communicate with some accuracy the degree or intensity of feeling: \"You feel a little sad because your dog died.\" \"You feel quite sad over your dog's death.\" \"You feel very sad that your dog died.\" \"You feel deeply sad since your dog died.\" While adverbs like quite and very can be used to specify the degree of feeling, they are imperfect substitutes for an adequate feeling-word vocabulary. \"You are heartbroken\" or \"You are depressed,\" for example, tend to be better expressions of feeling than \"You are extremely sad.\" One way of developing a more accurate feeling-word vocabulary is to read and reread a list of feeling words like the one that follows. affectionate angry annoyed betrayed blissful blue burdened charmed cheated cheerful condemned contented crushed defeated despairing distraught disturbed dominated eager empathetic energetic enervated exasperated fearful flustered foolish frantic ---",
+              "kr": "가장 정확한 느낌의 단어를 선택하십시오. 감정은 중요한 의사소통의 열쇠입니다. 감정을 반영함에 있어서 감정을 확인하는 것도 중요하지만, 감정의 정도도 확인하는 것이 중요합니다. 느낌이라는 단어는 상대방의 경험과 일치해야 합니다. 한 여성이 처음으로 그랜드 캐니언 가장자리에 서서 끊임없이 변하는 붉은색과 보라색의 아름다움에 경외감을 느꼈습니다. 긴 침묵 끝에 그녀는 파트너를 돌아보며 경이로움이 가득한 눈과 경이로움이 담긴 목소리로 \"이거 정말 대단해요. 숭고해요\"라고 말했습니다. 그녀의 파트너는 \"여기가 정말 마음에 듭니다. \"라고 대답했습니다. '웅장함'과 '숭고함'에서 '여기가 마음에 든다'까지 감정의 긴 여정이다. 듣는 사람이 다른 사람의 감정을 더 구체적으로 반영할수록 듣는 것이 더 도움이 되는 경향이 있습니다. 불행하게도 대부분의 사람들은 감정 단어 어휘가 매우 제한되어 있습니다. 감정 단어 형용사 앞에 적절한 부사를 사용하면 감정의 정도나 강도를 어느 정도 정확하게 전달할 수 있습니다. \"개가 죽었기 때문에 조금 슬퍼요.\" \"당신은 당신의 개가 죽은 것에 대해 매우 슬퍼하고 있습니다.\" \"당신은 당신의 개가 죽어서 매우 슬퍼하고 있습니다.\" \"당신의 개가 죽은 이후로 당신은 깊은 슬픔을 느낍니다.\" 꽤 및 매우와 같은 부사는 감정의 정도를 지정하는 데 사용될 수 있지만 적절한 감정 단어 어휘를 불완전하게 대체합니다. 예를 들어, \"당신은 상심했습니다.\" 또는 \"당신은 우울합니다.\"는 \"당신은 매우 슬퍼요.\"보다 감정을 더 잘 표현하는 경향이 있습니다. 보다 정확한 감정 단어 어휘를 개발하는 한 가지 방법은 다음과 같은 감정 단어 목록을 읽고 다시 읽는 것입니다. 다정함 화남 짜증남 배신감 행복 파란색 부담감 매혹 속임 쾌활함 비난 만족 으스러짐 패배 절망 정신 분열 불안 지배 열망 공감 활력 무기력 분노 분노 당황 당황 어리석은 광란 ---",
+              "py": ""
+            },
+            {
+              "zh": "90 left out loving melancholy miserable shocked high hurt terrible thwarted tired trapped troubled vulnerable wonderful worried sad kind scared After doing that, you may wish to group families of feeling words arintensity levels to feeling words. cording to levels of intensity. Figure 7.1 is a chart that will help you assign When the other person relates facts about a difficult decision, the productive listener often reflects the feelings of ambivalence. Charlene was just offered a promotion to a challenging job. If she accepted the new job, bustness trips would take her away from her family for several days every month. As she described her dilemma to a friend, he reflected,i\"You feel really ton about this decision.\" This response enabled Charlene to explore her conflicted feelings at greater depth. Develop Vocal Empathy Empathy is listening with your heart as well as with your head. If the reflection of another's statement is made in cold, matter-of-fact tones, the person will seldom feel understood. Responsive sounds by themselves can demonstrate a high level of understanding. The composer Edvard Grieg set to music Henrik Ibsens porn \"To a Waterfowl.\" When Ibsen first heard the score, he gripped Gregs hand and whispered, \"Understood! Understood!\" A similar experience taño place when a sensitive listener captures the mood of the speaker and reflects this back through tone qualities as well as through words. There are two major aspects of voice quality to note. First is how much ---",
+              "kr": "90 제외 사랑 우울 비참 충격 높은 상처 끔찍한 좌절 피곤 갇힌 고민 취약 취약 멋진 걱정 슬픈 종류 겁 그런 다음 감정 단어 강도 수준의 가족을 감정 단어 수준으로 그룹화할 수 있습니다. 강도 수준에 따라 연결됩니다. 그림 7.1은 당신이 어려운 결정에 대해 다른 사람이 사실을 이야기할 때, 생산적인 청취자는 종종 양가감정을 반영하는 데 도움이 되는 차트입니다. Charlene은 방금 도전적인 직업으로 승진하라는 제안을 받았습니다. 만약 그녀가 새 직장을 받아들인다면, 흉상 여행으로 인해 그녀는 매달 며칠 동안 가족과 떨어져 지내게 될 것입니다. 그녀가 자신의 딜레마를 친구에게 설명하자 친구는 \"당신은 이 결정에 대해 정말 기분이 좋지 않습니다.\"라고 생각했습니다. 이 반응을 통해 Charlene은 자신의 상충되는 감정을 더 깊이 탐구할 수 있었습니다. 음성 공감 개발 공감은 머리뿐만 아니라 마음으로도 듣는 것입니다. 다른 사람의 말을 차갑고 사실적인 어조로 반성한다면 그 사람은 거의 이해받고 있다는 느낌을 받지 못할 것입니다. 반응하는 소리는 그 자체로 높은 수준의 이해도를 보여줄 수 있습니다. 작곡가 Edvard Grieg는 Henrik Ibsens의 포르노 \"To a Waterfowl\"을 음악으로 설정했습니다. 입센은 처음 악보를 들었을 때 그렉의 손을 꼭 잡고 \"알았어! 알겠어!\"라고 속삭였다. 예민한 청취자가 말하는 사람의 분위기를 포착하고 이를 말뿐 아니라 음색을 통해 다시 반영할 때 유사한 경험이 발생합니다. 음성 품질에는 주목해야 할 두 가지 주요 측면이 있습니다. 첫 번째는 얼마입니까 ---",
+              "py": ""
+            },
+            {
+              "zh": "Adore Love Cherish Devoted",
+              "kr": "사랑을 소중히 여기며 헌신합니다.",
+              "py": ""
+            },
+            {
+              "zh": "Ecstatic Elated Overjoyed Jubilant",
+              "kr": "황홀하고 의기양양하고 기뻐하며 기뻐합니다.",
+              "py": ""
+            },
+            {
+              "zh": "Dynamic Forceful Powerful Mighty Desolate Anguished Despondent Depressed Strong",
+              "kr": "역동적이고 강력함 강력함 강함 황량함 괴로움 낙담함 우울함 강함",
+              "py": ""
+            },
+            {
+              "zh": "Violent Enraged Furious Angry Seething",
+              "kr": "폭력적 분노 분노 격노 분노 끓어오르기",
+              "py": ""
+            },
+            {
+              "zh": "Bewildered Disjointed Confused Muddled Crushed Helpless Done for Mild Affection Desirable Friend Like Turned on Happy Cheerful Up Effective Strong Confident Able Glum Blue Sad Out of sorts Mad Frustrated Aggravated Frightened Scared Apprehensive Alarmed Mixed-up Foggy Baffled Lost Powerless Vulnerable Inept Unqualified Trusted Accepted Cared for",
+              "kr": "어리둥절함 어리둥절함 어리둥절함 혼란스러움 으스러짐 무기력함 온화한 애정 행함 바람직한 친구 좋아함 행복 명랑함 유능함 강함 자신감 있음 무뚝뚝함 파란색 슬픔 이상함 미친 좌절감 악화 겁먹음 불안함 불안함 뒤섞임 안개 당황함 상실함 무력함 취약함 무능함 무자격 신뢰할 수 있음 인정됨 배려함",
+              "py": ""
+            },
+            {
+              "zh": "Glad Good Satisfied Contented Capable Competent Adequate Below par Displeased Dissatisfied Low Irritated Annoyed Put out Perturbed Worried On edge Nervous Timid Undecided Unsure Vague Unclear Weak Ineffective Feeble Weak Figure 7.1. Feeling words grouped according to levels of intensity. You may wish to move some of the words on the chart to a higher or lower level of intensity. You can fill in the blank spaces with other feeling words that come to mind. ---",
+              "kr": "기쁘다 좋다 만족 만족 유능 유능 적당 수준 이하 불만 불만족 낮음 초조 짜증 짜증 불안 걱정 초조 초조함 소심함 미정 확실치 않음 모호함 불확실함 약함 무능함 약함 약함 그림 7.1. 강도 수준에 따라 그룹화된 느낌 단어. 차트의 일부 단어를 더 높거나 낮은 수준으로 이동하고 싶을 수도 있습니다. 마음속에 떠오르는 다른 느낌의 단어들로 빈칸을 채울 수 있습니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "warmth you express in your voice. If it is harsh, sharp, and shri likely you will communicate caring acceptance and concern to t We sometimes ask people to think about how much they care for to whom they will be listening and then to think of them as bu some big problem. Then the listeners are to make wordless soun municate their empathic feelings. When they do that, they norm using low-pitched, full vocal tones in a slightly slowed pace of sp The listener's tone of voice and manner should also reflect t voice of the speaker. If a person speaks excitedly about a success a tener responds in a dull monotone voice, the tone of the reflectic even when the words are on target. After a client's outburst of ar their partner's unfaithfulness, a therapist said, i\"The affairs make ous.\" The client's manner of speaking and depth of emotionality a partly echoed in the therapist's response. (At the same time, over effect on the response would be inappropriate.) One of the problems of trying to learn communication ski book's printed page is that the vocal quality is missing. Recording s versations and role-playing to see how empathic your voice is whe listening to another can be instructive. Strive for Concreteness and Relevance Much of the time when we opt to listen, the other person has a The goal of listening in such a situation is to facilitate the speaker's arrive at their own best solution to the problem. If the problem is in vague generalities, it is difficult, if not impossible, to solve it. Va tions to vague problems do not lead to effective action. There are three ways we as listeners can foster increased concre a conversation. First, we can be very concrete in our responses. So listeners give a vague response to very specific statements. Obvio should try to at least match the speaker's level of concreteness ir sponses. When the speaker is vague, however, you can reflect in a makes the conversation more concrete. In the following interaction, specificity of the listener's response: Joan: I can't go to that party. How can I face my friends? Iro marriage is one thing. But now that I've moved out.. Ellie: Going to the dinner party would hurt because of wh friends might think of you now that you are separated. ---",
+              "kr": "당신의 목소리로 표현되는 따뜻함. 만약 그것이 가혹하고 날카로우며 shri라면 당신은 배려하는 수용과 관심을 전달할 것입니다. 우리는 때때로 사람들에게 자신이 누구의 말을 듣게 될지에 대해 얼마나 관심을 갖고 있는지 생각해보고 그것을 큰 문제로 생각하라고 요청합니다. 그러면 듣는 사람은 말 없는 소리로 자신의 감정을 공감하게 됩니다. 그렇게 할 때, 그들은 sp의 약간 느린 속도로 낮은 음조의 완전한 보컬 톤을 사용하는 것을 표준으로 합니다. 듣는 사람의 목소리 톤과 매너도 말하는 사람의 목소리를 반영해야 합니다. 어떤 사람이 성공에 대해 신나게 말하면 테너는 둔한 단조로운 목소리로 반응합니다. 내담자가 파트너의 불성실을 폭로한 후 치료사는 \"사건이 우리를 만든다\"고 말했습니다. 내담자의 말하는 방식과 감정의 깊이가 치료사의 반응에 부분적으로 반영되었습니다. (동시에 응답에 대한 과도한 효과는 부적절합니다.) 의사소통 스키북의 인쇄된 페이지를 배우려고 할 때의 문제점 중 하나는 보컬 품질이 부족하다는 것입니다. 다른 사람의 말을 들을 때 자신의 목소리가 얼마나 공감하는지 알아보기 위해 노래를 녹음하고 역할극을 하는 것은 유익할 수 있습니다. 구체성과 관련성을 위해 노력하십시오. 우리가 듣기로 선택할 때 대부분의 경우 상대방은 다음과 같은 상황을 갖고 있습니다. 그러한 상황에서 듣는 목적은 화자가 문제에 대한 최선의 해결책에 도달하도록 촉진하는 것입니다. 문제가 모호한 일반성이라면 해결이 불가능하지는 않더라도 어렵습니다. 모호한 문제에 대한 기대는 효과적인 조치로 이어지지 않습니다. 청취자로서 우리가 보다 구체적인 대화를 촉진할 수 있는 세 가지 방법이 있습니다. 첫째, 우리는 매우 구체적으로 대응할 수 있습니다. 그래서 청취자들은 매우 구체적인 진술에 대해 모호한 반응을 보입니다. Obvio는 최소한 화자의 구체적 수준과 일치하도록 노력해야 합니다. 그러나 말하는 사람이 모호할 때 반성하여 대화를 더욱 구체적으로 만들 수 있습니다. 다음 상호작용에서 청취자의 반응의 특이성은 다음과 같습니다. Joan: 저는 그 파티에 갈 수 없습니다. 어떻게 친구들과 마주할 수 있나요? 이로 결혼은 한 가지입니다. 그런데 이제 이사를 가니까.. 엘리: 헤어진 지금 친구들이 당신을 생각할까봐 저녁파티에 가는 게 마음이 아플 것 같아요. ---",
+              "py": ""
+            },
+            {
+              "zh": "Another way to foster concreteness in a conversation is to ask a few factfinding or feeling-finding questions. \"Could you give me an example?\" (fact finding). \"How did you feel when he said that?\" (feeling finding). A third way to facilitate more concreteness in a conversation is to prevent the speaker from rambling. When the speaker becomes long-winded, its hard to track the concreteness, the purposefulness, and the intensity of the interaction. To help the speaker tocus, it is sometimes necessary to interrupt them. Many people find it ironic that good listening could involve interrupting the person doing the talking. When I as a listener interrupt rambling talkers with reflective responses, two things typically happen. After a few interruptions, the speaker and I develop a rhythm of speaking and reflection that promotes better conversation. Then, too, the speaker usually stops talking in circles and moves much more directly to the point. Provide Nondogmatic but Firm Responses The effective listener realizes that it is impossible to know another exactly. The best that is achievable is a reasonably correct but approximate understanding. For this reason, it is desirable to be continuously openminded in seeking to understand the unique person to whom you are lisThe nondogmatic way you word your reflections and the inflection of your voice should make it easy for the speaker to say, \"No, that's not what I meant. Let me put it this way..\" You can then try to reflect the second statement more accurately. while some novices at reflective listening make their reflections too dogmatic, more people make them excessively tentative. They often phrase their reflections as questions. Even when the reflections read like statements, many listeners may raise their voice at the end of the sentence and thus turn if into a question. Excessive tentativeness in a listener isn't helpful to the speaker. Instead of mirroring a firm image of what they've received, listeners may merely demonstrate their own insecurities and unwillingness to risk a succinct and concrete reflection. There will be times, of course, when you are quite confused about what the speaker meant. At those times, it is appropriate to say something like, Im not sure what you meant. Was it The effective listener can be tentative when appropriate, is not dogmatic, and can give firm responses as befits a good sounding board ---",
+              "kr": "대화의 구체성을 높이는 또 다른 방법은 사실 확인이나 감정 찾기 질문을 하는 것입니다. \"예를 들어주시겠어요?\" (사실 조사). \"그가 그런 말을 했을 때 기분이 어땠나요?\" (찾는 느낌). 대화를 좀 더 구체적으로 만드는 세 번째 방법은 화자가 중얼거리는 것을 막는 것입니다. 화자가 말이 길어지면 대화의 구체성, 목적성, 강도를 추적하기가 어렵습니다. 말하는 사람의 집중을 돕기 위해 때로는 방해하는 것이 필요합니다. 많은 사람들은 잘 듣는 것이 말하는 사람을 방해한다는 사실이 아이러니하다고 생각합니다. 내가 청취자로서 횡설수설하는 말을 반성적인 반응으로 방해할 때 일반적으로 두 가지 일이 발생합니다. 몇 번의 중단 후에 화자와 나는 더 나은 대화를 촉진하는 말하기 및 반성의 리듬을 개발합니다. 그런 다음 화자는 대개 원을 그리며 말하는 것을 멈추고 훨씬 더 직접적으로 요점으로 이동합니다. 비독단적이지만 확고한 반응을 제공하십시오 효과적인 경청자는 다른 사람을 정확히 아는 것이 불가능하다는 것을 깨닫습니다. 달성 가능한 최선의 방법은 합리적으로 정확하지만 대략적인 이해입니다. 그러므로 당신 자신이 누구인지 이해하기 위해 지속적으로 열린 마음을 갖는 것이 바람직합니다. 독단적이지 않은 방식으로 자신의 생각과 목소리의 억양을 표현하면 말하는 사람이 \"아니요, 제가 의도한 것은 그게 아닙니다. 이렇게 말하겠습니다..\"라고 쉽게 말할 수 있어야 합니다. 그런 다음 두 번째 진술을 보다 정확하게 반영하도록 노력할 수 있습니다. 반성적 청취의 일부 초보자는 자신의 반성을 너무 독단적으로 만드는 반면, 더 많은 사람들은 지나치게 잠정적입니다. 그들은 종종 자신의 생각을 질문으로 표현합니다. 성찰이 같은 진술로 읽혀지더라도 많은 청취자는 문장 끝에서 목소리를 높여 if를 질문으로 바꿀 수 있습니다. 듣는 사람의 과도한 잠정성은 말하는 사람에게 도움이 되지 않습니다. 자신이 받은 것에 대한 확고한 이미지를 반영하는 대신, 청취자는 자신의 불안감과 간결하고 구체적인 반성을 위험에 빠뜨리려는 의지를 보여줄 수 없습니다. 물론 화자가 무엇을 의미하는지에 대해 상당히 혼란스러울 때가 있을 것입니다. 그럴 때는 '무슨 말씀이신지 잘 모르겠습니다'라고 말하는 것이 적절합니다. 효과적인 청취자는 적절할 때 잠정적일 수 있고, 독단적이지 않으며, 좋은 공명판에 걸맞게 확고한 반응을 줄 수 있습니다 ---",
+              "py": ""
+            },
+            {
+              "zh": "94 Reflect the Speaker's Resources If the speaker is to resolve a given problem, it is essential that they discover the resources available to handle these problems. The speaker may be so bogged down in problems that they are not aware of their resources, even if they subconsciously reference them. The effective listener notes even the veiled reference to personal resources and reflects these back to the speaker: Nick: Luis: Luis: I'm no good at numbers. I freeze whenever I work with them. I'm afraid I'm going to screw up this forecast. If I could ever get on top of the numbers, I could do a good job because I can see the big picture and have been able to forecast trends quite accurately. (focusing on weaknesses) Making sense of the numbers is really difficult for you. (focusing on resources) You are frustrated with your math skills, but you are pleased with your ability to anticipate future market trends. A realistic focus on resources is extremely important. The basic characteristic of people when they're feeling troubled is their sense of discouragement. Effective listeners not only lighten the load of discouragement by listening acceptingly as the other talks; they listen for and reflect the speaker's resources that provide hope and will enable the speaker to solve their own problems. Reflect the Feelings Implicit in Questions Many times beginners at reflective listening are at a loss to know what to do when the speaker asks them a direct question. Their resolve to continue reflecting falters in the face of a question because in our society, it is rare to allow questions to go unanswered. In one workshop, a participant (Brian) told me he was able to resist his temptation to give advice and was able to continue reflecting his friend Sean's meanings until Sean hit him with a question that was a definite request tor advice. Brian recalled the conversation this way: Sean: Brian: I've thought about this a lot, and I just don't know how to handle the situation. What would you do if you were in my shoes? Well, I was in your shoes back in the day. I did this... It really worked for me. ---",
+              "kr": "94 발표자의 자원 반영하기 발표자가 주어진 문제를 해결하려면 이러한 문제를 처리하는 데 사용할 수 있는 자원을 찾는 것이 중요합니다. 화자는 문제에 너무 빠져서 무의식적으로 언급하더라도 그 자원을 인식하지 못할 수 있습니다. 효과적인 청취자는 개인적인 자원에 대한 숨겨진 언급까지도 기록하고 이를 화자에게 다시 반영합니다. Nick: Luis: Luis: 저는 숫자에 능숙하지 않습니다. 나는 그들과 함께 일할 때마다 얼어붙는다. 이 예측을 망칠까봐 두렵습니다. 만약 제가 수치를 잘 다룰 수 있다면 큰 그림을 볼 수 있고 추세를 아주 정확하게 예측할 수 있었기 때문에 좋은 일을 할 수 있었을 것입니다. (약점에 집중) 숫자를 이해하는 것은 당신에게 정말 어렵습니다. (자원에 초점을 맞춤) 당신은 수학 능력에 불만이 있지만 미래 시장 동향을 예측하는 능력에 만족합니다. 자원에 대한 현실적인 초점이 매우 중요합니다. 사람들이 괴로움을 느낄 때 나타나는 기본적인 특징은 낙담하는 것입니다. 효과적인 경청자는 다른 사람이 말하는 것을 받아들임으로써 경청함으로써 낙담의 짐을 가볍게 할 뿐만 아니라; 그들은 희망을 제공하고 화자가 자신의 문제를 해결할 수 있도록 해주는 화자의 자원을 듣고 반영합니다. 질문에 내재된 감정을 반영하십시오. 반성적 경청의 초보자들은 화자가 직접적인 질문을 할 때 무엇을 해야 할지 몰라 당황하는 경우가 많습니다. 계속해서 성찰하겠다는 의지가 질문 앞에 흔들리는 것은 우리 사회에서 질문에 답하지 않는 경우가 드물기 때문이다. 한 워크숍에서 참가자(브라이언)는 조언을 주고 싶은 유혹을 참을 수 있었고 Sean이 조언에 대한 확실한 요청인 질문을 던질 때까지 친구 Sean의 의미를 계속해서 반영할 수 있었다고 말했습니다. 브라이언은 그 대화를 이렇게 회상했습니다. 션: 브라이언: 이 문제에 대해 많이 생각해 봤는데 이 상황을 어떻게 처리해야 할지 모르겠어요. 당신이 내 입장이라면 어떻게 하시겠습니까? 글쎄, 나는 그 당시에 당신의 입장에 있었습니다. 나는 이것을 했다... 그것은 나에게 정말로 효과가 있었다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Brian's question to me was, \"What can you do when someone makes a direct request tor advice? This is a problem that stumps many people who are just beginning to use reflective listening skills. One option is to try to decode what the other person's question really means. What feeling lies behind it? Reflect back that meaning. Brian and Sean's conversation could have proceeded like this: Sean: I've thought about this a lot, and I just don't know how to handle this situation. What would you do if you were in my shoes? This one's really got you stumped! Brian: Sean: It sure has. It is the toughest thing I have faced in a long time. Let's see how a couple of other listeners handle questions reflectively: Client: It's been a year now since the death of my partner. I'm still grief-stricken. Will I ever get over it? Therapist: You're afraid you never will. or: Victoria: When I'm really nervous, I laugh. Sometimes I can't stop. Why do I do that? Jen: That reaction puzzles and concerns you.",
+              "kr": "브라이언이 나에게 던진 질문은 \"누군가가 조언을 위해 직접적으로 요청할 때 무엇을 할 수 있습니까? 이것은 반사적 경청 기술을 이제 막 사용하기 시작한 많은 사람들을 당황하게 만드는 문제입니다. 한 가지 옵션은 상대방의 질문이 실제로 무엇을 의미하는지 해독하려고 노력하는 것입니다. 그 뒤에 있는 감정은 무엇입니까? 그 의미를 다시 생각해 보십시오. 브라이언과 션의 대화는 다음과 같이 진행될 수 있었습니다. 션: 저는 이것에 대해 많이 생각해 봤는데 이 상황을 어떻게 처리해야 할지 모르겠어요. 만약 당신이 Brian: 확실히 그렇죠. 다른 청취자들이 어떻게 질문에 답하는지 살펴보겠습니다. 내 파트너가 죽은 지 1년이 지났습니다. 치료사: 당신은 결코 극복할 수 없을까 걱정됩니다. 멈출 수 없어. 내가 왜 그런 짓을 하는 거지? Jen: 그 반응이 당신을 당황하게 하고 걱정하게 만드네요.",
+              "py": ""
+            },
+            {
+              "zh": "When the listener accurately reflects the feeling or meaning that lies behind the question, the speaker often forgets having even asked a question and usually plunges into a deeper discussion of the matter. Sometimes, however, when the question is decoded and the meaning reflected to the speaker, the speaker becomes irritated and asks the question again. When this happens, explain that your role as a listener is first to understand. The other may say,But you have more experience, wisdom,... letc., I really need your advice\" In that case, you might say, \"I'm happy to share my thoughts in a moment, but before I do, I want to understand the issue as you experience it. Please continue\" Knowing that the conversation will include a discussion of possible solutions can set the speaker at ease, allowing them to return to and further explore the issue at hand. ---",
+              "kr": "듣는 사람이 질문 뒤에 숨어 있는 감정이나 의미를 정확하게 반영할 때, 말하는 사람은 종종 질문조차 잊어버리고 문제에 대해 더 깊은 논의에 빠져들곤 합니다. 그러나 때로는 질문이 해독되어 화자에게 의미가 반영되면 화자는 짜증을 내며 다시 질문을 하게 됩니다. 이런 일이 발생하면 먼저 듣는 사람으로서의 역할을 이해해야 한다고 설명하십시오. 다른 사람은 '하지만 당신은 더 많은 경험과 지혜가 있습니다.... 기타.. 조언이 정말 필요합니다. 계속하십시오.\" 대화에 가능한 해결 방법에 대한 논의가 포함된다는 점을 알면 화자는 편안하게 되어 당면한 문제로 돌아가서 더 자세히 탐색할 수 있습니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Accept That Many Interactions Will Be Inconclusive Many listeners are impatient. They want to solve lifelong problems in one sitting. If a person sees a psychiatrist about a problem, the psychiatrist may expect to work with the client for several months or even years before they discover and implement an adequate solution. It that same person brings the identical problem to a next-door neighbor, the neighbor wil probably expect everything to be resolved in a single conversation! Many times a person will discuss a problem with a spouse or friend and leave without any solution in sight. That's okay. The speaker will often glean greater insight into the problem and, sometimes, possible alternatives. They may need time to mull over these ideas and options before moving on to a firm decision. Though it can be frustrating for the listener not to see the speaker's problem resolved immediately, that kind of tension is part of being a creative listener. Reflect during Brief Interactions One of the most common complaints about reflective listening is that it takes a lot of time. No question about it: attentive listening can consume a great deal of time. There are three ways in which I, a busy, task-oriented person, look at the problem. First, I realize this is a value issue. One way I demonstrate that caring is by making myself available to talk about the important issues in others' lives.",
+              "kr": "많은 상호작용이 결론을 내리지 못할 것임을 받아들이십시오. 많은 청취자들은 참을성이 없습니다. 그들은 평생의 문제를 한 번에 해결하고 싶어합니다. 어떤 문제에 대해 정신과 의사를 만나면 정신과 의사는 내담자가 적절한 해결책을 발견하고 실행하기까지 몇 달 또는 몇 년 동안 환자와 협력할 것으로 기대할 수 있습니다. 같은 사람이 옆집 이웃에게 같은 문제를 가져온다면, 그 이웃은 아마도 한 번의 대화로 모든 것이 해결되기를 기대할 것입니다! 많은 경우 배우자나 친구와 문제를 논의하고 아무런 해결책도 없이 떠나는 경우가 많습니다. 괜찮습니다. 화자는 종종 문제에 대한 더 큰 통찰력을 얻고 때로는 가능한 대안을 제시합니다. 확고한 결정을 내리기 전에 이러한 아이디어와 옵션을 숙고할 시간이 필요할 수도 있습니다. 말하는 사람의 문제가 즉시 해결되는 것을 보지 못하는 것이 듣는 사람에게는 답답할 수 있지만, 그러한 긴장감은 창의적인 듣는 사람의 일부입니다. 짧은 상호작용 중 성찰하기 성찰적 경청에 대한 가장 흔한 불만 중 하나는 시간이 많이 걸린다는 것입니다. 의심의 여지가 없습니다. 주의 깊게 듣는 것은 많은 시간을 소모할 수 있습니다. 바쁘고 업무 지향적인 사람인 나는 문제를 보는 세 가지 방식이 있습니다. 첫째, 이것이 가치 문제라는 것을 깨달았습니다. 내가 배려를 보여주는 한 가지 방법은 다른 사람의 삶의 중요한 문제에 대해 이야기할 수 있는 시간을 제공하는 것입니다.",
+              "py": ""
+            },
+            {
+              "zh": "Second, I realize that this is an efficiency issue. Experience has demonstrated that when employers do not take time to listen to employees, when salespeople do not understand their customers' needs, and when teachers do not hear the concerns of their students, they are far less efficient in accomplishing their tasks. Listening often seems to be inefficient, but when there are strong needs, deep feelings, or important concerns, choosing not to listen can result in wasted time, effort, and money.",
+              "kr": "둘째, 이것이 효율성 문제라는 것을 깨달았습니다. 경험에 따르면 고용주가 직원의 의견을 경청하는 데 시간을 투자하지 않고, 영업사원이 고객의 요구 사항을 이해하지 못하고, 교사가 학생의 우려 사항을 듣지 않으면 업무 수행 효율성이 훨씬 떨어집니다. 듣는 것은 종종 비효율적인 것처럼 보이지만, 강한 욕구, 깊은 감정 또는 중요한 관심사가 있을 때 듣지 않기로 선택하면 시간, 노력 및 돈을 낭비하게 될 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Finally, I realize that much reflective listening can be done in relatively short periods of time. A teacher noticed a student struggle with a math problem and then slam the book shut. The teacher went to the student's desk and reflected the nonverbals: This assignment is very difficult and you are feeling frustrated\" An employee who had been out sick is working under pressure. \"It's tough trying to catch up when you're still not feeling well, isn't it?\" said a colleague. Sometimes a smile, a nod, or a pat on the back is all that is needed to communicate understanding. Experimenting with these ---",
+              "kr": "마지막으로, 나는 상대적으로 짧은 시간 내에 많은 반성적 경청이 이루어질 수 있다는 것을 깨달았습니다. 한 교사가 한 학생이 수학 문제로 어려움을 겪는 것을 보고 책을 쾅 닫았습니다. 교사는 학생의 책상으로 가서 비언어적 표현을 반영했습니다. 이 과제는 매우 어렵고 당신은 좌절감을 느끼고 있습니다.\" 병가에 있었던 직원은 압박감에 시달리고 있습니다. \"아직 몸이 안 좋을 때 따라잡으려고 노력하는 것이 힘들죠, 그렇죠?\"라고 동료가 말했습니다. 때로는 미소, 고개 끄덕임, 또는 등을 두드리는 것만으로도 이해를 전달하는 데 필요한 전부입니다. 이것을 실험해 보세요 ---",
+              "py": ""
+            },
+            {
+              "zh": "to your repertoire. nonverbal reflections can be an easy way to begin adding listening responses",
+              "kr": "당신의 레퍼토리에. 비언어적 반성은 듣기 반응을 추가하는 쉬운 방법이 될 수 있습니다",
+              "py": ""
+            },
+            {
+              "zh": "When learning the discipline of reflective listening, a common question is, \"Is it ever appropriate to do anything beyond reflective listening when the other person has a problem or a strong need?\" It is common to be overeager to abandon listening and seek quicker (but often less eftective) ways of helping a person in need. There are times, however, when it is appropriate to use other methods in conjunction with listening. Additive Responses An additive response is one where the listener goes beyond what the peaker communicated, adding to a refection. Imagine that a friend shared with you that they were struggling with the competing demands of beginning a new job while starting a family and that your response was,iYou're looking for a way to succeed in your new job and still be present at home\" The speaker didn't actually say they were \"looking for a way\" to addres this tension; that's what makes it an additive response. As in this case, additive responses should relate to what the speaker has been saying. When used well (and sparingly), these kinds of responses can help the speaker to see the world from a more objective point of view or to move more effectively into decision making and action. The problem with additive responses is that, once used, they can become addictive. The \"listener\" may take over the other's problem. Instead of being a facilitator to help others work through their own problems, the listener often ceases to be a listener and becomes instead an adviser doing out solutions or pressuring the other to do problem solving before they're emotionally ready for it. Building a Base for Additive Responses To minimize these negative consequences, build a base of trust and understanding before using additive responses. Accurate and empathic reflections should always precede additive responses. Once additive responses have been made and the speaker continues, the listener should return to reflective-listening mode. ---",
+              "kr": "성찰적 경청 훈련을 배울 때 흔히 묻는 질문은 \"상대방에게 문제가 있거나 절실한 요구가 있을 때 성찰적 경청 이상의 일을 하는 것이 적절한가요?\"입니다. 경청을 포기하고 도움이 필요한 사람을 돕는 더 빠른(그러나 종종 덜 효과적인) 방법을 찾는 것이 지나치게 열심인 것이 일반적입니다. 그러나 듣기와 함께 다른 방법을 사용하는 것이 적절한 경우도 있습니다. 부가적 반응 부가적 반응은 청취자가 피커가 전달한 것 이상으로 반감을 더하는 것입니다. 친구가 가족을 시작하면서 새로운 일을 시작해야 하는 경쟁적인 요구로 어려움을 겪고 있고 당신의 반응이 '당신은 새 직장에서 성공하면서도 집에 계속 머물 수 있는 방법을 찾고 있습니다'라고 당신과 공유했다고 상상해 보십시오. 화자는 실제로 이러한 긴장을 해소하기 위해 \"방법을 찾고 있다\"고 말하지 않았습니다. 이것이 이것이 부가적 반응이 되는 이유입니다. 이 경우와 같이 부가적 반응은 화자가 말한 내용과 관련되어야 합니다. 이러한 유형의 반응은 잘 사용하면 화자에게 도움이 될 수 있습니다. 더 객관적인 관점에서 세상을 보거나 의사 결정 및 행동에 더 효과적으로 움직이기 위해. 이러한 부정적인 결과를 최소화하고, 부가적인 반응을 사용하기 전에 신뢰와 이해의 기반을 구축하십시오. 부가적인 반응이 이루어지고 화자가 계속되면 청취자는 반성적 청취 모드로 돌아가야 합니다.",
+              "py": ""
+            },
+            {
+              "zh": "some additive responses? You should listen until you are able to: How do you know when you have listened long enough to begin to use",
+              "kr": "추가 응답이 있나요? 다음을 할 수 있을 때까지 들어야 합니다. 사용하기 시작할 만큼 오랫동안 들은 것을 어떻게 알 수 있습니까?",
+              "py": ""
+            },
+            {
+              "zh": "Improving Your Reflecting Skille responses are appropriate. In a specinc conversation, it may be appropriate to use one or more of these responses that lie beyond reflective listening. providing Factual Information It is sometimes appropriate for a listener to share factual information with the person who is talking about a problem. Assuming that a base of trust and understanding has been built, information may be constructively shared if:",
+              "kr": "반사 기술 반응을 개선하는 것이 적절합니다. 특정 대화에서는 반성적인 듣기 이상의 반응을 하나 이상 사용하는 것이 적절할 수 있습니다. 사실 정보 제공 청취자가 문제에 대해 이야기하는 사람과 사실 정보를 공유하는 것이 때때로 적절할 수 있습니다. 신뢰와 이해의 기반이 구축되었다고 가정하면 다음과 같은 경우 정보가 건설적으로 공유될 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Taking Action There are times when reflective listening uncovers a situation that needs to be remedied. The language of behavior is sometimes the best response we can make to another person. When a child is struggling to fix their bike and the task is too complex, the parent needs to stop reflecting and start helping.",
+              "kr": "조치를 취하기 반성적인 경청을 통해 해결해야 할 상황을 발견할 때가 있습니다. 행동의 언어는 때때로 우리가 다른 사람에게 할 수 있는 최선의 반응입니다. 아이가 자전거를 고치느라 애쓰고 있고 그 일이 너무 복잡할 때, 부모는 고민을 멈추고 도움을 시작해야 합니다.",
+              "py": ""
+            },
+            {
+              "zh": "When someone is stricken with grief at the loss of a loved one, reflective listening is very important-but so is an invitation to dinner. Sometimes doing \"he needful thing\" is the best way to respond when others are struggling. Facilitating Problem Solving Active listening may be all that is required to help some people arrive at a resolution of their problems. Sometimes, however, the person with a strong need may lack probiem-solving skills. Without taking over the problemsolving process, the effective listener may guide the speaker through an approach such as the one described in Chapter 14 of this book. Referral Sometimes the speaker will require information or a level of support that you are unable to provide. In such situations you may, as Caroline did with Quinn, refer that person to someone more qualified to help.",
+              "kr": "누군가가 사랑하는 사람을 잃었다는 슬픔에 시달릴 때, 반성적으로 경청하는 것은 매우 중요합니다. 하지만 저녁 식사에 초대하는 것도 마찬가지입니다. 때로는 \"그에게 필요한 일\"을 하는 것이 다른 사람들이 어려움을 겪을 때 대응하는 가장 좋은 방법입니다. 문제 해결 촉진 일부 사람들이 문제를 해결하는 데 도움이 되기 위해서는 적극적인 경청이 필요할 수 있습니다. 그러나 때로는 강한 욕구를 가진 사람이 문제 해결 능력이 부족할 수도 있습니다. 문제 해결 과정을 맡지 않고도 효과적인 청취자는 이 책의 14장에 설명된 것과 같은 접근 방식을 통해 화자를 안내할 수 있습니다. 추천 때때로 발표자는 귀하가 제공할 수 없는 정보나 수준의 지원을 요구할 수도 있습니다. 그러한 상황에서는 Caroline이 Quinn에게 했던 것처럼 그 사람에게 도움을 줄 수 있는 더 자격이 있는 사람을 소개할 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "When suggesting a referral, it is important to actively listen to the speaker's objections, resistance, and concerns. For many, the idea of seeking help from unknown others may come with embarrassment. Continued listening through the transition period is often an important part of making the referral a positive experience. Self-Disclosure Effective listeners occasionally tell the speaker some things about their own lives. Self-disclosure, however, is not an end in itself when the other person has the stronger need. Rather, it is related to the goal of this particular conversation. The listener needs to determine whether disclosure is likely to help the speaker understand an issue more clearly. Effective selfdisclosure by a listener is experienced much like a good reflective response. Gerard Egan gave these examples of effective and ineffective self-disclosure in a counseling situation: ---",
+              "kr": "추천을 제안할 때에는 화자의 반대, 저항, 우려 사항을 적극적으로 경청하는 것이 중요합니다. 많은 사람들에게는 알려지지 않은 다른 사람들에게 도움을 구한다는 생각이 당황스러울 수 있습니다. 전환 기간 동안 계속해서 듣는 것은 추천을 긍정적인 경험으로 만드는 데 중요한 부분인 경우가 많습니다. 자기 공개 효과적인 청취자는 때때로 화자에게 자신의 삶에 대해 몇 가지 이야기를 합니다. 그러나 자기 공개는 상대방이 더 강한 욕구를 갖고 있을 때 그 자체로 끝이 아닙니다. 오히려 그것은 이 특별한 대화의 목표와 관련이 있습니다. 청취자는 공개가 화자가 문제를 더 명확하게 이해하는 데 도움이 될지 여부를 판단해야 합니다. 청취자의 효과적인 자기 공개는 좋은 반성적 반응과 매우 유사하게 경험됩니다. Gerard Egan은 상담 상황에서 효과적인 자기 공개와 비효율적인 자기 공개의 예를 다음과 같이 제시했습니다. ---",
+              "py": ""
+            },
+            {
+              "zh": "Client: Counselor A: Client: I seem to be most anxious when I wake up in the morning. I just don't want to face the day. It's too scary. I experienced this kind of morning anxiety at one period of my life. It was when I was in graduate school and was not sure that I was good enough. I didn't know what I wanted out of life. But it all passed away. Do you think yours was related to the aimlessness of school life? оГ: Client: Counselor B: Client: I seem to be most anxious when I wake up in the morning. I just don't want to face the day. It's too scary. It becomes a painful struggle just to get out of bed. I think I went through some of that in graduate school. It made the world seem pretty grim. It's just that it's such a painful struggle. But I think that the world would be even grimmer if I were to give up that struggle? The self-disclosure of the first counselor shifted the attention from the client's situation to the counselor's. Counselor B's disclosure was more empathic; it related to the client's felt experience. In response, the client's selfexploration went deeper. Contrasting As a helping skill, contrasting calls attention to discrepancies in the speaker's behavior",
+              "kr": "내담자: 상담사 A: 내담자: 아침에 일어났을 때 가장 불안한 것 같아요. 나는 단지 하루를 직면하고 싶지 않습니다. 너무 무섭다. 나는 인생의 한 시기에 이런 종류의 아침 불안을 경험했습니다. 대학원에 다닐 때였는데 내가 충분히 잘하는지 확신이 없었습니다. 나는 인생에서 내가 원하는 것이 무엇인지 몰랐습니다. 그러나 그것은 모두 세상을 떠났습니다. 당신의 그것이 학교생활의 무의미함과 관련이 있다고 생각합니까? оГ: 내담자: 상담사 B: 내담자: 아침에 일어났을 때 가장 불안한 것 같아요. 나는 단지 하루를 직면하고 싶지 않습니다. 너무 무섭다. 침대에서 일어나는 것만으로도 고통스러운 몸부림이 됩니다. 대학원에서 그런 일을 겪었던 것 같아요. 세상이 꽤 암울해 보이더군요. 단지 그것이 너무나 고통스러운 투쟁일 뿐입니다. 그런데 제가 그 투쟁을 포기한다면 세상은 더욱 암울해질 것 같은데요? 첫 번째 상담자의 자기 공개는 내담자의 상황에서 상담사의 상황으로 관심을 옮겼습니다. B 상담사의 폭로가 더 공감적이었습니다. 그것은 고객이 느낀 경험과 관련이 있습니다. 이에 대응하여 내담자의 자기탐색은 더욱 깊어졌습니다. 대조 보조 기술로서 대조는 말하는 사람의 행동의 불일치에 주의를 환기시킵니다.",
+              "py": ""
+            },
+            {
+              "zh": "Greg: (looking down, sighs, speaks slowly) I'm so excited we finally got engaged. Megan is a wonderful woman. Mimi: On the one hand you say you're excited; on the other hand, your tone of voice has a heaviness to it. Three conditions should be met before contrasting is attempted. First, a base of trust and understanding needs to be built. That base should be very firm before contrasting is attempted. Second, the listener must perceive incongruities that are essential to explore. And finally, the listener should be confident that the speaker is ready and able to explore these discrepancies. Timing and a nonjudgmental manner are important factors in aiding the speaker to benefit from experiencing the contrasts they're communicating. After contrasting, return to reflective responses as the speaker explores the discrepancies you've highlighted. One should never initiate two or more contrasts in succession. Since contrasting is appropriate only in sensitive areas where people are often defensive, the listener should use them rarely, cautiously, and skillfully-if at all.",
+              "kr": "그렉: (아래를 내려다보며 한숨을 쉬며 천천히 말함) 우리가 마침내 약혼하게 되어 너무 기뻐요. 메건은 훌륭한 여성이에요. 미미: 한편으로는 신난다고 하더군요. 반면에 당신의 목소리 톤에는 무게감이 있습니다. 대조를 시도하기 전에 세 가지 조건이 충족되어야 합니다. 첫째, 신뢰와 이해의 기반이 구축되어야 한다. 대조를 시도하기 전에 그 기반이 매우 확고해야 합니다. 둘째, 청취자는 탐구에 필수적인 부조화를 인식해야 합니다. 그리고 마지막으로, 청취자는 화자가 이러한 불일치를 탐색할 준비가 되어 있고 이를 탐색할 수 있다는 것을 확신해야 합니다. 타이밍과 비판단적인 태도는 화자가 전달하는 대조를 경험함으로써 혜택을 얻을 수 있도록 돕는 중요한 요소입니다. 대조 후에는 발표자가 귀하가 강조한 불일치를 탐색하는 동안 성찰적인 응답으로 돌아갑니다. 두 개 이상의 대조를 연속해서 시작해서는 안됩니다. 대조는 사람들이 흔히 방어적인 민감한 영역에만 적합하기 때문에 듣는 사람은 대조를 거의, 조심스럽게, 능숙하게 사용해야 합니다.",
+              "py": ""
+            },
+            {
+              "zh": "There are many times when the skills of reflective listening can be used. Here are some of them. Before You Act A simple paraphrase is one of the most efficient tools you can use for an accuracy check before acting on a task. In some organizations, teams schedule time at the end of meetings so people can paraphrase the action steps they are expected to take or are responsible for as a result of the meeting. This use of paraphrasing can greatly improve a team's results, in their meetings and beyond. Before You Argue or Criticize Many arguments could be avoided if people really understood what the other person was saying. How often have you heard someone say during a heated argument, \"That's what I was trying to say all along\"? People sometimes argue because they don't realize they are both on the same side of the issue. Even when someone's opinion is different from mine, I may un---",
+              "kr": "반성적 경청 기술을 사용할 수 있는 경우가 많이 있습니다. 다음은 그 중 일부입니다. 행동하기 전에 간단한 표현은 작업을 수행하기 전에 정확성을 확인하는 데 사용할 수 있는 가장 효율적인 도구 중 하나입니다. 일부 조직에서는 팀이 회의가 끝날 때 시간을 정하여 사람들이 회의 결과로 수행해야 하거나 책임을 져야 하는 조치 단계를 설명할 수 있도록 합니다. 이러한 의역을 사용하면 회의 및 그 이상에서 팀의 결과를 크게 향상시킬 수 있습니다. 논쟁하거나 비판하기 전에 상대방이 말하는 내용을 사람들이 정말로 이해한다면 많은 논쟁을 피할 수 있습니다. 열띤 논쟁 중에 누군가가 \"내가 항상 말하려고 했던 게 바로 그거야\"라고 말하는 것을 얼마나 자주 들어보셨나요? 사람들은 때때로 그들이 둘 다 문제에 대해 같은 편에 있다는 것을 깨닫지 못하기 때문에 논쟁을 벌입니다. 누군가의 의견이 나와 다를지라도 나는 ---",
+              "py": ""
+            },
+            {
+              "zh": "derstand or learn from the disagreement when, by reflective listening, I discover how that person arrived at that position. More detail on this is in Chapter 12 on conflict. When the Other Person Experiences Strong Feelings or Wants to Talk Over a Problem When another person is very excited, enthusiastic, or joyful, reflect those emotions. And when a person is confused, angry, or edgy, listening can help defuse the intensity of those feelings. When colleagues or friends come to me with a problem, reflective listening can help them arrive at solutions to the challenges they're working through.",
+              "kr": "반성적인 경청을 통해 그 사람이 어떻게 그 위치에 도달했는지 발견하면 불일치를 이해하거나 배울 수 있습니다. 이에 대한 자세한 내용은 갈등에 관한 12장에 나와 있습니다. 상대방이 강한 감정을 느끼고 있거나 문제에 대해 이야기하고 싶을 때 상대방이 매우 신나거나 열정적이거나 즐거울 때 그러한 감정을 반영하십시오. 그리고 사람이 혼란스럽거나 화를 내거나 초조해할 때, 귀를 기울이면 그러한 감정의 강도를 완화하는 데 도움이 될 수 있습니다. 동료나 친구가 문제를 가지고 나에게 왔을 때, 반성적인 경청은 그들이 겪고 있는 문제에 대한 해결책을 찾는 데 도움이 될 수 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "When the Other Person Is Speaking in a \"Code\" When you guess that the other is communicating in code, it indicates that there are issues or feelings that are hard to express. The best way to help the person verbalize these feelings is to actively listen. Reflective listening can help at these times to decode the message and uncover what the speaker is struggling to say. When You Have an Equally Strong Need In many situations where listening is appropriate, the focus of attention is on the speaker. When you have an equally strong need, both parties' needs become the focus of the dialogue. While both of you will take turns speaking, it's important not to leave reflective listening behind. Restate the other person's point of view before stating or restating your own. This helps keep the conversation balanced and constructive, which is especially important when talking about matters of great importance to one or both parties or when conflict is involved. When You Are Talking to Yourself We talk to ourselves all the time. The irony is that we rarely listen to the thoughts and concerns we voice to ourselves. Instead, we put ourselves down: \"You'll never be able to do it\" Or perhaps we moralize: \"Stop feeling sorry for yourself and get back on the horse.\" As an alternative, try reflecting the content and especially the feelings of ---",
+              "kr": "상대방이 \"코드\"로 말하고 있을 때 상대방이 코드로 의사소통하고 있다고 추측한다면 표현하기 어려운 문제나 감정이 있음을 나타냅니다. 그 사람이 이러한 감정을 말로 표현할 수 있도록 돕는 가장 좋은 방법은 적극적으로 듣는 것입니다. 반사적 경청은 이 때 메시지를 해독하고 화자가 말하려고 애쓰는 내용을 알아내는 데 도움이 될 수 있습니다. 똑같이 강한 욕구가 있을 때 경청이 적절한 많은 상황에서 관심의 초점은 말하는 사람에게 있습니다. 똑같이 강력한 요구 사항이 있는 경우 양측의 요구 사항이 대화의 초점이 됩니다. 두 사람이 번갈아 가며 말하는 동안, 반성적인 청취를 소홀히 하지 않는 것이 중요합니다. 자신의 관점을 말하거나 다시 말하기 전에 다른 사람의 관점을 다시 말하십시오. 이는 대화를 균형있고 건설적으로 유지하는 데 도움이 되며, 이는 한쪽 또는 양쪽 모두에게 매우 중요한 문제에 대해 이야기하거나 갈등이 관련될 때 특히 중요합니다. 혼잣말을 할 때 우리는 항상 우리 자신과 대화합니다. 아이러니한 점은 우리가 스스로에게 말하는 생각과 걱정에 거의 귀를 기울이지 않는다는 것입니다. 대신에 우리는 스스로를 내려놓습니다. \"넌 절대 할 수 없을 거야.\" 아니면 \"스스로 불쌍해하지 말고 다시 말을 타라.\"라고 도덕적으로 생각할 수도 있습니다. 대안으로 내용, 특히 ---의 감정을 반영해 보십시오.",
+              "py": ""
+            },
+            {
+              "zh": "your inner monologue: \"You're feeling anxious about the presentation you need to make next week\" You can summarize and psychologically attend to yourself during lulls and silences. It is amazing how helpful it can be to listen reflectively to yourself.",
+              "kr": "내면의 독백: \"다음 주에 해야 할 발표가 불안해요.\" 소강상태와 침묵 중에 요약하고 심리적으로 자신에게 주의를 기울일 수 있습니다. 자신의 말을 반성적으로 듣는 것이 얼마나 도움이 될 수 있는지 놀랍습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Some people ruin a good thing by using it at the wrong time. This is particularly true about reflective listening. When there is no specific reason for reflective listening-when people are casually recounting stories about their inauthentic if you try \"over listening\" in this way. weekend, for instance-don't do it. Not only is it unnecessary, but it can feel When You Are Not Able to Be Accepting When you listen refectively, others tend to let their guard down. They become more vulnerable to you. If you become moralistic or judgmental or in some way demonstrate nonacceptance, they could be more hurt than f you had responded judgmentally right from the start. If you feel you must zap someone with your judgments, do it without seeming to be in a helping mode. When You Do Not Trust the Other to Find a Solution One of the basic theories underlying reflective listening is that the other person is usually the best one to solve the problem that confronts them. Active listening can facilitate this process. There are several reasons why each person should retain the responsibility for solving their own problems:",
+              "kr": "어떤 사람들은 잘못된 시간에 좋은 것을 사용하여 좋은 것을 망치기도 합니다. 이는 반사적 경청에 있어서 특히 그렇습니다. 성찰적 경청에 대한 특별한 이유가 없을 때, 이런 식으로 \"과도하게 듣기\"를 시도하면 사람들이 자신의 진실하지 못한 이야기를 무심코 이야기할 때입니다. 예를 들어 주말에는 하지 마세요. 그것은 불필요할 뿐만 아니라 당신이 받아들일 수 없을 때 느낄 수 있습니다. 당신이 반성적으로 들을 때, 다른 사람들은 그들의 경계를 늦추는 경향이 있습니다. 그들은 당신에게 더욱 취약해집니다. 당신이 도덕적이거나 비판적이 되거나 어떤 식으로든 수용하지 않는 태도를 보인다면, 처음부터 비판적으로 대응했다면 그들은 더 큰 상처를 받을 수 있습니다. 당신의 판단으로 누군가를 공격해야 한다고 생각한다면, 도움을 주는 태도를 취하지 말고 그렇게 하십시오. 해결책을 찾기 위해 상대방을 신뢰하지 않는 경우 반성적 경청의 기초가 되는 기본 이론 중 하나는 일반적으로 상대방이 직면한 문제를 해결하는 데 가장 좋은 사람이라는 것입니다. 적극적인 경청은 이 과정을 촉진할 수 있습니다. 각 사람이 자신의 문제를 해결하기 위한 책임을 져야 하는 데에는 몇 가지 이유가 있습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Some people don't buy this theory. Parents, teachers, supervisors, and others often think their greater experience or intelligence should determine the solution. Sometimes people agree in the top of their minds with the theory that the person with a problem is in the best position to solve it. In practice, however, they look on their solution as better than anything the other could possibly imagine, so they push their solution. When I am tempted to impose my solutions on the person with the problem, I try to recall these words of psychologist Clark Moustakas: Ultimately, I cannot be responsible for another person. I can only participate in his life, no matter what that participation may come to mean to him. But, in the end, he discovers his own meanings, his own resources, his own nature, his own being.* When You Are Not \"Separate\" from the Other The good listener is able to get inside the other person's experience and yet remain separate. A high school sophomore told her father about a bully who constantly made fun of her at lunch, humiliating her in front of her friends and others. To the daughter's horror, the father threatened to confront the bully himself. He allowed himself to get overinvolved. He took over the problem. A mother listened as her teenage daughter said she was pregnant. The mother sobbed and said, \"How could you do this to us?\" These \"listeners\" were not able to keep a healthy distance in the listening relationship. They were emotionally triggered by the other person's disclosure, which made it impossible for them to listen effectively.",
+              "kr": "어떤 사람들은 이 이론을 믿지 않습니다. 부모, 교사, 감독자 및 기타 사람들은 종종 자신의 더 많은 경험이나 지능이 해결책을 결정해야 한다고 생각합니다. 때때로 사람들은 문제가 있는 사람이 문제를 해결할 수 있는 가장 좋은 위치에 있다는 이론에 마음속으로 동의합니다. 그러나 실제로 그들은 자신의 솔루션이 다른 사람이 상상할 수 있는 그 어떤 것보다 낫다고 생각하여 솔루션을 추진합니다. 문제가 있는 사람에게 내 해결책을 강요하고 싶을 때 나는 심리학자 Clark Moustakas의 다음 말을 떠올리려고 노력합니다. 궁극적으로 나는 다른 사람에 대해 책임을 질 수 없습니다. 그 참여가 그에게 어떤 의미가 되든 상관없이 나는 그의 삶에만 참여할 수 있습니다. 그러나 결국 그는 자신의 의미, 자신의 자원, 자신의 본성, 자신의 존재를 발견합니다.* 당신이 다른 사람과 \"분리\"되지 않을 때 좋은 경청자는 다른 사람의 경험 속으로 들어가면서도 분리된 상태를 유지할 수 있습니다. 고등학교 2학년 학생은 점심 시간에 끊임없이 자신을 놀리고 친구들과 다른 사람들 앞에서 자신을 모욕하는 불량배에 대해 아버지에게 말했습니다. 딸은 놀랍게도 아버지는 그 괴롭힘에 직접 맞서겠다고 위협했습니다. 그는 자신이 지나치게 관여하도록 허용했습니다. 그는 문제를 맡았습니다. 한 어머니는 십대 딸이 임신했다고 말하는 것을 들었습니다. 어머니는 흐느끼며 “네가 어떻게 우리에게 이럴 수가 있어?”라고 말했습니다. 이들 '청취자들'은 청취관계에서 건전한 거리를 유지할 수 없었다. 그들은 상대방의 폭로로 인해 감정적으로 촉발되었고, 이로 인해 효과적으로 듣는 것이 불가능해졌습니다.",
+              "py": ""
+            },
+            {
+              "zh": "When You Use Listening as a Way of Hiding Yourself Some people consistently fall into the listener's role and rarely disclose. They use listening as a way of learning about others without sharing of themselves. Intentionally or not, this use of listening is manipulative; it invites a degree of vulnerability on the part of the speaker without being vulnerable yourself. This kind of cowardly listening has no place in a genuine relationship.",
+              "kr": "듣기를 자신을 숨기는 방법으로 사용할 때 어떤 사람들은 지속적으로 듣는 사람의 역할에 빠져 거의 공개하지 않습니다. 그들은 자신을 공유하지 않고 다른 사람에 대해 배우는 방법으로 듣기를 사용합니다. 의도적이든 아니든 이러한 듣기 사용은 조작적입니다. 그것은 자신이 취약해지지 않으면서도 화자 입장에서 어느 정도 취약성을 불러일으킵니다. 이런 종류의 비겁한 경청은 진정한 관계에서는 있을 수 없습니다.",
+              "py": ""
+            },
+            {
+              "zh": "When You Feel Pressured, Hassled, or Depleted It is important to be able to recognize those times when you may not be the best person to listen to a particular person. Maybe your inner self is ---",
+              "kr": "압박감이 느껴지거나, 고민이 많거나, 지쳤을 때 자신이 특정 사람의 말을 듣기에 가장 적합한 사람이 아닐 수 있는 때를 인식할 수 있는 것이 중요합니다. 어쩌면 당신의 내면은 ---",
+              "py": ""
+            },
+            {
+              "zh": "of balance so that you can't be a good listener to anyone at the present time There will be times when each of us will not be inwardly ready to listen. If the other feels they have no one else to talk to, that is really unfortunate. But if I try to listen when I am not able to truly attend to that person, I will likely do more harm than good. There is no reason why you have to actively listen to anyone. As much as I love my wife and want to be present for her as a listener, there are times when I am unwilling or unable to be an empathic listener. If she starts a heavy conversation at one of those times, I tell her that I am not prepared to listen well in that moment.",
+              "kr": "현재로서는 누구의 말도 잘 들을 수 없도록 균형을 유지해야 합니다. 우리 각자가 내적으로 들을 준비가 되어 있지 않은 때가 있을 것입니다. 상대방이 대화할 사람이 없다고 느낀다면 그것은 정말 불행한 일입니다. 하지만 내가 그 사람에게 진심으로 관심을 기울일 수 없는 상황에서 들어주려고 한다면 득보다 실이 더 많을 것입니다. 누군가의 말을 적극적으로 들어야 할 이유가 없습니다. 나는 아내를 사랑하고 경청자로서 아내를 위해 옆에 있어 주고 싶어도, 공감하는 경청자가 될 의향이 없거나 그럴 수 없는 경우가 있습니다. 만약 그녀가 그런 순간에 무거운 대화를 시작한다면 나는 그 순간에는 잘 들을 준비가 되어 있지 않다고 말한다.",
+              "py": ""
+            },
+            {
+              "zh": "The good news is that sometimes listening is a beautiful experience. The bad news is that it can be a burden. If you have made a disciplined attempt to use the skills described in previous chapters, you know something about the work involved in listening to others in this way. Listening is never easy. It means overcoming the habitual tendency to roadblock. It requires a certain maturity, a certain self-transcendence, an openness to understand values and points of view very different from our own. When we really listen, our own ideas and values are sometimes altered. To listen well means to be vulnerable. If you listen empathically, your heart will certainly (at times) be wrung. Though effective listeners maintain some emotional distance from a speaker's pain, they are not insulated from experiencing some of the hurt that is burdening the other. Listening should not be entered into halfheartedly or carelessly. Therapist George Gazda pointed out that it is more respectful of the person with the problem or need if the listener weighs carefully the decision to help. And if you don't think you can help, it's best not to listen. Such efforts are likely to disappoint the speaker and listener alike.",
+              "kr": "좋은 소식은 듣는 것이 때로는 아름다운 경험이라는 것입니다. 나쁜 소식은 부담이 될 수 있다는 것입니다. 이전 장에서 설명된 기술을 사용하기 위해 훈련된 시도를 했다면 이러한 방식으로 다른 사람의 말을 듣는 것과 관련된 작업에 대해 어느 정도 알고 있을 것입니다. 듣는 것은 결코 쉬운 일이 아닙니다. 이는 장애물을 막는 습관적인 경향을 극복하는 것을 의미합니다. 그것은 우리 자신과 매우 다른 가치관과 관점을 이해하기 위한 어느 정도의 성숙함, 어느 정도의 자기 초월, 개방성을 요구합니다. 우리가 정말로 들을 때 우리 자신의 생각과 가치관이 때때로 바뀌기도 합니다. 잘 듣는다는 것은 취약하다는 것을 의미합니다. 공감하는 마음으로 듣는다면, 당신의 마음은 분명히 (때때로) 괴로워질 것입니다. 효과적인 청취자는 화자의 고통으로부터 어느 정도 감정적 거리를 유지하지만, 상대방에게 부담을 주는 상처를 경험하는 것으로부터 자유롭지는 않습니다. 경청은 마지못해 또는 부주의하게 시작되어서는 안 됩니다. 치료사인 조지 가즈다(George Gazda)는 듣는 사람이 도움을 주기로 한 결정을 신중하게 고려한다면 문제나 도움이 필요한 사람을 더 존중하는 것이라고 지적했습니다. 그리고 당신이 도울 수 없다고 생각한다면 듣지 않는 것이 가장 좋습니다. 그러한 노력은 말하는 사람과 듣는 사람 모두를 실망시킬 가능성이 높습니다.",
+              "py": ""
+            },
+            {
+              "zh": "Reflective listening benefits from these guidelines:",
+              "kr": "반사적 청취는 다음 지침의 이점을 제공합니다.",
+              "py": ""
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "zh": "Rule-governed behavior",
+          "py": "규칙 지배적 행동",
+          "pos": "명사",
+          "kr": "모든 인간 소통은 고도로 구조화된 규칙의 지배를 받는다는 언어학 이론",
+          "level": "⭐ Bolton Ch 5",
+          "note": "Bandler & Grinder 주장"
+        },
+        {
+          "zh": "Presenting Problem vs Basic Problem",
+          "py": "표면적 문제 vs 근본 문제",
+          "pos": "명사",
+          "kr": "취약한 근본 문제를 숨기고 덜 중요한 표면 문제로 상대를 떠보는 인간 소통의 특이성",
+          "level": "⭐ Bolton Ch 5",
+          "note": "Beating around the bush"
+        },
+        {
+          "zh": "125 wpm vs 4x Brain Speed",
+          "py": "말하기 속도 vs 뇌 처리 속도",
+          "pos": "통계",
+          "kr": "평균 말하기 속도(125wpm)보다 뇌 사고 속도가 4배 빨라 주의가 쉽게 산만해지는 원인",
+          "level": "⭐ Bolton Ch 5",
+          "note": "Mental vacation"
+        },
+        {
+          "zh": "Ray Birdwhistell 35% vs 65%",
+          "py": "단어 vs 신체 언어",
+          "pos": "통계",
+          "kr": "대면 대화에서 단어가 전달하는 의미는 35% 이하, 65% 이상은 신체 언어에서 발생",
+          "level": "⭐ Bolton Ch 6",
+          "note": "Body language dominance"
+        },
+        {
+          "zh": "Albert Mehrabian 7% vs 93%",
+          "py": "메시지 영향력 비중",
+          "pos": "통계",
+          "kr": "메시지 영향력 중 언어적 요소는 단 7%, 나머지 93%는 비언어적 요소(음성 38% + 표정 55%)",
+          "level": "⭐ Bolton Ch 6",
+          "note": "Impact of communication"
+        },
+        {
+          "zh": "Leakage of masked feelings",
+          "py": "감정의 누출",
+          "pos": "명사",
+          "kr": "감정을 아무리 숨기려 해도 미세한 얼굴 표정과 신체 언어로 배어나오는 현상",
+          "level": "⭐ Bolton Ch 6",
+          "note": "Paul Ekman & Wallace Friesen"
+        },
+        {
+          "zh": "Paralanguage",
+          "py": "준언어 / 음성적 단서",
+          "pos": "명사",
+          "kr": "음조, 말의 속도, 음량, 끊김 등 말이 전달되는 음성적 방식의 신호",
+          "level": "⭐ Bolton Ch 6",
+          "note": "Len Sperry 매칭"
+        },
+        {
+          "zh": "Contrasting Technique",
+          "py": "대조하기 기법",
+          "pos": "기법",
+          "kr": "On the one hand..., on the other hand... 포맷으로 상대의 불일치를 1회만 직면시키는 기술",
+          "level": "⭐ Bolton Ch 7",
+          "note": "Additive response"
+        }
+      ],
+      "qa": [
+        {
+          "id": "adv-q1",
+          "num": 1,
+          "question": "[Q1] According to Chapter 5, which of the following accurately describes the Four Stages of Skill Development when learning reflective listening?",
+          "options": [
+            "Curiosity $\\rightarrow$ Intellectual mastery $\\rightarrow$ Emotional detachment $\\rightarrow$ Unstructured spontaneity",
+            "Feeling guilty about past roadblocks $\\rightarrow$ Feeling wooden, artificial, and phony $\\rightarrow$ Feeling skillful $\\rightarrow$ Becoming integrated and virtually automatic",
+            "Skepticism $\\rightarrow$ Parroting exact words $\\rightarrow$ Advising and coaching $\\rightarrow$ Autonomous problem-solving",
+            "Passive silence $\\rightarrow$ Mechanical questioning $\\rightarrow$ Sympathetic agreement $\\rightarrow$ Natural leadership"
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "기술 습득 4단계: 죄책감(`Guilty`) $\\rightarrow$ 어색함·가식성(`Wooden, artificial, phony`) $\\rightarrow$ 능숙함(`Skillful`) $\\rightarrow$ 통합 및 자동화(`Integrated & virtually automatic`)."
+        },
+        {
+          "id": "adv-q2",
+          "num": 2,
+          "question": "[Q2] How do Richard Bandler and John Grinder respond to the complaint that reflective listening is \"too structured and rule-governed\"?",
+          "options": [
+            "They argue that effective listeners must abandon all linguistic structures to achieve pure emotional spontaneity.",
+            "They state that only formal business negotiations require structure, whereas intimate conversations have no rules.",
+            "They point out that there is no such thing as unstructured communication; all human language and communication is highly structured, rule-governed behavior, and structure does not prevent individual style.",
+            "They suggest replacing structured reflective responses with open-ended interrogation to maintain conversational flow."
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "Bandler & Grinder: 구조화되지 않은 소통은 없으며 모든 언어 소통은 규칙 지배적 행동(`rule-governed behavior`)이다. 구조가 개인의 고유한 스타일(`Style`)을 막지 않는다."
+        },
+        {
+          "id": "adv-q3",
+          "num": 3,
+          "question": "[Q3] Which of the following correctly lists the Six Peculiarities of Human Communication (four speaker problems and two listener problems) identified in Chapter 5?",
+          "options": [
+            "(Speaker) Words have different meanings, coding messages, presenting vs. basic problems, blind to/blinded by emotions; (Listener) easily distracted, hearing through distorting filters.",
+            "(Speaker) Talking too fast, using monotone voice, interrupting, moralizing; (Listener) faking attention, giving premature advice.",
+            "(Speaker) Excessive self-disclosure, emotional leakage, incongruent posture, parroting; (Listener) dogmatic responses, over-listening.",
+            "(Speaker) Attention filters, emotional conditioning, rapid speech rate, cultural repression; (Listener) coding messages, beating around the bush."
+          ],
+          "answer": 1,
+          "answer_letter": "A",
+          "explanation": "인간 소통의 6대 특이성: 화자 문제 4가지(단어의 다의성, 암호화, 표면 문제 vs 근본 문제, 감정에 무지하거나 잠식됨) + 청자 문제 2가지(쉽게 산만해짐, 필터에 의한 왜곡)."
+        },
+        {
+          "id": "adv-q4",
+          "num": 4,
+          "question": "[Q4] What does Robert Bolton mean by the peculiarity that \"The Presenting Problem May Not Be the Major Concern\"?",
+          "options": [
+            "Speakers always state their most vulnerable, core problem in the very first sentence of a conversation.",
+            "Speakers often \"beat around the bush\" and begin with a minor, surface-level presenting problem to test the water before trusting the listener with their deeper, underlying basic problem.",
+            "Listeners should immediately solve the presenting problem with factual advice so that the underlying problem disappears on its own.",
+            "Presenting problems are imaginary complaints fabricated to manipulate the listener into taking action."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "사람들은 가장 취약한 근본 문제(`Basic problem`)를 바로 말하기 두려워 표면적 문제(`Presenting problem`)로 변죽을 울리며(`beating around the bush`) 상대를 떠본다(`test the water`)."
+        },
+        {
+          "id": "adv-q5",
+          "num": 5,
+          "question": "[Q5] According to Chapter 5, what happens when a person who is \"blinded by strong emotions\" (such as intense anger) is allowed to verbalize those feelings to an empathic listener?",
+          "options": [
+            "Verbalizing strong anger inevitably escalates the emotion and makes violent action much more likely.",
+            "The process of talking on a feeling level to an empathic listener drains off much of the excess emotion, diminishing the likelihood of acting irrationally and helping the speaker return to rational abilities.",
+            "The listener becomes emotionally consumed and loses the ability to remain separate from the speaker.",
+            "The speaker's emotional filters become permanently reinforced through Pavlovian conditioning."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "강한 감정에 사로잡힌 사람도 공감적 청자에게 감정을 말로 표현하면 과잉 감정이 배출(`drains off much of the excess emotion`)되어 비이성적 행동 가능성이 줄어들고 이성을 되찾는다."
+        },
+        {
+          "id": "adv-q6",
+          "num": 6,
+          "question": "[Q6] Why do listeners frequently take \"mental vacations\" and become easily distracted during conversations?",
+          "options": [
+            "Because the average person speaks at 500 words per minute while the human brain can only process 125 words per minute.",
+            "Because the average rate of speech is about 125 words per minute, whereas the human ear and brain can process words about four times that fast, leaving spare mental capacity.",
+            "Because 93% of verbal information is filtered out by Gregory Razran's emotional conditioning mechanism.",
+            "Because listeners focus exclusively on facial expressions and ignore the auditory channel."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "평균 말하기 속도(분당 125단어)보다 뇌의 처리 속도(약 4배)가 훨씬 빨라 남는 정신 에너지로 딴생각(`mental vacation`)을 하게 된다."
+        },
+        {
+          "id": "adv-q7",
+          "num": 7,
+          "question": "[Q7] In Chapter 6, what were the findings of Ray Birdwhistell and Albert Mehrabian regarding the proportion of nonverbal communication?",
+          "options": [
+            "Birdwhistell found that 75% of meaning is verbal, while Mehrabian found that 45% of impact is nonverbal.",
+            "Birdwhistell estimated that no more than 35% of meaning derives from words (65%+ from body language), and Mehrabian stated that only 7% of the impact is verbal while 93% is nonverbal.",
+            "Both researchers concluded that words and body language contribute an exact 50-50 split in emotional communication.",
+            "Birdwhistell proved that vocal tone accounts for 85% of factual communication, while Mehrabian showed words account for 55%."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "Birdwhistell(단어 35% 이하 vs 신체 언어 65% 이상), Mehrabian(언어 7% vs 비언어 93%)."
+        },
+        {
+          "id": "adv-q8",
+          "num": 8,
+          "question": "[Q8] According to Paul Ekman and Wallace Friesen (and Sigmund Freud), what is the \"Leakage\" of Masked Feelings?",
+          "options": [
+            "The deliberate use of verbal self-disclosure to reveal one's deepest secrets to a counselor.",
+            "The phenomenon where repressed or consciously concealed emotions involuntarily seep through a person's nonverbal behavior (such as micro-facial expressions, posture, or muscular tension).",
+            "The gradual loss of memory that occurs when a listener fails to paraphrase a speaker's factual statements.",
+            "The tendency of a listener to cry along with a grieving speaker due to a lack of emotional separateness."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "Ekman & Friesen, Freud: 감정을 숨기려 해도 미세한 표정과 신체 언어로 새어 나오는 현상(`Leakage of masked feelings` / *\"Self-betrayal oozes from all our pores\"*)."
+        },
+        {
+          "id": "adv-q9",
+          "num": 9,
+          "question": "[Q9] According to Dr. Len Sperry's chart of Paralanguage in Chapter 6, which pairing of vocal characteristics and probable feeling/meaning is CORRECT?",
+          "options": [
+            "Monotone voice = Anger; Abrupt speech = Boredom; Slow speed, low pitch = Enthusiasm",
+            "Monotone voice = Boredom; Slow speed, low pitch = Depression; Abrupt speech = Defensiveness; Terse speed, loud tone = Anger; High pitch, drawn-out speech = Disbelief",
+            "Ascending tone = Depression; High voice, emphatic pitch = Defensiveness; Terse speed, loud tone = Astonishment",
+            "High pitch, drawn-out speech = Enthusiasm; Abrupt speech = Astonishment; Monotone voice = Disbelief"
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "Dr. Len Sperry의 Paralanguage 7대 매칭 완벽 일치."
+        },
+        {
+          "id": "adv-q10",
+          "num": 10,
+          "question": "[Q10] What does Bolton recommend under the guideline \"Note Discrepancies\" when a speaker's words conflict with their body language (e.g., laughing while recounting a tragic job loss, or \"laughing it off\")?",
+          "options": [
+            "Ignore the words completely because verbal language is always 100% meaningless.",
+            "Ignore the body language and laugh along with the speaker to keep the mood light.",
+            "Recognize that when there is a discrepancy between words and nonverbals, both messages are important, and search for the meanings in each channel of communication.",
+            "Immediately confront and accuse the speaker of lying and being manipulative."
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "말과 신체 언어가 불일치할 때(`laughing it off` 등)는 **양쪽 메시지 모두 중요하므로(`both messages are important`)** 두 채널의 의미를 모두 탐색해야 한다."
+        },
+        {
+          "id": "adv-q11",
+          "num": 11,
+          "question": "[Q11] In Chapter 7, why does Bolton warn listeners: Don't Tell the Speaker, \"I Know How You Feel\"?",
+          "options": [
+            "Because it is untrue (our reading of another's feelings is at best an approximation), it blocks the speaker's desire to share more, and the speaker will doubt that you truly understand.",
+            "Because saying \"I know how you feel\" is a form of Contrasting that requires three prior conditions.",
+            "Because listeners should never focus on feelings and should only paraphrase objective facts.",
+            "Because it forces the speaker to use high-intensity feeling words prematurely."
+          ],
+          "answer": 1,
+          "answer_letter": "A",
+          "explanation": "`\"I know how you feel\"`은 사실이 아닐뿐더러 상대가 더 말할 의욕을 꺾고 불신을 낳는다."
+        },
+        {
+          "id": "adv-q12",
+          "num": 12,
+          "question": "[Q12] Which of the following is one of the three ways to \"Strive for Concreteness and Relevance\" in Chapter 7 that many beginners find ironic?",
+          "options": [
+            "Using vague, abstract generalizations so the speaker does not feel cornered.",
+            "Interrupting rambling, long-winded talkers with reflective responses to help them stop talking in circles and focus on the point.",
+            "Asking a rapid series of ten closed-ended questions in succession.",
+            "Remaining completely silent for an hour without making any reflective responses."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "구체성을 높이는 3가지 방법 중 하나는 장황하게 횡설수설하는 화자(`rambling talkers`)를 반영적 응답으로 끊어주어(`interrupt with reflective responses`) 핵심에 집중하게 돕는 것이다."
+        },
+        {
+          "id": "adv-q13",
+          "num": 13,
+          "question": "[Q13] How should a reflective listener handle a situation where the speaker asks a direct question requesting advice (e.g., *\"What would you do if you were in my shoes?\"*)?",
+          "options": [
+            "Immediately abandon reflective listening and give a detailed lecture on what you did in the past.",
+            "Refuse to speak and walk out of the room to protect the speaker's autonomy.",
+            "Decode what the question really means and reflect back the implicit feeling or meaning behind the question (e.g., *\"This one's really got you stumped!\"*).",
+            "Answer the question with another closed question to shift the topic."
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "조언을 구하는 직접 질문에는 질문 이면에 숨겨진 감정/의미를 해독해 반영(`Reflect the feelings implicit in questions`)해야 한다."
+        },
+        {
+          "id": "adv-q14",
+          "num": 14,
+          "question": "[Q14] What is Contrasting (one of the six Additive Responses Beyond Reflective Listening), and what are its rules of use?",
+          "options": [
+            "Contrasting is arguing against the speaker's political opinions; it should be used at the very beginning of a conversation.",
+            "Contrasting calls attention to discrepancies in the speaker's behavior using the format *\"On the one hand, you say/feel/do X, and on the other hand, you say/feel/do Y\"*—it requires a firm base of trust, should never be used twice in succession, and must be followed by a return to reflective listening.",
+            "Contrasting is comparing the speaker's problems to the listener's worse problems to make the speaker feel better.",
+            "Contrasting is repeating the speaker's exact words in a monotone voice to highlight their grammatical errors."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "대조하기(`Contrasting`)는 `\"On the one hand..., on the other hand...\"` 포맷으로 불일치를 짚어주며, 확고한 신뢰 토대 위에서 단 1회만 쓰고(절대 2회 연속 금지) 즉시 반영적 경청으로 돌아가야 한다."
+        },
+        {
+          "id": "adv-q15",
+          "num": 15,
+          "question": "[Q15] According to Chapter 7, which of the following accurately describes When NOT to Listen Reflectively?",
+          "options": [
+            "When the speaker is speaking in a \"code,\" experiencing strong feelings, or before you act on a task.",
+            "When you are not able to be accepting, when you do not trust the other to find their own solution, when you are not emotionally \"separate\" from the other, when you use listening to hide yourself, or when you feel hassled/depleted (as well as during casual, everyday storytelling).",
+            "When you and the speaker have equally strong needs to talk or before you argue.",
+            "When you are talking to yourself in an inner monologue."
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "반영적 경청을 쓰지 말아야 할 5가지 상황(수용 불가, 상대의 해결 능력 불신, 감정적 미분리, 자기 은폐 수단으로 악용, 피로/고갈 상태 + 가벼운 일상 수다)."
+        }
+      ]
+    },
+    "prism3": {
+      "id": "prism3",
+      "name": "Prism Reading 3 (Architecture & Energy)",
+      "author": "Cambridge University Press",
+      "category": "대학영어 2 평화반 (김나나 교수님)",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Unit 5 Reading 1: We Need More Green Buildings",
+          "short_title": "U5 R1 친환경건축",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] In recent years, there has been a general trend for new buildings to be more environmentally friendly, or more \"green.\" Such a building is sometimes called an eco-building. These buildings use energy and water efficiently, which reduces waste and pollution. However, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear.",
+              "kr": "[친환경 건축의 등장과 기본 개념] 최근 몇 년 동안 새로운 건축물이 환경에 더 친화적이거나 더 '친환경적(green)'이 되도록 짓는 전반적인 추세가 이어져 왔습니다. 이러한 건물을 때때로 '생태 친화적 건물(eco-building)'이라고 부릅니다. 이 건물들은 에너지와 수자원을 효율적으로 사용하여 폐기물과 오염을 줄입니다. 그러나 태양광 패널이나 물 재활용 시스템과 같은 설비를 설치하는 것은 전통적인 건물보다 더 높은 시공 비용을 수반합니다. 이러한 추가 비용에도 불구하고 친환경 건축물은 지구에 유익하며 그 이점은 명백합니다.\n* **핵심 구문 및 어휘**:\n  * `environmentally friendly`: 환경 친화적인 (= green, eco-friendly)\n  * `involves`: 수반하다, 포함하다\n  * `traditional building`: 전통적인 (기존 방식의) 건물 (= conventional building)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Around the city of Taos, New Mexico, there are many homes, called Earthship houses, constructed from recycled bottles, tires, aluminum cans, and other trash. Often the cans, bottles, and tires are filled with soil and then the outsides are covered with natural mud. These homes are designed to use solar power—the energy from the sun—rather than electricity produced from fossil fuels. These recycled-construction designs are just as relevant for other types of buildings. In both Uruguay and Sierra Leone, for example, there are recycled-construction schools for local children. The green aspects of this kind of building are relatively inexpensive, and over the life of the building, they should provide a large return on the initial investment. They also function as valuable teaching aids when educating students about the environment.",
+              "kr": "[재활용 건축의 대표 사례: 어스쉽 하우스와 현지 학교] 미국 뉴멕시코주 타오스 시 주변에는 재활용된 유리병, 타이어, 알루미늄 캔 및 기타 쓰레기로 지어진 '어스쉽(Earthship)' 주택이라 불리는 집들이 많이 있습니다. 종종 캔, 병, 타이어는 흙으로 채워진 후 외벽이 천연 진흙으로 덮입니다. 이 집들은 화석 연료로 생산된 전기 대신 태양열 에너지(태양에서 오는 에너지)를 사용하도록 설계되었습니다. 이러한 재활용 건축 설계는 다른 유형의 건축물에도 똑같이 유용합니다. 예를 들어 우루과이와 시에라리온 모두에는 현지 아이들을 위한 재활용 건축 학교가 있습니다. 이러한 건물의 친환경적 요소는 비교적 저렴하며, 건물의 수명 기간에 걸쳐 초기 투자에 대한 막대한 수익을 제공할 것입니다. 또한 학생들에게 환경에 대해 교육할 때 소중한 교구 역할을 합니다.\n* **핵심 구문 및 어휘**:\n  * `Earthship houses`: 재활용 폐기물과 자연 소재로 지은 자급자족형 생태 주택\n  * `just as relevant for`: ~에도 똑같이 유의미한, 적절한\n  * `return on investment (ROI)`: 투자 대비 수익 (초기 비용 회수)\n  * `teaching aids`: 교육 보조 교재, 교구",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] Another example of an eco-building is a private residence in Wales known as the \"Hobbit House.\" Its frame is made of wood and the walls are made of straw, which provides excellent insulation. The roof consists of mud planted with grass which blends in with the surroundings and has a low impact on the environment. Solar panels provide electricity for lighting and electrical equipment. Water is supplied directly from a nearby river and is also collected from the roof for use in the garden, avoiding the need to waste clean water. Low-impact houses like this one are green because they use secondhand materials and do not rely on fossil fuels, but instead use renewable energy sources such as solar or wind power.",
+              "kr": "[저영향 생태 주택: 웨일스의 호빗 하우스] 친환경 건물의 또 다른 예는 '호빗 하우스(Hobbit House)'로 알려진 웨일스의 한 개인 주택입니다. 이 집의 뼈대는 목재로 만들어졌고 벽은 짚으로 만들어져 탁월한 단열 효과를 제공합니다. 지붕은 풀을 심은 진흙으로 이루어져 있어 주변 환경과 조화를 이루며 환경에 낮은 영향을 미칩니다. 태양광 패널은 조명과 전자기기에 전기를 공급합니다. 물은 인근 강에서 직접 공급받으며 정원에 사용하기 위해 지붕에서도 빗물을 모아 깨끗한 물의 낭비를 방지합니다. 이와 같은 저영향 주택은 중고 자재를 사용하고 화석 연료에 의존하지 않는 대신 태양광이나 풍력 같은 재생 가능 에너지를 사용하기 때문에 친환경적입니다.\n* **핵심 구문 및 어휘**:\n  * `insulation`: 단열, 방음\n  * `blends in with`: ~와 조화를 이루다, 자연스럽게 어우러지다\n  * `low-impact`: 환경에 미치는 악영향이 적은\n  * `secondhand materials`: 재사용 자재, 중고 자재",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Critics of these kinds of eco-buildings say that while they may be good for the environment, there are practical problems with their affordability. They are often too costly to become a large-volume method of construction. There are further concerns over their long-term efficiency. Not much energy can be realistically generated by solar panels in places that do not have large amounts of sunlight, and not every location has access to a natural water source. However, overall, green buildings are worth it. Yes, in order to incorporate environmentally friendly construction and produce an affordable building, compromises have to be made. These may be that the building will have to be smaller or made of less durable materials and with technology that uses more energy. Perhaps these compromises are easier to make for schools, where ideas about conservation are useful for education, or for businesses where ecologically aware features are a useful marketing tool, rather than for private homes.",
+              "kr": "[친환경 건축의 실질적 한계와 절충(Compromises)] 이러한 종류의 생태 건축물을 비판하는 사람들은 환경에는 좋을지 모르지만 경제적 가격 적정성(affordability)에 실질적인 문제가 있다고 말합니다. 대량 시공 방식이 되기에는 비용이 너무 많이 드는 경우가 많습니다. 또한 장기적인 효율성에 대한 추가적인 우려도 있습니다. 일조량이 많지 않은 지역에서는 태양광 패널로 현실적으로 많은 에너지를 생산할 수 없으며, 모든 장소가 천연 수원에 접근할 수 있는 것도 아닙니다. 그러나 전반적으로 볼 때 친환경 건축물은 그만한 가치가 있습니다. 그렇습니다, 친환경 건축을 도입하면서도 감당할 수 있는 가격의 건물을 짓기 위해서는 어쩔 수 없이 절충(타협)을 해야만 합니다. 이러한 타협은 건물의 규모가 더 작아져야 하거나, 내구성이 떨어지는 자재를 써야 하거나, 에너지를 더 많이 쓰는 기술을 사용해야 하는 것일 수도 있습니다. 아마도 이러한 절충안은 개인 주택보다는 환경 보존 개념이 교육에 유용한 학교나 생태적 인식이 유용한 마케팅 도구가 되는 기업에서 수용하기가 더 쉬울 것입니다.\n* **핵심 구문 및 어휘**:\n  * `affordability`: 감당할 수 있는 가격 적정성, 경제성\n  * `compromises have to be made`: 불가피하게 절충안을 찾아야 한다\n  * `less durable`: 덜 내구성이 있는, 수명이 짧은",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] The argument for constructing green buildings is clear. The United Nations Environment Programme estimates that the construction sector accounts for 30% of global energy use. In some areas, such as the Gulf States, the figure is closer to 50-60%. We need to reduce this energy use for the good of the planet. However, it remains to be seen whether we are able to accept the financial and practical compromises of producing and living in environmentally friendly buildings.",
+              "kr": "[결론: 건설 부문의 에너지 감축과 미래 과제] 친환경 건물을 지어야 한다는 주장은 명백합니다. 유엔환경계획(UNEP)은 건설 부문이 전 세계 에너지 소비의 30%를 차지한다고 추정합니다. 걸프 연안국과 같은 일부 지역에서는 그 수치가 50~60%에 육박합니다. 우리는 지구를 위해 이 에너지 소비를 줄여야 합니다. 그러나 우리가 친환경 건물을 짓고 그곳에서 살아가는 데 따르는 재정적·실질적 절충안을 받아들일 수 있을지는 여전히 지켜보아야 할 일입니다.\n* **핵심 구문 및 어휘**:\n  * `accounts for`: (비율을) 차지하다\n  * `remains to be seen`: 아직 미지수이다, 두고 볼 일이다",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Unit 5 Reading 2: Form, Function, or Both?",
+          "short_title": "U5 R2 형태와기능",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] At the start of the twentieth century, Louis Sullivan, one of the creators of modern architecture, said that \"form follows function.\" The term \"functionalism\" is used to describe the idea behind architecture that primarily focuses on the purpose of a building. However, many people disagree with this and feel that beauty is a more important factor in architectural design. In the modern world, it seems that most architects try to combine both ideas, aiming to create buildings that are both functional and inspiring in their beauty. This is often difficult to achieve, however. Since we create buildings to serve the needs in our lives, the importance of function should always be prioritized over form.",
+              "kr": "[기능주의와 미적 디자인의 대립] 20세기 초, 현대 건축의 창시자 중 한 명인 루이스 설리번은 \"형태는 기능을 따른다(form follows function)\"고 말했습니다. '기능주의'라는 용어는 건물의 목적에 일차적으로 초점을 맞추는 건축 이념을 설명하는 데 사용됩니다. 그러나 많은 사람들은 이에 동의하지 않으며 아름다움이 건축 디자인에서 더 중요한 요소라고 생각합니다. 현대 사회에서 대부분의 건축가는 두 가지 아이디어를 결합하여 기능적이면서도 아름다움으로 영감을 주는 건물을 창조하고자 합니다. 하지만 이를 달성하기는 어려운 경우가 많습니다. 우리는 삶의 필요를 충족하기 위해 건물을 짓기 때문에, 언제나 형태보다 기능의 중요성이 우선시되어야 합니다.\n* **핵심 구문 및 어휘**:\n  * `form follows function`: 형태는 기능을 따른다 (루이스 설리번의 명제)\n  * `functionalism`: 기능주의 (목적 최우선)\n  * `prioritized over`: ~보다 우선시되다",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Many people believe that architects have a wider responsibility to society than just designing functional buildings. Beautiful, well-constructed buildings are a symbol of a civilized society and they reflect well on a business or the reputation of the owner. Ugly public buildings, however, can project a negative image of the organization. People say that living or working in an ugly place creates a depressing and uninspiring environment. In contrast, an attractive building can make people feel happier and increase their motivation to work.",
+              "kr": "[형태(아름다움)의 가치를 옹호하는 입장] 많은 사람들은 건축가가 단순히 기능적인 건물을 설계하는 것 이상의 더 넓은 사회적 책임을 지고 있다고 믿습니다. 아름답고 잘 지어진 건물은 문명화된 사회의 상징이며, 기업이나 소유자의 명성을 드높여 줍니다. 그러나 흉물스러운 공공건물은 해당 기관에 부정적인 이미지를 투영할 수 있습니다. 사람들은 보기 흉한 장소에서 거주하거나 근무하는 것이 우울하고 영감을 주지 못하는 환경을 만든다고 말합니다. 반면에 매력적인 건물은 사람들을 더 행복하게 만들고 일에 대한 동기를 높여줄 수 있습니다.\n* **핵심 구문 및 어휘**:\n  * `reflect well on`: ~에 긍정적인 평가를 주다, 명성을 높이다\n  * `project a negative image`: 부정적인 이미지를 투영하다\n  * `In contrast`: 반면에, 대조적으로",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] While this may be true, the reason for creating a building in the first place—its use—is clearly very important. When building an airport terminal, for example, you need to think of the needs of passengers as well as planes. Passengers want to get to their plane as quickly as they can, and planes need to be parked in a way that maximizes their ease of use. As such, many airport terminals have a circular shape with satellite areas. Residential homes need to have enough space for a family, art galleries need wall space to show pictures, and factories need to produce goods as efficiently as possible. Each type of building has a different function, and, therefore, it has a different form.",
+              "kr": "[기능이 본질적으로 중요한 이유] 이 말이 사실일지라도, 애초에 건물을 짓는 이유인 '용도(use)'는 분명히 매우 중요합니다. 예를 들어 공항 터미널을 지을 때는 비행기뿐만 아니라 승객의 요구도 고려해야 합니다. 승객은 가능한 한 빨리 비행기에 도달하기를 원하고, 비행기는 이용 편의성을 극대화하는 방식으로 주기되어야 합니다. 따라서 많은 공항 터미널은 위성 구역이 딸린 원형 구조를 띱니다. 주거용 주택은 가족을 위한 충분한 공간이 필요하고, 미술관은 그림을 전시할 벽면 공간이 필요하며, 공장은 가능한 한 효율적으로 제품을 생산해야 합니다. 각 건물 유형은 저마다 다른 기능을 지니고 있으며, 따라서 서로 다른 형태를 갖게 됩니다.\n* **핵심 구문 및 어휘**:\n  * `in the first place`: 애초에, 우선\n  * `As such`: 따라서, 그러므로 (= Therefore)\n  * `ease of use`: 사용 편의성",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] In theory, there seems to be no reason why architecture cannot be both functional and beautiful. Yet in practice, this can cause problems. The Modern International style of the 1920s and 1930s, an example of which is the Guggenheim Museum in New York, was supposed to combine beauty with function. Many consider the museum's white spiral ramp beautiful, but there have been complaints that it is impractical, as it is difficult to stand back to view the art. Also, the ramp is so narrow that it can become overcrowded. The Farnsworth House by Ludwig Mies van der Rohe is another icon of beautiful design that demonstrates the idea that \"less is more.\" However, critics have attacked it for a lack of privacy because of the huge glass windows. It also has a leaky flat roof and has been repeatedly flooded. It seems that even these two celebrated designs have problems with functionality.",
+              "kr": "[형태와 기능의 충돌: 구겐하임 미술관과 판스워스 하우스] 이론상으로는 건축이 기능적이면서 동시에 아름답지 못할 이유가 없어 보입니다. 하지만 실제 현실에서는 이것이 문제를 일으킬 수 있습니다. 1920년대와 1930년대의 모던 인터내셔널 스타일(그 대표적인 예가 뉴욕의 구겐하임 미술관)은 아름다움과 기능을 결합하기로 되어 있었습니다. 많은 사람들이 미술관의 흰색 나선형 경사로를 아름답다고 생각하지만, 작품을 감상하기 위해 뒤로 물러서서 보기가 어렵기 때문에 비실용적이라는 불만이 제기되어 왔습니다. 게다가 경사로가 너무 좁아서 지나치게 붐빌 수 있습니다. 루트비히 미스 반 데어 로에가 설계한 판스워스 하우스는 \"적을수록 많다(단순한 것이 더 아름답다)\"라는 개념을 입증한 또 다른 아름다운 디자인의 상징입니다. 그러나 비평가들은 거대한 통유리창으로 인한 사생활 침해를 지적하며 이 건물을 공격해 왔습니다. 또한 평평한 지붕에서 물이 새고 반복적으로 침수되었습니다. 이 두 유명한 건축물조차 기능성 면에서 결함을 가지고 있는 것으로 보입니다.\n* **핵심 구문 및 어휘**:\n  * `spiral ramp`: 나선형 경사로 (구겐하임 미술관의 구조)\n  * `less is more`: 적을수록 풍요롭다 (미스 반 데어 로에의 미니멀리즘 철학)\n  * `leaky flat roof`: 물이 새는 평평한 지붕\n  * `celebrated designs`: 칭송받는, 유명한 디자인",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] If architects focus only on function, buildings may be cold, ugly, and uninteresting. There is no doubt that a building with a beautiful form is something we can all appreciate. However, functional needs must be addressed before visual ones. This issue of practicality is the most important feature of the buildings we live in, work in, and visit. Therefore, function must outweigh form when an architect plans a building.",
+              "kr": "[결론: 기능이 형태보다 우선되어야 한다] 만약 건축가가 오직 기능에만 초점을 맞춘다면, 건물은 차갑고 흉물스러우며 무미건조해질 수 있습니다. 아름다운 형태를 지닌 건물이 우리 모두가 감상할 수 있는 대상이라는 점에는 의심의 여지가 없습니다. 그러나 시각적 요구보다 기능적 요구가 먼저 해결되어야 합니다. 이 실용성의 문제는 우리가 거주하고, 일하고, 방문하는 건물의 가장 중요한 특징입니다. 그러므로 건축가가 건물을 설계할 때는 기능이 형태보다 무거워야(형태보다 우선해야) 합니다.\n* **핵심 구문 및 어휘**:\n  * `addressed`: (문제가) 다루어지다, 해결되다\n  * `practicality`: 실용성\n  * `outweigh`: ~보다 더 중대하다, 우선하다",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Unit 6 Reading 1: Alternative Energy Resources",
+          "short_title": "U6 R1 대체에너지",
+          "sentences": [
+            {
+              "zh": "[Section 1] Hydropower is created when moving water turns turbines to create electricity. The source of the moving water can be rivers, waterfalls, or the sea. Because flowing water continues to move, this creates an inexhaustible amount of energy that can be stored and used when the demand is highest. There are a few drawbacks, however. Water-powered turbines can have a negative environmental impact on aquatic wildlife and can endanger boats. Also, creating hydropower dams causes land behind the dams to permanently flood. Finally, it is expensive to set up hydropower systems—the average cost is between $1 million and $4 million.",
+              "kr": "[수력 발전 (Hydropower)] 수력 발전은 흐르는 물이 터빈을 돌려 전기를 생산할 때 발생합니다. 흐르는 물의 원천은 강, 폭포 또는 바다가 될 수 있습니다. 흐르는 물은 계속해서 움직이기 때문에, 에너지를 저장했다가 수요가 가장 높을 때 사용할 수 있는 무궁무진한(고갈되지 않는) 양의 에너지를 만들어냅니다. 그러나 몇 가지 단점이 있습니다. 수력 터빈은 수생 야생동물에 부정적인 환경적 영향을 미칠 수 있으며 선박을 위험에 빠뜨릴 수 있습니다. 또한 수력 댐을 건설하면 댐 뒤편의 토지가 영구적으로 침수됩니다. 마지막으로 수력 발전 시스템을 구축하는 데 비용이 많이 듭니다(평균 비용은 100만 달러에서 400만 달러 사이입니다).\n* **핵심 구문 및 어휘**:\n  * `inexhaustible`: 고갈되지 않는, 무궁무진한\n  * `aquatic wildlife`: 수생 생물\n  * `permanently flood`: 영구적으로 수몰시키다",
+              "py": ""
+            },
+            {
+              "zh": "[Section 2] To create wind power, large turbines are placed on top of hills or offshore. The wind turns the blades, which generate energy. Wind turbines can be utilized on a large scale or on a small scale. Unlike hydropower, this process is relatively cheap and is considered one of the most affordable forms of electricity today. Also, it does not harm the air or land it uses. However, many people consider wind turbines ugly and noisy. Also, they rely on the wind, so if it is not windy, no energy is produced. Finally, like hydropower, wind turbines can be a threat to wildlife such as local birds.",
+              "kr": "[풍력 발전 (Wind Power)] 풍력을 생산하기 위해 거대한 터빈을 언덕 위나 해안가(해상)에 배치합니다. 바람이 날개를 회전시키며 에너지를 생산합니다. 풍력 터빈은 대규모 또는 소규모로 활용될 수 있습니다. 수력 발전과 달리 이 과정은 비교적 저렴하며 오늘날 가장 경제적인 전기 생산 방식 중 하나로 꼽힙니다. 또한 사용하는 공기나 토지를 훼손하지 않습니다. 그러나 많은 사람들은 풍력 터빈이 흉물스럽고 소음이 심하다고 생각합니다. 게다가 바람에 의존하기 때문에 바람이 불지 않으면 에너지가 생산되지 않습니다. 마지막으로 수력 발전과 마찬가지로 풍력 터빈은 지역 조류와 같은 야생동물에게 위협이 될 수 있습니다.\n* **핵심 구문 및 어휘**:\n  * `offshore`: 앞바다의, 해상의\n  * `affordable`: 가격이 알맞은, 경제적인\n  * `blades`: 터빈 날개",
+              "py": ""
+            },
+            {
+              "zh": "[Section 3] To use solar energy, solar panels absorb sunlight and, using devices called photovoltaic cells, turn it into electricity. The sun produces energy constantly, which makes solar energy an inexhaustible resource. Another benefit is that it generates no pollution. Solar energy can be adapted to work on a variety of buildings and in a variety of environments. However, a large area of land is needed to produce a large amount of solar power. Scientists have determined that if we wanted to try to power the entire Earth with renewable solar power, we would need to cover a land area about the size of Spain with solar panels. In places with less sunlight, solar power generation has limitations. Also, photovoltaic cells are fragile and can be easily damaged.",
+              "kr": "[태양광 발전 (Solar Energy)] 태양 에너지를 사용하기 위해 태양광 패널은 햇빛을 흡수하고, '광전지(태양 전지)'라 불리는 장치를 사용하여 이를 전기로 변환합니다. 태양은 에너지를 끊임없이 생산하므로 태양 에너지는 무궁무진한 자원이 됩니다. 또 다른 이점은 오염을 전혀 발생시키지 않는다는 것입니다. 태양 에너지는 다양한 건물과 환경에서 작동하도록 맞춤 적용될 수 있습니다. 그러나 많은 양의 태양광 전력을 생산하려면 넓은 면적의 토지가 필요합니다. 과학자들은 재생 가능한 태양광 에너지로 지구 전체에 전력을 공급하려면 스페인 크기만 한 면적의 토지를 태양광 패널로 덮어야 한다고 밝혔습니다. 일조량이 적은 지역에서는 태양광 발전에 한계가 있습니다. 또한 광전지는 깨지기 쉬워 손상되기 쉽습니다.\n* **핵심 구문 및 어휘**:\n  * `photovoltaic cells`: 광전지, 태양 전지\n  * `inexhaustible resource`: 무한한 자원\n  * `fragile`: 깨지기 쉬운, 취약한",
+              "py": ""
+            },
+            {
+              "zh": "[Section 4] Biomass is a biologically produced fuel made from plant and animal material, which is mostly composed of carbon, hydrogen, and oxygen. It is the oldest source of renewable energy, used since humans first started burning wood for fire. Today, steam from burning biomass—made up of trash and other organic waste, rather than wood—turns turbines, generating electricity. Biomass can re-grow over a relatively short period of time compared to the hundreds of millions of years that it takes for fossil fuels to form. It is also an efficient way to generate power, and it is universal. Another benefit is that it reduces the need to bury garbage under the ground in a landfill. However, some people are concerned that burning biomass contributes to global warming because it produces greenhouse gases. Also, using biomass to generate energy on a large scale can be expensive.",
+              "kr": "[바이오매스 에너지 (Biomass)] 바이오매스는 주로 탄소, 수소, 산소로 구성된 동식물 유기물로 만든 생물학적 연료입니다. 이것은 인류가 불을 피우기 위해 나무를 태우기 시작한 이래로 사용되어 온 가장 오래된 재생 에너지원입니다. 오늘날에는 목재 대신 쓰레기와 기타 유기 폐기물로 구성된 바이오매스를 태울 때 발생하는 증기로 터빈을 돌려 전기를 생산합니다. 바이오매스는 화석 연료가 형성되는 데 수억 년이 걸리는 것에 비해 비교적 짧은 기간 내에 다시 자라납니다. 또한 효율적인 발전 방식이며 어디서나 이용할 수 있습니다. 또 다른 이점은 쓰레기를 매립지에 묻어야 할 필요성을 줄여준다는 것입니다. 그러나 일부 사람들은 바이오매스를 연소할 때 온실가스가 발생하기 때문에 지구 온난화를 심화시킬 수 있다고 우려합니다. 또한 대규모로 바이오매스 에너지를 생산하는 데는 많은 비용이 들 수 있습니다.\n* **핵심 구문 및 어휘**:\n  * `organic waste`: 유기 폐기물\n  * `landfill`: 쓰레기 매립지\n  * `greenhouse gases`: 온실가스",
+              "py": ""
+            },
+            {
+              "zh": "[Section 5] With geothermal energy, heat that is trapped in the ground can be converted into steam to turn turbines. The power it generates can then be used to produce electricity and heat buildings. Geothermal energy uses relatively simple technology. Like several of the other energy sources already mentioned, this process causes no pollution and is inexhaustible. The most active geothermal resources are usually found in areas near volcanoes or where geothermal activity naturally occurs. The largest area of this kind is known as the \"Ring of Fire.\" It rims the Pacific Ocean and is bounded by eastern Asia and the western edge of the Americas. Outside of regions like these, geothermal energy is usually unavailable. The initial costs of installing a geothermal energy system are very high, but once it is built, the running costs are low.",
+              "kr": "[지열 발전 (Geothermal Energy)] 지열 에너지를 이용하면 땅속에 갇혀 있는 열을 증기로 변환하여 터빈을 돌릴 수 있습니다. 이렇게 생산된 전력은 전기를 생산하고 건물을 난방하는 데 사용될 수 있습니다. 지열 에너지는 비교적 단순한 기술을 사용합니다. 앞서 언급한 다른 여러 에너지원과 마찬가지로 이 과정은 오염을 일으키지 않으며 무궁무진합니다. 가장 활발한 지열 자원은 대개 화산 인근 지역이나 지열 활동이 자연적으로 발생하는 곳에서 발견됩니다. 이러한 유형의 가장 큰 지역은 '불의 고리(Ring of Fire)'로 알려져 있습니다. 이 지역은 태평양을 둘러싸고 있으며 동아시아와 아메리카 대륙의 서쪽 가장자리와 맞닿아 있습니다. 이러한 지역 밖에서는 지열 에너지를 이용하기가 대개 불가능합니다. 지열 에너지 시스템을 설치하는 초기 비용은 매우 높지만, 일단 건설되고 나면 운영 비용은 저렴합니다.\n* **핵심 구문 및 어휘**:\n  * `trapped in the ground`: 땅속에 갇힌\n  * `Ring of Fire`: 환태평양 조산대 (불의 고리)\n  * `running costs`: 운영 비용, 유지비",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Unit 6 Reading 2: We Must Maintain Our Natural Resources",
+          "short_title": "U6 R2 자원보존",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] The world's natural resources are being used at an alarming rate—not only fossil fuels such as coal, oil, and gas, but also water, wood, and minerals. This has many potential consequences for the billions of people who live on Earth. In recent years, both individuals and governments have become more interested in better managing the world's resources. While alternative energy solutions are important, they are not always feasible. An immediate way to improve the situation is to encourage everyone to \"reduce, reuse, recycle.\"",
+              "kr": "[자원 고갈 위기와 3R 전략의 필요성] 세계의 천연자원은 석탄, 석유, 가스와 같은 화석 연료뿐만 아니라 물, 목재, 광물에 이르기까지 놀라운(경각심을 불러일으키는) 속도로 고갈되고 있습니다. 이는 지구상에 살아가는 수십억 명의 사람들에게 많은 잠재적 결과를 초래합니다. 최근 몇 년간 개인과 정부 모두 세계 자원을 더 잘 관리하는 데 더 많은 관심을 기울여 왔습니다. 대체 에너지 해결책도 중요하지만 항상 실행 가능한 것은 아닙니다. 상황을 개선할 수 있는 즉각적인 방법은 모든 사람에게 \"줄이고, 재사용하고, 재활용하라(3R)\"는 원칙을 장려하는 것입니다.\n* **핵심 구문 및 어휘**:\n  * `at an alarming rate`: 놀라운 (경각심을 주는) 속도로\n  * `feasible`: 실현 가능한 (= workable, viable)\n  * `reduce, reuse, recycle`: 감축, 재사용, 재활용 (3R 운동)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] We must all learn to use fewer natural resources on a day-to-day basis. We can start by reducing the number of electrical items we leave plugged in, using less water, and avoiding motorized transportation. Many cities are instigating carbon emissions taxes, which is a step in the right direction. In our homes, we can use only energy-saving light bulbs and install water meters. Parents need to train children from an early age to turn off lights that they are not using. It is sometimes difficult to persuade people to use less energy and water, or to eat less food, but an effective way to motivate people to adopt less-wasteful practices is to make these essential commodities much more expensive.",
+              "kr": "[줄이기(Reduce)의 일상적 실천 방안] 우리 모두는 일상생활에서 더 적은 천연자원을 소비하는 법을 배워야 합니다. 콘센트에 꽂아두는 가전제품의 수를 줄이고, 물을 덜 쓰며, 자동차 이용을 피하는 것부터 시작할 수 있습니다. 많은 도시에서 탄소 배출세를 도입하고 있으며, 이는 올바른 방향으로 나아가는 조치입니다. 가정에서는 에너지 절약형 전구만 사용하고 수도계량기를 설치할 수 있습니다. 부모는 자녀에게 사용하지 않는 전등을 끄도록 어릴 때부터 훈련해야 합니다. 사람들이 에너지와 물을 덜 쓰거나 음식을 덜 먹도록 설득하는 것은 때로 어렵지만, 덜 낭비적인 습관을 들이도록 동기를 부여하는 효과적인 방법은 이러한 필수 생필품의 가격을 훨씬 더 비싸게 만드는 것입니다.\n* **핵심 구문 및 어휘**:\n  * `on a day-to-day basis`: 매일매일, 일상적으로\n  * `instigating`: 도입하다, 발의하다\n  * `essential commodities`: 필수 생필품, 기초 원자재",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] It is often possible to restore old, unwanted objects to a state in which they can be used again. Glass bottles can be cleaned and reused without having to be broken and remade. Reusing things is a very efficient process and consumes less energy than recycling. It does, however, often require a lot of expensive organization and administration. There are also concerns to address regarding reused medical equipment and food-storage items, for example, because of safety and hygiene issues. Still, the benefits of reusing items are clear.",
+              "kr": "[재사용하기(Reuse)의 높은 효율과 안전상 우려] 오래되고 원치 않는 물건을 다시 사용할 수 있는 상태로 복원하는 것은 종종 가능합니다. 유리병은 깨뜨려서 다시 만들 필요 없이 세척하여 재사용할 수 있습니다. 물건을 재사용하는 것은 매우 효율적인 과정이며 재활용보다 에너지를 적게 소비합니다. 그러나 종종 많은 비용이 드는 조직화와 관리 행정을 요구합니다. 예를 들어 재사용된 의료 장비나 식품 보관 용기의 경우 안전 및 위생 문제로 인해 해결해야 할 우려 사항도 있습니다. 그럼에도 불구하고 물건을 재사용하는 것의 이점은 명백합니다.\n* **핵심 구문 및 어휘**:\n  * `restore`: 복원하다\n  * `safety and hygiene issues`: 안전 및 위생 문제\n  * `consumes less energy than recycling`: 재활용보다 에너지를 덜 소비함",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Most of us know that materials such as paper and plastic can be recycled into new products. This process uses less energy and emits fewer greenhouse gases than producing articles from raw materials. Yet, sorting through used materials before recycling them is a dirty and difficult job, and breaking up electronic equipment to recycle parts is time-consuming and potentially dangerous. But provided we understand the dangers involved, the necessity of recycling on a community and international scale is clear.",
+              "kr": "[재활용하기(Recycle)의 장단점] 우리 대부분은 종이나 플라스틱과 같은 자재가 새로운 제품으로 재활용될 수 있다는 것을 알고 있습니다. 이 과정은 원자재로부터 물품을 생산하는 것보다 에너지를 적게 사용하고 온실가스를 적게 배출합니다. 그러나 재활용하기 전에 사용된 재료들을 분류하는 일은 더럽고 힘든 작업이며, 부품을 재활용하기 위해 전자기기를 분해하는 것은 시간이 많이 걸리고 잠재적으로 위험합니다. 하지만 수반되는 위험을 제대로 이해하고 있다면, 지역사회와 국제적 규모에서 재활용의 필요성은 명확합니다.\n* **핵심 구문 및 어휘**:\n  * `raw materials`: 원자재, 천연 원료\n  * `sorting through`: 분류하다, 샅샅이 뒤져 가려내다\n  * `provided (that)`: ~라는 조건 하에, ~하기만 한다면",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] A lot of attention has been paid in recent years to the dangers of relying on fossil fuels. For this reason, the use of alternatives to coal, oil, and gas are becoming more and more common. Alternative energy sources can be recovered or produced without emitting carbon dioxide and contributing to global warming. They can decrease air pollution, which is better for our health as it diminishes instances of asthma. They are often sustainable resources as well, which means they will not get used up. There are many examples of alternative energy sources: Hydropower utilizes the power of moving water; large turbines can be used to generate wind power; solar energy uses panels that absorb sunlight; the burning of biomass creates steam; and geothermal energy uses the heat within the earth. A particular type of alternative energy may work the best for a particular region. The other side of this is that some of these energy sources may not be available at all to people in certain places because of environmental limitations.",
+              "kr": "[대체 에너지의 보완적 역할] 최근 몇 년 동안 화석 연료에 의존하는 것의 위험성에 많은 관심이 쏠렸습니다. 이러한 이유로 석탄, 석유, 가스의 대체재 사용이 점점 더 보편화되고 있습니다. 대체 에너지원은 이산화탄소를 배출하지 않고 지구 온난화에 기여하지 않으면서 회수되거나 생산될 수 있습니다. 대기 오염을 줄여 천식 발생 건수를 감소시키므로 우리 건강에도 더 좋습니다. 또한 대체 에너지는 대개 지속 가능한 자원이어서 고갈되지 않음을 의미합니다. 수력, 풍력, 태양광, 바이오매스, 지열 등이 그 예입니다. 특정 유형의 대체 에너지는 특정 지역에 가장 적합할 수 있습니다. 반면 환경적 한계로 인해 특정 지역의 사람들에게는 이러한 에너지원 중 일부를 전혀 이용하지 못할 수도 있습니다.\n* **핵심 구문 및 어휘**:\n  * `diminishes instances of asthma`: 천식 발생 건수를 감소시키다\n  * `sustainable resources`: 지속 가능한 자원\n  * `environmental limitations`: 환경적 제약",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 6] To avoid a catastrophic depletion of vital natural resources in the future, urgent action is required now. Alternative energy production is certainly essential, but it can be expensive and time-consuming to install the required elements. Some developing areas of the world may simply be unable to pay for it. In other places, corporations and taxpayers may be resistant to it. The \"reduce, reuse, recycle\" strategy, at least for the present, seems to be a manageable one that can be practiced by both individuals and organizations. People may be resistant to the idea of changing their ways or increasing the cost of their routines by \"going green,\" but it is crucial that we do this for the future of the planet.",
+              "kr": "[결론: 미래를 위한 긴급한 행동과 글로벌 과제] 미래에 필수적인 천연자원의 파멸적인 고갈을 피하기 위해 지금 긴급한 행동이 요구됩니다. 대체 에너지 생산은 분명 필수적이지만 필요한 요소를 설치하는 데 많은 비용과 시간이 소요될 수 있습니다. 세계의 일부 개발도상국 지역은 단순히 그 비용을 감당할 수 없을지도 모릅니다. 다른 곳에서는 기업과 납세자들이 이에 저항할 수도 있습니다. 적어도 현재로서는 \"감축, 재사용, 재활용(3R)\" 전략이 개인과 조직 모두가 실천할 수 있는 관리 가능한 전략으로 보입니다. 사람들은 방식을 바꾸거나 '친환경 생활'을 실천함으로써 일상의 비용을 늘리는 생각에 저항할 수도 있지만, 지구의 미래를 위해 우리가 이를 행하는 것은 지극히 중요합니다.\n* **핵심 구문 및 어휘**:\n  * `catastrophic depletion`: 재앙적인 (파멸적인) 고갈\n  * `resistant to`: ~에 저항하는, 반대하는\n  * `crucial`: 중대한, 결정적인",
+              "py": ""
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "word": "compromise",
+          "pos": "n",
+          "meaning": "타협, 절충안 - an agreement between two sides in which each side gives up something"
+        },
+        {
+          "word": "conservation",
+          "pos": "n",
+          "meaning": "보존, 보호 - the protection of plants, animals, and natural areas from human damage"
+        },
+        {
+          "word": "durable",
+          "pos": "adj",
+          "meaning": "내구성 있는, 오래가는 - able to last a long time without being damaged"
+        },
+        {
+          "word": "efficiency",
+          "pos": "n",
+          "meaning": "효율성 - the condition of producing desired results without waste"
+        },
+        {
+          "word": "relevant",
+          "pos": "adj",
+          "meaning": "관련 있는, 유의미한 - related to a subject or something happening"
+        },
+        {
+          "word": "secondhand",
+          "pos": "adj",
+          "meaning": "중고의 - not new; having been used in the past by someone else"
+        },
+        {
+          "word": "sector",
+          "pos": "n",
+          "meaning": "부문, 분야 - a part of society separated from other parts"
+        },
+        {
+          "word": "function",
+          "pos": "n",
+          "meaning": "기능, 목적 - a purpose, or the way something works"
+        },
+        {
+          "word": "depressing",
+          "pos": "adj",
+          "meaning": "우울한, 답답한 - making you feel unhappy and without hope"
+        },
+        {
+          "word": "inspiring",
+          "pos": "adj",
+          "meaning": "영감을 주는, 고무적인 - causing eagerness to learn or do something"
+        },
+        {
+          "word": "civilized",
+          "pos": "adj",
+          "meaning": "문명화된, 교양 있는 - having a well-developed way of life and social systems"
+        },
+        {
+          "word": "reflect on",
+          "pos": "v phrase",
+          "meaning": "인상을 주다 - causes people to think of someone in a specified way"
+        },
+        {
+          "word": "reputation",
+          "pos": "n",
+          "meaning": "명성, 평판 - the general opinion that people have about someone"
+        },
+        {
+          "word": "demonstrate",
+          "pos": "v",
+          "meaning": "입증하다, 시연하다 - to show or prove something clearly"
+        },
+        {
+          "word": "structural engineer",
+          "pos": "n",
+          "meaning": "구조 기술사 - specialist helping build an architectural design"
+        },
+        {
+          "word": "skyscrapers",
+          "pos": "n",
+          "meaning": "초고층 빌딩, 마천루 - very tall modern buildings in cities"
+        },
+        {
+          "word": "urban sprawl",
+          "pos": "n",
+          "meaning": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside"
+        },
+        {
+          "word": "green belt",
+          "pos": "n",
+          "meaning": "개발제한구역, 그린벨트 - a section of nature near a city protected from development"
+        },
+        {
+          "word": "suburban",
+          "pos": "adj",
+          "meaning": "교외의 - neighborhoods outside city centers, usually with houses"
+        },
+        {
+          "word": "outskirts",
+          "pos": "n",
+          "meaning": "교외, 변두리 - the outer parts of a town or city"
+        },
+        {
+          "word": "amenities",
+          "pos": "n",
+          "meaning": "편의시설 - public facilities that people enjoy, e.g. pools, parks"
+        },
+        {
+          "word": "aquatic",
+          "pos": "adj",
+          "meaning": "수생의, 물속의 - living in, happening in, or connected with water"
+        },
+        {
+          "word": "offshore",
+          "pos": "adj/adv",
+          "meaning": "해상의, 앞바다의 - away from or at a distance from the land"
+        },
+        {
+          "word": "inexhaustible",
+          "pos": "adj",
+          "meaning": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up"
+        },
+        {
+          "word": "initial",
+          "pos": "adj",
+          "meaning": "초기의, 처음의 - at the beginning; first"
+        },
+        {
+          "word": "generate",
+          "pos": "v",
+          "meaning": "발생시키다, 생성하다 - to cause to exist; produce"
+        },
+        {
+          "word": "universal",
+          "pos": "adj",
+          "meaning": "보편적인, 만인의 - existing everywhere or involving everyone"
+        },
+        {
+          "word": "utilize",
+          "pos": "v",
+          "meaning": "활용하다, 이용하다 - to make use of something"
+        },
+        {
+          "word": "address",
+          "pos": "v",
+          "meaning": "다루다, 고심하다 - to give attention to or deal with a matter or problem"
+        },
+        {
+          "word": "adopt",
+          "pos": "v",
+          "meaning": "도입하다, 채택하다 - to accept or begin to use something new"
+        },
+        {
+          "word": "alarming",
+          "pos": "adj",
+          "meaning": "걱정스러운, 두려운 - causing worry or fear"
+        },
+        {
+          "word": "diminish",
+          "pos": "v",
+          "meaning": "줄이다, 감소하다 - to reduce or be reduced in size or importance"
+        },
+        {
+          "word": "instigate",
+          "pos": "v",
+          "meaning": "촉발하다, 부추기다 - to cause an event or situation to happen"
+        },
+        {
+          "word": "resistant",
+          "pos": "adj",
+          "meaning": "저항하는, 반대하는 - not accepting of something"
+        },
+        {
+          "word": "urgent",
+          "pos": "adj",
+          "meaning": "긴급한, 다급한 - needing immediate attention"
+        },
+        {
+          "word": "vital",
+          "pos": "adj",
+          "meaning": "필수적인, 생명에 중요한 - extremely important for success or survival"
+        },
+        {
+          "word": "fossil / alternative fuel",
+          "pos": "collocation",
+          "meaning": "화석 연료 / 대체 연료"
+        },
+        {
+          "word": "renewable / solar energy",
+          "pos": "collocation",
+          "meaning": "재생 에너지 / 태양광 에너지"
+        },
+        {
+          "word": "environmental pollution",
+          "pos": "collocation",
+          "meaning": "환경 오염 (air / industrial / water / radioactive)"
+        },
+        {
+          "word": "energy / power source",
+          "pos": "collocation",
+          "meaning": "에너지원 / 전력원"
+        },
+        {
+          "word": "electricity / energy production",
+          "pos": "collocation",
+          "meaning": "전력 생산 / 에너지 생산"
+        }
+      ],
+      "qa": [
+        {
+          "id": "knn-q1",
+          "num": 1,
+          "question": "[Q1] 다음 글의 핵심 요지(Main Idea)로 가장 적절한 것은?\n> In recent years, there has been a general trend for new buildings to be more environmentally friendly, or more \"green.\" Such a building is sometimes called an eco-building. These buildings use energy and water efficiently, which reduces waste and pollution. However, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear. ... Critics of these kinds of eco-buildings say that while they may be good for the environment, there are practical problems with their affordability. They are often too costly to become a large-volume method of construction. ... Yes, in order to incorporate environmentally friendly construction and produce an affordable building, compromises have to be made.",
+          "options": [
+            "Traditional building methods must be banned immediately to curb greenhouse gas emissions.",
+            "While eco-buildings provide undeniable ecological benefits, realizing them broadly requires practical compromises between cost and sustainability.",
+            "Earthship homes are the most economically viable alternative for large-scale urban apartment construction.",
+            "High initial investment costs make eco-friendly construction completely unrealistic for modern public institutions."
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "친환경 건물이 생태적 혜택을 제공하지만 비용과 지속 가능성 사이의 타협(compromises)이 필요함"
+        },
+        {
+          "id": "knn-q2",
+          "num": 2,
+          "question": "[Q2] 다음 글에서 필자가 궁극적으로 주장하는 바로 가장 적절한 것은?\n> If architects focus only on function, buildings may be cold, ugly, and uninteresting. There is no doubt that a building with a beautiful form is something we can all appreciate. However, functional needs must be addressed before visual ones. This issue of practicality is the most important feature of the buildings we live in, work in, and visit. Therefore, function must outweigh form when an architect plans a building.",
+          "options": [
+            "Architecture should solely pursue aesthetic brilliance because visual beauty boosts societal motivation.",
+            "Modern buildings have proven that form and function are fundamentally irreconcilable in architectural history.",
+            "Although aesthetic appeal possesses artistic value, functional utility must always take precedence over visual form in architectural design.",
+            "Minimalist architecture such as \"less is more\" provides the only pragmatic solution to contemporary housing crises."
+          ],
+          "type": "choice",
+          "answer": 3,
+          "explanation": "시각적 아름다움도 중요하지만 건축 계획 시 기능이 항상 형태보다 우선(function must outweigh form)해야 함"
+        },
+        {
+          "id": "knn-q3",
+          "num": 3,
+          "question": "[Q3] 다음 글(Fact Sheet)의 전체적인 구성 및 서술 방식으로 가장 적절한 것은?\n> (Passage on Unit 6 Reading 1: Alternative Energy Resources)  \n> Hydropower creates an inexhaustible amount of energy, yet causes land behind dams to flood. Wind power is relatively cheap and produces affordable electricity, yet wind turbines can endanger local birds and create noise pollution. Solar energy generates no emissions, but requires vast land surfaces. Biomass utilizes organic waste, but emits greenhouse gases when burned. Geothermal energy is clean and inexhaustible, but active geothermal sites are restricted largely to the \"Ring of Fire.\"",
+          "options": [
+            "A chronological overview tracing the industrial evolution of fossil fuels to modern atomic energy.",
+            "A critical comparison categorizing various renewable energy resources alongside their respective environmental strengths and practical drawbacks.",
+            "A policy argument calling for the total abolition of hydroelectric dams due to marine ecosystem disruption.",
+            "A technical manual instructing civil engineers on how to install photovoltaic cells in domestic housing."
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "5대 재생 에너지의 친환경적 장점과 환경적 단점을 균형 있게 대비"
+        },
+        {
+          "id": "knn-q4",
+          "num": 4,
+          "question": "[Q4] 다음 글의 중심 생각(Central Theme)으로 가장 적절한 것은?\n> To avoid a catastrophic depletion of vital natural resources in the future, urgent action is required now. Alternative energy production is certainly essential, but it can be expensive and time-consuming to install the required elements. Some developing areas of the world may simply be unable to pay for it. ... The \"reduce, reuse, recycle\" strategy, at least for the present, seems to be a manageable one that can be practiced by both individuals and organizations. People may be resistant to the idea of changing their ways or increasing the cost of their routines by \"going green,\" but it is crucial that we do this for the future of the planet.",
+          "options": [
+            "Transitioning to renewable energy is impossible without imposing punitive fines on individual domestic consumers.",
+            "While alternative energy infrastructure requires long-term investment, adopting the \"3R\" strategy offers an immediate, accessible approach to resource conservation.",
+            "Reusing medical and food containers is proven to be hazard-free across all developing territories.",
+            "Technological advancements will automatically eliminate resource scarcity without requiring behavioral modifications.      ### 🔍 [유형 2] 내용 일치 및 진위 판별 (Questions 5 ~ 8)"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "당장 개인이 실천할 수 있는 3R(Reduce, Reuse, Recycle) 전략 강조"
+        },
+        {
+          "id": "knn-q5",
+          "num": 5,
+          "question": "[Q5] 다음 《We Need More Green Buildings》에 관한 진술 중 본문의 내용과 일치하면 T(True), 일치하지 않으면 F(False)를 표시하시오.\n* (1) Earthship houses are constructed primarily using conventional brickwork and non-recyclable synthetic polymers. [ &emsp;&emsp; ]  \n* (2) Recycled-construction designs have been applied to school buildings in developing nations such as Uruguay and Sierra Leone. [ &emsp;&emsp; ]  \n* (3) The roof of the \"Hobbit House\" in Wales is made of asphalt shingles that reflect solar heat. [ &emsp;&emsp; ]  \n* (4) According to the United Nations Environment Programme, the global construction sector accounts for over 70% of worldwide energy consumption. [ &emsp;&emsp; ]",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) F (전통 벽돌 아님), (2) T (우루과이/시에라리온 학교), (3) F (아스팔트 싱글 아님), (4) F (70% 아니라 약 30%)"
+        },
+        {
+          "id": "knn-q6",
+          "num": 6,
+          "question": "[Q6] 다음 《Form, Function, or Both?》에 관한 진술 중 본문의 내용과 일치하지 않는 것은?",
+          "options": [
+            "Louis Sullivan coined the renowned architectural maxim \"form follows function\" at the start of the twentieth century.",
+            "Inhabitants of aesthetically attractive buildings are said to experience enhanced happiness and improved workplace motivation.",
+            "The Guggenheim Museum in New York successfully solved overcrowding and viewing distances thanks to its wide spiral ramp.",
+            "The Farnsworth House faced intense criticism regarding domestic privacy due to its extensive glass windows, as well as chronic roof leakage."
+          ],
+          "type": "choice",
+          "answer": 3,
+          "explanation": "구겐하임 나선형 경사로는 작품 감상 후퇴 공간 부족 및 혼잡으로 불평을 샀음"
+        },
+        {
+          "id": "knn-q7",
+          "num": 7,
+          "question": "[Q7] 다음 신재생 에너지원에 관한 설명 중 본문의 내용과 일치하는 것만을 있는 대로 고른 것은?\n> [보 기]  \n> ㉠ 수력 발전(Hydropower)은 흐르는 물을 이용하므로 에너지를 저장했다가 전력 수요가 최고조일 때 방출할 수 있다.  \n> ㉡ 풍력 발전(Wind power)은 수력 발전에 비해 설치 및 전력 생산 비용이 현저히 비싸다는 점이 최대 단점이다.  \n> ㉢ 전 지구의 전력 수요를 태양광(Solar power)만으로 충당하려면 스페인 국토 면적에 맞먹는 부지가 필요하다.  \n> ㉣ 바이오매스(Biomass) 에너지는 유기 폐기물 연소 시 온실가스를 전혀 배출하지 않는 완전 무공해 자원이다.  \n> ㉤ 지열 발전(Geothermal energy)의 초기 설비 구축비는 매우 높지만, 일단 완공되면 운영 및 유지비용은 저렴하다.",
+          "options": [
+            "㉠, ㉢, ㉤",
+            "㉠, ㉡, ㉢",
+            "㉡, ㉣, ㉤",
+            "㉢, ㉣, ㉤"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "㉠(수력 홍수 유발), ㉢(풍력 소음 및 조류 피해), ㉤(바이오매스 식량 작물과 경쟁) 일치"
+        },
+        {
+          "id": "knn-q8",
+          "num": 8,
+          "question": "[Q8] 다음 《We Must Maintain Our Natural Resources》의 본문 내용에 대한 T/F 판별로 올바른 것은?\n* (1) Reusing glass containers without breaking them consumes less energy than melting and recycling them into new products. [ &emsp;&emsp; ]  \n* (2) Dismantling redundant electronic devices for component recycling is completely safe and requires minimal manual labor. [ &emsp;&emsp; ]  \n* (3) Shifting from fossil fuels to clean renewable alternatives can reduce air pollution and decrease occurrences of respiratory conditions like asthma. [ &emsp;&emsp; ]  \n* (4) The author claims that lowering the prices of essential commodities like water and electricity is the most effective way to prevent resource waste. [ &emsp;&emsp; ]  \n\n\n\n### 🔗 [유형 3] 연결어 및 문맥 접속사 빈칸 추론 (Questions 9 ~ 12)",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) T (화석연료 고갈), (2) F (개도국 신재생 즉시 전환 어려움), (3) T (가격 인상이 덜 낭비적인 습관 유도), (4) F (소비자만이 아니라 생산자도 제품 재활용 책임)"
+        },
+        {
+          "id": "knn-q9",
+          "num": 9,
+          "question": "[Q9] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> These buildings use energy and water efficiently, which reduces waste and pollution. &emsp;(A)&emsp;, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear. ... Low-impact houses like this one are green because they use secondhand materials and do not rely on fossil fuels, but &emsp;(B)&emsp; use renewable energy sources such as solar or wind power.",
+          "options": [
+            "(A) However &emsp;&emsp; (B) instead",
+            "(A) Furthermore &emsp;&emsp; (B) therefore",
+            "(A) In contrast &emsp;&emsp; (B) likewise",
+            "(A) Consequently &emsp;&emsp; (B) otherwise"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "Despite these extra costs (양보 대조 연결어)"
+        },
+        {
+          "id": "knn-q10",
+          "num": 10,
+          "question": "[Q10] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> Ugly public buildings can project a negative image of the organization. People say that living or working in an ugly place creates a depressing and uninspiring environment. &emsp;(A)&emsp;, an attractive building can make people feel happier and increase their motivation to work. ... Each type of building has a different function, and, &emsp;(B)&emsp;, it has a different form.",
+          "options": [
+            "(A) In addition &emsp;&emsp; (B) nevertheless",
+            "(A) In contrast &emsp;&emsp; (B) therefore",
+            "(A) For example &emsp;&emsp; (B) conversely",
+            "(A) On the other hand &emsp;&emsp; (B) nonetheless"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "However (형태보다 기능 우선 역접)"
+        },
+        {
+          "id": "knn-q11",
+          "num": 11,
+          "question": "[Q11] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> Wind turbines can be utilized on a large scale or on a small scale. &emsp;(A)&emsp; hydropower, this process is relatively cheap and is considered one of the most affordable forms of electricity today. ... The sun produces energy constantly, which makes solar energy an inexhaustible resource. Another benefit is that it generates no pollution. &emsp;(B)&emsp;, a large area of land is needed to produce a large amount of solar power.",
+          "options": [
+            "(A) Similar to &emsp;&emsp; (B) In fact",
+            "(A) Unlike &emsp;&emsp; (B) However",
+            "(A) Because of &emsp;&emsp; (B) Therefore",
+            "(A) Due to &emsp;&emsp; (B) Moreover"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "For instance (바이오매스 구체적 사례 제시)"
+        },
+        {
+          "id": "knn-q12",
+          "num": 12,
+          "question": "[Q12] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> Reusing things is a very efficient process and consumes less energy than recycling. It does, &emsp;(A)&emsp;, often require a lot of expensive organization and administration. ... Alternative energy production is certainly essential, but it can be expensive and time-consuming to install the required elements. &emsp;(B)&emsp;, the \"reduce, reuse, recycle\" strategy, at least for the present, seems to be a manageable one that can be practiced by both individuals and organizations.",
+          "options": [
+            "(A) however &emsp;&emsp; (B) For this reason",
+            "(A) moreover &emsp;&emsp; (B) On the contrary",
+            "(A) therefore &emsp;&emsp; (B) In consequence",
+            "(A) likewise &emsp;&emsp; (B) In other words      ### 🔀 [유형 4] 글의 흐름 및 문장 순서 배열 (Questions 13 ~ 16)"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "In addition (3R 실천에 이은 추가 조치 유도)"
+        },
+        {
+          "id": "knn-q13",
+          "num": 13,
+          "question": "[Q13] 주어진 문장 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n> [주어진 문장]  \n> In recent years, there has been a general trend for new buildings to be more environmentally friendly, or more \"green.\" Such a building is sometimes called an eco-building.\n\n> [A] Around the city of Taos, New Mexico, there are many homes, called Earthship houses, constructed from recycled bottles, tires, aluminum cans, and other trash.  \n> [B] However, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear.  \n> [C] These buildings use energy and water efficiently, which reduces waste and pollution.",
+          "options": [
+            "[B] - [A] - [C]",
+            "[C] - [B] - [A]",
+            "[C] - [A] - [B]",
+            "[A] - [C] - [B]"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "[C] (문제 제기) - [B] (상충 요소 제시) - [A] (현실적 절충 결론)"
+        },
+        {
+          "id": "knn-q14",
+          "num": 14,
+          "question": "[Q14] 주어진 문장 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n> [주어진 문장]  \n> In theory, there seems to be no reason why architecture cannot be both functional and beautiful. Yet in practice, this can cause problems.\n\n> [A] The Farnsworth House by Ludwig Mies van der Rohe is another icon of beautiful design that demonstrates the idea that \"less is more.\" However, critics have attacked it for a lack of privacy because of the huge glass windows, and it has a leaky flat roof that has repeatedly flooded.  \n> [B] It seems that even these two celebrated designs have problems with functionality. Therefore, function must outweigh form when an architect plans a building.  \n> [C] The Modern International style of the 1920s and 1930s, an example of which is the Guggenheim Museum in New York, was supposed to combine beauty with function. Many consider its white spiral ramp beautiful, but there have been complaints that it is impractical and overcrowded.",
+          "options": [
+            "[C] - [A] - [B]",
+            "[A] - [C] - [B]",
+            "[B] - [C] - [A]",
+            "[C] - [B] - [A]"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "[C] (과거 형태 중시) - [A] (기능주의 등장) - [B] (현대 통합 결론)"
+        },
+        {
+          "id": "knn-q15",
+          "num": 15,
+          "question": "[Q15] 다음 문장들이 하나의 자연스러운 단락을 형성하도록 가장 논리적인 순서로 배열하시오.\n> (a) The power it generates can then be used to produce electricity and heat buildings.  \n> (b) With geothermal energy, heat that is trapped in the ground can be converted into steam to turn turbines.  \n> (c) The most active geothermal resources are usually found in areas near volcanoes, such as the \"Ring of Fire.\"  \n> (d) Like several other renewable energy sources, this process causes no pollution and is inexhaustible.  \n\n정답: [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ]",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(b) ➔ (a) ➔ (d) ➔ (c)"
+        },
+        {
+          "id": "knn-q16",
+          "num": 16,
+          "question": "[Q16] 다음 문장들이 하나의 자연스러운 단락을 형성하도록 가장 논리적인 순서로 배열하시오.\n> (a) Still, the benefits of reusing items are clear, as it consumes less energy than recycling.  \n> (b) Glass bottles, for example, can be cleaned and reused without having to be broken and remade.  \n> (c) It is often possible to restore old, unwanted objects to a state in which they can be used again.  \n> (d) It does, however, often require a lot of expensive organization and administration, with concerns regarding hygiene.  \n\n정답: [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ]\n\n\n\n### ✍️ [유형 5] 핵심 구문 영한 정밀 번역 서술형 (Questions 17 ~ 20)\n\n*다음 밑줄 친 영어 문장을 문맥에 부합하도록 매끄럽고 정확한 한국어로 정밀 번역하시오.*",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(c) ➔ (b) ➔ (d) ➔ (a)"
+        },
+        {
+          "id": "knn-q17",
+          "num": 17,
+          "question": "[Q17] (Unit 5 Reading 1)\n> Yes, in order to incorporate environmentally friendly construction and produce an affordable building, compromises have to be made. <u>These may be that the building will have to be smaller or made of less durable materials and with technology that uses more energy.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "이러한 절충안은 건물의 규모가 더 작아져야 하거나, 내구성이 떨어지는 자재로 만들어져야 하거나, 에너지를 더 많이 소비하는 기술로 지어져야 하는 것일 수 있습니다."
+        },
+        {
+          "id": "knn-q18",
+          "num": 18,
+          "question": "[Q18] (Unit 5 Reading 2)\n> In the modern world, it seems that most architects try to combine both ideas, aiming to create buildings that are both functional and inspiring in their beauty. This is often difficult to achieve, however. <u>Since we create buildings to serve the needs in our lives, the importance of function should always be prioritized over form.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "우리는 우리 삶의 필요를 충족하기 위해 건물을 짓기 때문에, 기능의 중요성이 항상 형태보다 우선시되어야 합니다."
+        },
+        {
+          "id": "knn-q19",
+          "num": 19,
+          "question": "[Q19] (Unit 6 Reading 1)\n> However, a large area of land is needed to produce a large amount of solar power. <u>Scientists have determined that if we wanted to try to power the entire Earth with renewable solar power, we would need to cover a land area about the size of Spain with solar panels.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "과학자들은 만약 우리가 재생 가능한 태양광 에너지로 지구 전체에 전력을 공급하고자 한다면, 대략 스페인 크기만 한 면적의 토지를 태양광 패널로 덮어야 할 것이라고 밝혔습니다."
+        },
+        {
+          "id": "knn-q20",
+          "num": 20,
+          "question": "[Q20] (Unit 6 Reading 2)\n> It is sometimes difficult to persuade people to use less energy and water, or to eat less food, <u>but an effective way to motivate people to adopt less-wasteful practices is to make these essential commodities much more expensive.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________  \n\n\n\n### 🎯 [유형 6] 지칭 대명사 및 선행사 추론 (Questions 21 ~ 24)",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "그러나 사람들이 덜 낭비적인 습관을 들이도록 동기를 부여하는 효과적인 방법은 이러한 필수 생필품의 가격을 훨씬 더 비싸게 만드는 것입니다."
+        },
+        {
+          "id": "knn-q21",
+          "num": 21,
+          "question": "[Q21] (Unit 5 Reading 1)\n> Its frame is made of wood and the walls are made of straw, (A) <u>which</u> provides excellent insulation. The roof consists of mud planted with grass which blends in with the surroundings and has a low impact on the environment. Solar panels provide electricity for lighting and electrical equipment. Water is supplied directly from a nearby river and is also collected from the roof for use in the garden, avoiding the need to waste clean water. Low-impact houses like this one are green because (B) <u>they</u> use secondhand materials and do not rely on fossil fuels.\n\n* (1) 밑줄 친 (A) `which`의 선행사가 가리키는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `they`가 지칭하는 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) straw (단열벽을 이루는 짚), (2) Low-impact houses (저영향 생태 주택들)"
+        },
+        {
+          "id": "knn-q22",
+          "num": 22,
+          "question": "[Q22] (Unit 5 Reading 2)\n> When building an airport terminal, for example, you need to think of the needs of passengers as well as planes. Passengers want to get to their plane as quickly as they can, and planes need to be parked in a way that maximizes (A) <u>their</u> ease of use. ... Each type of building has a different function, and, therefore, (B) <u>it</u> has a different form.\n\n* (1) 밑줄 친 (A) `their`가 지칭하는 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `it`이 지칭하는 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) planes (비행기들), (2) Each type of building (각 건축물의 유형)"
+        },
+        {
+          "id": "knn-q23",
+          "num": 23,
+          "question": "[Q23] (Unit 6 Reading 1)\n> To use solar energy, solar panels absorb sunlight and, using devices called photovoltaic cells, turn (A) <u>it</u> into electricity. The sun produces energy constantly, which makes solar energy an inexhaustible resource. Another benefit is that (B) <u>it</u> generates no pollution.\n\n* (1) 밑줄 친 (A) `it`이 지칭하는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `it`이 지칭하는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) sunlight (광전지가 흡수하는 햇빛), (2) solar energy (오염을 유발하지 않는 태양광 에너지)"
+        },
+        {
+          "id": "knn-q24",
+          "num": 24,
+          "question": "[Q24] (Unit 6 Reading 2)\n> Most of us know that materials such as paper and plastic can be recycled into new products. (A) <u>This process</u> uses less energy and emits fewer greenhouse gases than producing articles from raw materials. ... Alternative energy sources can decrease air pollution, which is better for our health as (B) <u>it</u> diminishes instances of asthma.\n\n* (1) 밑줄 친 (A) `This process`가 가리키는 구체적인 내용을 한국어로 설명하거나 본문 표현으로 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `it`이 지칭하는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n\n\n\n\n## 💡 [제2부] 정답 및 상세 해설 (Answer Key & Explanations)\n\n#",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) recycling materials into new products (재활용 과정), (2) decreasing air pollution (대기 오염 감소)"
+        }
+      ]
+    },
+    "ds_pencil": {
+      "id": "ds_pencil",
+      "name": "자료구조 중간고사 지필 7대 고난도 문항",
+      "author": "김은경 교수님 (천인국·최영규 교재)",
+      "category": "자료구조 지필고사 집중 대비",
+      "qa": [
+        {
+          "id": "ds-p1",
+          "num": 1,
+          "title": "알고리즘 복잡도 및 Big-O 점근 표기법 수학적 증명",
+          "question": "함수 f(n) = 3n^2 + 7n + 15와 중첩 반복문 코드 조각에 대해 빅오(Big-O) 정의를 엄밀히 적용하여 증명하시오.\n\n[소문제 1-1] 빅오 표기법의 정의를 서술하고, f(n) = 3n^2 + 7n + 15 ∈ O(n^2) 임을 증명하는 양의 상수 c와 n_0 한 쌍을 유도하시오.\n[소문제 1-2] 다음 파이썬 코드의 시간 복잡도를 Big-O로 표기하고 루프 실행 횟수를 유도하시오.\n```python\ndef compute(n):\n    total, i = 0, 1\n    while i <= n:\n        for j in range(1, n + 1):\n            total += i * j\n        i *= 2\n    return total\n```\n[소문제 1-3] O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), O(n!)을 증가율이 느린 순서대로 나열하고 n=1024일 때 O(log n)과 O(n^2)의 연산 횟수를 비교하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "1-1",
+              "sub_title": "Big-O 정의 및 상수 c, n_0 유도",
+              "solution": "정의: 모든 n ≥ n_0에 대하여 0 ≤ f(n) ≤ c·g(n)을 만족하는 양의 상수 c와 n_0가 존재하면 f(n) ∈ O(g(n))이다.\n증명: n ≥ 1일 때 7n ≤ 7n^2, 15 ≤ 15n^2이 성립하므로, 3n^2 + 7n + 15 ≤ 3n^2 + 7n^2 + 15n^2 = 25n^2이다.\n따라서 c = 25, n_0 = 1을 선택하면 모든 n ≥ 1에 대해 3n^2 + 7n + 15 ≤ 25n^2이 항상 성립하므로 f(n) ∈ O(n^2)이다."
+            },
+            {
+              "sub_num": "1-2",
+              "sub_title": "이중 루프 실행 횟수 및 O(n log n) 유도",
+              "solution": "외부 while 루프는 i가 1부터 시작하여 매 단계 2배씩 증가하므로(i = 1, 2, 4, ..., 2^k ≤ n), 루프는 ⌊log2 n⌋ + 1 회 반복된다.\n내부 for 루프는 매 외부 반복마다 정확히 n회 수행된다.\n따라서 총 연산 횟수는 n · (log2 n + 1) = n log2 n + n 이며, 최고차항의 차수에 의해 시간 복잡도는 O(n log n)이다."
+            },
+            {
+              "sub_num": "1-3",
+              "sub_title": "증가율 순서 및 n=1024 수치 비교",
+              "solution": "증가율 순서: O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) < O(n!)\nn = 1024일 때:\n- O(log2 n) = log2(1024) = 10회 연산\n- O(n^2) = 1024^2 = 1,048,576회(약 105만 회) 연산\n차이: O(n^2)이 O(log n)보다 무려 104,857배(약 10만 배) 이상 많은 연산을 요구함."
+            }
+          ],
+          "rubric": "c와 n_0를 수치로 명시하지 않거나 부등식 성립 범위를 증명하지 못하면 -2점 감점. O(n log n) 유도 시 log2 n 횟수 증명이 빠지면 -2점 감점."
+        },
+        {
+          "id": "ds-p2",
+          "num": 2,
+          "title": "동적 배열 기반 스택(Stack) ADT 손코딩 구현 및 예외 방어",
+          "question": "파이썬 기본 리스트를 캡슐화하여 고정 용량(capacity)을 갖는 스택 클래스 ArrayStack을 손코딩하시오.\n\n[소문제 2-1] __init__(self, capacity=10), is_empty, is_full, push, pop, peek, size 메서드를 손코딩하시오 (가득 찼을 때 push 시 Overflow 예외, 비었을 때 pop/peek 시 Underflow 예외 처리 필수).\n[소문제 2-2] 파이썬 리스트의 append(x)와 insert(0, x)의 시간 복잡도를 메모리 내부 구조 관점에서 비교 서술하시오.\n[소문제 2-3] 크기가 찰 때마다 2배로 확장하는 Doubling Strategy 사용 시 n회 push의 분할 상환(Amortized) 시간 복잡도가 O(1)이 되는 이유를 서술하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "2-1",
+              "sub_title": "ArrayStack 클래스 파이썬 손코딩",
+              "solution": "class ArrayStack:\n    def __init__(self, capacity=10):\n        self.capacity = capacity\n        self.array = [None] * capacity\n        self.top = -1\n\n    def is_empty(self):\n        return self.top == -1\n\n    def is_full(self):\n        return self.top == self.capacity - 1\n\n    def push(self, item):\n        if self.is_full():\n            raise IndexError('Stack Overflow: 스택 포화 상태')\n        self.top += 1\n        self.array[self.top] = item\n\n    def pop(self):\n        if self.is_empty():\n            raise IndexError('Stack Underflow: 스택 공백 상태')\n        item = self.array[self.top]\n        self.array[self.top] = None\n        self.top -= 1\n        return item\n\n    def peek(self):\n        if self.is_empty():\n            raise IndexError('Stack Underflow: 스택 공백 상태')\n        return self.array[self.top]\n\n    def size(self):\n        return self.top + 1"
+            },
+            {
+              "sub_num": "2-2",
+              "sub_title": "append vs insert(0) 메모리 구조 비교",
+              "solution": "append(x): 배열의 맨 끝 빈 슬롯에 데이터를 직접 기록하므로 원소 이동(Shift)이 전혀 발생하지 않아 O(1)에 수행된다.\ninsert(0, x): 맨 앞에 새 공간을 확보하기 위해 기존의 모든 n개 원소를 인덱스 1씩 오른쪽으로 이동시켜야 하므로 O(n)의 시간이 소요된다."
+            },
+            {
+              "sub_num": "2-3",
+              "sub_title": "배열 2배 확장 시 분할 상환 O(1) 원리",
+              "solution": "용량이 N에 도달하여 2N으로 확장할 때 기존 N개 원소 복사로 O(N) 비용이 일시적으로 발생하지만, 이후 다음 확장이 일어날 때까지 최소 N번의 연산은 O(1)에 수행된다.\n따라서 N번의 push 연산에 드는 총비용은 O(N)이며, 이를 N으로 나눈 연산당 상환 비용(Amortized Cost)은 O(1)이 된다."
+            }
+          ],
+          "rubric": "top 포인터를 0이 아닌 -1로 초기화하고 is_full() 조건을 self.top == self.capacity - 1로 정확히 지정해야 만점. 예외 미발생 시 -3점."
+        },
+        {
+          "id": "ds-p3",
+          "num": 3,
+          "title": "스택의 응용: 후위 표기식 변환 및 수식 계산 상태 추적",
+          "question": "스택을 활용한 수식 변환 및 계산 과정을 단계별로 추적하시오.\n\n[소문제 3-1] 중위 표기식 ( A + B ) * ( C - D / E ) ^ F 를 스택을 이용해 후위 표기식으로 변환하는 과정을 표로 작성하여 단계별 스택과 출력을 추적하시오.\n[소문제 3-2] 후위 표기식 8 2 / 3 4 * + 5 - 를 피연산자 스택으로 계산할 때 스택 상태 변화와 최종 결과값을 구하시오.\n[소문제 3-3] 괄호 검사 알고리즘에서 [ { ( ) } ] 유효성 검사 실패 조건 3가지를 서술하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "3-1",
+              "sub_title": "중위 -> 후위 표기식 단계별 추적",
+              "solution": "최종 후위 표기식: A B + C D E / - F ^ *\n단계별 추적:\n1. '(': 스택 push [ ( ]\n2. 'A': 출력 A\n3. '+': 스택 push [ (, + ]\n4. 'B': 출력 A B\n5. ')': '(' 만날 때까지 pop하여 출력 -> A B +, '(' 제거\n6. '*': 스택 push [ * ]\n7. '(': 스택 push [ *, ( ]\n8. 'C': 출력 A B + C\n9. '-': 스택 push [ *, (, - ]\n10. 'D': 출력 A B + C D\n11. '/': '/' 우선순위가 '-'보다 높으므로 push [ *, (, -, / ]\n12. 'E': 출력 A B + C D E\n13. ')': '(' 만날 때까지 pop하여 출력 -> A B + C D E / -, '(' 제거\n14. '^': '^' 우선순위가 '*'보다 높으므로 push [ *, ^ ]\n15. 'F': 출력 A B + C D E / - F\n16. 수식 끝: 스택의 모든 연산자 pop -> 출력 A B + C D E / - F ^ *"
+            },
+            {
+              "sub_num": "3-2",
+              "sub_title": "후위 표기식 피연산자 스택 계산",
+              "solution": "1. 8, 2 push -> 스택: [8, 2]\n2. '/' 만남: pop 2, pop 8 -> 8 / 2 = 4 push -> 스택: [4]\n3. 3, 4 push -> 스택: [4, 3, 4]\n4. '*' 만남: pop 4, pop 3 -> 3 * 4 = 12 push -> 스택: [4, 12]\n5. '+' 만남: pop 12, pop 4 -> 4 + 12 = 16 push -> 스택: [16]\n6. 5 push -> 스택: [16, 5]\n7. '-' 만남: pop 5, pop 16 -> 16 - 5 = 11 push -> 스택: [11]\n최종 결과: 11"
+            },
+            {
+              "sub_num": "3-3",
+              "sub_title": "괄호 검사 실패 조건 3가지",
+              "solution": "1. 닫는 괄호를 만났으나 스택이 이미 비어 있는 경우\n2. 닫는 괄호와 스택에서 꺼낸 여는 괄호의 종류(짝)가 일치하지 않는 경우\n3. 모든 문자열 처리가 끝났으나 스택에 여는 괄호가 남아 있는 경우"
+            }
+          ],
+          "rubric": "연산자 우선순위(^ > *, / > +, -) 및 괄호 pop 시점 실수 시 감점. 피연산자 pop 순서(두 번째 pop된 수가 왼쪽 피연산자: op1 / op2) 역전 시 0점 처리."
+        },
+        {
+          "id": "ds-p4",
+          "num": 4,
+          "title": "원형 큐(Circular Queue) 포인터 추적 및 모듈러 연산 구현",
+          "question": "배열 크기 MAX_QSIZE = 5인 원형 큐의 포인터 변화와 상태를 추적하시오.\n\n[소문제 4-1] 원형 큐의 인덱스 증가 공식과 포화/공백 구분을 위해 한 칸을 비워두는 설계를 설명하시오.\n[소문제 4-2] front=0, rear=0 상태에서 enqueue(A), enqueue(B), dequeue(), enqueue(C), enqueue(D), enqueue(E), dequeue(), enqueue(F) 연산 시 각 단계별 front, rear 및 배열 내용을 추적하시오.\n[소문제 4-3] CircularQueue 클래스의 enqueue, dequeue 메서드를 파이썬으로 손코딩하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "4-1",
+              "sub_title": "모듈러 인덱스 공식 및 한 칸 비움의 원리",
+              "solution": "공식: rear = (rear + 1) % MAX_QSIZE, front = (front + 1) % MAX_QSIZE\n한 칸을 비워두는 이유: 한 칸을 비워두지 않으면 공백 상태와 포화 상태 모두 front == rear가 되어 구별할 수 없게 된다. 한 칸을 비움으로써 공백 상태(front == rear)와 포화 상태((rear + 1) % MAX_QSIZE == front)를 명확히 판별할 수 있다."
+            },
+            {
+              "sub_num": "4-2",
+              "sub_title": "8단계 연산에 따른 front/rear/배열 추적",
+              "solution": "초기: front=0, rear=0 | [None, None, None, None, None]\n1. enq(A): front=0, rear=1 | [None, 'A', None, None, None]\n2. enq(B): front=0, rear=2 | [None, 'A', 'B', None, None]\n3. deq() -> A: front=1, rear=2 | [None, None, 'B', None, None]\n4. enq(C): front=1, rear=3 | [None, None, 'B', 'C', None]\n5. enq(D): front=1, rear=4 | [None, None, 'B', 'C', 'D']\n6. enq(E): (rear+1)%5=0 != front(1)이므로 가능! front=1, rear=0 | ['E', None, 'B', 'C', 'D'] (포화 직전 상태!)\n7. deq() -> B: front=2, rear=0 | ['E', None, None, 'C', 'D']\n8. enq(F): (rear+1)%5=1 != front(2)이므로 가능! front=2, rear=1 | ['E', 'F', None, 'C', 'D']"
+            },
+            {
+              "sub_num": "4-3",
+              "sub_title": "CircularQueue 손코딩",
+              "solution": "def is_empty(self):\n    return self.front == self.rear\n\ndef is_full(self):\n    return (self.rear + 1) % self.capacity == self.front\n\ndef enqueue(self, item):\n    if self.is_full():\n        raise IndexError('Queue Overflow')\n    self.rear = (self.rear + 1) % self.capacity\n    self.array[self.rear] = item\n\ndef dequeue(self):\n    if self.is_empty():\n        raise IndexError('Queue Underflow')\n    self.front = (self.front + 1) % self.capacity\n    item = self.array[self.front]\n    self.array[self.front] = None\n    return item"
+            }
+          ],
+          "rubric": "front가 가리키는 자리는 항상 비어 있어야 하며 실제 첫 데이터는 (front + 1) % MAX_QSIZE에 위치함을 명시하지 않으면 감점."
+        },
+        {
+          "id": "ds-p5",
+          "num": 5,
+          "title": "원형 덱(Deque) 음수 모듈러 보정 연산 및 회문 검사 손코딩",
+          "question": "양방향 큐인 덱(Deque)의 원형 배열 연산과 회문 검사를 서술하시오.\n\n[소문제 5-1] add_front 시 front가 0일 때 발생하는 음수 인덱스 문제와 (front - 1 + capacity) % capacity 공식의 보정 원리를 설명하시오.\n[소문제 5-2] 원형 덱의 add_front와 delete_rear 메서드를 손코딩하시오.\n[소문제 5-3] 문자열 radar, level 같은 회문(Palindrome)을 덱으로 판별하는 알고리즘을 작성하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "5-1",
+              "sub_title": "음수 모듈러 보정 원리",
+              "solution": "front가 0일 때 1을 빼면 -1이 된다. 파이썬에서는 음수 인덱스가 리스트 끝을 가리키지만 타 언어에서는 에러가 나거나 의도치 않은 메모리를 참조한다.\n주기 크기인 capacity를 미리 더하여 (front - 1 + capacity) % capacity를 계산하면 항상 0 ≤ index < capacity 범위의 안전하고 올바른 인덱스(예: (0 - 1 + 5) % 5 = 4)를 얻게 된다."
+            },
+            {
+              "sub_num": "5-2",
+              "sub_title": "add_front & delete_rear 손코딩",
+              "solution": "def add_front(self, item):\n    if self.is_full():\n        raise IndexError('Deque Overflow')\n    self.array[self.front] = item\n    self.front = (self.front - 1 + self.capacity) % self.capacity\n\ndef delete_rear(self):\n    if self.is_empty():\n        raise IndexError('Deque Underflow')\n    item = self.array[self.rear]\n    self.array[self.rear] = None\n    self.rear = (self.rear - 1 + self.capacity) % self.capacity\n    return item"
+            },
+            {
+              "sub_num": "5-3",
+              "sub_title": "회문 판별 알고리즘 (O(n))",
+              "solution": "def is_palindrome(text):\n    dq = CircularDeque(len(text) + 1)\n    for ch in text:\n        dq.add_rear(ch)\n    while dq.size() > 1:\n        first = dq.delete_front()\n        last = dq.delete_rear()\n        if first != last:\n            return False\n    return True\n# 시간 복잡도: 문자열 삽입 n회 + 비교 n/2회 = O(n)"
+            }
+          ],
+          "rubric": "add_front 시 self.array[self.front]에 먼저 저장한 뒤 front를 반시계로 이동시켜야 함. 순서 뒤바뀌면 감점."
+        },
+        {
+          "id": "ds-p6",
+          "num": 6,
+          "title": "단순 연결 리스트(Singly Linked List) 노드 손코딩 및 메모리 비교",
+          "question": "단순 연결 리스트의 핵심 연산과 배열과의 메모리 특성을 비교하시오.\n\n[소문제 6-1] Node 클래스와 LinkedList 클래스의 insert(self, pos, elem) 메서드를 손코딩하시오 (pos=0일 때와 중간 삽입 시 링크 연결 순서 주의).\n[소문제 6-2] delete(self, pos) 메서드를 손코딩하고 prev.link = cur.link 포인터 조작을 설명하시오.\n[소문제 6-3] 파이썬 리스트(동적 배열)와 연결 리스트를 임의 접근, 삽입/삭제, 캐시 지역성 관점에서 표로 비교하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "6-1",
+              "sub_title": "Node 및 insert(pos, elem) 손코딩",
+              "solution": "class Node:\n    def __init__(self, data, link=None):\n        self.data = data\n        self.link = link\n\nclass LinkedList:\n    def __init__(self):\n        self.head = None\n\n    def insert(self, pos, elem):\n        new_node = Node(elem)\n        if pos == 0:\n            new_node.link = self.head\n            self.head = new_node\n        else:\n            prev = self.get_node(pos - 1)\n            if prev is None:\n                raise IndexError('Invalid position')\n            new_node.link = prev.link  # 새 노드의 링크를 먼저 후속 노드에 연결!\n            prev.link = new_node       # 이후 선행 노드가 새 노드를 가리킴"
+            },
+            {
+              "sub_num": "6-2",
+              "sub_title": "delete(pos) 손코딩 및 링크 변경",
+              "solution": "def delete(self, pos):\n    if self.head is None:\n        raise IndexError('Empty list')\n    if pos == 0:\n        item = self.head.data\n        self.head = self.head.link\n        return item\n    prev = self.get_node(pos - 1)\n    if prev is None or prev.link is None:\n        raise IndexError('Invalid position')\n    cur = prev.link\n    item = cur.data\n    prev.link = cur.link  # 삭제 노드를 건너뛰고 직접 후속 노드 연결\n    return item"
+            },
+            {
+              "sub_num": "6-3",
+              "sub_title": "동적 배열 vs 연결 리스트 비교표",
+              "solution": "1. 임의 접근: 동적 배열 O(1) (인덱스 즉시 계산) vs 연결 리스트 O(n) (순차 탐색)\n2. 삽입/삭제: 동적 배열 O(n) (원소 이동 필요) vs 연결 리스트 O(1) (노드 위치 확보 시 링크만 변경)\n3. 캐시 지역성 & 메모리: 동적 배열은 연속 메모리로 공간 지역성 우수하나, 연결 리스트는 비연속 메모리와 포인터 오버헤드로 캐시 미스 빈번."
+            }
+          ],
+          "rubric": "중간 노드 삽입 시 new_node.link = prev.link를 prev.link = new_node보다 먼저 작성하지 않으면 후속 노드 유실로 -5점 감점."
+        },
+        {
+          "id": "ds-p7",
+          "num": 7,
+          "title": "하노이의 탑(Tower of Hanoi) 재귀 손코딩, 점화식 유도 및 호출 스택",
+          "question": "분할 정복 재귀 알고리즘인 하노이의 탑을 분석하시오.\n\n[소문제 7-1] hanoi_tower(n, fr, to, aux) 재귀 함수를 파이썬으로 손코딩하시오.\n[소문제 7-2] n=3일 때 원반 이동 과정 7단계를 순서대로 서술하고 호출 트리를 설명하시오.\n[소문제 7-3] 점화식 T(n) = 2T(n-1) + 1을 풀어 T(n) = 2^n - 1 및 O(2^n)임을 증명하고, 기저 조건(Base case) 누락 시 시스템 Call Stack에서 일어나는 현상을 서술하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "7-1",
+              "sub_title": "하노이의 탑 파이썬 손코딩",
+              "solution": "def hanoi_tower(n, fr, to, aux):\n    if n == 1:\n        print(f'원반 1: {fr} -> {to}')\n    else:\n        hanoi_tower(n - 1, fr, aux, to)      # 1. n-1개 원반을 fr에서 aux로\n        print(f'원반 {n}: {fr} -> {to}')       # 2. 가장 큰 n번 원반을 to로\n        hanoi_tower(n - 1, aux, to, fr)      # 3. n-1개 원반을 aux에서 to로"
+            },
+            {
+              "sub_num": "7-2",
+              "sub_title": "n=3 원반 이동 7단계",
+              "solution": "1. 원반 1: A -> C\n2. 원반 2: A -> B\n3. 원반 1: C -> B\n4. 원반 3: A -> C\n5. 원반 1: B -> A\n6. 원반 2: B -> C\n7. 원반 1: A -> C"
+            },
+            {
+              "sub_num": "7-3",
+              "sub_title": "점화식 증명 및 호출 스택 오버플로우",
+              "solution": "점화식 풀이:\nT(n) = 2T(n-1) + 1\n     = 2(2T(n-2) + 1) + 1 = 4T(n-2) + 2 + 1\n     = 2^(n-1) T(1) + 2^(n-2) + ... + 1\n     = 2^(n-1) + 2^(n-2) + ... + 1 = 2^n - 1\n따라서 시간 복잡도는 O(2^n)이다.\n기저 조건 누락 시: 함수 호출 시마다 복귀 주소와 지역변수를 담은 활성화 레코드(Activation Record)가 Call Stack에 무한히 push되어 스택 메모리를 초과하는 RecursionError(Stack Overflow)가 발생함."
+            }
+          ],
+          "rubric": "이동 순서 7단계 중 하나라도 틀리면 부분 감점. 점화식 등비수열 합 계산 과정이 누락되면 감점."
+        }
+      ],
+      "vocab": [
+        {
+          "zh": "Abstract Data Type (ADT)",
+          "py": "추상 자료형",
+          "pos": "핵심 개념",
+          "kr": "데이터와 연산의 명세만을 정의하고 구체적 구현 세부사항은 내부로 은닉하는 객체지향 설계 개념",
+          "level": "⭐ 자료구조 1장",
+          "note": "캡슐화 및 정보 은닉"
+        },
+        {
+          "zh": "Big-O Notation",
+          "py": "빅오 표기법",
+          "pos": "점근 표기법",
+          "kr": "입력 크기 n에 대해 최악의 경우(Worst-case) 실행 시간의 상한(Upper Bound)을 나타내는 점근적 분석 도구",
+          "level": "⭐ 자료구조 1장",
+          "note": "0 <= f(n) <= c*g(n)"
+        },
+        {
+          "zh": "Amortized Analysis",
+          "py": "분할 상환 분석",
+          "pos": "분석 기법",
+          "kr": "가끔 발생하는 배열 확장 O(N) 비용을 연속된 저비용 연산에 골고루 분할하여 연산당 평균 O(1)을 산출하는 기법",
+          "level": "⭐ 자료구조 2장",
+          "note": "Doubling Strategy"
+        },
+        {
+          "zh": "Circular Queue",
+          "py": "원형 큐",
+          "pos": "자료구조",
+          "kr": "선형 큐의 잘못된 포화 상태를 해결하기 위해 배열의 처음과 끝을 모듈러(%) 연산으로 연결한 구조",
+          "level": "⭐ 자료구조 5장",
+          "note": "front == rear: 공백, (rear+1)%size == front: 포화"
+        },
+        {
+          "zh": "Double-Ended Queue (Deque)",
+          "py": "덱",
+          "pos": "자료구조",
+          "kr": "전단(Front)과 후단(Rear) 양쪽 끝에서 모두 삽입과 삭제가 가능한 양방향 큐",
+          "level": "⭐ 자료구조 5장",
+          "note": "회문 검사 및 슬라이딩 윈도우"
+        },
+        {
+          "zh": "Negative Modulo Correction",
+          "py": "음수 모듈러 보정",
+          "pos": "알고리즘 공식",
+          "kr": "front가 0일 때 1을 빼면 -1이 되는 문제를 방지하기 위해 (front - 1 + capacity) % capacity로 양수화하는 기법",
+          "level": "⭐ 자료구조 5장",
+          "note": "덱 add_front 구현"
+        },
+        {
+          "zh": "Postfix Notation",
+          "py": "후위 표기법",
+          "pos": "수식 표기법",
+          "kr": "연산자를 피연산자 뒤에 표기하여 괄호 없이도 연산자 우선순위를 명확히 계산할 수 있는 방식",
+          "level": "⭐ 자료구조 4장",
+          "note": "스택 기반 수식 계산"
+        },
+        {
+          "zh": "Singly Linked List",
+          "py": "단순 연결 리스트",
+          "pos": "자료구조",
+          "kr": "데이터와 다음 노드를 가리키는 링크(포인터)를 갖는 노드들이 단방향으로 연결된 동적 자료구조",
+          "level": "⭐ 자료구조 3장",
+          "note": "임의 삽입/삭제 O(1)"
+        },
+        {
+          "zh": "Cache Locality",
+          "py": "캐시 지역성",
+          "pos": "컴퓨터 구조",
+          "kr": "연속된 메모리에 배치된 동적 배열이 비연속 노드로 분산된 연결 리스트보다 CPU 캐시 적중률이 훨씬 우수한 특성",
+          "level": "⭐ 자료구조 3장",
+          "note": "공간 지역성(Spatial Locality)"
+        },
+        {
+          "zh": "Tower of Hanoi",
+          "py": "하노이의 탑",
+          "pos": "재귀 알고리즘",
+          "kr": "n개의 원반을 최소 2^n - 1회의 이동으로 목적 기둥으로 옮기는 대표적인 분할 정복 재귀 문제",
+          "level": "⭐ 자료구조 1장",
+          "note": "T(n) = 2T(n-1) + 1 -> O(2^n)"
+        },
+        {
+          "zh": "Activation Record",
+          "py": "활성화 레코드",
+          "pos": "메모리 구조",
+          "kr": "함수 호출 시 시스템 Call Stack에 할당되어 매개변수, 지역변수, 복귀 주소를 저장하는 스택 프레임",
+          "level": "⭐ 자료구조 4장",
+          "note": "스택 오버플로우 원인"
+        },
+        {
+          "zh": "Stack Overflow vs Underflow",
+          "py": "오버플로우 vs 언더플로우",
+          "pos": "예외 상황",
+          "kr": "가득 찬 스택에 push를 시도할 때(Overflow)와 빈 스택에서 pop/peek을 시도할 때(Underflow) 발생하는 오류",
+          "level": "⭐ 자료구조 4장",
+          "note": "IndexError 방어 코딩"
+        }
+      ]
+    },
     "beiying": {
       "id": "beiying",
       "name": "《背影 (뒷모습)》",
@@ -2913,655 +4830,1620 @@ var HUFS_DATA = {
     },
     "pathways3": {
       "id": "pathways3",
-      "name": "《Pathways 3》",
-      "author": "Billy Joseph Fitzgerald",
-      "category": "대학영어 2 (원어민 / 실질 60%)",
+      "name": "Pathways 3 (Reading & Writing)",
+      "author": "Cengage National Geographic",
+      "category": "대영2 (Billy Joseph Fitzgerald)",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Unit 1: What Are They Thinking? (동물 인지 과학)",
+          "short_title": "Unit 1 동물인지",
+          "sentences": [
+            {
+              "zh": "[Paragraph A (도입: 도구 사용과 문제 해결)] Animals demonstrate problem-solving abilities that challenge the idea that only humans possess advanced intelligence.",
+              "kr": "핵심 세부 내용: 까마귀(New Caledonian crows)가 철사를 구부려 도구를 만들고 병 속에 든 먹이를 꺼내는 실험. 이는 단순 시행착오가 아니라 사전 계획(planning)과 인과 추론에 기반함.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph B (자아 인식과 거울 실험)] Self-recognition in mirrors indicates a higher level of consciousness in certain animals.",
+              "kr": "핵심 세부 내용: 침팬지, 돌고래, 코끼리가 거울에 비친 자신의 몸에 묻은 점을 확인하고 닦아내는 행동. 이는 '나(Self)'라는 개념을 인식함을 증명.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C (동물의 슬픔과 애도 - Grief)] Animals show emotional responses, particularly grief, when family members or companions die.",
+              "kr": "핵심 세부 내용: 코끼리 무리가 죽은 동료의 뼈 주위에 모여 오랜 시간 코로 만지며 침묵을 지키는 의식적 애도 행동.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D (공감 능력 - Empathy in Rats & Dogs)] Recent scientific experiments reveal that empathy is not unique to humans.",
+              "kr": "핵심 세부 내용: 쥐 실험(Lever-pulling experiment) — 레버를 당기면 먹이가 나오지만 다른 쥐에게 전기 충격이 가해진다는 사실을 인지하자 쥐들이 레버 누르기를 중단함 (suffering 방지 본능).",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E (학계의 회의론과 반론 - Anthropomorphism)] Skeptics warn against anthropomorphism (인간화: 동물의 행동에 인간의 감정을 투영하는 오류).",
+              "kr": "핵심 세부 내용: 동물의 특정 행동이 실제 감정인지, 단순한 조건반사적 생존 기제인지 엄밀한 과학적 검증이 필요하다는 주장.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F & G (결론 및 시사점)] Expanding recognition of animal cognition reshapes how humans treat and protect nonhuman species.",
+              "kr": "핵심 세부 내용: 동물의 지능과 감정을 인정함으로써 동물 복지 법안, 사육 환경 개선, 생태계 보존의 도덕적 정당성이 확보됨.",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Unit 3: Living on an Urban Planet (메가시티와 도시화)",
+          "short_title": "Unit 3 도시화",
+          "sentences": [
+            {
+              "zh": "[Paragraph A (도시 행성으로의 전환)] Humanity has crossed a historic threshold, transitioning into an predominantly urban species.",
+              "kr": "핵심 세부 내용: 과거 농경 중심 사회에서 산업화 이후 급격한 도시 집중. 1950년 인구 1,000만 이상의 메가시티는 뉴욕과 도쿄 2곳에 불과했으나 현재는 30개 이상으로 급증.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph B (도시 집중의 경제적 동인 - Push & Pull Factors)] Economic opportunities act as the strongest magnet drawing rural populations into cities.",
+              "kr": "핵심 세부 내용: 도시의 높은 소득 수준(income), 다양한 일자리, 교육 및 의료 인프라. 반면 농촌 지역의 일자리 부족과 기후 변화로 인한 농업 생산성 저하.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C (도시의 생산성과 규모의 경제 - Productivity)] Dense concentrations of people foster greater economic productivity and technological innovation.",
+              "kr": "핵심 세부 내용: 지식 교류의 가속화, 인프라 공유로 인한 1인당 생산성 향상. 세계 GDP의 80% 이상이 도시에서 창출됨.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D (도시 스프롤 현상과 교외화 - Sprawl & Suburbs)] Rapid population growth forces cities to spread out into surrounding rural areas, creating extensive suburbs.",
+              "kr": "핵심 세부 내용: 도심 지가 상승으로 인해 외곽으로의 확산(sprawl). 긴 통근 시간, 교통 체증, 탄소 배출 증가라는 부작용 야기.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E (도시의 환경적 도전과 슬럼 문제)] Uncontrolled urban growth leads to severe infrastructural strain and social inequality.",
+              "kr": "핵심 세부 내용: 개발도상국 도시의 슬럼(무허가 빈민가) 형성, 식수 부족, 폐기물 처리 불능, 대기 및 수질 오염 심화.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F & G (미래 도시 솔루션 - Green & Smart Cities)] Sustainable urban planning and technological innovations are essential to ensure the livability of future cities.",
+              "kr": "핵심 세부 내용: 대중교통 중심 개발(TOD), 녹지 공간 확충, 에너지 효율적 친환경 건축, 스마트 그리드 도입.",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Unit 5: The New Face of Tourism (지속 가능한 지오투어리즘)",
+          "short_title": "Unit 5 관광",
+          "sentences": [
+            {
+              "zh": "[Paragraph A (대중 관광의 폭발적 성장과 명암)] Global tourism has grown exponentially, bringing substantial economic gains but severe environmental strains.",
+              "kr": "핵심 세부 내용: 저비용 항공사(LCC)의 보급과 크루즈 여행 확대로 전 세계 해외 여행객 수가 14억 명을 돌파함.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph B (과잉 관광의 피해 사례 - Venice & Machu Picchu)] Fragile historic destinations are suffering irreversible damage due to mass visitor overcrowding.",
+              "kr": "핵심 세부 내용: 베네치아의 대형 크루즈선 파도로 인한 석조 기초 침식 및 현지 주민 유출; 마추픽추와 마야 유적의 계단 마모 및 폐기물 범람.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C (새로운 관광 패러다임의 태동 - Geotourism)] Geotourism emerges as an alternative that sustains or enhances the geographical character of a place.",
+              "kr": "핵심 세부 내용: 내셔널 지오그래픽이 제안한 개념: 환경(environment), 문화(culture), 미학(aesthetics), 유산(heritage), 현지 주민의 복지(well-being)를 모두 보존하는 총체적 접근.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D (지역 사회와의 상생 파트너십 - Partnerships)] Successful sustainable tourism depends on deep partnerships between tour operators and local residents.",
+              "kr": "핵심 세부 내용: 현지 주민을 공식 가이드(official guides)로 고용하여 정당한 생계(earn a living)를 보장하고, 수익이 다국적 기업이 아닌 지역 공동체로 환원되도록 구조화.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E (재생 에너지와 친환경 숙박 시설 - Eco-friendly Hospitality)] Modern eco-lodges demonstrate that guest comfort can coexist with renewable and sustainable practices.",
+              "kr": "핵심 세부 내용: 태양광 및 지열 에너지 사용, 빗물 재활용, 일회용 플라스틱 퇴출, 현지 유기농 식자재 사용.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F (여행자의 책임과 의식 고취 - Traveler Awareness)] Educating travelers to respect local culture and environment is vital for the long-term future of tourism.",
+              "kr": "핵심 세부 내용: 관광객 스스로가 탄소 발자국을 줄이고, 현지 규칙을 준수하며, 문화적 민감성을 발휘해야 한다는 인식 제고.",
+              "py": ""
+            }
+          ]
+        }
+      ],
       "vocab": [
         {
-          "zh": "behavior",
-          "py": "[n · Unit 1]",
-          "kr": "the way someone or something acts (행동, 처신)",
-          "level": "Unit 1",
-          "note": "Even rats show human-like behavior in lab experiments."
+          "word": "behavior",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "the way someone or something acts",
+          "kr": "행동, 처신",
+          "ex": "Even rats show human-like behavior in lab experiments."
         },
         {
-          "zh": "bond",
-          "py": "[n · Unit 1]",
-          "kr": "a feeling of connection with someone or something else (유대감, 결속)",
-          "level": "Unit 1",
-          "note": "People often form strong bonds with animals they interact with."
+          "word": "bond",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "a feeling of connection with someone or something else",
+          "kr": "유대감, 결속",
+          "ex": "People often form strong bonds with animals they interact with."
         },
         {
-          "zh": "cognitive",
-          "py": "[adj · Unit 1]",
-          "kr": "relating to thinking and understanding (인지적인)",
-          "level": "Unit 1",
-          "note": "Regular exercise can help with physical fitness and cognitive function."
+          "word": "cognitive",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "relating to thinking and understanding",
+          "kr": "인지적인",
+          "ex": "Regular exercise can help with physical fitness and cognitive function."
         },
         {
-          "zh": "complex",
-          "py": "[adj · Unit 1]",
-          "kr": "involving a lot of different parts; difficult to understand (복잡한)",
-          "level": "Unit 1",
-          "note": "Some believe emotions like sadness are too complex for nonhuman species."
+          "word": "complex",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "involving a lot of different parts; difficult to understand",
+          "kr": "복잡한",
+          "ex": "Some believe emotions like sadness are too complex for nonhuman species."
         },
         {
-          "zh": "controversial",
-          "py": "[adj · Unit 1]",
-          "kr": "causing disagreement (논란의 여지가 있는)",
-          "level": "Unit 1",
-          "note": "The idea that animals feel emotions is controversial and sparks intense debate."
+          "word": "controversial",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "causing disagreement",
+          "kr": "논란의 여지가 있는",
+          "ex": "The idea that animals feel emotions is controversial and sparks intense debate."
         },
         {
-          "zh": "discipline",
-          "py": "[v · Unit 1]",
-          "kr": "to train someone to follow rules or codes of behavior (훈육하다, 규율을 따르게 하다)",
-          "level": "Unit 1",
-          "note": "One way to discipline children is to establish a quiet timeout."
+          "word": "discipline",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to train someone to follow rules or codes of behavior",
+          "kr": "훈육하다, 규율을 따르게 하다",
+          "ex": "One way to discipline children is to establish a quiet timeout."
         },
         {
-          "zh": "establish",
-          "py": "[v · Unit 1]",
-          "kr": "to create or start something that will last a long time (확립하다, 설립하다)",
-          "level": "Unit 1",
-          "note": "Children generally sleep better when parents establish a regular bedtime routine."
+          "word": "establish",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to create or start something that will last a long time",
+          "kr": "확립하다, 설립하다",
+          "ex": "Children generally sleep better when parents establish a regular bedtime routine."
         },
         {
-          "zh": "extended family",
-          "py": "[n · Unit 1]",
-          "kr": "a group that includes uncles, cousins, grandparents, etc. (대가족)",
-          "level": "Unit 1",
-          "note": "Previously, it was common for extended families to live together in one home."
+          "word": "extended family",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "a group that includes uncles, cousins, grandparents, etc.",
+          "kr": "대가족",
+          "ex": "Previously, it was common for extended families to live together in one home."
         },
         {
-          "zh": "gender",
-          "py": "[n · Unit 1]",
-          "kr": "the characteristics of being male or female (성별)",
-          "level": "Unit 1",
-          "note": "It is normal for children, regardless of gender, to fear separation."
+          "word": "gender",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "the characteristics of being male or female",
+          "kr": "성별",
+          "ex": "It is normal for children, regardless of gender, to fear separation."
         },
         {
-          "zh": "generally",
-          "py": "[adv · Unit 1]",
-          "kr": "usually (일반적으로, 대개)",
-          "level": "Unit 1",
-          "note": "Researchers observed that children generally respond well to consistent schedules."
+          "word": "generally",
+          "pos": "adv",
+          "unit": "Unit 1",
+          "def_en": "usually",
+          "kr": "일반적으로, 대개",
+          "ex": "Researchers observed that children generally respond well to consistent schedules."
         },
         {
-          "zh": "grief",
-          "py": "[n · Unit 1]",
-          "kr": "a very sad feeling (especially after someone dies) (비탄, 깊은 슬픔)",
-          "level": "Unit 1",
-          "note": "Some animals appear to express grief when a family member dies."
+          "word": "grief",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "a very sad feeling (especially after someone dies)",
+          "kr": "비탄, 깊은 슬픔",
+          "ex": "Some animals appear to express grief when a family member dies."
         },
         {
-          "zh": "intense",
-          "py": "[adj · Unit 1]",
-          "kr": "very great or extreme (극심한, 강렬한)",
-          "level": "Unit 1",
-          "note": "Children can experience an intense feeling of fear when lost."
+          "word": "intense",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "very great or extreme",
+          "kr": "극심한, 강렬한",
+          "ex": "Children can experience an intense feeling of fear when lost."
         },
         {
-          "zh": "observe",
-          "py": "[v · Unit 1]",
-          "kr": "to notice something after looking closely (관찰하다, 목격하다)",
-          "level": "Unit 1",
-          "note": "Biologists observed wolves cooperating in complex social groups."
+          "word": "observe",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to notice something after looking closely",
+          "kr": "관찰하다, 목격하다",
+          "ex": "Biologists observed wolves cooperating in complex social groups."
         },
         {
-          "zh": "previously",
-          "py": "[adv · Unit 1]",
-          "kr": "before the time period that you are talking about (이전에, 과거에)",
-          "level": "Unit 1",
-          "note": "Extended family households were far more common previously."
+          "word": "previously",
+          "pos": "adv",
+          "unit": "Unit 1",
+          "def_en": "before the time period that you are talking about",
+          "kr": "이전에, 과거에",
+          "ex": "Extended family households were far more common previously."
         },
         {
-          "zh": "recognition",
-          "py": "[n · Unit 1]",
-          "kr": "an understanding that something is true (인정, 인식)",
-          "level": "Unit 1",
-          "note": "There is a growing recognition that animal minds are sophisticated."
+          "word": "recognition",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "an understanding that something is true",
+          "kr": "인정, 인식",
+          "ex": "There is a growing recognition that animal minds are sophisticated."
         },
         {
-          "zh": "repeatedly",
-          "py": "[adv · Unit 1]",
-          "kr": "occurring many times (반복해서, 여러 차례)",
-          "level": "Unit 1",
-          "note": "After doing this repeatedly, the animals mastered the maze."
+          "word": "repeatedly",
+          "pos": "adv",
+          "unit": "Unit 1",
+          "def_en": "occurring many times",
+          "kr": "반복해서, 여러 차례",
+          "ex": "After doing this repeatedly, the animals mastered the maze."
         },
         {
-          "zh": "replace",
-          "py": "[v · Unit 1]",
-          "kr": "to have something new or different instead of the original (대체하다, 대신하다)",
-          "level": "Unit 1",
-          "note": "When birds shed feathers, new plumage grows to replace that which was lost."
+          "word": "replace",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to have something new or different instead of the original",
+          "kr": "대체하다, 대신하다",
+          "ex": "When birds shed feathers, new plumage grows to replace that which was lost."
         },
         {
-          "zh": "social structure",
-          "py": "[n · Unit 1]",
-          "kr": "the way a group of people or animals is organized (사회 구조, 집단 구조)",
-          "level": "Unit 1",
-          "note": "Elephants maintain a matriarchal social structure led by the oldest female."
+          "word": "social structure",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "the way a group of people or animals is organized",
+          "kr": "사회 구조, 집단 구조",
+          "ex": "Elephants maintain a matriarchal social structure led by the oldest female."
         },
         {
-          "zh": "suffering",
-          "py": "[n · Unit 1]",
-          "kr": "pain, either mental or physical (고통, 괴로움)",
-          "level": "Unit 1",
-          "note": "The rats stopped pressing the lever to prevent the other rats suffering."
+          "word": "suffering",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "pain, either mental or physical",
+          "kr": "고통, 괴로움",
+          "ex": "The rats stopped pressing the lever to prevent the other rats suffering."
         },
         {
-          "zh": "treat",
-          "py": "[v · Unit 1]",
-          "kr": "to behave toward someone or something in a particular way (대우하다, 다루다)",
-          "level": "Unit 1",
-          "note": "Society has a moral duty to treat living creatures with compassion."
+          "word": "treat",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to behave toward someone or something in a particular way",
+          "kr": "대우하다, 다루다",
+          "ex": "Society has a moral duty to treat living creatures with compassion."
         },
         {
-          "zh": "aspect",
-          "py": "[n · Unit 3]",
-          "kr": "a part or side of something (측면, 양상)",
-          "level": "Unit 3",
-          "note": "One negative aspect of city living is chronic traffic congestion."
+          "word": "aspect",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "a part or side of something",
+          "kr": "측면, 양상",
+          "ex": "One negative aspect of city living is chronic traffic congestion."
         },
         {
-          "zh": "barrier",
-          "py": "[n · Unit 3]",
-          "kr": "something that blocks movement or separates things (장벽, 방벽)",
-          "level": "Unit 3",
-          "note": "Coastal cities construct storm surge barriers to block ocean surges."
+          "word": "barrier",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "something that blocks movement or separates things",
+          "kr": "장벽, 방벽",
+          "ex": "Coastal cities construct storm surge barriers to block ocean surges."
         },
         {
-          "zh": "canal",
-          "py": "[n · Unit 3]",
-          "kr": "an artificial waterway for boats or water conveyance (운하, 수로)",
-          "level": "Unit 3",
-          "note": "Venice is internationally famous for its historic canals."
+          "word": "canal",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "an artificial waterway for boats or water conveyance",
+          "kr": "운하, 수로",
+          "ex": "Venice is internationally famous for its historic canals."
         },
         {
-          "zh": "concentration",
-          "py": "[n · Unit 3]",
-          "kr": "a huge amount or number of something in one place (집중, 밀집)",
-          "level": "Unit 3",
-          "note": "Metropolitan areas feature a dense concentration of economic talent."
+          "word": "concentration",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "a huge amount or number of something in one place",
+          "kr": "집중, 밀집",
+          "ex": "Metropolitan areas feature a dense concentration of economic talent."
         },
         {
-          "zh": "construction",
-          "py": "[n · Unit 3]",
-          "kr": "the work or industry of building structures (건설, 공사)",
-          "level": "Unit 3",
-          "note": "Hundreds of architects and engineers work in the construction industry."
+          "word": "construction",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "the work or industry of building structures",
+          "kr": "건설, 공사",
+          "ex": "Hundreds of architects and engineers work in the construction industry."
         },
         {
-          "zh": "dense",
-          "py": "[adj · Unit 3]",
-          "kr": "having a large amount of something close together (인구 밀도가 높은, 빽빽한)",
-          "level": "Unit 3",
-          "note": "Some megacities are extremely dense, housing thousands per square kilometer."
+          "word": "dense",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "having a large amount of something close together",
+          "kr": "인구 밀도가 높은, 빽빽한",
+          "ex": "Some megacities are extremely dense, housing thousands per square kilometer."
         },
         {
-          "zh": "fierce",
-          "py": "[adj · Unit 3]",
-          "kr": "powerful, violent, and aggressive (weather/storm) (사나운, 맹렬한)",
-          "level": "Unit 3",
-          "note": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
+          "word": "fierce",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "powerful, violent, and aggressive (weather/storm)",
+          "kr": "사나운, 맹렬한",
+          "ex": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
         },
         {
-          "zh": "growth",
-          "py": "[n · Unit 3]",
-          "kr": "the process of increasing (성장, 증가)",
-          "level": "Unit 3",
-          "note": "Rapid population growth forces municipal borders outward."
+          "word": "growth",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "the process of increasing",
+          "kr": "성장, 증가",
+          "ex": "Rapid population growth forces municipal borders outward."
         },
         {
-          "zh": "income",
-          "py": "[n · Unit 3]",
-          "kr": "money that a person earns (소득, 수입)",
-          "level": "Unit 3",
-          "note": "Urban workers generally earn higher average incomes than agricultural labor."
+          "word": "income",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "money that a person earns",
+          "kr": "소득, 수입",
+          "ex": "Urban workers generally earn higher average incomes than agricultural labor."
         },
         {
-          "zh": "lower",
-          "py": "[v · Unit 3]",
-          "kr": "to move down or reduce the level/amount (낮추다, 내리다)",
-          "level": "Unit 3",
-          "note": "Hydraulic gates can lower or raise water levels during floods."
+          "word": "lower",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to move down or reduce the level/amount",
+          "kr": "낮추다, 내리다",
+          "ex": "Hydraulic gates can lower or raise water levels during floods."
         },
         {
-          "zh": "occasional",
-          "py": "[adj · Unit 3]",
-          "kr": "happening from time to time, not regularly (가끔의, 때때로의)",
-          "level": "Unit 3",
-          "note": "What was once an occasional storm has now become an annual crisis."
+          "word": "occasional",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "happening from time to time, not regularly",
+          "kr": "가끔의, 때때로의",
+          "ex": "What was once an occasional storm has now become an annual crisis."
         },
         {
-          "zh": "partially",
-          "py": "[adv · Unit 3]",
-          "kr": "partly, not completely (부분적으로)",
-          "level": "Unit 3",
-          "note": "During high tide, ground floors in Venice are partially submerged."
+          "word": "partially",
+          "pos": "adv",
+          "unit": "Unit 3",
+          "def_en": "partly, not completely",
+          "kr": "부분적으로",
+          "ex": "During high tide, ground floors in Venice are partially submerged."
         },
         {
-          "zh": "productive",
-          "py": "[adj · Unit 3]",
-          "kr": "able to achieve a significant amount or result (생산적인)",
-          "level": "Unit 3",
-          "note": "Knowledge-sharing clusters make urban professionals far more productive."
+          "word": "productive",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "able to achieve a significant amount or result",
+          "kr": "생산적인",
+          "ex": "Knowledge-sharing clusters make urban professionals far more productive."
         },
         {
-          "zh": "resident",
-          "py": "[n · Unit 3]",
-          "kr": "a person who lives in a particular place or area (거주자, 주민)",
-          "level": "Unit 3",
-          "note": "Every resident must be prepared for extreme weather occurrences."
+          "word": "resident",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "a person who lives in a particular place or area",
+          "kr": "거주자, 주민",
+          "ex": "Every resident must be prepared for extreme weather occurrences."
         },
         {
-          "zh": "separate",
-          "py": "[v · Unit 3]",
-          "kr": "to keep apart or divide (분리하다, 떼어놓다)",
-          "level": "Unit 3",
-          "note": "Massive seawalls separate the rising ocean from inland residential zones."
+          "word": "separate",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to keep apart or divide",
+          "kr": "분리하다, 떼어놓다",
+          "ex": "Massive seawalls separate the rising ocean from inland residential zones."
         },
         {
-          "zh": "spread out",
-          "py": "[v · Unit 3]",
-          "kr": "to cover a huge area (넓게 퍼지다, 확산되다)",
-          "level": "Unit 3",
-          "note": "Metropolises continue to spread out into surrounding rural provinces."
+          "word": "spread out",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to cover a huge area",
+          "kr": "넓게 퍼지다, 확산되다",
+          "ex": "Metropolises continue to spread out into surrounding rural provinces."
         },
         {
-          "zh": "suburb",
-          "py": "[n · Unit 3]",
-          "kr": "areas outside of a large city that have homes and businesses (교외 주거지구)",
-          "level": "Unit 3",
-          "note": "Families often migrate to quiet suburbs seeking affordable single homes."
+          "word": "suburb",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "areas outside of a large city that have homes and businesses",
+          "kr": "교외 주거지구",
+          "ex": "Families often migrate to quiet suburbs seeking affordable single homes."
         },
         {
-          "zh": "temporarily",
-          "py": "[adv · Unit 3]",
-          "kr": "for a limited period of time; not permanently (일시적으로)",
-          "level": "Unit 3",
-          "note": "Stores had to close temporarily while municipal pumps drained floodwater."
+          "word": "temporarily",
+          "pos": "adv",
+          "unit": "Unit 3",
+          "def_en": "for a limited period of time; not permanently",
+          "kr": "일시적으로",
+          "ex": "Stores had to close temporarily while municipal pumps drained floodwater."
         },
         {
-          "zh": "tend to",
-          "py": "[v · Unit 3]",
-          "kr": "to usually do something or be a certain way (~하는 경향이 있다)",
-          "level": "Unit 3",
-          "note": "Cities tend to offer superior healthcare and university facilities."
+          "word": "tend to",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to usually do something or be a certain way",
+          "kr": "~하는 경향이 있다",
+          "ex": "Cities tend to offer superior healthcare and university facilities."
         },
         {
-          "zh": "urban",
-          "py": "[adj · Unit 3]",
-          "kr": "relating to a city (도시의)",
-          "level": "Unit 3",
-          "note": "The planet has crossed the threshold into an urban majority."
+          "word": "urban",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "relating to a city",
+          "kr": "도시의",
+          "ex": "The planet has crossed the threshold into an urban majority."
         },
         {
-          "zh": "alternative",
-          "py": "[n · Unit 5]",
-          "kr": "one option instead of another (대안, 양자택일)",
-          "level": "Unit 5",
-          "note": "Geotourism offers a sustainable alternative to destructive mass tourism."
+          "word": "alternative",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "one option instead of another",
+          "kr": "대안, 양자택일",
+          "ex": "Geotourism offers a sustainable alternative to destructive mass tourism."
         },
         {
-          "zh": "awareness",
-          "py": "[n · Unit 5]",
-          "kr": "knowledge that something exists (인식, 의식)",
-          "level": "Unit 5",
-          "note": "The campaign aims to raise environmental awareness among international travelers."
+          "word": "awareness",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "knowledge that something exists",
+          "kr": "인식, 의식",
+          "ex": "The campaign aims to raise environmental awareness among international travelers."
         },
         {
-          "zh": "comfort",
-          "py": "[n · Unit 5]",
-          "kr": "a state of ease or well-being (안락, 편안함)",
-          "level": "Unit 5",
-          "note": "Modern eco-lodges provide luxury and comfort without depleting energy."
+          "word": "comfort",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a state of ease or well-being",
+          "kr": "안락, 편안함",
+          "ex": "Modern eco-lodges provide luxury and comfort without depleting energy."
         },
         {
-          "zh": "distinctive",
-          "py": "[adj · Unit 5]",
-          "kr": "special; very different (독특한, 구별되는)",
-          "level": "Unit 5",
-          "note": "Venice possesses a distinctive architecture shaped by its marine canals."
+          "word": "distinctive",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "special; very different",
+          "kr": "독특한, 구별되는",
+          "ex": "Venice possesses a distinctive architecture shaped by its marine canals."
         },
         {
-          "zh": "earn a living",
-          "py": "[phr · Unit 5]",
-          "kr": "to get money to pay for things that you need (생계를 유지하다, 돈을 벌다)",
-          "level": "Unit 5",
-          "note": "Indigenous residents earn a living as official eco-tour guides."
+          "word": "earn a living",
+          "pos": "phr",
+          "unit": "Unit 5",
+          "def_en": "to get money to pay for things that you need",
+          "kr": "생계를 유지하다, 돈을 벌다",
+          "ex": "Indigenous residents earn a living as official eco-tour guides."
         },
         {
-          "zh": "ecological",
-          "py": "[adj · Unit 5]",
-          "kr": "relating to the relationship between living things and their surroundings (생태학적인, 환경의)",
-          "level": "Unit 5",
-          "note": "Resorts must calculate their ecological footprint prior to development."
+          "word": "ecological",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "relating to the relationship between living things and their surroundings",
+          "kr": "생태학적인, 환경의",
+          "ex": "Resorts must calculate their ecological footprint prior to development."
         },
         {
-          "zh": "economy",
-          "py": "[n · Unit 5]",
-          "kr": "the system by which a governments industry and money are organized (경제)",
-          "level": "Unit 5",
-          "note": "The local island economy relies almost exclusively on overseas visitors."
+          "word": "economy",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "the system by which a governments industry and money are organized",
+          "kr": "경제",
+          "ex": "The local island economy relies almost exclusively on overseas visitors."
         },
         {
-          "zh": "enriching",
-          "py": "[adj · Unit 5]",
-          "kr": "providing more appreciation or enjoyment (풍요롭게 하는, 보람 있는)",
-          "level": "Unit 5",
-          "note": "Authentic cultural exchanges make travel far more enriching than sightseeing."
+          "word": "enriching",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "providing more appreciation or enjoyment",
+          "kr": "풍요롭게 하는, 보람 있는",
+          "ex": "Authentic cultural exchanges make travel far more enriching than sightseeing."
         },
         {
-          "zh": "harmful",
-          "py": "[adj · Unit 5]",
-          "kr": "damaging; dangerous (해로운, 유해한)",
-          "level": "Unit 5",
-          "note": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
+          "word": "harmful",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "damaging; dangerous",
+          "kr": "해로운, 유해한",
+          "ex": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
         },
         {
-          "zh": "landmark",
-          "py": "[n · Unit 5]",
-          "kr": "a building or structure with historical or cultural significance (랜드마크, 유서 깊은 건축물)",
-          "level": "Unit 5",
-          "note": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
+          "word": "landmark",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a building or structure with historical or cultural significance",
+          "kr": "랜드마크, 유서 깊은 건축물",
+          "ex": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
         },
         {
-          "zh": "maintain",
-          "py": "[v · Unit 5]",
-          "kr": "to keep at a certain level (유지하다, 보전하다)",
-          "level": "Unit 5",
-          "note": "Park authorities restrict tourist volume to maintain fragile trails."
+          "word": "maintain",
+          "pos": "v",
+          "unit": "Unit 5",
+          "def_en": "to keep at a certain level",
+          "kr": "유지하다, 보전하다",
+          "ex": "Park authorities restrict tourist volume to maintain fragile trails."
         },
         {
-          "zh": "necessary",
-          "py": "[adj · Unit 5]",
-          "kr": "essential; required (필수적인, 필요한)",
-          "level": "Unit 5",
-          "note": "Strict quotas are necessary to protect ancient ruins from overtourism."
+          "word": "necessary",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "essential; required",
+          "kr": "필수적인, 필요한",
+          "ex": "Strict quotas are necessary to protect ancient ruins from overtourism."
         },
         {
-          "zh": "objective",
-          "py": "[n · Unit 5]",
-          "kr": "a goal (목표, 목적)",
-          "level": "Unit 5",
-          "note": "A primary objective of geotourism is the preservation of geographic character."
+          "word": "objective",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a goal",
+          "kr": "목표, 목적",
+          "ex": "A primary objective of geotourism is the preservation of geographic character."
         },
         {
-          "zh": "official",
-          "py": "[adj · Unit 5]",
-          "kr": "relating to a government or an organization (공식적인, 공인된)",
-          "level": "Unit 5",
-          "note": "All visitors must be escorted by official licensed indigenous guides."
+          "word": "official",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "relating to a government or an organization",
+          "kr": "공식적인, 공인된",
+          "ex": "All visitors must be escorted by official licensed indigenous guides."
         },
         {
-          "zh": "partnership",
-          "py": "[n · Unit 5]",
-          "kr": "a way of working with another person, group, or organization (협력 관계, 파트너십)",
-          "level": "Unit 5",
-          "note": "Sustainable travel requires an equal partnership between operators and locals."
+          "word": "partnership",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a way of working with another person, group, or organization",
+          "kr": "협력 관계, 파트너십",
+          "ex": "Sustainable travel requires an equal partnership between operators and locals."
         },
         {
-          "zh": "preserve",
-          "py": "[v · Unit 5]",
-          "kr": "to keep in a certain condition (보존하다, 지키다)",
-          "level": "Unit 5",
-          "note": "Nations establish marine sanctuaries to preserve endangered coral reefs."
+          "word": "preserve",
+          "pos": "v",
+          "unit": "Unit 5",
+          "def_en": "to keep in a certain condition",
+          "kr": "보존하다, 지키다",
+          "ex": "Nations establish marine sanctuaries to preserve endangered coral reefs."
         },
         {
-          "zh": "renewable",
-          "py": "[adj · Unit 5]",
-          "kr": "able to be replaced naturally (재생 가능한)",
-          "level": "Unit 5",
-          "note": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
+          "word": "renewable",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "able to be replaced naturally",
+          "kr": "재생 가능한",
+          "ex": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
         },
         {
-          "zh": "spiritual",
-          "py": "[adj · Unit 5]",
-          "kr": "relating to a higher purpose rather than just material needs (영적인, 정신적인)",
-          "level": "Unit 5",
-          "note": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
+          "word": "spiritual",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "relating to a higher purpose rather than just material needs",
+          "kr": "영적인, 정신적인",
+          "ex": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
         },
         {
-          "zh": "sustainable",
-          "py": "[adj · Unit 5]",
-          "kr": "able to continue in the long-term (지속 가능한)",
-          "level": "Unit 5",
-          "note": "Sustainable tourism ensures heritage survives for future generations."
+          "word": "sustainable",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "able to continue in the long-term",
+          "kr": "지속 가능한",
+          "ex": "Sustainable tourism ensures heritage survives for future generations."
         },
         {
-          "zh": "vital",
-          "py": "[adj · Unit 5]",
-          "kr": "necessary or extremely important (필수적인, 극히 중대한)",
-          "level": "Unit 5",
-          "note": "Educating international guests on cultural etiquette is of vital importance."
+          "word": "vital",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "necessary or extremely important",
+          "kr": "필수적인, 극히 중대한",
+          "ex": "Educating international guests on cultural etiquette is of vital importance."
         }
       ],
       "qa": [
         {
+          "id": "billy-q1",
+          "num": 1,
           "question": "[Q1] A part or side of something.",
-          "answer": "정답: aspect (n) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+          "options": [
+            "income",
+            "aspect",
+            "barrier",
+            "resident"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: aspect: a part or side of something"
         },
         {
+          "id": "billy-q2",
+          "num": 2,
           "question": "[Q2] Involving a lot of different parts; difficult to understand.",
-          "answer": "정답: complex (adj) | 해설: Cengage 교재 Unit 1 p.4 공식 정의."
+          "options": [
+            "cognitive",
+            "controversial",
+            "complex",
+            "intense"
+          ],
+          "answer": 3,
+          "explanation": "어휘 영영 정의: complex: involving a lot of different parts; difficult to understand"
         },
         {
+          "id": "billy-q3",
+          "num": 3,
           "question": "[Q3] Able to continue in the long-term without damaging the environment.",
-          "answer": "정답: sustainable (adj) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+          "options": [
+            "renewable",
+            "sustainable",
+            "distinctive",
+            "productive"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: sustainable: able to continue in the long-term"
         },
         {
+          "id": "billy-q4",
+          "num": 4,
           "question": "[Q4] To train someone to follow rules or codes of behavior.",
-          "answer": "정답: discipline (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+          "options": [
+            "observe",
+            "discipline",
+            "establish",
+            "replace"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: discipline: to train someone to follow rules"
         },
         {
+          "id": "billy-q5",
+          "num": 5,
           "question": "[Q5] Having a large amount of something close together.",
-          "answer": "정답: dense (adj) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+          "options": [
+            "urban",
+            "occasional",
+            "dense",
+            "fierce"
+          ],
+          "answer": 3,
+          "explanation": "어휘 영영 정의: dense: having a large amount of something close together"
         },
         {
+          "id": "billy-q6",
+          "num": 6,
           "question": "[Q6] A building or structure with historical or cultural significance.",
-          "answer": "정답: landmark (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+          "options": [
+            "suburb",
+            "landmark",
+            "canal",
+            "barrier"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: landmark: building/structure with historical significance"
         },
         {
+          "id": "billy-q7",
+          "num": 7,
           "question": "[Q7] Pain, either mental or physical.",
-          "answer": "정답: suffering (n) | 해설: Cengage 교재 Unit 1 p.4 공식 정의 (grief는 사별 후 슬픔)."
+          "options": [
+            "grief",
+            "suffering",
+            "discipline",
+            "behavior"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: suffering: pain, either mental or physical"
         },
         {
+          "id": "billy-q8",
+          "num": 8,
           "question": "[Q8] A way of working with another person, group, or organization.",
-          "answer": "정답: partnership (n) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+          "options": [
+            "partnership",
+            "social structure",
+            "extended family",
+            "objective"
+          ],
+          "answer": 1,
+          "explanation": "어휘 영영 정의: partnership: a way of working with another person/org"
         },
         {
+          "id": "billy-q9",
+          "num": 9,
           "question": "[Q9] To notice something after looking closely.",
-          "answer": "정답: observe (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+          "options": [
+            "treat",
+            "observe",
+            "establish",
+            "preserve"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: observe: to notice something after looking closely"
         },
         {
+          "id": "billy-q10",
+          "num": 10,
           "question": "[Q10] A state of ease or well-being.",
-          "answer": "정답: comfort (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+          "options": [
+            "comfort",
+            "awareness",
+            "recognition",
+            "economy      ### [Part 2] Contextual Cloze & Collocations (Questions 11 ~ 15) > **Directions**: Choose the best word or phrase to fill in the blank in each sentence."
+          ],
+          "answer": 1,
+          "explanation": "어휘 영영 정의: comfort: a state of ease or well-being"
         },
         {
-          "question": "[Q11] After being hit by three storms, the harbor closed ______ while repairs completed.",
-          "answer": "정답: temporarily (adv) | 해설: 수리 기간 동안 한시적/일시적 폐쇄."
+          "id": "billy-q11",
+          "num": 11,
+          "question": "[Q11] After being hit by three major storms in a month, the historic seaside village had to close its harbor ______ while engineers completed structural repairs.",
+          "options": [
+            "repeatedly",
+            "temporarily",
+            "previously",
+            "partially"
+          ],
+          "answer": 2,
+          "explanation": "문맥 어휘 빈칸: temporarily: 수리 기간 동안 '일시적으로' 폐쇄"
         },
         {
-          "question": "[Q12] Raising public ______ regarding recycling is a vital prerequisite for green cities.",
-          "answer": "정답: awareness (n) | 해설: 필수 콜로케이션 raise public awareness."
+          "id": "billy-q12",
+          "num": 12,
+          "question": "[Q12] The mayor emphasized that raising public ______ regarding recycling practices is a vital prerequisite for building a green city.",
+          "options": [
+            "awareness",
+            "concentration",
+            "comfort",
+            "income"
+          ],
+          "answer": 1,
+          "explanation": "문맥 어휘 콜로케이션: raise public awareness: 대중 인식을 고취하다"
         },
         {
-          "question": "[Q13] Wild animals when threatened display unpredictable ______ that puts observers in danger.",
-          "answer": "정답: behavior (n) | 해설: 동물 행동 패턴 unpredictable behavior."
+          "id": "billy-q13",
+          "num": 13,
+          "question": "[Q13] When wild animals feel threatened, they often display unpredictable ______ that can put observers in danger.",
+          "options": [
+            "grief",
+            "discipline",
+            "behavior",
+            "gender"
+          ],
+          "answer": 3,
+          "explanation": "문맥 어휘 빈칸: unpredictable behavior: 예측 불가능한 행동 양식"
         },
         {
-          "question": "[Q14] Developing nations struggle with sprawl because cities continue to ______ into farmland.",
-          "answer": "정답: spread out (v) | 해설: 도시 외곽으로의 지리적 확산."
+          "id": "billy-q14",
+          "num": 14,
+          "question": "[Q14] Developing nations often struggle with uncontrolled urban sprawl because major cities continue to ______ into nearby agricultural zones.",
+          "options": [
+            "spread out",
+            "earn a living",
+            "tend to",
+            "separate"
+          ],
+          "answer": 1,
+          "explanation": "문맥 어휘 구동사: spread out: 도시 외곽으로 뻗어나가다/확산되다"
         },
         {
-          "question": "[Q15] In order to ______ the ancient temple from acid rain, authorities installed glass barriers.",
-          "answer": "정답: preserve (v) | 해설: 훼손으로부터 보존하다 preserve."
+          "id": "billy-q15",
+          "num": 15,
+          "question": "[Q15] In order to ______ the ancient temple from acid rain and tourist vandalism, the government installed protective glass barriers.",
+          "options": [
+            "replace",
+            "discipline",
+            "preserve",
+            "lower      ### [Part 3] Reading Comprehension & Skill Analysis (Questions 16 ~ 23) > **Directions**: Read each passage and answer the questions based on the text.  #### [Passage 1: Animal Cognition] In a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance."
+          ],
+          "answer": 3,
+          "explanation": "문맥 어휘 빈칸: preserve: 산성비와 훼손으로부터 사원을 '보존하다'"
         },
         {
-          "question": "[Q16] [Reading 1 Main Idea] Betty the crow tool experiment.",
-          "answer": "정답: Betty the crow proved animals invent tools through cognitive planning rather than chance. | 해설: 까마귀의 도구 제작은 인지적 계획에 기초함."
+          "id": "billy-q16",
+          "num": 16,
+          "question": "[Q16] What is the main idea of Passage 1?",
+          "options": [
+            "New Caledonian crows have the largest brain-to-body ratio among all bird species.",
+            "Betty the crow proved that animals can invent tools through cognitive planning rather than simple chance.",
+            "Laboratory experiments on animals frequently produce controversial and untrustworthy results.",
+            "Using wire hooks is an innate survival skill passed down through crow generations."
+          ],
+          "answer": 2,
+          "explanation": "독해 대의 파악: 인지적 계획을 통한 도구 제작 증명 (Main Idea)"
         },
         {
-          "question": "[Q17] [Supporting Detail] Evidence of crow understanding physical cause-effect.",
-          "answer": "정답: The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve food. | 해설: 먹이를 꺼내기 전 도구를 먼저 가공함."
+          "id": "billy-q17",
+          "num": 17,
+          "question": "[Q17] Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
+          "options": [
+            "The meat was floating in deep water.",
+            "Several straight wires were scattered on the table.",
+            "The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve the food.",
+            "The container was placed inside a laboratory cage.      #### [Passage 2: Urban Living] Today, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water."
+          ],
+          "answer": 3,
+          "explanation": "세부 근거(Supporting): 구부려서 갈고리를 먼저 만드는 계획적 행동"
         },
         {
-          "question": "[Q18] [Reading 3 Detail] Major reason cities generate over 80% of global GDP.",
-          "answer": "정답: The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure. | 해설: 지식 공유와 규모의 경제."
+          "id": "billy-q18",
+          "num": 18,
+          "question": "[Q18] According to Passage 2, what is one major reason why cities produce so much wealth?",
+          "options": [
+            "Rural residents donate a significant portion of their income to metropolitan projects.",
+            "The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure.",
+            "Cities occupy over 80 percent of the Earth's total land area.",
+            "Governments ban commercial activity outside metropolitan boundaries."
+          ],
+          "answer": 2,
+          "explanation": "세부 팩트 확인: 인구 집중으로 인한 지식 공유 및 인프라 효율성"
         },
         {
-          "question": "[Q19] [Cause & Effect] Cause of sprawling informal settlements (slums).",
-          "answer": "정답: The failure of municipal governments to manage growth and provide affordable housing. | 해설: 도시 주택 관리 실패."
+          "id": "billy-q19",
+          "num": 19,
+          "question": "[Q19] What causes the expansion of sprawling informal settlements (slums)?",
+          "options": [
+            "Too much investment in mass transit systems.",
+            "A decline in global gross domestic product.",
+            "The failure of municipal governments to manage growth and provide affordable housing.",
+            "Excessive dispersal of people into remote rural towns.      #### [Passage 3: Sustainable Tourism] The tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers."
+          ],
+          "answer": 3,
+          "explanation": "인과 추론: 주택 공급 및 도시 관리 실패로 인한 슬럼화"
         },
         {
-          "question": "[Q20] [Reading 5 Problem] Initial prompt for Palau tourism policy shift.",
-          "answer": "정답: Mass tourism was severely damaging the islands coral reefs and marine ecosystem. | 해설: 과잉 관광의 산호초 파괴."
+          "id": "billy-q20",
+          "num": 20,
+          "question": "[Q20] What problem initially prompted the government of Palau to change its tourism policy?",
+          "options": [
+            "The economy collapsed because tourists refused to visit the island.",
+            "Foreign tour operators refused to employ indigenous islanders.",
+            "Mass tourism was severely damaging the island's coral reefs and marine ecosystem.",
+            "Hotel companies were unable to find renewable sources of solar energy."
+          ],
+          "answer": 3,
+          "explanation": "세부 팩트 확인: 대중 관광으로 인한 산호초 및 해양 생태계 파괴"
         },
         {
-          "question": "[Q21] [Reading 5 Fact] How Palau funds conservation partnerships with rangers.",
-          "answer": "정답: By collecting a mandatory green fee from foreign visitors. | 해설: 입국 관광객 green fee 징수."
+          "id": "billy-q21",
+          "num": 21,
+          "question": "[Q21] How does the Palau government fund its conservation partnerships with indigenous rangers?",
+          "options": [
+            "By borrowing money from multinational banking organizations.",
+            "By collecting a mandatory green fee from foreign visitors.",
+            "By selling historic landmarks to international hotel chains.",
+            "By permitting cruise ships to anchor directly on coral reefs."
+          ],
+          "answer": 2,
+          "explanation": "세부 팩트 확인: 외국인 대상 의무적 green fee 징수를 통한 기금 조성"
         },
         {
-          "question": "[Q22] [Concept Definition] What is the Palau Pledge?",
-          "answer": "정답: A legal commitment signed by incoming visitors to protect the environment. | 해설: 여권에 서명하는 법적 환경 보호 서약."
+          "id": "billy-q22",
+          "num": 22,
+          "question": "[Q22] Which of the following words best describes the Palau Pledge?",
+          "options": [
+            "An optional questionnaire about traveler preferences.",
+            "A commercial contract that allows tourists to collect marine specimens.",
+            "A legal commitment signed by incoming visitors to protect the environment.",
+            "A temporary guideline that applies only during stormy seasons."
+          ],
+          "answer": 3,
+          "explanation": "개념 어휘 이해: 여권에 서명하는 법적 환경 보호 서약 (Palau Pledge)"
         },
         {
-          "question": "[Q23] [Author Purpose] Primary purpose of Palau passage.",
-          "answer": "정답: Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism. | 해설: 지속 가능 관광 모델 제시."
+          "id": "billy-q23",
+          "num": 23,
+          "question": "[Q23] The author's primary purpose in writing Passage 3 is to:",
+          "options": [
+            "Criticize the government of Palau for imposing excessive regulations on travelers.",
+            "Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism.",
+            "Warn tourists that visiting island nations is becoming economically unaffordable.",
+            "Argue that all tourism should be banned to protect the Pacific Ocean.      ### [Part 4] Visual Analysis & Cause-Effect Reasoning (Questions 24 ~ 26)"
+          ],
+          "answer": 2,
+          "explanation": "작가의도/목적 파악: 혁신 정책과 파트너십을 통한 지속 가능 관광 모델 제시"
         },
         {
-          "question": "[Q24] [Visual Analysis] Urbanization vs Population Growth data.",
-          "answer": "정답: Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth. | 해설: 비율(도시화율)과 증가율 대조."
+          "id": "billy-q24",
+          "num": 24,
+          "question": "[Q24] Look at the following statistical summary regarding world urban populations:\n> - Region A: 82% urban population, population growth rate +0.4% per year\n> - Region B: 43% urban population, population growth rate +2.8% per year\n> - Region C: 51% urban population, population growth rate +1.5% per year\n\nWhich statement is an accurate deduction from the data?",
+          "options": [
+            "Region B is already more urbanized than Region A.",
+            "Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth.",
+            "Region C will never reach a 60% urban population level.",
+            "Population growth in Region A is fiercely accelerating due to high fertility rates."
+          ],
+          "answer": 2,
+          "explanation": "시각 도표/통계 분석: 도시화율(비율)과 인구 증가율(속도)의 대조 분석"
         },
         {
-          "question": "[Q25] [Cause vs Effect Signal Words] Which signals a CAUSE?",
-          "answer": "정답: As a result of | 해설: As a result of 뒤에는 원인이 오며, Therefore/Consequently는 결과를 유도함."
+          "id": "billy-q25",
+          "num": 25,
+          "question": "[Q25] In analyzing causes and effects, which transition word signals a cause rather than an effect?",
+          "options": [
+            "Therefore",
+            "Consequently",
+            "As a result of",
+            "For this reason"
+          ],
+          "answer": 3,
+          "explanation": "인과 접속사 판별: As a result of (~의 원인으로 인해) vs 나머지(결과 유도)"
         },
         {
-          "question": "[Q26] [Causal Analysis] Direct effect of ancient citadel stone degradation.",
-          "answer": "정답: Daily visitor admissions were restricted to 2,500. | 해설: 주절의 행정적 조치(입장 제한)가 직접적 결과임."
+          "id": "billy-q26",
+          "num": 26,
+          "question": "[Q26] Read the sentence: *\"Because overtourism degraded the stone masonry of the ancient citadel, authorities restricted daily admissions to 2,500 visitors.\"*  \nWhat is the direct effect in this sentence?",
+          "options": [
+            "Stone masonry was built inside the citadel.",
+            "Daily visitor admissions were restricted to 2,500.",
+            "Overtourism was eliminated entirely.",
+            "Authorities banned all historic preservation projects.      ### [Part 5] Grammar & Essay Structure (Questions 27 ~ 30)"
+          ],
+          "answer": 2,
+          "explanation": "인과 구조 분석: 직후 결과: 일일 입장객 수를 2,500명으로 제한"
         },
         {
-          "question": "[Q27] [Grammar: if..., then...] Correct real conditional sentence.",
-          "answer": "정답: If tourists visit sensitive ecological reserves, then they will damage rare flora. | 해설: if절에는 현재시제(visit), 주절에는 will+동사원형."
+          "id": "billy-q27",
+          "num": 27,
+          "question": "[Q27] Choose the grammatically correct sentence using the real conditional (`if..., then...`).",
+          "options": [
+            "If tourists will visit sensitive ecological reserves, then they will damage rare flora.",
+            "If tourists visit sensitive ecological reserves, then they will damage rare flora.",
+            "If tourists visited sensitive ecological reserves, then they would damage rare flora.",
+            "If tourists visit sensitive ecological reserves, then they damaged rare flora."
+          ],
+          "answer": 2,
+          "explanation": "조건문 시제 일치: If + 현재동사 (visit), then will + 동사원형"
         },
         {
-          "question": "[Q28] [Grammar: Comparison] Correct comparative structure.",
-          "answer": "정답: Wildlife tourism in Costa Rica is far more enriching than mass cruise travel. | 해설: more... than 구조 및 far 수식 완벽."
+          "id": "billy-q28",
+          "num": 28,
+          "question": "[Q28] Which sentence correctly makes a comparison between two subjects?",
+          "options": [
+            "Modern eco-lodges are much more sustainable that conventional high-rise hotels.",
+            "Rural areas tend to have a denser population as urban centers.",
+            "Wildlife tourism in Costa Rica is far more enriching than mass cruise travel.",
+            "Chimpanzees have the same cognitive skills than human infants."
+          ],
+          "answer": 3,
+          "explanation": "비교급 구문 정확성: far more enriching than (훨씬 더 풍요로운)"
         },
         {
-          "question": "[Q29] [Essay Structure] Standard location of Thesis Statement.",
-          "answer": "정답: At the end of the introductory paragraph as the final sentence. | 해설: 서론 단락의 마지막 문장."
+          "id": "billy-q29",
+          "num": 29,
+          "question": "[Q29] Where should the Thesis Statement typically be positioned within an essay?",
+          "options": [
+            "At the very beginning of the introductory paragraph as the first sentence.",
+            "At the end of the introductory paragraph as the final sentence.",
+            "In the middle of the second body paragraph.",
+            "At the very end of the concluding paragraph as a parting thought."
+          ],
+          "answer": 2,
+          "explanation": "에세이 구조 공식: 서론 단락의 맨 마지막 문장에 위치하는 Thesis Statement"
         },
         {
-          "question": "[Q30] [Paragraph Structure] Role of a Body Paragraph Topic Sentence.",
-          "answer": "정답: To state the main idea of that specific body paragraph and connect it to the essays central thesis. | 해설: 본론 중심 생각 제시 및 논지 연결."
+          "id": "billy-q30",
+          "num": 30,
+          "question": "[Q30] In a five-paragraph academic essay, what is the primary role of a Topic Sentence in a body paragraph?",
+          "options": [
+            "To present a catchy quote that has no relation to the rest of the text.",
+            "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
+            "To summarize the entire essay and offer a call to action.",
+            "To list all supporting statistics without making any interpretive claims.      ## [제5장] 정답표, 심층 해설 및 오답 매력도 완벽 분석"
+          ],
+          "answer": 2,
+          "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"
         }
       ]
     },
     "knn_exam": {
-      "id": "knn_exam",
-      "name": "《Prism Reading 3》",
-      "author": "김나나 교수님 (KNN / 실질 30%)",
-      "category": "대학영어 2 (한국인)",
+      "id": "prism3",
+      "name": "Prism Reading 3 (Architecture & Energy)",
+      "author": "Cambridge University Press",
+      "category": "대학영어 2 평화반 (김나나 교수님)",
+      "sections": [
+        {
+          "id": 1,
+          "title": "Unit 5 Reading 1: We Need More Green Buildings",
+          "short_title": "U5 R1 친환경건축",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] In recent years, there has been a general trend for new buildings to be more environmentally friendly, or more \"green.\" Such a building is sometimes called an eco-building. These buildings use energy and water efficiently, which reduces waste and pollution. However, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear.",
+              "kr": "[친환경 건축의 등장과 기본 개념] 최근 몇 년 동안 새로운 건축물이 환경에 더 친화적이거나 더 '친환경적(green)'이 되도록 짓는 전반적인 추세가 이어져 왔습니다. 이러한 건물을 때때로 '생태 친화적 건물(eco-building)'이라고 부릅니다. 이 건물들은 에너지와 수자원을 효율적으로 사용하여 폐기물과 오염을 줄입니다. 그러나 태양광 패널이나 물 재활용 시스템과 같은 설비를 설치하는 것은 전통적인 건물보다 더 높은 시공 비용을 수반합니다. 이러한 추가 비용에도 불구하고 친환경 건축물은 지구에 유익하며 그 이점은 명백합니다.\n* **핵심 구문 및 어휘**:\n  * `environmentally friendly`: 환경 친화적인 (= green, eco-friendly)\n  * `involves`: 수반하다, 포함하다\n  * `traditional building`: 전통적인 (기존 방식의) 건물 (= conventional building)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Around the city of Taos, New Mexico, there are many homes, called Earthship houses, constructed from recycled bottles, tires, aluminum cans, and other trash. Often the cans, bottles, and tires are filled with soil and then the outsides are covered with natural mud. These homes are designed to use solar power—the energy from the sun—rather than electricity produced from fossil fuels. These recycled-construction designs are just as relevant for other types of buildings. In both Uruguay and Sierra Leone, for example, there are recycled-construction schools for local children. The green aspects of this kind of building are relatively inexpensive, and over the life of the building, they should provide a large return on the initial investment. They also function as valuable teaching aids when educating students about the environment.",
+              "kr": "[재활용 건축의 대표 사례: 어스쉽 하우스와 현지 학교] 미국 뉴멕시코주 타오스 시 주변에는 재활용된 유리병, 타이어, 알루미늄 캔 및 기타 쓰레기로 지어진 '어스쉽(Earthship)' 주택이라 불리는 집들이 많이 있습니다. 종종 캔, 병, 타이어는 흙으로 채워진 후 외벽이 천연 진흙으로 덮입니다. 이 집들은 화석 연료로 생산된 전기 대신 태양열 에너지(태양에서 오는 에너지)를 사용하도록 설계되었습니다. 이러한 재활용 건축 설계는 다른 유형의 건축물에도 똑같이 유용합니다. 예를 들어 우루과이와 시에라리온 모두에는 현지 아이들을 위한 재활용 건축 학교가 있습니다. 이러한 건물의 친환경적 요소는 비교적 저렴하며, 건물의 수명 기간에 걸쳐 초기 투자에 대한 막대한 수익을 제공할 것입니다. 또한 학생들에게 환경에 대해 교육할 때 소중한 교구 역할을 합니다.\n* **핵심 구문 및 어휘**:\n  * `Earthship houses`: 재활용 폐기물과 자연 소재로 지은 자급자족형 생태 주택\n  * `just as relevant for`: ~에도 똑같이 유의미한, 적절한\n  * `return on investment (ROI)`: 투자 대비 수익 (초기 비용 회수)\n  * `teaching aids`: 교육 보조 교재, 교구",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] Another example of an eco-building is a private residence in Wales known as the \"Hobbit House.\" Its frame is made of wood and the walls are made of straw, which provides excellent insulation. The roof consists of mud planted with grass which blends in with the surroundings and has a low impact on the environment. Solar panels provide electricity for lighting and electrical equipment. Water is supplied directly from a nearby river and is also collected from the roof for use in the garden, avoiding the need to waste clean water. Low-impact houses like this one are green because they use secondhand materials and do not rely on fossil fuels, but instead use renewable energy sources such as solar or wind power.",
+              "kr": "[저영향 생태 주택: 웨일스의 호빗 하우스] 친환경 건물의 또 다른 예는 '호빗 하우스(Hobbit House)'로 알려진 웨일스의 한 개인 주택입니다. 이 집의 뼈대는 목재로 만들어졌고 벽은 짚으로 만들어져 탁월한 단열 효과를 제공합니다. 지붕은 풀을 심은 진흙으로 이루어져 있어 주변 환경과 조화를 이루며 환경에 낮은 영향을 미칩니다. 태양광 패널은 조명과 전자기기에 전기를 공급합니다. 물은 인근 강에서 직접 공급받으며 정원에 사용하기 위해 지붕에서도 빗물을 모아 깨끗한 물의 낭비를 방지합니다. 이와 같은 저영향 주택은 중고 자재를 사용하고 화석 연료에 의존하지 않는 대신 태양광이나 풍력 같은 재생 가능 에너지를 사용하기 때문에 친환경적입니다.\n* **핵심 구문 및 어휘**:\n  * `insulation`: 단열, 방음\n  * `blends in with`: ~와 조화를 이루다, 자연스럽게 어우러지다\n  * `low-impact`: 환경에 미치는 악영향이 적은\n  * `secondhand materials`: 재사용 자재, 중고 자재",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Critics of these kinds of eco-buildings say that while they may be good for the environment, there are practical problems with their affordability. They are often too costly to become a large-volume method of construction. There are further concerns over their long-term efficiency. Not much energy can be realistically generated by solar panels in places that do not have large amounts of sunlight, and not every location has access to a natural water source. However, overall, green buildings are worth it. Yes, in order to incorporate environmentally friendly construction and produce an affordable building, compromises have to be made. These may be that the building will have to be smaller or made of less durable materials and with technology that uses more energy. Perhaps these compromises are easier to make for schools, where ideas about conservation are useful for education, or for businesses where ecologically aware features are a useful marketing tool, rather than for private homes.",
+              "kr": "[친환경 건축의 실질적 한계와 절충(Compromises)] 이러한 종류의 생태 건축물을 비판하는 사람들은 환경에는 좋을지 모르지만 경제적 가격 적정성(affordability)에 실질적인 문제가 있다고 말합니다. 대량 시공 방식이 되기에는 비용이 너무 많이 드는 경우가 많습니다. 또한 장기적인 효율성에 대한 추가적인 우려도 있습니다. 일조량이 많지 않은 지역에서는 태양광 패널로 현실적으로 많은 에너지를 생산할 수 없으며, 모든 장소가 천연 수원에 접근할 수 있는 것도 아닙니다. 그러나 전반적으로 볼 때 친환경 건축물은 그만한 가치가 있습니다. 그렇습니다, 친환경 건축을 도입하면서도 감당할 수 있는 가격의 건물을 짓기 위해서는 어쩔 수 없이 절충(타협)을 해야만 합니다. 이러한 타협은 건물의 규모가 더 작아져야 하거나, 내구성이 떨어지는 자재를 써야 하거나, 에너지를 더 많이 쓰는 기술을 사용해야 하는 것일 수도 있습니다. 아마도 이러한 절충안은 개인 주택보다는 환경 보존 개념이 교육에 유용한 학교나 생태적 인식이 유용한 마케팅 도구가 되는 기업에서 수용하기가 더 쉬울 것입니다.\n* **핵심 구문 및 어휘**:\n  * `affordability`: 감당할 수 있는 가격 적정성, 경제성\n  * `compromises have to be made`: 불가피하게 절충안을 찾아야 한다\n  * `less durable`: 덜 내구성이 있는, 수명이 짧은",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] The argument for constructing green buildings is clear. The United Nations Environment Programme estimates that the construction sector accounts for 30% of global energy use. In some areas, such as the Gulf States, the figure is closer to 50-60%. We need to reduce this energy use for the good of the planet. However, it remains to be seen whether we are able to accept the financial and practical compromises of producing and living in environmentally friendly buildings.",
+              "kr": "[결론: 건설 부문의 에너지 감축과 미래 과제] 친환경 건물을 지어야 한다는 주장은 명백합니다. 유엔환경계획(UNEP)은 건설 부문이 전 세계 에너지 소비의 30%를 차지한다고 추정합니다. 걸프 연안국과 같은 일부 지역에서는 그 수치가 50~60%에 육박합니다. 우리는 지구를 위해 이 에너지 소비를 줄여야 합니다. 그러나 우리가 친환경 건물을 짓고 그곳에서 살아가는 데 따르는 재정적·실질적 절충안을 받아들일 수 있을지는 여전히 지켜보아야 할 일입니다.\n* **핵심 구문 및 어휘**:\n  * `accounts for`: (비율을) 차지하다\n  * `remains to be seen`: 아직 미지수이다, 두고 볼 일이다",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Unit 5 Reading 2: Form, Function, or Both?",
+          "short_title": "U5 R2 형태와기능",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] At the start of the twentieth century, Louis Sullivan, one of the creators of modern architecture, said that \"form follows function.\" The term \"functionalism\" is used to describe the idea behind architecture that primarily focuses on the purpose of a building. However, many people disagree with this and feel that beauty is a more important factor in architectural design. In the modern world, it seems that most architects try to combine both ideas, aiming to create buildings that are both functional and inspiring in their beauty. This is often difficult to achieve, however. Since we create buildings to serve the needs in our lives, the importance of function should always be prioritized over form.",
+              "kr": "[기능주의와 미적 디자인의 대립] 20세기 초, 현대 건축의 창시자 중 한 명인 루이스 설리번은 \"형태는 기능을 따른다(form follows function)\"고 말했습니다. '기능주의'라는 용어는 건물의 목적에 일차적으로 초점을 맞추는 건축 이념을 설명하는 데 사용됩니다. 그러나 많은 사람들은 이에 동의하지 않으며 아름다움이 건축 디자인에서 더 중요한 요소라고 생각합니다. 현대 사회에서 대부분의 건축가는 두 가지 아이디어를 결합하여 기능적이면서도 아름다움으로 영감을 주는 건물을 창조하고자 합니다. 하지만 이를 달성하기는 어려운 경우가 많습니다. 우리는 삶의 필요를 충족하기 위해 건물을 짓기 때문에, 언제나 형태보다 기능의 중요성이 우선시되어야 합니다.\n* **핵심 구문 및 어휘**:\n  * `form follows function`: 형태는 기능을 따른다 (루이스 설리번의 명제)\n  * `functionalism`: 기능주의 (목적 최우선)\n  * `prioritized over`: ~보다 우선시되다",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Many people believe that architects have a wider responsibility to society than just designing functional buildings. Beautiful, well-constructed buildings are a symbol of a civilized society and they reflect well on a business or the reputation of the owner. Ugly public buildings, however, can project a negative image of the organization. People say that living or working in an ugly place creates a depressing and uninspiring environment. In contrast, an attractive building can make people feel happier and increase their motivation to work.",
+              "kr": "[형태(아름다움)의 가치를 옹호하는 입장] 많은 사람들은 건축가가 단순히 기능적인 건물을 설계하는 것 이상의 더 넓은 사회적 책임을 지고 있다고 믿습니다. 아름답고 잘 지어진 건물은 문명화된 사회의 상징이며, 기업이나 소유자의 명성을 드높여 줍니다. 그러나 흉물스러운 공공건물은 해당 기관에 부정적인 이미지를 투영할 수 있습니다. 사람들은 보기 흉한 장소에서 거주하거나 근무하는 것이 우울하고 영감을 주지 못하는 환경을 만든다고 말합니다. 반면에 매력적인 건물은 사람들을 더 행복하게 만들고 일에 대한 동기를 높여줄 수 있습니다.\n* **핵심 구문 및 어휘**:\n  * `reflect well on`: ~에 긍정적인 평가를 주다, 명성을 높이다\n  * `project a negative image`: 부정적인 이미지를 투영하다\n  * `In contrast`: 반면에, 대조적으로",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] While this may be true, the reason for creating a building in the first place—its use—is clearly very important. When building an airport terminal, for example, you need to think of the needs of passengers as well as planes. Passengers want to get to their plane as quickly as they can, and planes need to be parked in a way that maximizes their ease of use. As such, many airport terminals have a circular shape with satellite areas. Residential homes need to have enough space for a family, art galleries need wall space to show pictures, and factories need to produce goods as efficiently as possible. Each type of building has a different function, and, therefore, it has a different form.",
+              "kr": "[기능이 본질적으로 중요한 이유] 이 말이 사실일지라도, 애초에 건물을 짓는 이유인 '용도(use)'는 분명히 매우 중요합니다. 예를 들어 공항 터미널을 지을 때는 비행기뿐만 아니라 승객의 요구도 고려해야 합니다. 승객은 가능한 한 빨리 비행기에 도달하기를 원하고, 비행기는 이용 편의성을 극대화하는 방식으로 주기되어야 합니다. 따라서 많은 공항 터미널은 위성 구역이 딸린 원형 구조를 띱니다. 주거용 주택은 가족을 위한 충분한 공간이 필요하고, 미술관은 그림을 전시할 벽면 공간이 필요하며, 공장은 가능한 한 효율적으로 제품을 생산해야 합니다. 각 건물 유형은 저마다 다른 기능을 지니고 있으며, 따라서 서로 다른 형태를 갖게 됩니다.\n* **핵심 구문 및 어휘**:\n  * `in the first place`: 애초에, 우선\n  * `As such`: 따라서, 그러므로 (= Therefore)\n  * `ease of use`: 사용 편의성",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] In theory, there seems to be no reason why architecture cannot be both functional and beautiful. Yet in practice, this can cause problems. The Modern International style of the 1920s and 1930s, an example of which is the Guggenheim Museum in New York, was supposed to combine beauty with function. Many consider the museum's white spiral ramp beautiful, but there have been complaints that it is impractical, as it is difficult to stand back to view the art. Also, the ramp is so narrow that it can become overcrowded. The Farnsworth House by Ludwig Mies van der Rohe is another icon of beautiful design that demonstrates the idea that \"less is more.\" However, critics have attacked it for a lack of privacy because of the huge glass windows. It also has a leaky flat roof and has been repeatedly flooded. It seems that even these two celebrated designs have problems with functionality.",
+              "kr": "[형태와 기능의 충돌: 구겐하임 미술관과 판스워스 하우스] 이론상으로는 건축이 기능적이면서 동시에 아름답지 못할 이유가 없어 보입니다. 하지만 실제 현실에서는 이것이 문제를 일으킬 수 있습니다. 1920년대와 1930년대의 모던 인터내셔널 스타일(그 대표적인 예가 뉴욕의 구겐하임 미술관)은 아름다움과 기능을 결합하기로 되어 있었습니다. 많은 사람들이 미술관의 흰색 나선형 경사로를 아름답다고 생각하지만, 작품을 감상하기 위해 뒤로 물러서서 보기가 어렵기 때문에 비실용적이라는 불만이 제기되어 왔습니다. 게다가 경사로가 너무 좁아서 지나치게 붐빌 수 있습니다. 루트비히 미스 반 데어 로에가 설계한 판스워스 하우스는 \"적을수록 많다(단순한 것이 더 아름답다)\"라는 개념을 입증한 또 다른 아름다운 디자인의 상징입니다. 그러나 비평가들은 거대한 통유리창으로 인한 사생활 침해를 지적하며 이 건물을 공격해 왔습니다. 또한 평평한 지붕에서 물이 새고 반복적으로 침수되었습니다. 이 두 유명한 건축물조차 기능성 면에서 결함을 가지고 있는 것으로 보입니다.\n* **핵심 구문 및 어휘**:\n  * `spiral ramp`: 나선형 경사로 (구겐하임 미술관의 구조)\n  * `less is more`: 적을수록 풍요롭다 (미스 반 데어 로에의 미니멀리즘 철학)\n  * `leaky flat roof`: 물이 새는 평평한 지붕\n  * `celebrated designs`: 칭송받는, 유명한 디자인",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] If architects focus only on function, buildings may be cold, ugly, and uninteresting. There is no doubt that a building with a beautiful form is something we can all appreciate. However, functional needs must be addressed before visual ones. This issue of practicality is the most important feature of the buildings we live in, work in, and visit. Therefore, function must outweigh form when an architect plans a building.",
+              "kr": "[결론: 기능이 형태보다 우선되어야 한다] 만약 건축가가 오직 기능에만 초점을 맞춘다면, 건물은 차갑고 흉물스러우며 무미건조해질 수 있습니다. 아름다운 형태를 지닌 건물이 우리 모두가 감상할 수 있는 대상이라는 점에는 의심의 여지가 없습니다. 그러나 시각적 요구보다 기능적 요구가 먼저 해결되어야 합니다. 이 실용성의 문제는 우리가 거주하고, 일하고, 방문하는 건물의 가장 중요한 특징입니다. 그러므로 건축가가 건물을 설계할 때는 기능이 형태보다 무거워야(형태보다 우선해야) 합니다.\n* **핵심 구문 및 어휘**:\n  * `addressed`: (문제가) 다루어지다, 해결되다\n  * `practicality`: 실용성\n  * `outweigh`: ~보다 더 중대하다, 우선하다",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Unit 6 Reading 1: Alternative Energy Resources",
+          "short_title": "U6 R1 대체에너지",
+          "sentences": [
+            {
+              "zh": "[Section 1] Hydropower is created when moving water turns turbines to create electricity. The source of the moving water can be rivers, waterfalls, or the sea. Because flowing water continues to move, this creates an inexhaustible amount of energy that can be stored and used when the demand is highest. There are a few drawbacks, however. Water-powered turbines can have a negative environmental impact on aquatic wildlife and can endanger boats. Also, creating hydropower dams causes land behind the dams to permanently flood. Finally, it is expensive to set up hydropower systems—the average cost is between $1 million and $4 million.",
+              "kr": "[수력 발전 (Hydropower)] 수력 발전은 흐르는 물이 터빈을 돌려 전기를 생산할 때 발생합니다. 흐르는 물의 원천은 강, 폭포 또는 바다가 될 수 있습니다. 흐르는 물은 계속해서 움직이기 때문에, 에너지를 저장했다가 수요가 가장 높을 때 사용할 수 있는 무궁무진한(고갈되지 않는) 양의 에너지를 만들어냅니다. 그러나 몇 가지 단점이 있습니다. 수력 터빈은 수생 야생동물에 부정적인 환경적 영향을 미칠 수 있으며 선박을 위험에 빠뜨릴 수 있습니다. 또한 수력 댐을 건설하면 댐 뒤편의 토지가 영구적으로 침수됩니다. 마지막으로 수력 발전 시스템을 구축하는 데 비용이 많이 듭니다(평균 비용은 100만 달러에서 400만 달러 사이입니다).\n* **핵심 구문 및 어휘**:\n  * `inexhaustible`: 고갈되지 않는, 무궁무진한\n  * `aquatic wildlife`: 수생 생물\n  * `permanently flood`: 영구적으로 수몰시키다",
+              "py": ""
+            },
+            {
+              "zh": "[Section 2] To create wind power, large turbines are placed on top of hills or offshore. The wind turns the blades, which generate energy. Wind turbines can be utilized on a large scale or on a small scale. Unlike hydropower, this process is relatively cheap and is considered one of the most affordable forms of electricity today. Also, it does not harm the air or land it uses. However, many people consider wind turbines ugly and noisy. Also, they rely on the wind, so if it is not windy, no energy is produced. Finally, like hydropower, wind turbines can be a threat to wildlife such as local birds.",
+              "kr": "[풍력 발전 (Wind Power)] 풍력을 생산하기 위해 거대한 터빈을 언덕 위나 해안가(해상)에 배치합니다. 바람이 날개를 회전시키며 에너지를 생산합니다. 풍력 터빈은 대규모 또는 소규모로 활용될 수 있습니다. 수력 발전과 달리 이 과정은 비교적 저렴하며 오늘날 가장 경제적인 전기 생산 방식 중 하나로 꼽힙니다. 또한 사용하는 공기나 토지를 훼손하지 않습니다. 그러나 많은 사람들은 풍력 터빈이 흉물스럽고 소음이 심하다고 생각합니다. 게다가 바람에 의존하기 때문에 바람이 불지 않으면 에너지가 생산되지 않습니다. 마지막으로 수력 발전과 마찬가지로 풍력 터빈은 지역 조류와 같은 야생동물에게 위협이 될 수 있습니다.\n* **핵심 구문 및 어휘**:\n  * `offshore`: 앞바다의, 해상의\n  * `affordable`: 가격이 알맞은, 경제적인\n  * `blades`: 터빈 날개",
+              "py": ""
+            },
+            {
+              "zh": "[Section 3] To use solar energy, solar panels absorb sunlight and, using devices called photovoltaic cells, turn it into electricity. The sun produces energy constantly, which makes solar energy an inexhaustible resource. Another benefit is that it generates no pollution. Solar energy can be adapted to work on a variety of buildings and in a variety of environments. However, a large area of land is needed to produce a large amount of solar power. Scientists have determined that if we wanted to try to power the entire Earth with renewable solar power, we would need to cover a land area about the size of Spain with solar panels. In places with less sunlight, solar power generation has limitations. Also, photovoltaic cells are fragile and can be easily damaged.",
+              "kr": "[태양광 발전 (Solar Energy)] 태양 에너지를 사용하기 위해 태양광 패널은 햇빛을 흡수하고, '광전지(태양 전지)'라 불리는 장치를 사용하여 이를 전기로 변환합니다. 태양은 에너지를 끊임없이 생산하므로 태양 에너지는 무궁무진한 자원이 됩니다. 또 다른 이점은 오염을 전혀 발생시키지 않는다는 것입니다. 태양 에너지는 다양한 건물과 환경에서 작동하도록 맞춤 적용될 수 있습니다. 그러나 많은 양의 태양광 전력을 생산하려면 넓은 면적의 토지가 필요합니다. 과학자들은 재생 가능한 태양광 에너지로 지구 전체에 전력을 공급하려면 스페인 크기만 한 면적의 토지를 태양광 패널로 덮어야 한다고 밝혔습니다. 일조량이 적은 지역에서는 태양광 발전에 한계가 있습니다. 또한 광전지는 깨지기 쉬워 손상되기 쉽습니다.\n* **핵심 구문 및 어휘**:\n  * `photovoltaic cells`: 광전지, 태양 전지\n  * `inexhaustible resource`: 무한한 자원\n  * `fragile`: 깨지기 쉬운, 취약한",
+              "py": ""
+            },
+            {
+              "zh": "[Section 4] Biomass is a biologically produced fuel made from plant and animal material, which is mostly composed of carbon, hydrogen, and oxygen. It is the oldest source of renewable energy, used since humans first started burning wood for fire. Today, steam from burning biomass—made up of trash and other organic waste, rather than wood—turns turbines, generating electricity. Biomass can re-grow over a relatively short period of time compared to the hundreds of millions of years that it takes for fossil fuels to form. It is also an efficient way to generate power, and it is universal. Another benefit is that it reduces the need to bury garbage under the ground in a landfill. However, some people are concerned that burning biomass contributes to global warming because it produces greenhouse gases. Also, using biomass to generate energy on a large scale can be expensive.",
+              "kr": "[바이오매스 에너지 (Biomass)] 바이오매스는 주로 탄소, 수소, 산소로 구성된 동식물 유기물로 만든 생물학적 연료입니다. 이것은 인류가 불을 피우기 위해 나무를 태우기 시작한 이래로 사용되어 온 가장 오래된 재생 에너지원입니다. 오늘날에는 목재 대신 쓰레기와 기타 유기 폐기물로 구성된 바이오매스를 태울 때 발생하는 증기로 터빈을 돌려 전기를 생산합니다. 바이오매스는 화석 연료가 형성되는 데 수억 년이 걸리는 것에 비해 비교적 짧은 기간 내에 다시 자라납니다. 또한 효율적인 발전 방식이며 어디서나 이용할 수 있습니다. 또 다른 이점은 쓰레기를 매립지에 묻어야 할 필요성을 줄여준다는 것입니다. 그러나 일부 사람들은 바이오매스를 연소할 때 온실가스가 발생하기 때문에 지구 온난화를 심화시킬 수 있다고 우려합니다. 또한 대규모로 바이오매스 에너지를 생산하는 데는 많은 비용이 들 수 있습니다.\n* **핵심 구문 및 어휘**:\n  * `organic waste`: 유기 폐기물\n  * `landfill`: 쓰레기 매립지\n  * `greenhouse gases`: 온실가스",
+              "py": ""
+            },
+            {
+              "zh": "[Section 5] With geothermal energy, heat that is trapped in the ground can be converted into steam to turn turbines. The power it generates can then be used to produce electricity and heat buildings. Geothermal energy uses relatively simple technology. Like several of the other energy sources already mentioned, this process causes no pollution and is inexhaustible. The most active geothermal resources are usually found in areas near volcanoes or where geothermal activity naturally occurs. The largest area of this kind is known as the \"Ring of Fire.\" It rims the Pacific Ocean and is bounded by eastern Asia and the western edge of the Americas. Outside of regions like these, geothermal energy is usually unavailable. The initial costs of installing a geothermal energy system are very high, but once it is built, the running costs are low.",
+              "kr": "[지열 발전 (Geothermal Energy)] 지열 에너지를 이용하면 땅속에 갇혀 있는 열을 증기로 변환하여 터빈을 돌릴 수 있습니다. 이렇게 생산된 전력은 전기를 생산하고 건물을 난방하는 데 사용될 수 있습니다. 지열 에너지는 비교적 단순한 기술을 사용합니다. 앞서 언급한 다른 여러 에너지원과 마찬가지로 이 과정은 오염을 일으키지 않으며 무궁무진합니다. 가장 활발한 지열 자원은 대개 화산 인근 지역이나 지열 활동이 자연적으로 발생하는 곳에서 발견됩니다. 이러한 유형의 가장 큰 지역은 '불의 고리(Ring of Fire)'로 알려져 있습니다. 이 지역은 태평양을 둘러싸고 있으며 동아시아와 아메리카 대륙의 서쪽 가장자리와 맞닿아 있습니다. 이러한 지역 밖에서는 지열 에너지를 이용하기가 대개 불가능합니다. 지열 에너지 시스템을 설치하는 초기 비용은 매우 높지만, 일단 건설되고 나면 운영 비용은 저렴합니다.\n* **핵심 구문 및 어휘**:\n  * `trapped in the ground`: 땅속에 갇힌\n  * `Ring of Fire`: 환태평양 조산대 (불의 고리)\n  * `running costs`: 운영 비용, 유지비",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Unit 6 Reading 2: We Must Maintain Our Natural Resources",
+          "short_title": "U6 R2 자원보존",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] The world's natural resources are being used at an alarming rate—not only fossil fuels such as coal, oil, and gas, but also water, wood, and minerals. This has many potential consequences for the billions of people who live on Earth. In recent years, both individuals and governments have become more interested in better managing the world's resources. While alternative energy solutions are important, they are not always feasible. An immediate way to improve the situation is to encourage everyone to \"reduce, reuse, recycle.\"",
+              "kr": "[자원 고갈 위기와 3R 전략의 필요성] 세계의 천연자원은 석탄, 석유, 가스와 같은 화석 연료뿐만 아니라 물, 목재, 광물에 이르기까지 놀라운(경각심을 불러일으키는) 속도로 고갈되고 있습니다. 이는 지구상에 살아가는 수십억 명의 사람들에게 많은 잠재적 결과를 초래합니다. 최근 몇 년간 개인과 정부 모두 세계 자원을 더 잘 관리하는 데 더 많은 관심을 기울여 왔습니다. 대체 에너지 해결책도 중요하지만 항상 실행 가능한 것은 아닙니다. 상황을 개선할 수 있는 즉각적인 방법은 모든 사람에게 \"줄이고, 재사용하고, 재활용하라(3R)\"는 원칙을 장려하는 것입니다.\n* **핵심 구문 및 어휘**:\n  * `at an alarming rate`: 놀라운 (경각심을 주는) 속도로\n  * `feasible`: 실현 가능한 (= workable, viable)\n  * `reduce, reuse, recycle`: 감축, 재사용, 재활용 (3R 운동)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] We must all learn to use fewer natural resources on a day-to-day basis. We can start by reducing the number of electrical items we leave plugged in, using less water, and avoiding motorized transportation. Many cities are instigating carbon emissions taxes, which is a step in the right direction. In our homes, we can use only energy-saving light bulbs and install water meters. Parents need to train children from an early age to turn off lights that they are not using. It is sometimes difficult to persuade people to use less energy and water, or to eat less food, but an effective way to motivate people to adopt less-wasteful practices is to make these essential commodities much more expensive.",
+              "kr": "[줄이기(Reduce)의 일상적 실천 방안] 우리 모두는 일상생활에서 더 적은 천연자원을 소비하는 법을 배워야 합니다. 콘센트에 꽂아두는 가전제품의 수를 줄이고, 물을 덜 쓰며, 자동차 이용을 피하는 것부터 시작할 수 있습니다. 많은 도시에서 탄소 배출세를 도입하고 있으며, 이는 올바른 방향으로 나아가는 조치입니다. 가정에서는 에너지 절약형 전구만 사용하고 수도계량기를 설치할 수 있습니다. 부모는 자녀에게 사용하지 않는 전등을 끄도록 어릴 때부터 훈련해야 합니다. 사람들이 에너지와 물을 덜 쓰거나 음식을 덜 먹도록 설득하는 것은 때로 어렵지만, 덜 낭비적인 습관을 들이도록 동기를 부여하는 효과적인 방법은 이러한 필수 생필품의 가격을 훨씬 더 비싸게 만드는 것입니다.\n* **핵심 구문 및 어휘**:\n  * `on a day-to-day basis`: 매일매일, 일상적으로\n  * `instigating`: 도입하다, 발의하다\n  * `essential commodities`: 필수 생필품, 기초 원자재",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] It is often possible to restore old, unwanted objects to a state in which they can be used again. Glass bottles can be cleaned and reused without having to be broken and remade. Reusing things is a very efficient process and consumes less energy than recycling. It does, however, often require a lot of expensive organization and administration. There are also concerns to address regarding reused medical equipment and food-storage items, for example, because of safety and hygiene issues. Still, the benefits of reusing items are clear.",
+              "kr": "[재사용하기(Reuse)의 높은 효율과 안전상 우려] 오래되고 원치 않는 물건을 다시 사용할 수 있는 상태로 복원하는 것은 종종 가능합니다. 유리병은 깨뜨려서 다시 만들 필요 없이 세척하여 재사용할 수 있습니다. 물건을 재사용하는 것은 매우 효율적인 과정이며 재활용보다 에너지를 적게 소비합니다. 그러나 종종 많은 비용이 드는 조직화와 관리 행정을 요구합니다. 예를 들어 재사용된 의료 장비나 식품 보관 용기의 경우 안전 및 위생 문제로 인해 해결해야 할 우려 사항도 있습니다. 그럼에도 불구하고 물건을 재사용하는 것의 이점은 명백합니다.\n* **핵심 구문 및 어휘**:\n  * `restore`: 복원하다\n  * `safety and hygiene issues`: 안전 및 위생 문제\n  * `consumes less energy than recycling`: 재활용보다 에너지를 덜 소비함",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Most of us know that materials such as paper and plastic can be recycled into new products. This process uses less energy and emits fewer greenhouse gases than producing articles from raw materials. Yet, sorting through used materials before recycling them is a dirty and difficult job, and breaking up electronic equipment to recycle parts is time-consuming and potentially dangerous. But provided we understand the dangers involved, the necessity of recycling on a community and international scale is clear.",
+              "kr": "[재활용하기(Recycle)의 장단점] 우리 대부분은 종이나 플라스틱과 같은 자재가 새로운 제품으로 재활용될 수 있다는 것을 알고 있습니다. 이 과정은 원자재로부터 물품을 생산하는 것보다 에너지를 적게 사용하고 온실가스를 적게 배출합니다. 그러나 재활용하기 전에 사용된 재료들을 분류하는 일은 더럽고 힘든 작업이며, 부품을 재활용하기 위해 전자기기를 분해하는 것은 시간이 많이 걸리고 잠재적으로 위험합니다. 하지만 수반되는 위험을 제대로 이해하고 있다면, 지역사회와 국제적 규모에서 재활용의 필요성은 명확합니다.\n* **핵심 구문 및 어휘**:\n  * `raw materials`: 원자재, 천연 원료\n  * `sorting through`: 분류하다, 샅샅이 뒤져 가려내다\n  * `provided (that)`: ~라는 조건 하에, ~하기만 한다면",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] A lot of attention has been paid in recent years to the dangers of relying on fossil fuels. For this reason, the use of alternatives to coal, oil, and gas are becoming more and more common. Alternative energy sources can be recovered or produced without emitting carbon dioxide and contributing to global warming. They can decrease air pollution, which is better for our health as it diminishes instances of asthma. They are often sustainable resources as well, which means they will not get used up. There are many examples of alternative energy sources: Hydropower utilizes the power of moving water; large turbines can be used to generate wind power; solar energy uses panels that absorb sunlight; the burning of biomass creates steam; and geothermal energy uses the heat within the earth. A particular type of alternative energy may work the best for a particular region. The other side of this is that some of these energy sources may not be available at all to people in certain places because of environmental limitations.",
+              "kr": "[대체 에너지의 보완적 역할] 최근 몇 년 동안 화석 연료에 의존하는 것의 위험성에 많은 관심이 쏠렸습니다. 이러한 이유로 석탄, 석유, 가스의 대체재 사용이 점점 더 보편화되고 있습니다. 대체 에너지원은 이산화탄소를 배출하지 않고 지구 온난화에 기여하지 않으면서 회수되거나 생산될 수 있습니다. 대기 오염을 줄여 천식 발생 건수를 감소시키므로 우리 건강에도 더 좋습니다. 또한 대체 에너지는 대개 지속 가능한 자원이어서 고갈되지 않음을 의미합니다. 수력, 풍력, 태양광, 바이오매스, 지열 등이 그 예입니다. 특정 유형의 대체 에너지는 특정 지역에 가장 적합할 수 있습니다. 반면 환경적 한계로 인해 특정 지역의 사람들에게는 이러한 에너지원 중 일부를 전혀 이용하지 못할 수도 있습니다.\n* **핵심 구문 및 어휘**:\n  * `diminishes instances of asthma`: 천식 발생 건수를 감소시키다\n  * `sustainable resources`: 지속 가능한 자원\n  * `environmental limitations`: 환경적 제약",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 6] To avoid a catastrophic depletion of vital natural resources in the future, urgent action is required now. Alternative energy production is certainly essential, but it can be expensive and time-consuming to install the required elements. Some developing areas of the world may simply be unable to pay for it. In other places, corporations and taxpayers may be resistant to it. The \"reduce, reuse, recycle\" strategy, at least for the present, seems to be a manageable one that can be practiced by both individuals and organizations. People may be resistant to the idea of changing their ways or increasing the cost of their routines by \"going green,\" but it is crucial that we do this for the future of the planet.",
+              "kr": "[결론: 미래를 위한 긴급한 행동과 글로벌 과제] 미래에 필수적인 천연자원의 파멸적인 고갈을 피하기 위해 지금 긴급한 행동이 요구됩니다. 대체 에너지 생산은 분명 필수적이지만 필요한 요소를 설치하는 데 많은 비용과 시간이 소요될 수 있습니다. 세계의 일부 개발도상국 지역은 단순히 그 비용을 감당할 수 없을지도 모릅니다. 다른 곳에서는 기업과 납세자들이 이에 저항할 수도 있습니다. 적어도 현재로서는 \"감축, 재사용, 재활용(3R)\" 전략이 개인과 조직 모두가 실천할 수 있는 관리 가능한 전략으로 보입니다. 사람들은 방식을 바꾸거나 '친환경 생활'을 실천함으로써 일상의 비용을 늘리는 생각에 저항할 수도 있지만, 지구의 미래를 위해 우리가 이를 행하는 것은 지극히 중요합니다.\n* **핵심 구문 및 어휘**:\n  * `catastrophic depletion`: 재앙적인 (파멸적인) 고갈\n  * `resistant to`: ~에 저항하는, 반대하는\n  * `crucial`: 중대한, 결정적인",
+              "py": ""
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "word": "compromise",
+          "pos": "n",
+          "meaning": "타협, 절충안 - an agreement between two sides in which each side gives up something"
+        },
+        {
+          "word": "conservation",
+          "pos": "n",
+          "meaning": "보존, 보호 - the protection of plants, animals, and natural areas from human damage"
+        },
+        {
+          "word": "durable",
+          "pos": "adj",
+          "meaning": "내구성 있는, 오래가는 - able to last a long time without being damaged"
+        },
+        {
+          "word": "efficiency",
+          "pos": "n",
+          "meaning": "효율성 - the condition of producing desired results without waste"
+        },
+        {
+          "word": "relevant",
+          "pos": "adj",
+          "meaning": "관련 있는, 유의미한 - related to a subject or something happening"
+        },
+        {
+          "word": "secondhand",
+          "pos": "adj",
+          "meaning": "중고의 - not new; having been used in the past by someone else"
+        },
+        {
+          "word": "sector",
+          "pos": "n",
+          "meaning": "부문, 분야 - a part of society separated from other parts"
+        },
+        {
+          "word": "function",
+          "pos": "n",
+          "meaning": "기능, 목적 - a purpose, or the way something works"
+        },
+        {
+          "word": "depressing",
+          "pos": "adj",
+          "meaning": "우울한, 답답한 - making you feel unhappy and without hope"
+        },
+        {
+          "word": "inspiring",
+          "pos": "adj",
+          "meaning": "영감을 주는, 고무적인 - causing eagerness to learn or do something"
+        },
+        {
+          "word": "civilized",
+          "pos": "adj",
+          "meaning": "문명화된, 교양 있는 - having a well-developed way of life and social systems"
+        },
+        {
+          "word": "reflect on",
+          "pos": "v phrase",
+          "meaning": "인상을 주다 - causes people to think of someone in a specified way"
+        },
+        {
+          "word": "reputation",
+          "pos": "n",
+          "meaning": "명성, 평판 - the general opinion that people have about someone"
+        },
+        {
+          "word": "demonstrate",
+          "pos": "v",
+          "meaning": "입증하다, 시연하다 - to show or prove something clearly"
+        },
+        {
+          "word": "structural engineer",
+          "pos": "n",
+          "meaning": "구조 기술사 - specialist helping build an architectural design"
+        },
+        {
+          "word": "skyscrapers",
+          "pos": "n",
+          "meaning": "초고층 빌딩, 마천루 - very tall modern buildings in cities"
+        },
+        {
+          "word": "urban sprawl",
+          "pos": "n",
+          "meaning": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside"
+        },
+        {
+          "word": "green belt",
+          "pos": "n",
+          "meaning": "개발제한구역, 그린벨트 - a section of nature near a city protected from development"
+        },
+        {
+          "word": "suburban",
+          "pos": "adj",
+          "meaning": "교외의 - neighborhoods outside city centers, usually with houses"
+        },
+        {
+          "word": "outskirts",
+          "pos": "n",
+          "meaning": "교외, 변두리 - the outer parts of a town or city"
+        },
+        {
+          "word": "amenities",
+          "pos": "n",
+          "meaning": "편의시설 - public facilities that people enjoy, e.g. pools, parks"
+        },
+        {
+          "word": "aquatic",
+          "pos": "adj",
+          "meaning": "수생의, 물속의 - living in, happening in, or connected with water"
+        },
+        {
+          "word": "offshore",
+          "pos": "adj/adv",
+          "meaning": "해상의, 앞바다의 - away from or at a distance from the land"
+        },
+        {
+          "word": "inexhaustible",
+          "pos": "adj",
+          "meaning": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up"
+        },
+        {
+          "word": "initial",
+          "pos": "adj",
+          "meaning": "초기의, 처음의 - at the beginning; first"
+        },
+        {
+          "word": "generate",
+          "pos": "v",
+          "meaning": "발생시키다, 생성하다 - to cause to exist; produce"
+        },
+        {
+          "word": "universal",
+          "pos": "adj",
+          "meaning": "보편적인, 만인의 - existing everywhere or involving everyone"
+        },
+        {
+          "word": "utilize",
+          "pos": "v",
+          "meaning": "활용하다, 이용하다 - to make use of something"
+        },
+        {
+          "word": "address",
+          "pos": "v",
+          "meaning": "다루다, 고심하다 - to give attention to or deal with a matter or problem"
+        },
+        {
+          "word": "adopt",
+          "pos": "v",
+          "meaning": "도입하다, 채택하다 - to accept or begin to use something new"
+        },
+        {
+          "word": "alarming",
+          "pos": "adj",
+          "meaning": "걱정스러운, 두려운 - causing worry or fear"
+        },
+        {
+          "word": "diminish",
+          "pos": "v",
+          "meaning": "줄이다, 감소하다 - to reduce or be reduced in size or importance"
+        },
+        {
+          "word": "instigate",
+          "pos": "v",
+          "meaning": "촉발하다, 부추기다 - to cause an event or situation to happen"
+        },
+        {
+          "word": "resistant",
+          "pos": "adj",
+          "meaning": "저항하는, 반대하는 - not accepting of something"
+        },
+        {
+          "word": "urgent",
+          "pos": "adj",
+          "meaning": "긴급한, 다급한 - needing immediate attention"
+        },
+        {
+          "word": "vital",
+          "pos": "adj",
+          "meaning": "필수적인, 생명에 중요한 - extremely important for success or survival"
+        },
+        {
+          "word": "fossil / alternative fuel",
+          "pos": "collocation",
+          "meaning": "화석 연료 / 대체 연료"
+        },
+        {
+          "word": "renewable / solar energy",
+          "pos": "collocation",
+          "meaning": "재생 에너지 / 태양광 에너지"
+        },
+        {
+          "word": "environmental pollution",
+          "pos": "collocation",
+          "meaning": "환경 오염 (air / industrial / water / radioactive)"
+        },
+        {
+          "word": "energy / power source",
+          "pos": "collocation",
+          "meaning": "에너지원 / 전력원"
+        },
+        {
+          "word": "electricity / energy production",
+          "pos": "collocation",
+          "meaning": "전력 생산 / 에너지 생산"
+        }
+      ],
       "qa": [
         {
-          "question": "[Q1] [주제·대의 파악] We Need More Green Buildings 본문 핵심 요지",
-          "answer": "정답: ② While eco-buildings provide undeniable ecological benefits, realizing them broadly requires practical compromises between cost and sustainability. | 해설: 친환경 건물의 생태적 이점과 고비용 간의 실용적 절충안(compromise) 강조."
+          "id": "knn-q1",
+          "num": 1,
+          "question": "[Q1] 다음 글의 핵심 요지(Main Idea)로 가장 적절한 것은?\n> In recent years, there has been a general trend for new buildings to be more environmentally friendly, or more \"green.\" Such a building is sometimes called an eco-building. These buildings use energy and water efficiently, which reduces waste and pollution. However, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear. ... Critics of these kinds of eco-buildings say that while they may be good for the environment, there are practical problems with their affordability. They are often too costly to become a large-volume method of construction. ... Yes, in order to incorporate environmentally friendly construction and produce an affordable building, compromises have to be made.",
+          "options": [
+            "Traditional building methods must be banned immediately to curb greenhouse gas emissions.",
+            "While eco-buildings provide undeniable ecological benefits, realizing them broadly requires practical compromises between cost and sustainability.",
+            "Earthship homes are the most economically viable alternative for large-scale urban apartment construction.",
+            "High initial investment costs make eco-friendly construction completely unrealistic for modern public institutions."
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "친환경 건물이 생태적 혜택을 제공하지만 비용과 지속 가능성 사이의 타협(compromises)이 필요함"
         },
         {
-          "question": "[Q2] [필자 주장] Form, Function, or Both? 필자의 궁극적 주장",
-          "answer": "정답: ④ True architectural excellence requires a balanced synthesis where aesthetic form and practical function complement each other. | 해설: 형태(form)와 기능(function)의 조화로운 통합 주장."
+          "id": "knn-q2",
+          "num": 2,
+          "question": "[Q2] 다음 글에서 필자가 궁극적으로 주장하는 바로 가장 적절한 것은?\n> If architects focus only on function, buildings may be cold, ugly, and uninteresting. There is no doubt that a building with a beautiful form is something we can all appreciate. However, functional needs must be addressed before visual ones. This issue of practicality is the most important feature of the buildings we live in, work in, and visit. Therefore, function must outweigh form when an architect plans a building.",
+          "options": [
+            "Architecture should solely pursue aesthetic brilliance because visual beauty boosts societal motivation.",
+            "Modern buildings have proven that form and function are fundamentally irreconcilable in architectural history.",
+            "Although aesthetic appeal possesses artistic value, functional utility must always take precedence over visual form in architectural design.",
+            "Minimalist architecture such as \"less is more\" provides the only pragmatic solution to contemporary housing crises."
+          ],
+          "type": "choice",
+          "answer": 3,
+          "explanation": "시각적 아름다움도 중요하지만 건축 계획 시 기능이 항상 형태보다 우선(function must outweigh form)해야 함"
         },
         {
-          "question": "[Q3] [서술 방식] Energy Resource Fact Sheet의 구성 및 서술 방식",
-          "answer": "정답: ③ Comparing various renewable and non-renewable energy sources through technical definitions and environmental impacts. | 해설: 재생 및 비재생 에너지의 정의와 영향 비교."
+          "id": "knn-q3",
+          "num": 3,
+          "question": "[Q3] 다음 글(Fact Sheet)의 전체적인 구성 및 서술 방식으로 가장 적절한 것은?\n> (Passage on Unit 6 Reading 1: Alternative Energy Resources)  \n> Hydropower creates an inexhaustible amount of energy, yet causes land behind dams to flood. Wind power is relatively cheap and produces affordable electricity, yet wind turbines can endanger local birds and create noise pollution. Solar energy generates no emissions, but requires vast land surfaces. Biomass utilizes organic waste, but emits greenhouse gases when burned. Geothermal energy is clean and inexhaustible, but active geothermal sites are restricted largely to the \"Ring of Fire.\"",
+          "options": [
+            "A chronological overview tracing the industrial evolution of fossil fuels to modern atomic energy.",
+            "A critical comparison categorizing various renewable energy resources alongside their respective environmental strengths and practical drawbacks.",
+            "A policy argument calling for the total abolition of hydroelectric dams due to marine ecosystem disruption.",
+            "A technical manual instructing civil engineers on how to install photovoltaic cells in domestic housing."
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "5대 재생 에너지의 친환경적 장점과 환경적 단점을 균형 있게 대비"
         },
         {
-          "question": "[Q4] [중심 생각] We Must Maintain Our Natural Resources 중심 생각",
-          "answer": "정답: ② Urgent global cooperation and sustainable resource management are required to prevent catastrophic depletion. | 해설: 자원 고갈 방지를 위한 지속 가능 관리 및 글로벌 협력."
+          "id": "knn-q4",
+          "num": 4,
+          "question": "[Q4] 다음 글의 중심 생각(Central Theme)으로 가장 적절한 것은?\n> To avoid a catastrophic depletion of vital natural resources in the future, urgent action is required now. Alternative energy production is certainly essential, but it can be expensive and time-consuming to install the required elements. Some developing areas of the world may simply be unable to pay for it. ... The \"reduce, reuse, recycle\" strategy, at least for the present, seems to be a manageable one that can be practiced by both individuals and organizations. People may be resistant to the idea of changing their ways or increasing the cost of their routines by \"going green,\" but it is crucial that we do this for the future of the planet.",
+          "options": [
+            "Transitioning to renewable energy is impossible without imposing punitive fines on individual domestic consumers.",
+            "While alternative energy infrastructure requires long-term investment, adopting the \"3R\" strategy offers an immediate, accessible approach to resource conservation.",
+            "Reusing medical and food containers is proven to be hazard-free across all developing territories.",
+            "Technological advancements will automatically eliminate resource scarcity without requiring behavioral modifications.      ### 🔍 [유형 2] 내용 일치 및 진위 판별 (Questions 5 ~ 8)"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "당장 개인이 실천할 수 있는 3R(Reduce, Reuse, Recycle) 전략 강조"
         },
         {
-          "question": "[Q5] [내용 일치 T/F] We Need More Green Buildings 세부 진술 판별",
-          "answer": "정답: 1-T, 2-F, 3-T, 4-F | 해설: 태양광 패널 등 초기 설치비는 기존 건물보다 비싸므로 2번은 False."
+          "id": "knn-q5",
+          "num": 5,
+          "question": "[Q5] 다음 《We Need More Green Buildings》에 관한 진술 중 본문의 내용과 일치하면 T(True), 일치하지 않으면 F(False)를 표시하시오.\n* (1) Earthship houses are constructed primarily using conventional brickwork and non-recyclable synthetic polymers. [ &emsp;&emsp; ]  \n* (2) Recycled-construction designs have been applied to school buildings in developing nations such as Uruguay and Sierra Leone. [ &emsp;&emsp; ]  \n* (3) The roof of the \"Hobbit House\" in Wales is made of asphalt shingles that reflect solar heat. [ &emsp;&emsp; ]  \n* (4) According to the United Nations Environment Programme, the global construction sector accounts for over 70% of worldwide energy consumption. [ &emsp;&emsp; ]",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) F (전통 벽돌 아님), (2) T (우루과이/시에라리온 학교), (3) F (아스팔트 싱글 아님), (4) F (70% 아니라 약 30%)"
         },
         {
-          "question": "[Q6] [일치하지 않는 것] Form, Function, or Both? 내용 불일치",
-          "answer": "정답: ③ Louis Sullivan argued that functional requirements should always be sacrificed for aesthetic ornamentation. | 해설: 설리번은 '형태는 기능을 따른다(Form follows function)'를 주장했으므로 장식을 위해 기능을 희생하라는 진술은 정반대 오류."
+          "id": "knn-q6",
+          "num": 6,
+          "question": "[Q6] 다음 《Form, Function, or Both?》에 관한 진술 중 본문의 내용과 일치하지 않는 것은?",
+          "options": [
+            "Louis Sullivan coined the renowned architectural maxim \"form follows function\" at the start of the twentieth century.",
+            "Inhabitants of aesthetically attractive buildings are said to experience enhanced happiness and improved workplace motivation.",
+            "The Guggenheim Museum in New York successfully solved overcrowding and viewing distances thanks to its wide spiral ramp.",
+            "The Farnsworth House faced intense criticism regarding domestic privacy due to its extensive glass windows, as well as chronic roof leakage."
+          ],
+          "type": "choice",
+          "answer": 3,
+          "explanation": "구겐하임 나선형 경사로는 작품 감상 후퇴 공간 부족 및 혼잡으로 불평을 샀음"
         },
         {
-          "question": "[Q7] [신재생 에너지 팩트] 본문 내용 일치 선지 선택",
-          "answer": "정답: ① 태양광과 풍력은 온실가스를 배출하지 않으나 기후 조건에 따른 간헐성(intermittency) 문제를 가진다. | 해설: 신재생 에너지의 대표적 기술적 한계와 일치."
+          "id": "knn-q7",
+          "num": 7,
+          "question": "[Q7] 다음 신재생 에너지원에 관한 설명 중 본문의 내용과 일치하는 것만을 있는 대로 고른 것은?\n> [보 기]  \n> ㉠ 수력 발전(Hydropower)은 흐르는 물을 이용하므로 에너지를 저장했다가 전력 수요가 최고조일 때 방출할 수 있다.  \n> ㉡ 풍력 발전(Wind power)은 수력 발전에 비해 설치 및 전력 생산 비용이 현저히 비싸다는 점이 최대 단점이다.  \n> ㉢ 전 지구의 전력 수요를 태양광(Solar power)만으로 충당하려면 스페인 국토 면적에 맞먹는 부지가 필요하다.  \n> ㉣ 바이오매스(Biomass) 에너지는 유기 폐기물 연소 시 온실가스를 전혀 배출하지 않는 완전 무공해 자원이다.  \n> ㉤ 지열 발전(Geothermal energy)의 초기 설비 구축비는 매우 높지만, 일단 완공되면 운영 및 유지비용은 저렴하다.",
+          "options": [
+            "㉠, ㉢, ㉤",
+            "㉠, ㉡, ㉢",
+            "㉡, ㉣, ㉤",
+            "㉢, ㉣, ㉤"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "㉠(수력 홍수 유발), ㉢(풍력 소음 및 조류 피해), ㉤(바이오매스 식량 작물과 경쟁) 일치"
         },
         {
-          "question": "[Q8] [자원 보존 T/F] We Must Maintain Natural Resources 판별",
-          "answer": "정답: 1-T, 2-T, 3-F, 4-T | 해설: 화석연료는 무한 재생되지 않으므로 고갈 위험이 상존함."
+          "id": "knn-q8",
+          "num": 8,
+          "question": "[Q8] 다음 《We Must Maintain Our Natural Resources》의 본문 내용에 대한 T/F 판별로 올바른 것은?\n* (1) Reusing glass containers without breaking them consumes less energy than melting and recycling them into new products. [ &emsp;&emsp; ]  \n* (2) Dismantling redundant electronic devices for component recycling is completely safe and requires minimal manual labor. [ &emsp;&emsp; ]  \n* (3) Shifting from fossil fuels to clean renewable alternatives can reduce air pollution and decrease occurrences of respiratory conditions like asthma. [ &emsp;&emsp; ]  \n* (4) The author claims that lowering the prices of essential commodities like water and electricity is the most effective way to prevent resource waste. [ &emsp;&emsp; ]  \n\n\n\n### 🔗 [유형 3] 연결어 및 문맥 접속사 빈칸 추론 (Questions 9 ~ 12)",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) T (화석연료 고갈), (2) F (개도국 신재생 즉시 전환 어려움), (3) T (가격 인상이 덜 낭비적인 습관 유도), (4) F (소비자만이 아니라 생산자도 제품 재활용 책임)"
         },
         {
-          "question": "[Q9] [연결어 빈칸] Green Buildings 단락 (A), (B) 연결어",
-          "answer": "정답: However (A) - Therefore (B) | 해설: (A) 친환경 이점 뒤 비용 문제 역접 However, (B) 절충안 도출 인과 Therefore."
+          "id": "knn-q9",
+          "num": 9,
+          "question": "[Q9] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> These buildings use energy and water efficiently, which reduces waste and pollution. &emsp;(A)&emsp;, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear. ... Low-impact houses like this one are green because they use secondhand materials and do not rely on fossil fuels, but &emsp;(B)&emsp; use renewable energy sources such as solar or wind power.",
+          "options": [
+            "(A) However &emsp;&emsp; (B) instead",
+            "(A) Furthermore &emsp;&emsp; (B) therefore",
+            "(A) In contrast &emsp;&emsp; (B) likewise",
+            "(A) Consequently &emsp;&emsp; (B) otherwise"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "Despite these extra costs (양보 대조 연결어)"
         },
         {
-          "question": "[Q10] [연결어 빈칸] Architecture Form & Function (A), (B)",
-          "answer": "정답: On the other hand (A) - Consequently (B) | 해설: (A) 두 학파 대조 On the other hand, (B) 현대 건축 경향 유도 Consequently."
+          "id": "knn-q10",
+          "num": 10,
+          "question": "[Q10] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> Ugly public buildings can project a negative image of the organization. People say that living or working in an ugly place creates a depressing and uninspiring environment. &emsp;(A)&emsp;, an attractive building can make people feel happier and increase their motivation to work. ... Each type of building has a different function, and, &emsp;(B)&emsp;, it has a different form.",
+          "options": [
+            "(A) In addition &emsp;&emsp; (B) nevertheless",
+            "(A) In contrast &emsp;&emsp; (B) therefore",
+            "(A) For example &emsp;&emsp; (B) conversely",
+            "(A) On the other hand &emsp;&emsp; (B) nonetheless"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "However (형태보다 기능 우선 역접)"
         },
         {
-          "question": "[Q11] [연결어 빈칸] Renewable Energy Transition (A), (B)",
-          "answer": "정답: In contrast (A) - In addition (B) | 해설: (A) 화석연료와 신재생 대조, (B) 추가적 생태 혜택 열거 In addition."
+          "id": "knn-q11",
+          "num": 11,
+          "question": "[Q11] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> Wind turbines can be utilized on a large scale or on a small scale. &emsp;(A)&emsp; hydropower, this process is relatively cheap and is considered one of the most affordable forms of electricity today. ... The sun produces energy constantly, which makes solar energy an inexhaustible resource. Another benefit is that it generates no pollution. &emsp;(B)&emsp;, a large area of land is needed to produce a large amount of solar power.",
+          "options": [
+            "(A) Similar to &emsp;&emsp; (B) In fact",
+            "(A) Unlike &emsp;&emsp; (B) However",
+            "(A) Because of &emsp;&emsp; (B) Therefore",
+            "(A) Due to &emsp;&emsp; (B) Moreover"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "For instance (바이오매스 구체적 사례 제시)"
         },
         {
-          "question": "[Q12] [연결어 빈칸] Resource Conservation Policy (A), (B)",
-          "answer": "정답: Although (A) - Furthermore (B) | 해설: (A) 양보 부사절 Although, (B) 정책 강화 열거 Furthermore."
+          "id": "knn-q12",
+          "num": 12,
+          "question": "[Q12] 다음 글의 빈칸 (A), (B)에 들어갈 말로 가장 적절한 짝을 고르시오.\n> Reusing things is a very efficient process and consumes less energy than recycling. It does, &emsp;(A)&emsp;, often require a lot of expensive organization and administration. ... Alternative energy production is certainly essential, but it can be expensive and time-consuming to install the required elements. &emsp;(B)&emsp;, the \"reduce, reuse, recycle\" strategy, at least for the present, seems to be a manageable one that can be practiced by both individuals and organizations.",
+          "options": [
+            "(A) however &emsp;&emsp; (B) For this reason",
+            "(A) moreover &emsp;&emsp; (B) On the contrary",
+            "(A) therefore &emsp;&emsp; (B) In consequence",
+            "(A) likewise &emsp;&emsp; (B) In other words      ### 🔀 [유형 4] 글의 흐름 및 문장 순서 배열 (Questions 13 ~ 16)"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "In addition (3R 실천에 이은 추가 조치 유도)"
         },
         {
-          "question": "[Q13] [문장 순서 배열] Eco-building cost trade-off",
-          "answer": "정답: (B) - (A) - (C) | 해설: 초기 설치비 제시 (B) -> 운영비 절감 효과 (A) -> 장기적 회수 기간 (C)."
+          "id": "knn-q13",
+          "num": 13,
+          "question": "[Q13] 주어진 문장 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n> [주어진 문장]  \n> In recent years, there has been a general trend for new buildings to be more environmentally friendly, or more \"green.\" Such a building is sometimes called an eco-building.\n\n> [A] Around the city of Taos, New Mexico, there are many homes, called Earthship houses, constructed from recycled bottles, tires, aluminum cans, and other trash.  \n> [B] However, installing features like solar panels and water recycling systems involves higher construction costs than in a traditional building. Despite these extra costs, green buildings are good for the planet and their benefits are clear.  \n> [C] These buildings use energy and water efficiently, which reduces waste and pollution.",
+          "options": [
+            "[B] - [A] - [C]",
+            "[C] - [B] - [A]",
+            "[C] - [A] - [B]",
+            "[A] - [C] - [B]"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "[C] (문제 제기) - [B] (상충 요소 제시) - [A] (현실적 절충 결론)"
         },
         {
-          "question": "[Q14] [문장 순서 배열] Earthship construction method",
-          "answer": "정답: (C) - (A) - (B) | 해설: 폐타이어 등 재활용 자재 수집 (C) -> 흙 다지기 벽체 시공 (A) -> 자연 채광 설계 (B)."
+          "id": "knn-q14",
+          "num": 14,
+          "question": "[Q14] 주어진 문장 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.\n> [주어진 문장]  \n> In theory, there seems to be no reason why architecture cannot be both functional and beautiful. Yet in practice, this can cause problems.\n\n> [A] The Farnsworth House by Ludwig Mies van der Rohe is another icon of beautiful design that demonstrates the idea that \"less is more.\" However, critics have attacked it for a lack of privacy because of the huge glass windows, and it has a leaky flat roof that has repeatedly flooded.  \n> [B] It seems that even these two celebrated designs have problems with functionality. Therefore, function must outweigh form when an architect plans a building.  \n> [C] The Modern International style of the 1920s and 1930s, an example of which is the Guggenheim Museum in New York, was supposed to combine beauty with function. Many consider its white spiral ramp beautiful, but there have been complaints that it is impractical and overcrowded.",
+          "options": [
+            "[C] - [A] - [B]",
+            "[A] - [C] - [B]",
+            "[B] - [C] - [A]",
+            "[C] - [B] - [A]"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "[C] (과거 형태 중시) - [A] (기능주의 등장) - [B] (현대 통합 결론)"
         },
         {
-          "question": "[Q15] [단락 논리 배열] Wind turbine efficiency",
-          "answer": "정답: (D) - (B) - (A) - (C) | 해설: 풍력 에너지 기본 원리 -> 지형 조건 -> 터빈 배치 -> 송전망 연결."
+          "id": "knn-q15",
+          "num": 15,
+          "question": "[Q15] 다음 문장들이 하나의 자연스러운 단락을 형성하도록 가장 논리적인 순서로 배열하시오.\n> (a) The power it generates can then be used to produce electricity and heat buildings.  \n> (b) With geothermal energy, heat that is trapped in the ground can be converted into steam to turn turbines.  \n> (c) The most active geothermal resources are usually found in areas near volcanoes, such as the \"Ring of Fire.\"  \n> (d) Like several other renewable energy sources, this process causes no pollution and is inexhaustible.  \n\n정답: [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ]",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(b) ➔ (a) ➔ (d) ➔ (c)"
         },
         {
-          "question": "[Q16] [단락 논리 배열] Resource depletion crisis",
-          "answer": "정답: (A) - (C) - (D) - (B) | 해설: 문제 제기 -> 원인 분석 -> 파급 효과 -> 국제 규제 제언."
+          "id": "knn-q16",
+          "num": 16,
+          "question": "[Q16] 다음 문장들이 하나의 자연스러운 단락을 형성하도록 가장 논리적인 순서로 배열하시오.\n> (a) Still, the benefits of reusing items are clear, as it consumes less energy than recycling.  \n> (b) Glass bottles, for example, can be cleaned and reused without having to be broken and remade.  \n> (c) It is often possible to restore old, unwanted objects to a state in which they can be used again.  \n> (d) It does, however, often require a lot of expensive organization and administration, with concerns regarding hygiene.  \n\n정답: [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ] ➔ [ &emsp;&emsp; ]\n\n\n\n### ✍️ [유형 5] 핵심 구문 영한 정밀 번역 서술형 (Questions 17 ~ 20)\n\n*다음 밑줄 친 영어 문장을 문맥에 부합하도록 매끄럽고 정확한 한국어로 정밀 번역하시오.*",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(c) ➔ (b) ➔ (d) ➔ (a)"
         },
         {
-          "question": "[Q17] [영한 번역] Unit 5 Reading 1 핵심 구문",
-          "answer": "번역 모범답안: 친환경 자재를 도입하고 경제적으로 감당 가능한 건축물을 짓기 위해서는 실용적인 절충안이 반드시 수반되어야 한다. | 채점 포인트: incorporate, affordable, compromise 정확 번역."
+          "id": "knn-q17",
+          "num": 17,
+          "question": "[Q17] (Unit 5 Reading 1)\n> Yes, in order to incorporate environmentally friendly construction and produce an affordable building, compromises have to be made. <u>These may be that the building will have to be smaller or made of less durable materials and with technology that uses more energy.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "이러한 절충안은 건물의 규모가 더 작아져야 하거나, 내구성이 떨어지는 자재로 만들어져야 하거나, 에너지를 더 많이 소비하는 기술로 지어져야 하는 것일 수 있습니다."
         },
         {
-          "question": "[Q18] [영한 번역] Unit 5 Reading 2 핵심 구문",
-          "answer": "번역 모범답안: 건축가는 건물의 심미적 외관뿐만 아니라 거주자의 일상적 편의를 극대화하는 실용적 효용성을 동시에 고려해야 한다. | 채점 포인트: aesthetic exterior, practical utility 동시 반영."
+          "id": "knn-q18",
+          "num": 18,
+          "question": "[Q18] (Unit 5 Reading 2)\n> In the modern world, it seems that most architects try to combine both ideas, aiming to create buildings that are both functional and inspiring in their beauty. This is often difficult to achieve, however. <u>Since we create buildings to serve the needs in our lives, the importance of function should always be prioritized over form.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "우리는 우리 삶의 필요를 충족하기 위해 건물을 짓기 때문에, 기능의 중요성이 항상 형태보다 우선시되어야 합니다."
         },
         {
-          "question": "[Q19] [영한 번역] Unit 6 Reading 1 핵심 구문",
-          "answer": "번역 모범답안: 신재생 에너지로의 전환은 막대한 초기 자본 투자를 요구하지만, 장기적인 탄소 배출 저감 효과는 이를 충분히 상쇄한다. | 채점 포인트: transition, offset, capital investment."
+          "id": "knn-q19",
+          "num": 19,
+          "question": "[Q19] (Unit 6 Reading 1)\n> However, a large area of land is needed to produce a large amount of solar power. <u>Scientists have determined that if we wanted to try to power the entire Earth with renewable solar power, we would need to cover a land area about the size of Spain with solar panels.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "과학자들은 만약 우리가 재생 가능한 태양광 에너지로 지구 전체에 전력을 공급하고자 한다면, 대략 스페인 크기만 한 면적의 토지를 태양광 패널로 덮어야 할 것이라고 밝혔습니다."
         },
         {
-          "question": "[Q20] [영한 번역] Unit 6 Reading 2 핵심 구문",
-          "answer": "번역 모범답안: 천연자원의 무분별한 채굴을 억제하지 않는다면, 미래 세대는 회복 불가능한 환경 파괴에 직면하게 될 것이다. | 채점 포인트: unchecked extraction, irreversible degradation."
+          "id": "knn-q20",
+          "num": 20,
+          "question": "[Q20] (Unit 6 Reading 2)\n> It is sometimes difficult to persuade people to use less energy and water, or to eat less food, <u>but an effective way to motivate people to adopt less-wasteful practices is to make these essential commodities much more expensive.</u>\n\n[정밀 번역 답안란]:  \n____________________________________________________________________________________________________  \n____________________________________________________________________________________________________  \n\n\n\n### 🎯 [유형 6] 지칭 대명사 및 선행사 추론 (Questions 21 ~ 24)",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "그러나 사람들이 덜 낭비적인 습관을 들이도록 동기를 부여하는 효과적인 방법은 이러한 필수 생필품의 가격을 훨씬 더 비싸게 만드는 것입니다."
         },
         {
-          "question": "[Q21] [지칭 추론] Unit 5 Reading 1: 'They'가 가리키는 대상",
-          "answer": "정답: Eco-buildings with advanced environmental features (고급 친환경 설비를 갖춘 친환경 건물들)."
+          "id": "knn-q21",
+          "num": 21,
+          "question": "[Q21] (Unit 5 Reading 1)\n> Its frame is made of wood and the walls are made of straw, (A) <u>which</u> provides excellent insulation. The roof consists of mud planted with grass which blends in with the surroundings and has a low impact on the environment. Solar panels provide electricity for lighting and electrical equipment. Water is supplied directly from a nearby river and is also collected from the roof for use in the garden, avoiding the need to waste clean water. Low-impact houses like this one are green because (B) <u>they</u> use secondhand materials and do not rely on fossil fuels.\n\n* (1) 밑줄 친 (A) `which`의 선행사가 가리키는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `they`가 지칭하는 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) straw (단열벽을 이루는 짚), (2) Low-impact houses (저영향 생태 주택들)"
         },
         {
-          "question": "[Q22] [지칭 추론] Unit 5 Reading 2: 'This approach'가 가리키는 내용",
-          "answer": "정답: Designing structures where form strictly follows practical functional demands (형태가 실용적 기능적 요구를 엄격히 따르도록 설계하는 접근법)."
+          "id": "knn-q22",
+          "num": 22,
+          "question": "[Q22] (Unit 5 Reading 2)\n> When building an airport terminal, for example, you need to think of the needs of passengers as well as planes. Passengers want to get to their plane as quickly as they can, and planes need to be parked in a way that maximizes (A) <u>their</u> ease of use. ... Each type of building has a different function, and, therefore, (B) <u>it</u> has a different form.\n\n* (1) 밑줄 친 (A) `their`가 지칭하는 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `it`이 지칭하는 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) planes (비행기들), (2) Each type of building (각 건축물의 유형)"
         },
         {
-          "question": "[Q23] [지칭 추론] Unit 6 Reading 1: 'It'이 가리키는 대상",
-          "answer": "정답: Solar energy generated through photovoltaic panels (태양광 패널을 통해 생산된 태양 에너지)."
+          "id": "knn-q23",
+          "num": 23,
+          "question": "[Q23] (Unit 6 Reading 1)\n> To use solar energy, solar panels absorb sunlight and, using devices called photovoltaic cells, turn (A) <u>it</u> into electricity. The sun produces energy constantly, which makes solar energy an inexhaustible resource. Another benefit is that (B) <u>it</u> generates no pollution.\n\n* (1) 밑줄 친 (A) `it`이 지칭하는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `it`이 지칭하는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) sunlight (광전지가 흡수하는 햇빛), (2) solar energy (오염을 유발하지 않는 태양광 에너지)"
         },
         {
-          "question": "[Q24] [지칭 추론] Unit 6 Reading 2: 'These resources'가 가리키는 대상",
-          "answer": "정답: Non-renewable fossil fuels including oil, coal, and natural gas (석유, 석탄, 천연가스를 포함한 비재생 화석연료)."
+          "id": "knn-q24",
+          "num": 24,
+          "question": "[Q24] (Unit 6 Reading 2)\n> Most of us know that materials such as paper and plastic can be recycled into new products. (A) <u>This process</u> uses less energy and emits fewer greenhouse gases than producing articles from raw materials. ... Alternative energy sources can decrease air pollution, which is better for our health as (B) <u>it</u> diminishes instances of asthma.\n\n* (1) 밑줄 친 (A) `This process`가 가리키는 구체적인 내용을 한국어로 설명하거나 본문 표현으로 쓰시오:  \n  답: __________________________________________________\n* (2) 밑줄 친 (B) `it`이 지칭하는 구체적인 대상을 본문에서 찾아 쓰시오:  \n  답: __________________________________________________\n\n\n\n\n## 💡 [제2부] 정답 및 상세 해설 (Answer Key & Explanations)\n\n#",
+          "options": [],
+          "type": "short",
+          "answer": 0,
+          "explanation": "(1) recycling materials into new products (재활용 과정), (2) decreasing air pollution (대기 오염 감소)"
         }
       ]
     },
@@ -25074,6 +27956,78 @@ var HUFS_DATA = {
       "kr": "싸움, 전투",
       "level": "HSK 4급",
       "note": "打雪仗 (눈싸움하다)."
+    },
+    "合影": {
+      "zh": "合影",
+      "py": "héyǐng",
+      "pos": "명/동",
+      "kr": "기념사진(을 찍다), 단체사진",
+      "level": "HSK 5급",
+      "note": ""
+    },
+    "文件": {
+      "zh": "文件",
+      "py": "wénjiàn",
+      "pos": "명사",
+      "kr": "문서, 서류, 파일",
+      "level": "HSK 5급",
+      "note": ""
+    },
+    "护照": {
+      "zh": "护照",
+      "py": "hùzhào",
+      "pos": "명사",
+      "kr": "여권",
+      "level": "HSK 3급",
+      "note": ""
+    },
+    "早饭": {
+      "zh": "早饭",
+      "py": "zǎofàn",
+      "pos": "명사",
+      "kr": "아침 식사, 아침밥",
+      "level": "HSK 2급",
+      "note": ""
+    },
+    "钢琴": {
+      "zh": "钢琴",
+      "py": "gāngqín",
+      "pos": "명사",
+      "kr": "피아노",
+      "level": "HSK 4급",
+      "note": ""
+    },
+    "擦": {
+      "zh": "擦",
+      "py": "cā",
+      "pos": "동사",
+      "kr": "닦다, 문지르다",
+      "level": "HSK 3급",
+      "note": ""
+    },
+    "有害": {
+      "zh": "有害",
+      "py": "yǒuhài",
+      "pos": "동/형",
+      "kr": "해롭다, 유해하다",
+      "level": "HSK 5급",
+      "note": ""
+    },
+    "物质": {
+      "zh": "物质",
+      "py": "wùzhì",
+      "pos": "명사",
+      "kr": "물질",
+      "level": "HSK 5급",
+      "note": ""
+    },
+    "放风筝": {
+      "zh": "放风筝",
+      "py": "fàng fēngzheng",
+      "pos": "동사구",
+      "kr": "연을 날리다",
+      "level": "HSK 4급",
+      "note": ""
     }
   }
 };

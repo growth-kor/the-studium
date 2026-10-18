@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studium-v1791816156';
+const CACHE_NAME = 'studium-v20261018-v3-2115';
 const ASSETS = [
   './index.html',
   './css/style.css',
@@ -12,6 +12,10 @@ const ASSETS = [
   './data/books/rain.json',
   './data/books/chinese3.json',
   './data/books/portrait.json',
+  './data/books/adv_comm.json',
+  './data/books/pathways3.json',
+  './data/books/prism3.json',
+  './data/books/ds_pencil.json',
   './data/ds_quiz.json'
 ];
 

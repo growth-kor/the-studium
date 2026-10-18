@@ -9,11 +9,13 @@ except ImportError:
     pypinyin = None
 
 BASE_PARENT = os.path.dirname(os.path.abspath(__file__))
-# If 00_모바일_학습웹_배포 is inside _학교_활동, the sibling folders are in the same directory!
+VAULT_DIR = "/Users/star/Library/Mobile Documents/iCloud~md~obsidian/Documents/26-02_semester/_학교_활동"
 if os.path.exists(os.path.join(os.path.dirname(BASE_PARENT), "01_월요일")):
     ROOT_DIR = os.path.dirname(BASE_PARENT)
 elif os.path.exists(os.path.join(os.path.dirname(os.path.dirname(BASE_PARENT)), "_학교_활동", "01_월요일")):
     ROOT_DIR = os.path.join(os.path.dirname(os.path.dirname(BASE_PARENT)), "_학교_활동")
+elif os.path.exists(os.path.join(VAULT_DIR, "01_월요일")):
+    ROOT_DIR = VAULT_DIR
 else:
     ROOT_DIR = os.path.dirname(os.path.dirname(BASE_PARENT))
 OUTPUT_FILE = os.path.join(ROOT_DIR, '00_모바일_학습웹_배포', 'data.js')
@@ -868,11 +870,63 @@ for p in by_paragraphs:
         all_vocab_list.append({**v, "book": "背影", "source": f"배영 {p['paragraph']}문단"})
 
 for s in ty_scenes:
-    # simple extract of notable words from each scene
     all_vocab_list.append({"zh": s['zh'][:6], "py": s['py'].split()[0] if s['py'] else "", "pos": "표현", "kr": s['title'], "level": "🟡 团圆", "book": "团圆", "source": f"단원 씬 {s['scene']}"})
 
 for v in portrait_vocab:
     all_vocab_list.append({**v, "book": "신개념3·画像", "source": "듣기말하기 5과"})
+
+# Add Pathways 3 60 target words
+pathways_vocab_path = os.path.join(BASE_PARENT, 'data', 'english', 'pathways3_vocab.json')
+if os.path.exists(pathways_vocab_path):
+    with open(pathways_vocab_path, 'r', encoding='utf-8') as f:
+        pw_vocab = json.load(f)
+        for v in pw_vocab:
+            all_vocab_list.append({
+                "zh": v["word"],
+                "py": f"[{v['pos']} · {v['unit']}]",
+                "pos": v["pos"],
+                "kr": f"{v['def_en']} ({v['kr']})",
+                "level": f"⭐ {v['unit']}",
+                "book": "pathways3",
+                "source": f"Pathways 3 {v['unit']}",
+                "note": v.get("ex", "")
+            })
+
+# Add Adv Comm vocab
+adv_book_path = os.path.join(BASE_PARENT, 'data', 'books', 'adv_comm.json')
+if os.path.exists(adv_book_path):
+    with open(adv_book_path, 'r', encoding='utf-8') as f:
+        adv_b = json.load(f)
+        for v in adv_b.get("vocab", []):
+            all_vocab_list.append({
+                **v,
+                "book": "adv_comm",
+                "source": "People Skills 5~7장"
+            })
+
+# Add Prism 3 vocab
+prism_book_path = os.path.join(BASE_PARENT, 'data', 'books', 'prism3.json')
+if os.path.exists(prism_book_path):
+    with open(prism_book_path, 'r', encoding='utf-8') as f:
+        prism_b = json.load(f)
+        for v in prism_b.get("vocab", []):
+            all_vocab_list.append({
+                **v,
+                "book": "prism3",
+                "source": "Prism Reading 3"
+            })
+
+# Add DS vocab
+ds_pencil_path = os.path.join(BASE_PARENT, 'data', 'books', 'ds_pencil.json')
+if os.path.exists(ds_pencil_path):
+    with open(ds_pencil_path, 'r', encoding='utf-8') as f:
+        ds_b = json.load(f)
+        for v in ds_b.get("vocab", []):
+            all_vocab_list.append({
+                **v,
+                "book": "ds_vocab",
+                "source": "자료구조 1~5장"
+            })
 
 # Weekly courses data
 weekly_courses = [
@@ -907,52 +961,70 @@ weekly_courses = [
             }
         ]
     },
-    {
+        {
         "day": "화요일",
         "courses": [
             {
                 "id": "tue-adv-comm",
                 "name": "Adv Communication for Global Leaders",
-                "time": "1~2교시",
-                "tasks": [{"title": "Presentation Script 피드백 및 발음 낭독 연습", "done": False}]
+                "time": "1~2교시 (09:00~11:00)",
+                "room": "인문관 403호",
+                "prof": "Dr. Reid McLain (원어민 교수님)",
+                "midterm_book": "Robert Bolton, People Skills (Chapters 5, 6, 7)",
+                "tasks": [
+                    {"title": "Quiz 3 대비 People Skills 5·6·7장 영한대역 원문 정독 (완비)", "done": True},
+                    {"title": "11대 반영적 경청 지침 및 경청 금지 5대 상황 원칙 체화", "done": True},
+                    {"title": "Dr. McLain 스타일 4지선다 적중 모의고사 15문항 풀이 및 오답 정리", "done": False},
+                    {"title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7% vs 93%) 및 학자 매칭 암기", "done": False}
+                ]
             },
-                        {
+            {
                 "id": "tue-college-eng",
                 "name": "College English 2 (Billy Joseph Fitzgerald)",
-                "time": "5~6교시",
+                "time": "5~6교시 (13:00~15:00)",
                 "room": "0508호",
                 "prof": "Billy Joseph Fitzgerald (원어민 / 성적비중 60%)",
                 "midterm_book": "Pathways 3 (Reading, Writing, and Critical Thinking)",
                 "tasks": [
-                    {"title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기", "done": False},
-                    {"title": "Reading 1 본문 3편(What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독", "done": False},
+                    {"title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기", "done": True},
+                    {"title": "Reading 1 본문 3편 (What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독", "done": True},
                     {"title": "Cengage Test Bank 실전 모의고사 30문항 풀이 및 오답 점검", "done": False},
-                    {"title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 핵심 문장 암기", "done": False}
+                    {"title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 25문장 영작 암기", "done": False}
                 ]
             }
         ]
     },
-    {
+        {
         "day": "수요일",
         "courses": [
-                        {
+            {
                 "id": "wed-college-eng",
                 "name": "College English 2 (김나나 교수님)",
-                "time": "4교시",
+                "time": "4교시 (12:00~13:00)",
                 "room": "0508호",
                 "prof": "김나나 교수님 (KNN / 성적비중 30%)",
                 "midterm_book": "Prism Reading 3 (Unit 5 Architecture & Unit 6 Energy)",
                 "tasks": [
-                    {"title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 3단 대역 정독", "done": False},
-                    {"title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 3단 대역 정독", "done": False},
-                    {"title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리", "done": False}
+                    {"title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 영한 정밀 대역 정독", "done": True},
+                    {"title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 영한 정밀 대역 정독", "done": True},
+                    {"title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리", "done": False},
+                    {"title": "서술형 번역 4문항 채점 기준표 및 지칭 대명사 추론 4문항 암기", "done": False}
                 ]
             },
             {
                 "id": "wed-data-struct",
                 "name": "Data Structure (자료구조)",
-                "time": "3~4교시",
-                "tasks": [{"title": "Linked List 및 Stack 구현 알고리즘 복습", "done": False}]
+                "time": "3~4교시 (11:00~13:00)",
+                "room": "공학관 204호",
+                "prof": "김은경 교수님 (천인국·최영규 교재)",
+                "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사)",
+                "tasks": [
+                    {"title": "중간고사 범위 1~5장 객관식/단답형 연습문제 CBT 129문항 완독", "done": False},
+                    {"title": "김은경 교수님 지필고사 대비 7대 고난도 손코딩 & 상태 추적 챌린지 풀이", "done": False},
+                    {"title": "원형 큐(MAX_QSIZE=5) 및 덱 모듈러(%) 연산 포인터 이동 정밀 추적", "done": False},
+                    {"title": "스택 기반 중위->후위 수식 변환 및 피연산자 스택 계산 과정 손추적", "done": False},
+                    {"title": "Big-O 시간 복잡도(c, n_0) 수학적 증명 및 하노이의 탑 점화식 유도", "done": False}
+                ]
             },
             {
                 "id": "wed-global-biz",
@@ -1000,8 +1072,11 @@ app_data = {
     "title": "HUFS 26-2 Mobile Study Web",
     "updated_at": "2026-10-12 03:30",
     "encrypted_schedule": encrypted_schedule,
-    "weekly_courses": [],
+    "weekly_courses": weekly_courses,
     "books": {
+        "adv_comm": json.load(open(os.path.join(BASE_PARENT, "data", "books", "adv_comm.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "adv_comm.json")) else {},
+        "prism3": json.load(open(os.path.join(BASE_PARENT, "data", "books", "prism3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "prism3.json")) else {},
+        "ds_pencil": json.load(open(os.path.join(BASE_PARENT, "data", "books", "ds_pencil.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "ds_pencil.json")) else {},
         "beiying": {
             "id": "beiying",
             "name": "《背影 (뒷모습)》",
@@ -1072,42 +1147,8 @@ app_data = {
                 }
             ]
         },
-                "pathways3": {
-            "id": "pathways3",
-            "name": "《Pathways 3》",
-            "author": "Billy Joseph Fitzgerald",
-            "category": "대학영어 2 (원어민 / 실질 60%)",
-            "vocab": [
-                {
-                    "zh": v["word"],
-                    "py": f"[{v['pos']} · {v['unit']}]",
-                    "kr": f"{v['def_en']} ({v['kr']})",
-                    "level": v["unit"],
-                    "note": v["ex"]
-                }
-                for v in json.load(open(os.path.join(BASE_PARENT, "data", "english", "pathways3_vocab.json"), encoding="utf-8"))
-            ],
-            "qa": [
-                {
-                    "question": item["q"],
-                    "answer": item["a"]
-                }
-                for item in json.load(open(os.path.join(BASE_PARENT, "data", "english", "billy_exam.json"), encoding="utf-8"))
-            ]
-        },
-        "knn_exam": {
-            "id": "knn_exam",
-            "name": "《Prism Reading 3》",
-            "author": "김나나 교수님 (KNN / 실질 30%)",
-            "category": "대학영어 2 (한국인)",
-            "qa": [
-                {
-                    "question": item["q"],
-                    "answer": item["a"]
-                }
-                for item in json.load(open(os.path.join(BASE_PARENT, "data", "english", "knn_exam.json"), encoding="utf-8"))
-            ]
-        },
+                "pathways3": json.load(open(os.path.join(BASE_PARENT, "data", "books", "pathways3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "pathways3.json")) else {},
+        "knn_exam": json.load(open(os.path.join(BASE_PARENT, "data", "books", "prism3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "prism3.json")) else {},
         "portrait": {
             "id": "portrait",
             "name": "《画像 (초상화)》",
@@ -1139,29 +1180,34 @@ app_data = {
 # ==============================================================================
 # 5. EXPORT MODULAR JSON FILES & BACKWARD-COMPATIBLE BUNDLE
 # ==============================================================================
-data_dir = os.path.join(ROOT_DIR, '00_모바일_학습웹_배포', 'data')
-books_dir = os.path.join(data_dir, 'books')
-dict_dir = os.path.join(data_dir, 'dict')
-os.makedirs(books_dir, exist_ok=True)
-os.makedirs(dict_dir, exist_ok=True)
+target_data_dirs = set([
+    os.path.join(ROOT_DIR, '00_모바일_학습웹_배포', 'data'),
+    os.path.join(BASE_PARENT, 'data')
+])
 
-# 1) Master dictionary JSON
-with open(os.path.join(dict_dir, 'master_dict.json'), 'w', encoding='utf-8') as f:
-    json.dump(master_dict, f, ensure_ascii=False, indent=2)
+for d_dir in target_data_dirs:
+    try:
+        b_dir = os.path.join(d_dir, 'books')
+        dc_dir = os.path.join(d_dir, 'dict')
+        os.makedirs(b_dir, exist_ok=True)
+        os.makedirs(dc_dir, exist_ok=True)
 
-# 2) Index metadata JSON
-with open(os.path.join(data_dir, 'index.json'), 'w', encoding='utf-8') as f:
-    json.dump({
-        'title': app_data['title'],
-        'updated_at': app_data['updated_at'],
-        'encrypted_schedule': app_data['encrypted_schedule'],
-        'weekly_courses': []
-    }, f, ensure_ascii=False, indent=2)
+        with open(os.path.join(dc_dir, 'master_dict.json'), 'w', encoding='utf-8') as f:
+            json.dump(master_dict, f, ensure_ascii=False, indent=2)
 
-# 3) Individual book JSONs
-for b_id, b_data in app_data['books'].items():
-    with open(os.path.join(books_dir, f'{b_id}.json'), 'w', encoding='utf-8') as f:
-        json.dump(b_data, f, ensure_ascii=False, indent=2)
+        with open(os.path.join(d_dir, 'index.json'), 'w', encoding='utf-8') as f:
+            json.dump({
+                'title': app_data['title'],
+                'updated_at': app_data['updated_at'],
+                'encrypted_schedule': app_data['encrypted_schedule'],
+                'weekly_courses': weekly_courses
+            }, f, ensure_ascii=False, indent=2)
+
+        for b_id, b_data in app_data['books'].items():
+            with open(os.path.join(b_dir, f'{b_id}.json'), 'w', encoding='utf-8') as f:
+                json.dump(b_data, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Warning writing to {d_dir}: {e}")
 
 # 4) Complete app_data bundle in data.js
 app_data['dict'] = master_dict
@@ -1172,11 +1218,16 @@ if os.path.exists(ds_quiz_path):
     with open(ds_quiz_path, 'r', encoding='utf-8') as f:
         ds_quiz_data = json.load(f)
 
-with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-    f.write('var HUFS_DATA = ' + json.dumps(app_data, ensure_ascii=False, indent=2) + ';\n')
-    f.write('var DS_QUIZ_DATA = ' + json.dumps(ds_quiz_data, ensure_ascii=False, indent=2) + ';\n')
-    f.write('if (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; window.DS_QUIZ_DATA = DS_QUIZ_DATA; }\n')
-
+local_data_file = os.path.join(BASE_PARENT, 'data.js')
+for target_f in set([OUTPUT_FILE, local_data_file]):
+    try:
+        os.makedirs(os.path.dirname(target_f), exist_ok=True)
+        with open(target_f, 'w', encoding='utf-8') as f:
+            f.write('var HUFS_DATA = ' + json.dumps(app_data, ensure_ascii=False, indent=2) + ';\n')
+            f.write('var DS_QUIZ_DATA = ' + json.dumps(ds_quiz_data, ensure_ascii=False, indent=2) + ';\n')
+            f.write('if (typeof window !== "undefined") { window.HUFS_DATA = HUFS_DATA; window.DS_QUIZ_DATA = DS_QUIZ_DATA; }\n')
+    except Exception as e:
+        print(f"Warning writing {target_f}: {e}")
 print(f"Build complete! Unified books: Beiying ({len(by_paragraphs)}p), Tuanyuan ({len(ty_scenes)}s), Rain ({len(rain_sections)}s), Chinese3 ({len(chinese3_sections)} lessons, {sum(len(s['sentences']) for s in chinese3_sections)} sentences).")
 print(f"Master dictionary compiled with {len(master_dict)} words into data/dict/master_dict.json and data.js.")
 print(f"Data Structure quiz data compiled with {len(ds_quiz_data)} chapters ({sum(len(c['questions']) for c in ds_quiz_data)} questions) into data.js.")

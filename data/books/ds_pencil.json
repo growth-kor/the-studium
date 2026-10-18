@@ -1,0 +1,274 @@
+{
+  "id": "ds_pencil",
+  "name": "자료구조 중간고사 지필 7대 고난도 문항",
+  "author": "김은경 교수님 (천인국·최영규 교재)",
+  "category": "자료구조 지필고사 집중 대비",
+  "qa": [
+    {
+      "id": "ds-p1",
+      "num": 1,
+      "title": "알고리즘 복잡도 및 Big-O 점근 표기법 수학적 증명",
+      "question": "함수 f(n) = 3n^2 + 7n + 15와 중첩 반복문 코드 조각에 대해 빅오(Big-O) 정의를 엄밀히 적용하여 증명하시오.\n\n[소문제 1-1] 빅오 표기법의 정의를 서술하고, f(n) = 3n^2 + 7n + 15 ∈ O(n^2) 임을 증명하는 양의 상수 c와 n_0 한 쌍을 유도하시오.\n[소문제 1-2] 다음 파이썬 코드의 시간 복잡도를 Big-O로 표기하고 루프 실행 횟수를 유도하시오.\n```python\ndef compute(n):\n    total, i = 0, 1\n    while i <= n:\n        for j in range(1, n + 1):\n            total += i * j\n        i *= 2\n    return total\n```\n[소문제 1-3] O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), O(n!)을 증가율이 느린 순서대로 나열하고 n=1024일 때 O(log n)과 O(n^2)의 연산 횟수를 비교하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "1-1",
+          "sub_title": "Big-O 정의 및 상수 c, n_0 유도",
+          "solution": "정의: 모든 n ≥ n_0에 대하여 0 ≤ f(n) ≤ c·g(n)을 만족하는 양의 상수 c와 n_0가 존재하면 f(n) ∈ O(g(n))이다.\n증명: n ≥ 1일 때 7n ≤ 7n^2, 15 ≤ 15n^2이 성립하므로, 3n^2 + 7n + 15 ≤ 3n^2 + 7n^2 + 15n^2 = 25n^2이다.\n따라서 c = 25, n_0 = 1을 선택하면 모든 n ≥ 1에 대해 3n^2 + 7n + 15 ≤ 25n^2이 항상 성립하므로 f(n) ∈ O(n^2)이다."
+        },
+        {
+          "sub_num": "1-2",
+          "sub_title": "이중 루프 실행 횟수 및 O(n log n) 유도",
+          "solution": "외부 while 루프는 i가 1부터 시작하여 매 단계 2배씩 증가하므로(i = 1, 2, 4, ..., 2^k ≤ n), 루프는 ⌊log2 n⌋ + 1 회 반복된다.\n내부 for 루프는 매 외부 반복마다 정확히 n회 수행된다.\n따라서 총 연산 횟수는 n · (log2 n + 1) = n log2 n + n 이며, 최고차항의 차수에 의해 시간 복잡도는 O(n log n)이다."
+        },
+        {
+          "sub_num": "1-3",
+          "sub_title": "증가율 순서 및 n=1024 수치 비교",
+          "solution": "증가율 순서: O(1) < O(log n) < O(n) < O(n log n) < O(n^2) < O(2^n) < O(n!)\nn = 1024일 때:\n- O(log2 n) = log2(1024) = 10회 연산\n- O(n^2) = 1024^2 = 1,048,576회(약 105만 회) 연산\n차이: O(n^2)이 O(log n)보다 무려 104,857배(약 10만 배) 이상 많은 연산을 요구함."
+        }
+      ],
+      "rubric": "c와 n_0를 수치로 명시하지 않거나 부등식 성립 범위를 증명하지 못하면 -2점 감점. O(n log n) 유도 시 log2 n 횟수 증명이 빠지면 -2점 감점."
+    },
+    {
+      "id": "ds-p2",
+      "num": 2,
+      "title": "동적 배열 기반 스택(Stack) ADT 손코딩 구현 및 예외 방어",
+      "question": "파이썬 기본 리스트를 캡슐화하여 고정 용량(capacity)을 갖는 스택 클래스 ArrayStack을 손코딩하시오.\n\n[소문제 2-1] __init__(self, capacity=10), is_empty, is_full, push, pop, peek, size 메서드를 손코딩하시오 (가득 찼을 때 push 시 Overflow 예외, 비었을 때 pop/peek 시 Underflow 예외 처리 필수).\n[소문제 2-2] 파이썬 리스트의 append(x)와 insert(0, x)의 시간 복잡도를 메모리 내부 구조 관점에서 비교 서술하시오.\n[소문제 2-3] 크기가 찰 때마다 2배로 확장하는 Doubling Strategy 사용 시 n회 push의 분할 상환(Amortized) 시간 복잡도가 O(1)이 되는 이유를 서술하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "2-1",
+          "sub_title": "ArrayStack 클래스 파이썬 손코딩",
+          "solution": "class ArrayStack:\n    def __init__(self, capacity=10):\n        self.capacity = capacity\n        self.array = [None] * capacity\n        self.top = -1\n\n    def is_empty(self):\n        return self.top == -1\n\n    def is_full(self):\n        return self.top == self.capacity - 1\n\n    def push(self, item):\n        if self.is_full():\n            raise IndexError('Stack Overflow: 스택 포화 상태')\n        self.top += 1\n        self.array[self.top] = item\n\n    def pop(self):\n        if self.is_empty():\n            raise IndexError('Stack Underflow: 스택 공백 상태')\n        item = self.array[self.top]\n        self.array[self.top] = None\n        self.top -= 1\n        return item\n\n    def peek(self):\n        if self.is_empty():\n            raise IndexError('Stack Underflow: 스택 공백 상태')\n        return self.array[self.top]\n\n    def size(self):\n        return self.top + 1"
+        },
+        {
+          "sub_num": "2-2",
+          "sub_title": "append vs insert(0) 메모리 구조 비교",
+          "solution": "append(x): 배열의 맨 끝 빈 슬롯에 데이터를 직접 기록하므로 원소 이동(Shift)이 전혀 발생하지 않아 O(1)에 수행된다.\ninsert(0, x): 맨 앞에 새 공간을 확보하기 위해 기존의 모든 n개 원소를 인덱스 1씩 오른쪽으로 이동시켜야 하므로 O(n)의 시간이 소요된다."
+        },
+        {
+          "sub_num": "2-3",
+          "sub_title": "배열 2배 확장 시 분할 상환 O(1) 원리",
+          "solution": "용량이 N에 도달하여 2N으로 확장할 때 기존 N개 원소 복사로 O(N) 비용이 일시적으로 발생하지만, 이후 다음 확장이 일어날 때까지 최소 N번의 연산은 O(1)에 수행된다.\n따라서 N번의 push 연산에 드는 총비용은 O(N)이며, 이를 N으로 나눈 연산당 상환 비용(Amortized Cost)은 O(1)이 된다."
+        }
+      ],
+      "rubric": "top 포인터를 0이 아닌 -1로 초기화하고 is_full() 조건을 self.top == self.capacity - 1로 정확히 지정해야 만점. 예외 미발생 시 -3점."
+    },
+    {
+      "id": "ds-p3",
+      "num": 3,
+      "title": "스택의 응용: 후위 표기식 변환 및 수식 계산 상태 추적",
+      "question": "스택을 활용한 수식 변환 및 계산 과정을 단계별로 추적하시오.\n\n[소문제 3-1] 중위 표기식 ( A + B ) * ( C - D / E ) ^ F 를 스택을 이용해 후위 표기식으로 변환하는 과정을 표로 작성하여 단계별 스택과 출력을 추적하시오.\n[소문제 3-2] 후위 표기식 8 2 / 3 4 * + 5 - 를 피연산자 스택으로 계산할 때 스택 상태 변화와 최종 결과값을 구하시오.\n[소문제 3-3] 괄호 검사 알고리즘에서 [ { ( ) } ] 유효성 검사 실패 조건 3가지를 서술하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "3-1",
+          "sub_title": "중위 -> 후위 표기식 단계별 추적",
+          "solution": "최종 후위 표기식: A B + C D E / - F ^ *\n단계별 추적:\n1. '(': 스택 push [ ( ]\n2. 'A': 출력 A\n3. '+': 스택 push [ (, + ]\n4. 'B': 출력 A B\n5. ')': '(' 만날 때까지 pop하여 출력 -> A B +, '(' 제거\n6. '*': 스택 push [ * ]\n7. '(': 스택 push [ *, ( ]\n8. 'C': 출력 A B + C\n9. '-': 스택 push [ *, (, - ]\n10. 'D': 출력 A B + C D\n11. '/': '/' 우선순위가 '-'보다 높으므로 push [ *, (, -, / ]\n12. 'E': 출력 A B + C D E\n13. ')': '(' 만날 때까지 pop하여 출력 -> A B + C D E / -, '(' 제거\n14. '^': '^' 우선순위가 '*'보다 높으므로 push [ *, ^ ]\n15. 'F': 출력 A B + C D E / - F\n16. 수식 끝: 스택의 모든 연산자 pop -> 출력 A B + C D E / - F ^ *"
+        },
+        {
+          "sub_num": "3-2",
+          "sub_title": "후위 표기식 피연산자 스택 계산",
+          "solution": "1. 8, 2 push -> 스택: [8, 2]\n2. '/' 만남: pop 2, pop 8 -> 8 / 2 = 4 push -> 스택: [4]\n3. 3, 4 push -> 스택: [4, 3, 4]\n4. '*' 만남: pop 4, pop 3 -> 3 * 4 = 12 push -> 스택: [4, 12]\n5. '+' 만남: pop 12, pop 4 -> 4 + 12 = 16 push -> 스택: [16]\n6. 5 push -> 스택: [16, 5]\n7. '-' 만남: pop 5, pop 16 -> 16 - 5 = 11 push -> 스택: [11]\n최종 결과: 11"
+        },
+        {
+          "sub_num": "3-3",
+          "sub_title": "괄호 검사 실패 조건 3가지",
+          "solution": "1. 닫는 괄호를 만났으나 스택이 이미 비어 있는 경우\n2. 닫는 괄호와 스택에서 꺼낸 여는 괄호의 종류(짝)가 일치하지 않는 경우\n3. 모든 문자열 처리가 끝났으나 스택에 여는 괄호가 남아 있는 경우"
+        }
+      ],
+      "rubric": "연산자 우선순위(^ > *, / > +, -) 및 괄호 pop 시점 실수 시 감점. 피연산자 pop 순서(두 번째 pop된 수가 왼쪽 피연산자: op1 / op2) 역전 시 0점 처리."
+    },
+    {
+      "id": "ds-p4",
+      "num": 4,
+      "title": "원형 큐(Circular Queue) 포인터 추적 및 모듈러 연산 구현",
+      "question": "배열 크기 MAX_QSIZE = 5인 원형 큐의 포인터 변화와 상태를 추적하시오.\n\n[소문제 4-1] 원형 큐의 인덱스 증가 공식과 포화/공백 구분을 위해 한 칸을 비워두는 설계를 설명하시오.\n[소문제 4-2] front=0, rear=0 상태에서 enqueue(A), enqueue(B), dequeue(), enqueue(C), enqueue(D), enqueue(E), dequeue(), enqueue(F) 연산 시 각 단계별 front, rear 및 배열 내용을 추적하시오.\n[소문제 4-3] CircularQueue 클래스의 enqueue, dequeue 메서드를 파이썬으로 손코딩하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "4-1",
+          "sub_title": "모듈러 인덱스 공식 및 한 칸 비움의 원리",
+          "solution": "공식: rear = (rear + 1) % MAX_QSIZE, front = (front + 1) % MAX_QSIZE\n한 칸을 비워두는 이유: 한 칸을 비워두지 않으면 공백 상태와 포화 상태 모두 front == rear가 되어 구별할 수 없게 된다. 한 칸을 비움으로써 공백 상태(front == rear)와 포화 상태((rear + 1) % MAX_QSIZE == front)를 명확히 판별할 수 있다."
+        },
+        {
+          "sub_num": "4-2",
+          "sub_title": "8단계 연산에 따른 front/rear/배열 추적",
+          "solution": "초기: front=0, rear=0 | [None, None, None, None, None]\n1. enq(A): front=0, rear=1 | [None, 'A', None, None, None]\n2. enq(B): front=0, rear=2 | [None, 'A', 'B', None, None]\n3. deq() -> A: front=1, rear=2 | [None, None, 'B', None, None]\n4. enq(C): front=1, rear=3 | [None, None, 'B', 'C', None]\n5. enq(D): front=1, rear=4 | [None, None, 'B', 'C', 'D']\n6. enq(E): (rear+1)%5=0 != front(1)이므로 가능! front=1, rear=0 | ['E', None, 'B', 'C', 'D'] (포화 직전 상태!)\n7. deq() -> B: front=2, rear=0 | ['E', None, None, 'C', 'D']\n8. enq(F): (rear+1)%5=1 != front(2)이므로 가능! front=2, rear=1 | ['E', 'F', None, 'C', 'D']"
+        },
+        {
+          "sub_num": "4-3",
+          "sub_title": "CircularQueue 손코딩",
+          "solution": "def is_empty(self):\n    return self.front == self.rear\n\ndef is_full(self):\n    return (self.rear + 1) % self.capacity == self.front\n\ndef enqueue(self, item):\n    if self.is_full():\n        raise IndexError('Queue Overflow')\n    self.rear = (self.rear + 1) % self.capacity\n    self.array[self.rear] = item\n\ndef dequeue(self):\n    if self.is_empty():\n        raise IndexError('Queue Underflow')\n    self.front = (self.front + 1) % self.capacity\n    item = self.array[self.front]\n    self.array[self.front] = None\n    return item"
+        }
+      ],
+      "rubric": "front가 가리키는 자리는 항상 비어 있어야 하며 실제 첫 데이터는 (front + 1) % MAX_QSIZE에 위치함을 명시하지 않으면 감점."
+    },
+    {
+      "id": "ds-p5",
+      "num": 5,
+      "title": "원형 덱(Deque) 음수 모듈러 보정 연산 및 회문 검사 손코딩",
+      "question": "양방향 큐인 덱(Deque)의 원형 배열 연산과 회문 검사를 서술하시오.\n\n[소문제 5-1] add_front 시 front가 0일 때 발생하는 음수 인덱스 문제와 (front - 1 + capacity) % capacity 공식의 보정 원리를 설명하시오.\n[소문제 5-2] 원형 덱의 add_front와 delete_rear 메서드를 손코딩하시오.\n[소문제 5-3] 문자열 radar, level 같은 회문(Palindrome)을 덱으로 판별하는 알고리즘을 작성하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "5-1",
+          "sub_title": "음수 모듈러 보정 원리",
+          "solution": "front가 0일 때 1을 빼면 -1이 된다. 파이썬에서는 음수 인덱스가 리스트 끝을 가리키지만 타 언어에서는 에러가 나거나 의도치 않은 메모리를 참조한다.\n주기 크기인 capacity를 미리 더하여 (front - 1 + capacity) % capacity를 계산하면 항상 0 ≤ index < capacity 범위의 안전하고 올바른 인덱스(예: (0 - 1 + 5) % 5 = 4)를 얻게 된다."
+        },
+        {
+          "sub_num": "5-2",
+          "sub_title": "add_front & delete_rear 손코딩",
+          "solution": "def add_front(self, item):\n    if self.is_full():\n        raise IndexError('Deque Overflow')\n    self.array[self.front] = item\n    self.front = (self.front - 1 + self.capacity) % self.capacity\n\ndef delete_rear(self):\n    if self.is_empty():\n        raise IndexError('Deque Underflow')\n    item = self.array[self.rear]\n    self.array[self.rear] = None\n    self.rear = (self.rear - 1 + self.capacity) % self.capacity\n    return item"
+        },
+        {
+          "sub_num": "5-3",
+          "sub_title": "회문 판별 알고리즘 (O(n))",
+          "solution": "def is_palindrome(text):\n    dq = CircularDeque(len(text) + 1)\n    for ch in text:\n        dq.add_rear(ch)\n    while dq.size() > 1:\n        first = dq.delete_front()\n        last = dq.delete_rear()\n        if first != last:\n            return False\n    return True\n# 시간 복잡도: 문자열 삽입 n회 + 비교 n/2회 = O(n)"
+        }
+      ],
+      "rubric": "add_front 시 self.array[self.front]에 먼저 저장한 뒤 front를 반시계로 이동시켜야 함. 순서 뒤바뀌면 감점."
+    },
+    {
+      "id": "ds-p6",
+      "num": 6,
+      "title": "단순 연결 리스트(Singly Linked List) 노드 손코딩 및 메모리 비교",
+      "question": "단순 연결 리스트의 핵심 연산과 배열과의 메모리 특성을 비교하시오.\n\n[소문제 6-1] Node 클래스와 LinkedList 클래스의 insert(self, pos, elem) 메서드를 손코딩하시오 (pos=0일 때와 중간 삽입 시 링크 연결 순서 주의).\n[소문제 6-2] delete(self, pos) 메서드를 손코딩하고 prev.link = cur.link 포인터 조작을 설명하시오.\n[소문제 6-3] 파이썬 리스트(동적 배열)와 연결 리스트를 임의 접근, 삽입/삭제, 캐시 지역성 관점에서 표로 비교하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "6-1",
+          "sub_title": "Node 및 insert(pos, elem) 손코딩",
+          "solution": "class Node:\n    def __init__(self, data, link=None):\n        self.data = data\n        self.link = link\n\nclass LinkedList:\n    def __init__(self):\n        self.head = None\n\n    def insert(self, pos, elem):\n        new_node = Node(elem)\n        if pos == 0:\n            new_node.link = self.head\n            self.head = new_node\n        else:\n            prev = self.get_node(pos - 1)\n            if prev is None:\n                raise IndexError('Invalid position')\n            new_node.link = prev.link  # 새 노드의 링크를 먼저 후속 노드에 연결!\n            prev.link = new_node       # 이후 선행 노드가 새 노드를 가리킴"
+        },
+        {
+          "sub_num": "6-2",
+          "sub_title": "delete(pos) 손코딩 및 링크 변경",
+          "solution": "def delete(self, pos):\n    if self.head is None:\n        raise IndexError('Empty list')\n    if pos == 0:\n        item = self.head.data\n        self.head = self.head.link\n        return item\n    prev = self.get_node(pos - 1)\n    if prev is None or prev.link is None:\n        raise IndexError('Invalid position')\n    cur = prev.link\n    item = cur.data\n    prev.link = cur.link  # 삭제 노드를 건너뛰고 직접 후속 노드 연결\n    return item"
+        },
+        {
+          "sub_num": "6-3",
+          "sub_title": "동적 배열 vs 연결 리스트 비교표",
+          "solution": "1. 임의 접근: 동적 배열 O(1) (인덱스 즉시 계산) vs 연결 리스트 O(n) (순차 탐색)\n2. 삽입/삭제: 동적 배열 O(n) (원소 이동 필요) vs 연결 리스트 O(1) (노드 위치 확보 시 링크만 변경)\n3. 캐시 지역성 & 메모리: 동적 배열은 연속 메모리로 공간 지역성 우수하나, 연결 리스트는 비연속 메모리와 포인터 오버헤드로 캐시 미스 빈번."
+        }
+      ],
+      "rubric": "중간 노드 삽입 시 new_node.link = prev.link를 prev.link = new_node보다 먼저 작성하지 않으면 후속 노드 유실로 -5점 감점."
+    },
+    {
+      "id": "ds-p7",
+      "num": 7,
+      "title": "하노이의 탑(Tower of Hanoi) 재귀 손코딩, 점화식 유도 및 호출 스택",
+      "question": "분할 정복 재귀 알고리즘인 하노이의 탑을 분석하시오.\n\n[소문제 7-1] hanoi_tower(n, fr, to, aux) 재귀 함수를 파이썬으로 손코딩하시오.\n[소문제 7-2] n=3일 때 원반 이동 과정 7단계를 순서대로 서술하고 호출 트리를 설명하시오.\n[소문제 7-3] 점화식 T(n) = 2T(n-1) + 1을 풀어 T(n) = 2^n - 1 및 O(2^n)임을 증명하고, 기저 조건(Base case) 누락 시 시스템 Call Stack에서 일어나는 현상을 서술하시오.",
+      "sub_questions": [
+        {
+          "sub_num": "7-1",
+          "sub_title": "하노이의 탑 파이썬 손코딩",
+          "solution": "def hanoi_tower(n, fr, to, aux):\n    if n == 1:\n        print(f'원반 1: {fr} -> {to}')\n    else:\n        hanoi_tower(n - 1, fr, aux, to)      # 1. n-1개 원반을 fr에서 aux로\n        print(f'원반 {n}: {fr} -> {to}')       # 2. 가장 큰 n번 원반을 to로\n        hanoi_tower(n - 1, aux, to, fr)      # 3. n-1개 원반을 aux에서 to로"
+        },
+        {
+          "sub_num": "7-2",
+          "sub_title": "n=3 원반 이동 7단계",
+          "solution": "1. 원반 1: A -> C\n2. 원반 2: A -> B\n3. 원반 1: C -> B\n4. 원반 3: A -> C\n5. 원반 1: B -> A\n6. 원반 2: B -> C\n7. 원반 1: A -> C"
+        },
+        {
+          "sub_num": "7-3",
+          "sub_title": "점화식 증명 및 호출 스택 오버플로우",
+          "solution": "점화식 풀이:\nT(n) = 2T(n-1) + 1\n     = 2(2T(n-2) + 1) + 1 = 4T(n-2) + 2 + 1\n     = 2^(n-1) T(1) + 2^(n-2) + ... + 1\n     = 2^(n-1) + 2^(n-2) + ... + 1 = 2^n - 1\n따라서 시간 복잡도는 O(2^n)이다.\n기저 조건 누락 시: 함수 호출 시마다 복귀 주소와 지역변수를 담은 활성화 레코드(Activation Record)가 Call Stack에 무한히 push되어 스택 메모리를 초과하는 RecursionError(Stack Overflow)가 발생함."
+        }
+      ],
+      "rubric": "이동 순서 7단계 중 하나라도 틀리면 부분 감점. 점화식 등비수열 합 계산 과정이 누락되면 감점."
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "Abstract Data Type (ADT)",
+      "py": "추상 자료형",
+      "pos": "핵심 개념",
+      "kr": "데이터와 연산의 명세만을 정의하고 구체적 구현 세부사항은 내부로 은닉하는 객체지향 설계 개념",
+      "level": "⭐ 자료구조 1장",
+      "note": "캡슐화 및 정보 은닉"
+    },
+    {
+      "zh": "Big-O Notation",
+      "py": "빅오 표기법",
+      "pos": "점근 표기법",
+      "kr": "입력 크기 n에 대해 최악의 경우(Worst-case) 실행 시간의 상한(Upper Bound)을 나타내는 점근적 분석 도구",
+      "level": "⭐ 자료구조 1장",
+      "note": "0 <= f(n) <= c*g(n)"
+    },
+    {
+      "zh": "Amortized Analysis",
+      "py": "분할 상환 분석",
+      "pos": "분석 기법",
+      "kr": "가끔 발생하는 배열 확장 O(N) 비용을 연속된 저비용 연산에 골고루 분할하여 연산당 평균 O(1)을 산출하는 기법",
+      "level": "⭐ 자료구조 2장",
+      "note": "Doubling Strategy"
+    },
+    {
+      "zh": "Circular Queue",
+      "py": "원형 큐",
+      "pos": "자료구조",
+      "kr": "선형 큐의 잘못된 포화 상태를 해결하기 위해 배열의 처음과 끝을 모듈러(%) 연산으로 연결한 구조",
+      "level": "⭐ 자료구조 5장",
+      "note": "front == rear: 공백, (rear+1)%size == front: 포화"
+    },
+    {
+      "zh": "Double-Ended Queue (Deque)",
+      "py": "덱",
+      "pos": "자료구조",
+      "kr": "전단(Front)과 후단(Rear) 양쪽 끝에서 모두 삽입과 삭제가 가능한 양방향 큐",
+      "level": "⭐ 자료구조 5장",
+      "note": "회문 검사 및 슬라이딩 윈도우"
+    },
+    {
+      "zh": "Negative Modulo Correction",
+      "py": "음수 모듈러 보정",
+      "pos": "알고리즘 공식",
+      "kr": "front가 0일 때 1을 빼면 -1이 되는 문제를 방지하기 위해 (front - 1 + capacity) % capacity로 양수화하는 기법",
+      "level": "⭐ 자료구조 5장",
+      "note": "덱 add_front 구현"
+    },
+    {
+      "zh": "Postfix Notation",
+      "py": "후위 표기법",
+      "pos": "수식 표기법",
+      "kr": "연산자를 피연산자 뒤에 표기하여 괄호 없이도 연산자 우선순위를 명확히 계산할 수 있는 방식",
+      "level": "⭐ 자료구조 4장",
+      "note": "스택 기반 수식 계산"
+    },
+    {
+      "zh": "Singly Linked List",
+      "py": "단순 연결 리스트",
+      "pos": "자료구조",
+      "kr": "데이터와 다음 노드를 가리키는 링크(포인터)를 갖는 노드들이 단방향으로 연결된 동적 자료구조",
+      "level": "⭐ 자료구조 3장",
+      "note": "임의 삽입/삭제 O(1)"
+    },
+    {
+      "zh": "Cache Locality",
+      "py": "캐시 지역성",
+      "pos": "컴퓨터 구조",
+      "kr": "연속된 메모리에 배치된 동적 배열이 비연속 노드로 분산된 연결 리스트보다 CPU 캐시 적중률이 훨씬 우수한 특성",
+      "level": "⭐ 자료구조 3장",
+      "note": "공간 지역성(Spatial Locality)"
+    },
+    {
+      "zh": "Tower of Hanoi",
+      "py": "하노이의 탑",
+      "pos": "재귀 알고리즘",
+      "kr": "n개의 원반을 최소 2^n - 1회의 이동으로 목적 기둥으로 옮기는 대표적인 분할 정복 재귀 문제",
+      "level": "⭐ 자료구조 1장",
+      "note": "T(n) = 2T(n-1) + 1 -> O(2^n)"
+    },
+    {
+      "zh": "Activation Record",
+      "py": "활성화 레코드",
+      "pos": "메모리 구조",
+      "kr": "함수 호출 시 시스템 Call Stack에 할당되어 매개변수, 지역변수, 복귀 주소를 저장하는 스택 프레임",
+      "level": "⭐ 자료구조 4장",
+      "note": "스택 오버플로우 원인"
+    },
+    {
+      "zh": "Stack Overflow vs Underflow",
+      "py": "오버플로우 vs 언더플로우",
+      "pos": "예외 상황",
+      "kr": "가득 찬 스택에 push를 시도할 때(Overflow)와 빈 스택에서 pop/peek을 시도할 때(Underflow) 발생하는 오류",
+      "level": "⭐ 자료구조 4장",
+      "note": "IndexError 방어 코딩"
+    }
+  ]
+}

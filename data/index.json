@@ -2,9 +2,204 @@
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "DasOkZYS9p41hisrbkYcdA==",
-    "iv": "0KJS/JFtQAZlTz2D",
-    "ciphertext": "bpkOdSvdJOu0x74qvT6oTEIdE2Yq2Xqv113Fb0HiHgFZP1GA1d2s0X4VJ2hwGM8bMxU0wP4KQIedYxMzJUubN4v9eXHeUKhIBGSVWfC1vFkiBiEjoKpPoXmoh5WCAo+8qCWRUPP8fmZ+/V/mNpV/dBy+VptJNe62D7ZY6vpY9ciG6kPHSyP2oGY5zE3nFJb5CI9dSqEdpq0u8uiv6qskpiOkT7n6SMnSIhuoWYBEMMAOdPf1t6Ht50NirwBdAH+KWFk7FIfBU+B300s37Uvlb3bMXwYcObPd30V0Qhjle7pjI/3FgeI/eCnsx5tmcJDAGcE2fk4hwVfpcDyxygt9TLPSeqpGYl+raiERoztWiv8uaVIlEqOc90oalTzoEjDsIy6BhqgeB/pkg1Wa6I7tYu7jQwjIHFRDa9DPHVoi98LG2m92jigwZMdrKcJMeb4ll0M2vkp4W7RbHryZPB3Lf+dW9NqFhLQoFYhWvNn43xXw5p6HJb14yweIHZmsI6O9tM2eLowGEpwIpYivVyqacJEjxwiS5UAGcdPAiMvBh4CKU2k3TP7szfmpSKW1w2/HQvpliudRwIwo7uLiUfJ0khaJ2hlEJqdAoihnSmPfGDF/i3zCynppRumQQh2WEUos0iLuqjs1ahH3UrzR/LEFKSs+seg4Tes0ZzqYjb+yHTZDGPnixzHCLuE5bYEY5GI79LetqEJN5PY8hRQ/vNrP0CxQv0TXhZa0viilXKCrW+8ujpF9vVEvltqJ14xpgocBjdu+xAzfZcmIuHEsNJFPRRQS/iihF6k+ULRhM5WFdWFkyQeHqn6hD1SS/2nFtIFVMQuESgQhUtjj0rKYEGqOZydEdpbiAIKU3sL4pi8ty08h8We9FCgjodzDBvCtcgInGg86UZoi3e1zECAxjTm3sIVQ1uwO5aKxp7/eTodNXqE5nAi5w1tK26+hLZH43MoFRtMiT1FFv+4Io6kdIvehkpg6TMHwpYrBh/7OctXTNZLcySDqsjKHuX3z50dynzjJsbNEMSBQcmIcFamRoGvCXYxb6vBeo/vyQVtR236bal8W1tRPh7p2XNj8HGv4jAj6Ar98JwcPlWd0jUcKzrsgftMZZIPoSda18Bxbzr/9RIWbSdpR1kVe8vE6JTgVs8Eu8fEQM4gdsBJan/eijreycmwX4TQfNrYlUYyjobfqv8m2HTbkdCvdxzfZHR8Pg6tVs+ajYrf/I6dMDhEjGSZSZ2VQjglsua6mMbAM9/Wd1nZEp+SPZZIvFaUMpiII9XxhwI/liP/wXV4kqp6HHDfw04u+ioGFtUEqNS9UGtwlLASriOxFmMVor8WV066yG0upG6e5g4SwoBBpbpDv3BaM/D9G0GJg2deK+TOEGf67EiBCStTBmKR9GVpMyC1Dyr0oukP1ZA0yziNs19TJBxSn9kcMRM07Me5ZcpSykIuwD4uPL5/omIwcq0lYvGBjkmnJ9dTJfyAwl9AwvpfANkRj54NTLYT2a4lXT/Eyn6pUV1Se17ctKaUnVq2bxJcVo40wAEaSHtatpxWa5DAMvqf+ZOZTShiO5Jw4W+C5Z/9TX+fyihiVEupisA3zyWigFY45oYcrESo3oO3pysgH5xYacoRCXJZSsoNM75pO2uIJq7cV5W6ZuLYmxtypk+Upb0bgwWjloIbmQCfmiA/0EN01TEZz5DcPFQ4XvcFz5KEXkfdIrSLTTddgRknun0Uoe4R6CutDJ7o5fmxRC0BcrKr4EdcVAaxkmgA8krKBZxdhRx7A5V1yC7HxrsBOjXt92VRVuz0jD1iN7ZMSb8toXAQUEjnWxCKE27ljOiG3lqrjrThxkWv2V778leSL7OIeEErNGgOhOPy31QNiZyc10Y7cv1M2uUdfsRcEqGPghTd2XDcaBf0MEJvZ5EtJMv3pAlJqp8IxNkPzxoHr4+eV/lALg7J3BQ4wU/Iq/wi2UtkSpT40c6+GqkfnXj9FTMyt47ZOMWVHtdyyf8PFa+3ciFwxHpMJ7xck7Jl5rKRLtdfGh9cbS174xDW9OQ6c5XhNP4opuW65yLtPxGgU0k7jDWtXjOYQBnj9X/9A0BEh8A6VfeZg8539sLY9Fl74LJW3XpEAjDZPbNKCHOircW685P1+8hNdAZ3Ck1woKnTqK16FDw6dPHCvfnYy3KF59Jbo5jTtPjFn8sKX1AqhE8Nz9ozIRG9xmNbvs8kaT9NNPZs0w4u7t53RSRJz9Tb0eUR7Wh9+jp5iJphsV9BSioX6Ql6AZ8WyihCY4+AEkEe9vFDxNeWHQSQJl90HGGusD4Zar4dT5iGHAK5K35ZTt95DDRgvx/edFWMPf8xnnTco72wEmUcCx5NUE6Un49xE4xL5Elcj1jZhzAuYJ7iQZNT2hV9ysZm2IadBlWR4PInRV1easouw87Tg1apK5Q7WEHFisMdLP+cWfcSTl/ThqC61oVpRxzFyz1Z9IHxBtxuLxZTZQBTNVxiaoxKQ7O0z2zUyr4QzKg5qWGxA2Fe3KwkW5bpd/nMkm1VjN1RchfTD6fQat0zDBS0FrTZIoe2Mi9iqlN2R4+2R6cSFDlspbFR/rKDXZSfu/rcu7MIaNU5CUFxHWb856bJjXcmb5QOq6x3n96FPIZTMEmazvQA9hybYzqkuGEKYgMM91oVIbQegT7ZdnCjlAfi0uNFFtvIUsm6umZT8H9fDww9Nvtnr1VFcnEouBik7C9sqNInYbVT5XTYcEcs1hRAj7X4vavqujgHb4mVECw6oCjUKU6UXRo8xfX0ATaBiyrARsDOfpM7qmDMyauhTCWoV+I7D/LC9T0lhz3gvdQgrAlvrInVwp+bA1GF3BPuT8GSa6mb8yXVrHbdekNQwwwxnzhvnV/teMThxiuFq6R0n4pNajrubQyqZH0vIccleEmRQn4Wy61BFNJW0aB2A+s5HLtE4k8iE1/GXRB7ohE6aCDaAksQkZzIegwNKMr473NhodOoTqAE98BXXN0vaLFEF4nePOi9vZIHRJWE6ynWKYWbNIAuXBfY5drrxKL4wDeAijKjsy1ercBWoyNlXb20yvI5cG0WTVmXoxzZQVdZdxoEM0UEMxSLyuXNawHT7SCl1Qa8/cD99crfKew7s/N7IE0kMzC7zfnHOaigtJqTONlw1p9OKPQHQH9+rZQ43AI1/4ybNL8LA17SFSS1Yg9GYBESQAaIs4znSjXam4s44QQMsJNVqZokCjT3ak+aFvhGZ1MjvyMrwxEpBS/2i56HbfRS/x0UKJW1eV2uGsMtAGB5Fxbqh8tYQICBthtnWPRHsf9PLev8/uu9bA3VgtjhJMbdNaeZnq+1OpZ9xo+4GwEHoIofJNULqf9X6EtcE8KFiqYPV/MTGaFjkTIiJuS72kXVzbQxmRM1aUK/X4NgayK8TgKjEC49ksZToDk7YqhAsxpZFrB3rOeV8KvICp1A5CCMPwN49HHaUuezING+NzyuwzhhSOWP1hOglcedR98JzRkzI/UeaAPxmhQgCA5mpO0SmsWcT94G9fzHXUhy51v2Fnvev17CQKEKTJGsTC3Tmu8OxSnB0yClFN/pllywinYglyFYVJU6DtTaMy/CWLtM3179R5uhHTaOvogd3ujqr39Vq4UiHpuDG+iJQb6zJFunEE5GNLhNlEJ21ad+ec5gSJ52LAuSkUY3bTMASisq07juVuSwDxhNN7it3EI9VF7KK4jlQkO7ZvUj9hsisqDTiqG2yOMCG54IXvdr8JmlHG9HSeiiLK0rpk214D/UAESH3VnyBs+5JbCc0bCxM4iGHML17tNxWf17hnb2cgt8rmxisJoubTnsLjJNkgHDNUcsLMw7nXoSK9eloDHHGaraHfUV/vePPv0GhbiZ5DrTnPUJXLG8opsKmrrsn7bxK1FxDcQRgJtL+9ofPrfRISzyltoFQAvsGV1h3wM6fno41NZ/uYiT3XIkNNJ4MeM/QvCvXh4uabV+Ra4MON/l8jpmYpecizEsqWf4uc/oUuRzIz6XYXlFmUzD3pcLq/T5k6AoFMx8AWjIxZkoIyolRjOt6c5HSWNR/QSzGlTUd52dP0CtkprRqjurmD6/XRvNC9z0kmZVnd9mP8cmbNa9R6XSIFHq92suu51TE/8usXk6ZfFaBrKOFmtB4+2NI8DUFZyvuhuNeJ3+cc24n+ArHd1EAr8mQd6AjF1UmjVYAnqSsLsvHrkiFhgbDcDdoTLfK/h/yp6x9nGHEOQrje4ccwpeX5KbRVO1sX1V4rJ4PKlskjNjLDGfbOMK3bjwFkDw0H7kJ3iNdqS5N+V71OyWJncmUUwGPfPIhGY5Tq+3qb69/AZQgFQGouFpOjsAEZWgmPMrQqy2e"
+    "salt": "QS5Ym8d2+3JfutmL7PC9YA==",
+    "iv": "BUWwKcs38DegvBWO",
+    "ciphertext": "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"
   },
-  "weekly_courses": []
+  "weekly_courses": [
+    {
+      "day": "월요일",
+      "courses": [
+        {
+          "id": "mon-zh-b1-integ",
+          "name": "중국어B1(통합실습)",
+          "time": "5~6교시 (13:00~15:00)",
+          "room": "인문관 301호",
+          "prof": "정혜선 교수님",
+          "midterm_book": "산문 《背影》 · 동화책 《团圆》 · 강독 《雨的四季》",
+          "tasks": [
+            {
+              "title": "《背影》 2페이지 번역 및 수업 낭독 연습 (완비)",
+              "done": true
+            },
+            {
+              "title": "《团圆》 14개 씬 줄거리 & 10줄 감상문(读后感) 체화",
+              "done": true
+            },
+            {
+              "title": "《雨的四季》 겨울비 11문장 & 결문 6문장 낭독 준비",
+              "done": true
+            },
+            {
+              "title": "중간고사 산문 《背影》 7개 문단 3단 대역 전수 암기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "mon-zh-b1-speak",
+          "name": "중국어B1(듣기·말하기)",
+          "time": "3~4교시 (11:00~13:00)",
+          "room": "백년관 207호",
+          "prof": "Wu Juan (오연) 교수님",
+          "midterm_book": "신개념 중국어 3",
+          "tasks": [
+            {
+              "title": "제5과 《画像》 본문 낭독 & 신출 단어 13종 복습 (완비)",
+              "done": true
+            },
+            {
+              "title": "부사 从来不 vs 从来没 문법 공식 체화",
+              "done": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "화요일",
+      "courses": [
+        {
+          "id": "tue-adv-comm",
+          "name": "Adv Communication for Global Leaders",
+          "time": "1~2교시 (09:00~11:00)",
+          "room": "인문관 403호",
+          "prof": "Dr. Reid McLain (원어민 교수님)",
+          "midterm_book": "Robert Bolton, People Skills (Chapters 5, 6, 7)",
+          "tasks": [
+            {
+              "title": "Quiz 3 대비 People Skills 5·6·7장 영한대역 원문 정독 (완비)",
+              "done": true
+            },
+            {
+              "title": "11대 반영적 경청 지침 및 경청 금지 5대 상황 원칙 체화",
+              "done": true
+            },
+            {
+              "title": "Dr. McLain 스타일 4지선다 적중 모의고사 15문항 풀이 및 오답 정리",
+              "done": false
+            },
+            {
+              "title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7% vs 93%) 및 학자 매칭 암기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "tue-college-eng",
+          "name": "College English 2 (Billy Joseph Fitzgerald)",
+          "time": "5~6교시 (13:00~15:00)",
+          "room": "0508호",
+          "prof": "Billy Joseph Fitzgerald (원어민 / 성적비중 60%)",
+          "midterm_book": "Pathways 3 (Reading, Writing, and Critical Thinking)",
+          "tasks": [
+            {
+              "title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기",
+              "done": true
+            },
+            {
+              "title": "Reading 1 본문 3편 (What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독",
+              "done": true
+            },
+            {
+              "title": "Cengage Test Bank 실전 모의고사 30문항 풀이 및 오답 점검",
+              "done": false
+            },
+            {
+              "title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 25문장 영작 암기",
+              "done": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "수요일",
+      "courses": [
+        {
+          "id": "wed-college-eng",
+          "name": "College English 2 (김나나 교수님)",
+          "time": "4교시 (12:00~13:00)",
+          "room": "0508호",
+          "prof": "김나나 교수님 (KNN / 성적비중 30%)",
+          "midterm_book": "Prism Reading 3 (Unit 5 Architecture & Unit 6 Energy)",
+          "tasks": [
+            {
+              "title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 영한 정밀 대역 정독",
+              "done": true
+            },
+            {
+              "title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 영한 정밀 대역 정독",
+              "done": true
+            },
+            {
+              "title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리",
+              "done": false
+            },
+            {
+              "title": "서술형 번역 4문항 채점 기준표 및 지칭 대명사 추론 4문항 암기",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "wed-data-struct",
+          "name": "Data Structure (자료구조)",
+          "time": "3~4교시 (11:00~13:00)",
+          "room": "공학관 204호",
+          "prof": "김은경 교수님 (천인국·최영규 교재)",
+          "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사)",
+          "tasks": [
+            {
+              "title": "중간고사 범위 1~5장 객관식/단답형 연습문제 CBT 129문항 완독",
+              "done": false
+            },
+            {
+              "title": "김은경 교수님 지필고사 대비 7대 고난도 손코딩 & 상태 추적 챌린지 풀이",
+              "done": false
+            },
+            {
+              "title": "원형 큐(MAX_QSIZE=5) 및 덱 모듈러(%) 연산 포인터 이동 정밀 추적",
+              "done": false
+            },
+            {
+              "title": "스택 기반 중위->후위 수식 변환 및 피연산자 스택 계산 과정 손추적",
+              "done": false
+            },
+            {
+              "title": "Big-O 시간 복잡도(c, n_0) 수학적 증명 및 하노이의 탑 점화식 유도",
+              "done": false
+            }
+          ]
+        },
+        {
+          "id": "wed-global-biz",
+          "name": "Global Business Environment",
+          "time": "5~6교시",
+          "tasks": [
+            {
+              "title": "글로벌 통상 환경 케이스 스터디 읽기",
+              "done": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "목요일",
+      "courses": [
+        {
+          "id": "thu-mis",
+          "name": "MIS for Business Innovation",
+          "time": "3~4교시",
+          "tasks": [
+            {
+              "title": "비즈니스 정보 시스템 및 IT 혁신 사례 정리",
+              "done": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

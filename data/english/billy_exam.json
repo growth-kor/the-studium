@@ -1,122 +1,392 @@
 [
   {
-    "q": "[Q1] A part or side of something.",
-    "a": "정답: aspect (n) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+    "id": "billy-q1",
+    "num": 1,
+    "question": "A part or side of something.",
+    "options": [
+      "income",
+      "aspect",
+      "barrier",
+      "resident"
+    ],
+    "answer": 2,
+    "explanation": "어휘 영영 정의: aspect: a part or side of something"
   },
   {
-    "q": "[Q2] Involving a lot of different parts; difficult to understand.",
-    "a": "정답: complex (adj) | 해설: Cengage 교재 Unit 1 p.4 공식 정의."
+    "id": "billy-q2",
+    "num": 2,
+    "question": "Involving a lot of different parts; difficult to understand.",
+    "options": [
+      "cognitive",
+      "controversial",
+      "complex",
+      "intense"
+    ],
+    "answer": 3,
+    "explanation": "어휘 영영 정의: complex: involving a lot of different parts; difficult to understand"
   },
   {
-    "q": "[Q3] Able to continue in the long-term without damaging the environment.",
-    "a": "정답: sustainable (adj) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+    "id": "billy-q3",
+    "num": 3,
+    "question": "Able to continue in the long-term without damaging the environment.",
+    "options": [
+      "renewable",
+      "sustainable",
+      "distinctive",
+      "productive"
+    ],
+    "answer": 2,
+    "explanation": "어휘 영영 정의: sustainable: able to continue in the long-term"
   },
   {
-    "q": "[Q4] To train someone to follow rules or codes of behavior.",
-    "a": "정답: discipline (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+    "id": "billy-q4",
+    "num": 4,
+    "question": "To train someone to follow rules or codes of behavior.",
+    "options": [
+      "observe",
+      "discipline",
+      "establish",
+      "replace"
+    ],
+    "answer": 2,
+    "explanation": "어휘 영영 정의: discipline: to train someone to follow rules"
   },
   {
-    "q": "[Q5] Having a large amount of something close together.",
-    "a": "정답: dense (adj) | 해설: Cengage 교재 Unit 3 p.52 공식 정의."
+    "id": "billy-q5",
+    "num": 5,
+    "question": "Having a large amount of something close together.",
+    "options": [
+      "urban",
+      "occasional",
+      "dense",
+      "fierce"
+    ],
+    "answer": 3,
+    "explanation": "어휘 영영 정의: dense: having a large amount of something close together"
   },
   {
-    "q": "[Q6] A building or structure with historical or cultural significance.",
-    "a": "정답: landmark (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+    "id": "billy-q6",
+    "num": 6,
+    "question": "A building or structure with historical or cultural significance.",
+    "options": [
+      "suburb",
+      "landmark",
+      "canal",
+      "barrier"
+    ],
+    "answer": 2,
+    "explanation": "어휘 영영 정의: landmark: building/structure with historical significance"
   },
   {
-    "q": "[Q7] Pain, either mental or physical.",
-    "a": "정답: suffering (n) | 해설: Cengage 교재 Unit 1 p.4 공식 정의 (grief는 사별 후 슬픔)."
+    "id": "billy-q7",
+    "num": 7,
+    "question": "Pain, either mental or physical.",
+    "options": [
+      "grief",
+      "suffering",
+      "discipline",
+      "behavior"
+    ],
+    "answer": 2,
+    "explanation": "어휘 영영 정의: suffering: pain, either mental or physical"
   },
   {
-    "q": "[Q8] A way of working with another person, group, or organization.",
-    "a": "정답: partnership (n) | 해설: Cengage 교재 Unit 5 p.102 공식 정의."
+    "id": "billy-q8",
+    "num": 8,
+    "question": "A way of working with another person, group, or organization.",
+    "options": [
+      "partnership",
+      "social structure",
+      "extended family",
+      "objective"
+    ],
+    "answer": 1,
+    "explanation": "어휘 영영 정의: partnership: a way of working with another person/org"
   },
   {
-    "q": "[Q9] To notice something after looking closely.",
-    "a": "정답: observe (v) | 해설: Cengage 교재 Unit 1 p.12 공식 정의."
+    "id": "billy-q9",
+    "num": 9,
+    "question": "To notice something after looking closely.",
+    "options": [
+      "treat",
+      "observe",
+      "establish",
+      "preserve"
+    ],
+    "answer": 2,
+    "explanation": "어휘 영영 정의: observe: to notice something after looking closely"
   },
   {
-    "q": "[Q10] A state of ease or well-being.",
-    "a": "정답: comfort (n) | 해설: Cengage 교재 Unit 5 p.110 공식 정의."
+    "id": "billy-q10",
+    "num": 10,
+    "question": "A state of ease or well-being.",
+    "options": [
+      "comfort",
+      "awareness",
+      "recognition",
+      "economy      ### [Part 2] Contextual Cloze & Collocations (Questions 11 ~ 15) > **Directions**: Choose the best word or phrase to fill in the blank in each sentence."
+    ],
+    "answer": 1,
+    "explanation": "어휘 영영 정의: comfort: a state of ease or well-being"
   },
   {
-    "q": "[Q11] After being hit by three storms, the harbor closed ______ while repairs completed.",
-    "a": "정답: temporarily (adv) | 해설: 수리 기간 동안 한시적/일시적 폐쇄."
+    "id": "billy-q11",
+    "num": 11,
+    "question": "After being hit by three major storms in a month, the historic seaside village had to close its harbor ______ while engineers completed structural repairs.",
+    "options": [
+      "repeatedly",
+      "temporarily",
+      "previously",
+      "partially"
+    ],
+    "answer": 2,
+    "explanation": "문맥 어휘 빈칸: temporarily: 수리 기간 동안 '일시적으로' 폐쇄"
   },
   {
-    "q": "[Q12] Raising public ______ regarding recycling is a vital prerequisite for green cities.",
-    "a": "정답: awareness (n) | 해설: 필수 콜로케이션 raise public awareness."
+    "id": "billy-q12",
+    "num": 12,
+    "question": "The mayor emphasized that raising public ______ regarding recycling practices is a vital prerequisite for building a green city.",
+    "options": [
+      "awareness",
+      "concentration",
+      "comfort",
+      "income"
+    ],
+    "answer": 1,
+    "explanation": "문맥 어휘 콜로케이션: raise public awareness: 대중 인식을 고취하다"
   },
   {
-    "q": "[Q13] Wild animals when threatened display unpredictable ______ that puts observers in danger.",
-    "a": "정답: behavior (n) | 해설: 동물 행동 패턴 unpredictable behavior."
+    "id": "billy-q13",
+    "num": 13,
+    "question": "When wild animals feel threatened, they often display unpredictable ______ that can put observers in danger.",
+    "options": [
+      "grief",
+      "discipline",
+      "behavior",
+      "gender"
+    ],
+    "answer": 3,
+    "explanation": "문맥 어휘 빈칸: unpredictable behavior: 예측 불가능한 행동 양식"
   },
   {
-    "q": "[Q14] Developing nations struggle with sprawl because cities continue to ______ into farmland.",
-    "a": "정답: spread out (v) | 해설: 도시 외곽으로의 지리적 확산."
+    "id": "billy-q14",
+    "num": 14,
+    "question": "Developing nations often struggle with uncontrolled urban sprawl because major cities continue to ______ into nearby agricultural zones.",
+    "options": [
+      "spread out",
+      "earn a living",
+      "tend to",
+      "separate"
+    ],
+    "answer": 1,
+    "explanation": "문맥 어휘 구동사: spread out: 도시 외곽으로 뻗어나가다/확산되다"
   },
   {
-    "q": "[Q15] In order to ______ the ancient temple from acid rain, authorities installed glass barriers.",
-    "a": "정답: preserve (v) | 해설: 훼손으로부터 보존하다 preserve."
+    "id": "billy-q15",
+    "num": 15,
+    "question": "In order to ______ the ancient temple from acid rain and tourist vandalism, the government installed protective glass barriers.",
+    "options": [
+      "replace",
+      "discipline",
+      "preserve",
+      "lower      ### [Part 3] Reading Comprehension & Skill Analysis (Questions 16 ~ 23) > **Directions**: Read each passage and answer the questions based on the text.  #### [Passage 1: Animal Cognition] In a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance."
+    ],
+    "answer": 3,
+    "explanation": "문맥 어휘 빈칸: preserve: 산성비와 훼손으로부터 사원을 '보존하다'"
   },
   {
-    "q": "[Q16] [Reading 1 Main Idea] Betty the crow tool experiment.",
-    "a": "정답: Betty the crow proved animals invent tools through cognitive planning rather than chance. | 해설: 까마귀의 도구 제작은 인지적 계획에 기초함."
+    "id": "billy-q16",
+    "num": 16,
+    "question": "What is the main idea of Passage 1?",
+    "options": [
+      "New Caledonian crows have the largest brain-to-body ratio among all bird species.",
+      "Betty the crow proved that animals can invent tools through cognitive planning rather than simple chance.",
+      "Laboratory experiments on animals frequently produce controversial and untrustworthy results.",
+      "Using wire hooks is an innate survival skill passed down through crow generations."
+    ],
+    "answer": 2,
+    "explanation": "독해 대의 파악: 인지적 계획을 통한 도구 제작 증명 (Main Idea)"
   },
   {
-    "q": "[Q17] [Supporting Detail] Evidence of crow understanding physical cause-effect.",
-    "a": "정답: The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve food. | 해설: 먹이를 꺼내기 전 도구를 먼저 가공함."
+    "id": "billy-q17",
+    "num": 17,
+    "question": "Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
+    "options": [
+      "The meat was floating in deep water.",
+      "Several straight wires were scattered on the table.",
+      "The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve the food.",
+      "The container was placed inside a laboratory cage.      #### [Passage 2: Urban Living] Today, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water."
+    ],
+    "answer": 3,
+    "explanation": "세부 근거(Supporting): 구부려서 갈고리를 먼저 만드는 계획적 행동"
   },
   {
-    "q": "[Q18] [Reading 3 Detail] Major reason cities generate over 80% of global GDP.",
-    "a": "정답: The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure. | 해설: 지식 공유와 규모의 경제."
+    "id": "billy-q18",
+    "num": 18,
+    "question": "According to Passage 2, what is one major reason why cities produce so much wealth?",
+    "options": [
+      "Rural residents donate a significant portion of their income to metropolitan projects.",
+      "The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure.",
+      "Cities occupy over 80 percent of the Earth's total land area.",
+      "Governments ban commercial activity outside metropolitan boundaries."
+    ],
+    "answer": 2,
+    "explanation": "세부 팩트 확인: 인구 집중으로 인한 지식 공유 및 인프라 효율성"
   },
   {
-    "q": "[Q19] [Cause & Effect] Cause of sprawling informal settlements (slums).",
-    "a": "정답: The failure of municipal governments to manage growth and provide affordable housing. | 해설: 도시 주택 관리 실패."
+    "id": "billy-q19",
+    "num": 19,
+    "question": "What causes the expansion of sprawling informal settlements (slums)?",
+    "options": [
+      "Too much investment in mass transit systems.",
+      "A decline in global gross domestic product.",
+      "The failure of municipal governments to manage growth and provide affordable housing.",
+      "Excessive dispersal of people into remote rural towns.      #### [Passage 3: Sustainable Tourism] The tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers."
+    ],
+    "answer": 3,
+    "explanation": "인과 추론: 주택 공급 및 도시 관리 실패로 인한 슬럼화"
   },
   {
-    "q": "[Q20] [Reading 5 Problem] Initial prompt for Palau tourism policy shift.",
-    "a": "정답: Mass tourism was severely damaging the islands coral reefs and marine ecosystem. | 해설: 과잉 관광의 산호초 파괴."
+    "id": "billy-q20",
+    "num": 20,
+    "question": "What problem initially prompted the government of Palau to change its tourism policy?",
+    "options": [
+      "The economy collapsed because tourists refused to visit the island.",
+      "Foreign tour operators refused to employ indigenous islanders.",
+      "Mass tourism was severely damaging the island's coral reefs and marine ecosystem.",
+      "Hotel companies were unable to find renewable sources of solar energy."
+    ],
+    "answer": 3,
+    "explanation": "세부 팩트 확인: 대중 관광으로 인한 산호초 및 해양 생태계 파괴"
   },
   {
-    "q": "[Q21] [Reading 5 Fact] How Palau funds conservation partnerships with rangers.",
-    "a": "정답: By collecting a mandatory green fee from foreign visitors. | 해설: 입국 관광객 green fee 징수."
+    "id": "billy-q21",
+    "num": 21,
+    "question": "How does the Palau government fund its conservation partnerships with indigenous rangers?",
+    "options": [
+      "By borrowing money from multinational banking organizations.",
+      "By collecting a mandatory green fee from foreign visitors.",
+      "By selling historic landmarks to international hotel chains.",
+      "By permitting cruise ships to anchor directly on coral reefs."
+    ],
+    "answer": 2,
+    "explanation": "세부 팩트 확인: 외국인 대상 의무적 green fee 징수를 통한 기금 조성"
   },
   {
-    "q": "[Q22] [Concept Definition] What is the Palau Pledge?",
-    "a": "정답: A legal commitment signed by incoming visitors to protect the environment. | 해설: 여권에 서명하는 법적 환경 보호 서약."
+    "id": "billy-q22",
+    "num": 22,
+    "question": "Which of the following words best describes the Palau Pledge?",
+    "options": [
+      "An optional questionnaire about traveler preferences.",
+      "A commercial contract that allows tourists to collect marine specimens.",
+      "A legal commitment signed by incoming visitors to protect the environment.",
+      "A temporary guideline that applies only during stormy seasons."
+    ],
+    "answer": 3,
+    "explanation": "개념 어휘 이해: 여권에 서명하는 법적 환경 보호 서약 (Palau Pledge)"
   },
   {
-    "q": "[Q23] [Author Purpose] Primary purpose of Palau passage.",
-    "a": "정답: Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism. | 해설: 지속 가능 관광 모델 제시."
+    "id": "billy-q23",
+    "num": 23,
+    "question": "The author's primary purpose in writing Passage 3 is to:",
+    "options": [
+      "Criticize the government of Palau for imposing excessive regulations on travelers.",
+      "Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism.",
+      "Warn tourists that visiting island nations is becoming economically unaffordable.",
+      "Argue that all tourism should be banned to protect the Pacific Ocean.      ### [Part 4] Visual Analysis & Cause-Effect Reasoning (Questions 24 ~ 26)"
+    ],
+    "answer": 2,
+    "explanation": "작가의도/목적 파악: 혁신 정책과 파트너십을 통한 지속 가능 관광 모델 제시"
   },
   {
-    "q": "[Q24] [Visual Analysis] Urbanization vs Population Growth data.",
-    "a": "정답: Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth. | 해설: 비율(도시화율)과 증가율 대조."
+    "id": "billy-q24",
+    "num": 24,
+    "question": "Look at the following statistical summary regarding world urban populations:\n> - Region A: 82% urban population, population growth rate +0.4% per year\n> - Region B: 43% urban population, population growth rate +2.8% per year\n> - Region C: 51% urban population, population growth rate +1.5% per year\n\nWhich statement is an accurate deduction from the data?",
+    "options": [
+      "Region B is already more urbanized than Region A.",
+      "Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth.",
+      "Region C will never reach a 60% urban population level.",
+      "Population growth in Region A is fiercely accelerating due to high fertility rates."
+    ],
+    "answer": 2,
+    "explanation": "시각 도표/통계 분석: 도시화율(비율)과 인구 증가율(속도)의 대조 분석"
   },
   {
-    "q": "[Q25] [Cause vs Effect Signal Words] Which signals a CAUSE?",
-    "a": "정답: As a result of | 해설: As a result of 뒤에는 원인이 오며, Therefore/Consequently는 결과를 유도함."
+    "id": "billy-q25",
+    "num": 25,
+    "question": "In analyzing causes and effects, which transition word signals a cause rather than an effect?",
+    "options": [
+      "Therefore",
+      "Consequently",
+      "As a result of",
+      "For this reason"
+    ],
+    "answer": 3,
+    "explanation": "인과 접속사 판별: As a result of (~의 원인으로 인해) vs 나머지(결과 유도)"
   },
   {
-    "q": "[Q26] [Causal Analysis] Direct effect of ancient citadel stone degradation.",
-    "a": "정답: Daily visitor admissions were restricted to 2,500. | 해설: 주절의 행정적 조치(입장 제한)가 직접적 결과임."
+    "id": "billy-q26",
+    "num": 26,
+    "question": "Read the sentence: *\"Because overtourism degraded the stone masonry of the ancient citadel, authorities restricted daily admissions to 2,500 visitors.\"*  \nWhat is the direct effect in this sentence?",
+    "options": [
+      "Stone masonry was built inside the citadel.",
+      "Daily visitor admissions were restricted to 2,500.",
+      "Overtourism was eliminated entirely.",
+      "Authorities banned all historic preservation projects.      ### [Part 5] Grammar & Essay Structure (Questions 27 ~ 30)"
+    ],
+    "answer": 2,
+    "explanation": "인과 구조 분석: 직후 결과: 일일 입장객 수를 2,500명으로 제한"
   },
   {
-    "q": "[Q27] [Grammar: if..., then...] Correct real conditional sentence.",
-    "a": "정답: If tourists visit sensitive ecological reserves, then they will damage rare flora. | 해설: if절에는 현재시제(visit), 주절에는 will+동사원형."
+    "id": "billy-q27",
+    "num": 27,
+    "question": "Choose the grammatically correct sentence using the real conditional (`if..., then...`).",
+    "options": [
+      "If tourists will visit sensitive ecological reserves, then they will damage rare flora.",
+      "If tourists visit sensitive ecological reserves, then they will damage rare flora.",
+      "If tourists visited sensitive ecological reserves, then they would damage rare flora.",
+      "If tourists visit sensitive ecological reserves, then they damaged rare flora."
+    ],
+    "answer": 2,
+    "explanation": "조건문 시제 일치: If + 현재동사 (visit), then will + 동사원형"
   },
   {
-    "q": "[Q28] [Grammar: Comparison] Correct comparative structure.",
-    "a": "정답: Wildlife tourism in Costa Rica is far more enriching than mass cruise travel. | 해설: more... than 구조 및 far 수식 완벽."
+    "id": "billy-q28",
+    "num": 28,
+    "question": "Which sentence correctly makes a comparison between two subjects?",
+    "options": [
+      "Modern eco-lodges are much more sustainable that conventional high-rise hotels.",
+      "Rural areas tend to have a denser population as urban centers.",
+      "Wildlife tourism in Costa Rica is far more enriching than mass cruise travel.",
+      "Chimpanzees have the same cognitive skills than human infants."
+    ],
+    "answer": 3,
+    "explanation": "비교급 구문 정확성: far more enriching than (훨씬 더 풍요로운)"
   },
   {
-    "q": "[Q29] [Essay Structure] Standard location of Thesis Statement.",
-    "a": "정답: At the end of the introductory paragraph as the final sentence. | 해설: 서론 단락의 마지막 문장."
+    "id": "billy-q29",
+    "num": 29,
+    "question": "Where should the Thesis Statement typically be positioned within an essay?",
+    "options": [
+      "At the very beginning of the introductory paragraph as the first sentence.",
+      "At the end of the introductory paragraph as the final sentence.",
+      "In the middle of the second body paragraph.",
+      "At the very end of the concluding paragraph as a parting thought."
+    ],
+    "answer": 2,
+    "explanation": "에세이 구조 공식: 서론 단락의 맨 마지막 문장에 위치하는 Thesis Statement"
   },
   {
-    "q": "[Q30] [Paragraph Structure] Role of a Body Paragraph Topic Sentence.",
-    "a": "정답: To state the main idea of that specific body paragraph and connect it to the essays central thesis. | 해설: 본론 중심 생각 제시 및 논지 연결."
+    "id": "billy-q30",
+    "num": 30,
+    "question": "In a five-paragraph academic essay, what is the primary role of a Topic Sentence in a body paragraph?",
+    "options": [
+      "To present a catchy quote that has no relation to the rest of the text.",
+      "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
+      "To summarize the entire essay and offer a call to action.",
+      "To list all supporting statistics without making any interpretive claims.      ## [제5장] 정답표, 심층 해설 및 오답 매력도 완벽 분석"
+    ],
+    "answer": 2,
+    "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"
   }
 ]
