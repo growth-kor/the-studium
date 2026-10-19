@@ -124,7 +124,7 @@
       "comfort",
       "awareness",
       "recognition",
-      "economy      ### [Part 2] Contextual Cloze & Collocations (Questions 11 ~ 15) > **Directions**: Choose the best word or phrase to fill in the blank in each sentence."
+      "economy"
     ],
     "answer": 1,
     "explanation": "어휘 영영 정의: comfort: a state of ease or well-being"
@@ -189,7 +189,7 @@
       "replace",
       "discipline",
       "preserve",
-      "lower      ### [Part 3] Reading Comprehension & Skill Analysis (Questions 16 ~ 23) > **Directions**: Read each passage and answer the questions based on the text.  #### [Passage 1: Animal Cognition] In a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance."
+      "lower"
     ],
     "answer": 3,
     "explanation": "문맥 어휘 빈칸: preserve: 산성비와 훼손으로부터 사원을 '보존하다'"
@@ -197,7 +197,7 @@
   {
     "id": "billy-q16",
     "num": 16,
-    "question": "What is the main idea of Passage 1?",
+    "question": "[Passage 1: Animal Cognition]\nIn a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance.\n\n[Q16] What is the main idea of Passage 1?",
     "options": [
       "New Caledonian crows have the largest brain-to-body ratio among all bird species.",
       "Betty the crow proved that animals can invent tools through cognitive planning rather than simple chance.",
@@ -210,12 +210,12 @@
   {
     "id": "billy-q17",
     "num": 17,
-    "question": "Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
+    "question": "[Passage 1: Animal Cognition]\nIn a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance.\n\n[Q17] Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
     "options": [
       "The meat was floating in deep water.",
       "Several straight wires were scattered on the table.",
       "The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve the food.",
-      "The container was placed inside a laboratory cage.      #### [Passage 2: Urban Living] Today, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water."
+      "The container was placed inside a laboratory cage."
     ],
     "answer": 3,
     "explanation": "세부 근거(Supporting): 구부려서 갈고리를 먼저 만드는 계획적 행동"
@@ -223,7 +223,7 @@
   {
     "id": "billy-q18",
     "num": 18,
-    "question": "According to Passage 2, what is one major reason why cities produce so much wealth?",
+    "question": "[Passage 2: Urban Living]\nToday, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water.\n\n[Q18] According to Passage 2, what is one major reason why cities produce so much wealth?",
     "options": [
       "Rural residents donate a significant portion of their income to metropolitan projects.",
       "The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure.",
@@ -236,12 +236,12 @@
   {
     "id": "billy-q19",
     "num": 19,
-    "question": "What causes the expansion of sprawling informal settlements (slums)?",
+    "question": "[Passage 2: Urban Living]\nToday, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water.\n\n[Q19] What causes the expansion of sprawling informal settlements (slums)?",
     "options": [
       "Too much investment in mass transit systems.",
       "A decline in global gross domestic product.",
       "The failure of municipal governments to manage growth and provide affordable housing.",
-      "Excessive dispersal of people into remote rural towns.      #### [Passage 3: Sustainable Tourism] The tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers."
+      "Excessive dispersal of people into remote rural towns."
     ],
     "answer": 3,
     "explanation": "인과 추론: 주택 공급 및 도시 관리 실패로 인한 슬럼화"
@@ -249,7 +249,7 @@
   {
     "id": "billy-q20",
     "num": 20,
-    "question": "What problem initially prompted the government of Palau to change its tourism policy?",
+    "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q20] What problem initially prompted the government of Palau to change its tourism policy?",
     "options": [
       "The economy collapsed because tourists refused to visit the island.",
       "Foreign tour operators refused to employ indigenous islanders.",
@@ -262,7 +262,7 @@
   {
     "id": "billy-q21",
     "num": 21,
-    "question": "How does the Palau government fund its conservation partnerships with indigenous rangers?",
+    "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q21] How does the Palau government fund its conservation partnerships with indigenous rangers?",
     "options": [
       "By borrowing money from multinational banking organizations.",
       "By collecting a mandatory green fee from foreign visitors.",
@@ -275,7 +275,7 @@
   {
     "id": "billy-q22",
     "num": 22,
-    "question": "Which of the following words best describes the Palau Pledge?",
+    "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q22] Which of the following words best describes the Palau Pledge?",
     "options": [
       "An optional questionnaire about traveler preferences.",
       "A commercial contract that allows tourists to collect marine specimens.",
@@ -288,12 +288,12 @@
   {
     "id": "billy-q23",
     "num": 23,
-    "question": "The author's primary purpose in writing Passage 3 is to:",
+    "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q23] The author's primary purpose in writing Passage 3 is to:",
     "options": [
       "Criticize the government of Palau for imposing excessive regulations on travelers.",
       "Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism.",
       "Warn tourists that visiting island nations is becoming economically unaffordable.",
-      "Argue that all tourism should be banned to protect the Pacific Ocean.      ### [Part 4] Visual Analysis & Cause-Effect Reasoning (Questions 24 ~ 26)"
+      "Argue that all tourism should be banned to protect the Pacific Ocean."
     ],
     "answer": 2,
     "explanation": "작가의도/목적 파악: 혁신 정책과 파트너십을 통한 지속 가능 관광 모델 제시"
@@ -332,7 +332,7 @@
       "Stone masonry was built inside the citadel.",
       "Daily visitor admissions were restricted to 2,500.",
       "Overtourism was eliminated entirely.",
-      "Authorities banned all historic preservation projects.      ### [Part 5] Grammar & Essay Structure (Questions 27 ~ 30)"
+      "Authorities banned all historic preservation projects."
     ],
     "answer": 2,
     "explanation": "인과 구조 분석: 직후 결과: 일일 입장객 수를 2,500명으로 제한"
@@ -384,7 +384,7 @@
       "To present a catchy quote that has no relation to the rest of the text.",
       "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
       "To summarize the entire essay and offer a call to action.",
-      "To list all supporting statistics without making any interpretive claims.      ## [제5장] 정답표, 심층 해설 및 오답 매력도 완벽 분석"
+      "To list all supporting statistics without making any interpretive claims."
     ],
     "answer": 2,
     "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"

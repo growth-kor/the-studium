@@ -6,6 +6,7 @@
     let flashcardIndex = 0;
     let activeVocab = [];
     let savedChecks = JSON.parse(localStorage.getItem('studium_vocab_checks') || '{}');
+    let quizResults = JSON.parse(localStorage.getItem('studium_quiz_results') || '{}');
     let currentExamTab = 'adv_comm';
     let currentTheme = localStorage.getItem('studium_theme') || 'system';
     let ttsRate = parseFloat(localStorage.getItem('studium_tts_rate') || '0.85');
@@ -314,13 +315,13 @@
           pillsHtml = `
             <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
               <div class="course-quiz-pill" onclick="selectExamTab('adv_comm'); switchTab('exam')">
-                <span>Quiz 3 실전 15문항 CBT 풀기 →</span>
+                <span>Quiz 3 실전 25문항 CBT 풀기 →</span>
               </div>
               <div class="course-quiz-pill" onclick="selectBook('adv_comm'); switchTab('reader')">
-                <span>People Skills 5~7장 정독 →</span>
+                <span>만점 족보 & People Skills 5~7장 정독 →</span>
               </div>
               <div class="course-quiz-pill" onclick="filterVocab('adv_comm'); switchTab('vocab')">
-                <span>핵심 개념·학자 플래시카드 →</span>
+                <span>핵심 개념·학자·통계 30카드 →</span>
               </div>
             </div>
           `;
@@ -328,16 +329,16 @@
           pillsHtml = `
             <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
               <div class="course-quiz-pill" onclick="selectExamTab('billy'); switchTab('exam')">
-                <span>Cengage 실전 30문항 CBT 풀기 →</span>
+                <span>Cengage + 10/13 강의 지목 45문항 CBT →</span>
               </div>
               <div class="course-quiz-pill" onclick="openEngEssayScreen('schedule')">
                 <span>In-Class Essay 25문장 영작 훈련 →</span>
               </div>
               <div class="course-quiz-pill" onclick="selectBook('pathways3'); switchTab('reader')">
-                <span>Unit 1·3·5 지문 정독 →</span>
+                <span>10/13 출제족보 & Unit 1·3·5 정독 →</span>
               </div>
               <div class="course-quiz-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">
-                <span>Cengage 60단어 플래시카드 →</span>
+                <span>필수 78단어(60어휘+확장18) 카드 →</span>
               </div>
             </div>
           `;
@@ -345,13 +346,13 @@
           pillsHtml = `
             <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
               <div class="course-quiz-pill" onclick="selectExamTab('knn'); switchTab('exam')">
-                <span>김나나 교수님 6대 유형 24문항 CBT 풀기 →</span>
+                <span>김나나 교수님 6대 유형 + 연어·격식동사 36문항 →</span>
               </div>
               <div class="course-quiz-pill" onclick="selectBook('prism3'); switchTab('reader')">
-                <span>Prism 3 4개 지문 영한대역 정독 →</span>
+                <span>10/14 출제족보 & Prism 3 4개 지문 정독 →</span>
               </div>
               <div class="course-quiz-pill" onclick="filterVocab('prism3'); switchTab('vocab')">
-                <span>Unit 5·6 핵심 어휘 플래시카드 →</span>
+                <span>Unit 5·6 핵심 어휘·연어 54카드 →</span>
               </div>
             </div>
           `;
@@ -359,13 +360,16 @@
           pillsHtml = `
             <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
               <div class="course-quiz-pill" onclick="openDsQuizScreen(1)">
-                <span>중간고사 1~5장 연습문제 CBT (129문항) →</span>
+                <span>중간고사 1~5장 연습문제 CBT (60문항) →</span>
               </div>
               <div class="course-quiz-pill" onclick="selectExamTab('ds_pencil'); switchTab('exam')">
-                <span>지필고사 대비 7대 고난도 손코딩 & 추적 챌린지 →</span>
+                <span>지필 19대 문항 & 구름(Goorm) 12제 손코딩 족보 →</span>
+              </div>
+              <div class="course-quiz-pill" onclick="selectBook('ds_pencil'); switchTab('reader')">
+                <span>1~5장 핵심이론 & 구름 12제 총정리 정독 →</span>
               </div>
               <div class="course-quiz-pill" onclick="filterVocab('ds_vocab'); switchTab('vocab')">
-                <span>자료구조 핵심 개념 플래시카드 →</span>
+                <span>자료구조 핵심 개념·공식 22카드 →</span>
               </div>
             </div>
           `;
@@ -489,7 +493,7 @@
       const list = document.getElementById('sentences-list');
       list.innerHTML = '';
 
-      const isEnglishBook = ['adv_comm', 'pathways3', 'prism3', 'knn_exam'].includes(currentBook);
+      const isEnglishBook = ['adv_comm', 'pathways3', 'prism3', 'knn_exam', 'ds_pencil'].includes(currentBook);
 
       secData.sentences.forEach(s => {
         const row = document.createElement('div');
@@ -499,7 +503,7 @@
         const renderedText = isEnglishBook ? escapeHtml(mainText) : tokenizeSentence(mainText);
         row.innerHTML = `
           <div class="sentence-zh-wrap">
-            <div class="sentence-zh" style="${isEnglishBook ? 'font-family: inherit; font-size: 0.95rem; line-height: 1.6; letter-spacing: 0;' : ''}">${renderedText}</div>
+            <div class="sentence-zh" style="${isEnglishBook ? 'font-family: inherit; font-size: 0.95rem; line-height: 1.6; letter-spacing: 0; white-space: pre-wrap;' : ''}">${renderedText}</div>
             <button class="speaker-btn" title="문장 발음 듣기" onclick="event.stopPropagation(); speakZh('${escapedSentence}')">
               <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
                 <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
@@ -508,8 +512,8 @@
               </svg>
             </button>
           </div>
-          ${s.py ? `<div class="sentence-py">${escapeHtml(s.py)}</div>` : ''}
-          ${s.kr ? `<div class="sentence-kr">${escapeHtml(s.kr)}</div>` : ''}
+          ${s.py ? `<div class="sentence-py" style="${isEnglishBook ? 'white-space: pre-wrap;' : ''}">${escapeHtml(s.py)}</div>` : ''}
+          ${s.kr ? `<div class="sentence-kr" style="${isEnglishBook ? 'white-space: pre-wrap;' : ''}">${escapeHtml(s.kr)}</div>` : ''}
         `;
         list.appendChild(row);
       });
@@ -667,13 +671,14 @@
         return;
       }
       const v = activeVocab[flashcardIndex];
-      const isChecked = !!savedChecks[v.zh];
+      const wKey = v.zh || v.word || '';
+      const isChecked = !!savedChecks[wKey];
 
-      document.getElementById('fc-counter').innerText = `${flashcardIndex + 1} / ${activeVocab.length} · ${v.bookName || ''} ${v.level ? '· ' + v.level : ''}`;
-      document.getElementById('fc-word').innerText = v.zh;
-      document.getElementById('fc-py').innerText = v.py;
-      document.getElementById('fc-kr').innerText = v.kr;
-      document.getElementById('fc-note').innerText = v.note || (v.pos ? '품사: ' + v.pos : '');
+      document.getElementById('fc-counter').innerText = `${flashcardIndex + 1} / ${activeVocab.length} · ${v.bookName || ''} ${v.level ? '· ' + v.level : (v.unit ? '· ' + v.unit : '')}`;
+      document.getElementById('fc-word').innerText = wKey;
+      document.getElementById('fc-py').innerText = v.py || v.def_en || (v.pos ? `[${v.pos}]` : '');
+      document.getElementById('fc-kr').innerText = v.kr || v.meaning || '';
+      document.getElementById('fc-note').innerText = v.note || v.ex || (v.pos ? '품사: ' + v.pos : '');
 
       const btn = document.getElementById('fc-check-btn');
       btn.innerText = isChecked ? '암기 완료 ✓' : '암기 체크';
@@ -681,8 +686,9 @@
     }
 
     function flipFlashcard() {
-      if (activeVocab.length) {
-        speakZh(activeVocab[flashcardIndex].zh);
+      if (activeVocab.length && activeVocab[flashcardIndex]) {
+        const v = activeVocab[flashcardIndex];
+        speakZh(v.zh || v.word || '');
       }
     }
 
@@ -702,7 +708,8 @@
 
     function toggleVocabCheck() {
       if (!activeVocab.length) return;
-      const word = activeVocab[flashcardIndex].zh;
+      const v = activeVocab[flashcardIndex];
+      const word = v.zh || v.word || '';
       savedChecks[word] = !savedChecks[word];
       localStorage.setItem('studium_vocab_checks', JSON.stringify(savedChecks));
       renderFlashcard();
@@ -736,6 +743,44 @@
       });
     }
 
+    function updateScoreBar() {
+      const bar = document.getElementById('cbt-score-bar');
+      if (!bar) return;
+
+      const qIds = bar.dataset.qids ? JSON.parse(bar.dataset.qids) : [];
+      if (!qIds.length) {
+        bar.style.display = 'none';
+        return;
+      }
+
+      let totalAnswered = 0;
+      let totalCorrect = 0;
+      let totalWrong = 0;
+
+      qIds.forEach(id => {
+        if (quizResults[id]) {
+          totalAnswered++;
+          if (quizResults[id].isCorrect) totalCorrect++;
+          else totalWrong++;
+        }
+      });
+
+      const totalCount = qIds.length;
+      const rate = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
+      const tabKey = bar.dataset.tabkey || currentExamTab;
+
+      bar.innerHTML = `
+        <div class="exam-score-stats">
+          <span>진행: ${totalAnswered}/${totalCount}</span>
+          <span class="score-badge-correct">정답 ${totalCorrect}</span>
+          <span class="score-badge-wrong">오답 ${totalWrong}</span>
+          <span>정답률 ${rate}%</span>
+        </div>
+        <button type="button" class="exam-reset-btn" onclick="resetQuizCategory('${tabKey}')">기록 초기화</button>
+      `;
+      bar.style.display = 'flex';
+    }
+
     function renderCbtQuestionList(container, questions, headerTitle) {
       if (headerTitle) {
         const h = document.createElement('div');
@@ -753,6 +798,15 @@
         return;
       }
 
+      const qIds = questions.filter(q => Array.isArray(q.options) && q.options.length > 0 && typeof q.answer === 'number').map(q => q.id);
+      
+      const scoreBar = document.createElement('div');
+      scoreBar.id = 'cbt-score-bar';
+      scoreBar.className = 'exam-score-bar';
+      scoreBar.dataset.qids = JSON.stringify(qIds);
+      scoreBar.dataset.tabkey = currentExamTab;
+      container.appendChild(scoreBar);
+
       questions.forEach(q => {
         const isChoice = Array.isArray(q.options) && q.options.length > 0;
         const isIntAns = typeof q.answer === 'number' && q.answer > 0;
@@ -763,14 +817,29 @@
         card.id = `card-${q.id}`;
         card.style.marginBottom = '16px';
 
+        const saved = quizResults[q.id];
+        const isAnswered = !!saved;
+
         let optionsHtml = '';
         if (isChoice && isIntAns) {
           optionsHtml = `<div class="ds-options-list" id="opts-${q.id}">`;
           q.options.forEach((opt, idx) => {
             const optNum = idx + 1;
             const optNumCircled = ['①', '②', '③', '④', '⑤', '⑥'][idx] || `${optNum}.`;
+            let extraClass = '';
+            let disabledAttr = '';
+
+            if (isAnswered) {
+              disabledAttr = 'disabled';
+              if (optNum === q.answer) {
+                extraClass = ' correct';
+              } else if (optNum === saved.selected && !saved.isCorrect) {
+                extraClass = ' wrong';
+              }
+            }
+
             optionsHtml += `
-              <button type="button" class="ds-opt-btn" onclick="checkDsOption(this, '${q.id}', ${optNum}, ${q.answer})">
+              <button type="button" class="ds-opt-btn${extraClass}" ${disabledAttr} onclick="checkDsOption(this, '${q.id}', ${optNum}, ${q.answer})">
                 ${optNumCircled} ${escapeHtml(opt)}
               </button>
             `;
@@ -779,6 +848,8 @@
         }
 
         const expText = q.explanation || (q.answer_letter ? `정답: ${q.answer_letter}` : (q.answer ? `정답: ${q.answer}` : ''));
+        const expDisplay = isAnswered ? 'block' : 'none';
+        const expBtnText = isAnswered ? '해설 닫기' : (isChoice ? '풀이 및 오답 분석 보기' : '모범 답안 및 해설 확인');
 
         card.innerHTML = `
           <div class="ds-q-badge-row">
@@ -789,15 +860,17 @@
           ${optionsHtml}
           <div style="margin-top: 10px;">
             <button type="button" class="ds-reveal-btn" id="btn-exp-${q.id}" onclick="toggleDsExplanation('${q.id}')">
-              ${isChoice ? '풀이 및 오답 분석 보기' : '모범 답안 및 해설 확인'}
+              ${expBtnText}
             </button>
-            <div class="ds-explanation-box" id="exp-${q.id}" style="display: none; white-space: pre-wrap;">
+            <div class="ds-explanation-box" id="exp-${q.id}" style="display: ${expDisplay}; white-space: pre-wrap;">
               ${escapeHtml(expText)}
             </div>
           </div>
         `;
         container.appendChild(card);
       });
+
+      updateScoreBar();
     }
 
     function renderDsPencilExam(container, questions) {
@@ -806,8 +879,8 @@
       h.style.borderBottom = '1px solid var(--border)';
       h.style.marginBottom = '16px';
       h.innerHTML = `
-        <div style="font-size:1.05rem; font-weight:700;">자료구조 중간고사 지필 7대 고난도 문항 (김은경 교수님)</div>
-        <div style="font-size:0.84rem; color:var(--text-muted); margin-top:4px;">손코딩, Big-O 복잡도 수학적 증명, 스택/원형큐/덱 상태 변화 추적 표 및 감점 방지 채점 기준</div>
+        <div style="font-size:1.05rem; font-weight:700;">자료구조 중간고사 지필 19대 문항 & 구름(Goorm) 12제 전수 족보 (김은경 교수님)</div>
+        <div style="font-size:0.84rem; color:var(--text-muted); margin-top:4px;">지필 핵심 7유형 + 구름 실습 12제 전수 손코딩, Big-O 증명, 스택/원형큐/덱 상태 추적 및 채점 기준</div>
       `;
       container.appendChild(h);
 
@@ -834,7 +907,7 @@
         card.innerHTML = `
           <div class="ds-q-badge-row">
             <span class="ds-q-num">문제 ${q.num}</span>
-            <span class="ds-q-type">지필고사 고난도 복합 문항</span>
+            <span class="ds-q-type">지필고사 & 구름(Goorm) 실전 문항</span>
           </div>
           <div style="font-weight: 700; font-size: 1rem; margin-bottom: 8px;">${escapeHtml(q.title)}</div>
           <div class="ds-q-text" style="white-space: pre-wrap;">${escapeHtml(q.question)}</div>
@@ -858,13 +931,13 @@
 
       if (currentExamTab === 'adv_comm') {
         const qas = (HUFS_DATA.books.adv_comm && HUFS_DATA.books.adv_comm.qa) || [];
-        renderCbtQuestionList(container, qas, '고급소통 Quiz 3 실전 모의고사 (Ch 5·6·7 15문항)');
+        renderCbtQuestionList(container, qas, '고급소통 Quiz 3 실전 모의고사 (Ch 5·6·7 25문항 전수)');
       } else if (currentExamTab === 'billy') {
         const qas = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.qa) || [];
-        renderCbtQuestionList(container, qas, 'Pathways 3 Cengage Test Bank 실전 30문항');
+        renderCbtQuestionList(container, qas, 'Pathways 3 Cengage + 10/13 빌리 교수님 강의 지목 실전 45문항');
       } else if (currentExamTab === 'knn') {
         const qas = (HUFS_DATA.books.prism3 && HUFS_DATA.books.prism3.qa) || (HUFS_DATA.books.knn_exam && HUFS_DATA.books.knn_exam.qa) || [];
-        renderCbtQuestionList(container, qas, '대학영어 2 김나나 교수님 6대 출제 유형 24문항');
+        renderCbtQuestionList(container, qas, '대학영어 2 김나나 교수님 6대 출제 유형 + Language Development 36문항');
       } else if (currentExamTab === 'ds_pencil') {
         const qas = (HUFS_DATA.books.ds_pencil && HUFS_DATA.books.ds_pencil.qa) || [];
         renderDsPencilExam(container, qas);
@@ -1113,11 +1186,20 @@
         return;
       }
 
+      const qIds = questions.filter(q => q.type === 'choice' && Array.isArray(q.options) && q.options.length > 0 && typeof q.answer === 'number').map(q => q.id);
+
       let html = '';
+      if (qIds.length > 0) {
+        html += `<div id="cbt-score-bar" class="exam-score-bar" data-qids='${JSON.stringify(qIds)}' data-tabkey="ds_quiz"></div>`;
+      }
+
       questions.forEach(q => {
         const isChoice = q.type === 'choice' && Array.isArray(q.options) && q.options.length > 0;
         const isIntAnswer = typeof q.answer === 'number';
         const typeLabel = isChoice ? '객관식' : (q.type === 'short' ? '단답·서술형' : '실습 분석');
+
+        const saved = quizResults[q.id];
+        const isAnswered = !!saved;
 
         html += `<div class="ds-question-card" id="card-${q.id}">`;
         html += `  <div class="ds-q-badge-row">`;
@@ -1131,7 +1213,19 @@
           q.options.forEach((opt, idx) => {
             const optNum = idx + 1;
             const optNumCircled = ['①', '②', '③', '④', '⑤', '⑥'][idx] || `${optNum}.`;
-            html += `    <button type="button" class="ds-opt-btn" onclick="checkDsOption(this, '${q.id}', ${optNum}, ${q.answer})">`;
+            let extraClass = '';
+            let disabledAttr = '';
+
+            if (isAnswered) {
+              disabledAttr = 'disabled';
+              if (optNum === q.answer) {
+                extraClass = ' correct';
+              } else if (optNum === saved.selected && !saved.isCorrect) {
+                extraClass = ' wrong';
+              }
+            }
+
+            html += `    <button type="button" class="ds-opt-btn${extraClass}" ${disabledAttr} onclick="checkDsOption(this, '${q.id}', ${optNum}, ${q.answer})">`;
             html += `      ${optNumCircled} ${escapeHtml(opt)}`;
             html += `    </button>`;
           });
@@ -1145,7 +1239,9 @@
           html += `  </div>`;
         }
 
-        const btnLabel = isChoice && isIntAnswer ? '해설 확인' : '정답 및 풀이 보기';
+        const btnLabel = isAnswered ? '해설 닫기' : (isChoice && isIntAnswer ? '해설 확인' : '정답 및 풀이 보기');
+        const expDisplay = isAnswered ? 'block' : 'none';
+
         html += `  <div style="margin-top: 8px;">`;
         html += `    <button type="button" class="ds-reveal-btn" id="btn-exp-${q.id}" onclick="toggleDsExplanation('${q.id}')">${btnLabel}</button>`;
         html += `  </div>`;
@@ -1161,7 +1257,7 @@
           ansDisplay = String(q.answer || '풀이 참조');
         }
 
-        html += `  <div class="ds-explanation-box" id="exp-${q.id}" style="display: none;">`;
+        html += `  <div class="ds-explanation-box" id="exp-${q.id}" style="display: ${expDisplay};">`;
         html += `    <div class="ds-ans-label">정답: ${escapeHtml(ansDisplay)}</div>`;
         if (q.explanation) {
           html += `    <div class="ds-exp-text">${escapeHtml(q.explanation)}</div>`;
@@ -1172,6 +1268,7 @@
       });
 
       container.innerHTML = html;
+      updateScoreBar();
     }
 
     function checkDsOption(btn, qId, selectedNum, correctNum) {
@@ -1184,7 +1281,8 @@
         b.classList.remove('correct', 'wrong');
       });
 
-      if (selectedNum === correctNum) {
+      const isCorrect = (selectedNum === correctNum);
+      if (isCorrect) {
         btn.classList.add('correct');
       } else {
         btn.classList.add('wrong');
@@ -1193,11 +1291,52 @@
         }
       }
 
+      // Persist grading record
+      quizResults[qId] = {
+        selected: selectedNum,
+        correct: correctNum,
+        isCorrect: isCorrect,
+        timestamp: Date.now()
+      };
+      try {
+        localStorage.setItem('studium_quiz_results', JSON.stringify(quizResults));
+      } catch (e) {}
+
+      updateScoreBar();
+
       const expBox = document.getElementById('exp-' + qId);
       if (expBox) {
         expBox.style.display = 'block';
         const expBtn = document.getElementById('btn-exp-' + qId);
         if (expBtn) expBtn.textContent = '해설 닫기';
+      }
+    }
+
+    function resetQuizCategory(categoryKey) {
+      if (!confirm('현재 탭의 문제 풀이 및 채점 기록을 초기화하시겠습니까?')) return;
+      
+      const prefixMap = {
+        'adv_comm': ['adv-q', 'adv_q'],
+        'billy': ['pw-q', 'billy-q', 'pw_q', 'billy_q'],
+        'knn': ['prism-q', 'knn-q', 'prism_q', 'knn_q'],
+        'ds_quiz': ['ds-ch']
+      };
+      
+      const prefixes = prefixMap[categoryKey] || [categoryKey];
+      Object.keys(quizResults).forEach(k => {
+        if (prefixes.some(p => k.startsWith(p))) {
+          delete quizResults[k];
+        }
+      });
+
+      try {
+        localStorage.setItem('studium_quiz_results', JSON.stringify(quizResults));
+      } catch (e) {}
+
+      if (categoryKey === 'ds_quiz') {
+        selectDsChapter(dsCurrentCh);
+      } else {
+        renderExamContent();
       }
     }
 

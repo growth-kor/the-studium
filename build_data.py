@@ -972,10 +972,10 @@ weekly_courses = [
                 "prof": "Dr. Reid McLain (원어민 교수님)",
                 "midterm_book": "Robert Bolton, People Skills (Chapters 5, 6, 7)",
                 "tasks": [
-                    {"title": "Quiz 3 대비 People Skills 5·6·7장 영한대역 원문 정독 (완비)", "done": True},
-                    {"title": "11대 반영적 경청 지침 및 경청 금지 5대 상황 원칙 체화", "done": True},
-                    {"title": "Dr. McLain 스타일 4지선다 적중 모의고사 15문항 풀이 및 오답 정리", "done": False},
-                    {"title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7% vs 93%) 및 학자 매칭 암기", "done": False}
+                    {"title": "Quiz 3 만점 족보 & People Skills 5·6·7장 영한대역 원문 정독 (완비)", "done": True},
+                    {"title": "11대 반영적 경청 지침 · Sperry 준언어 7대 감정 · 경청 금지 5대 상황 체화", "done": True},
+                    {"title": "Dr. McLain 스타일 4지선다 적중 모의고사 25문항 풀이 및 오답 정리", "done": False},
+                    {"title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7%/38%/55%, 85%) 및 학자 30카드 암기", "done": False}
                 ]
             },
             {
@@ -986,10 +986,10 @@ weekly_courses = [
                 "prof": "Billy Joseph Fitzgerald (원어민 / 성적비중 60%)",
                 "midterm_book": "Pathways 3 (Reading, Writing, and Critical Thinking)",
                 "tasks": [
-                    {"title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기", "done": True},
-                    {"title": "Reading 1 본문 3편 (What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독", "done": True},
-                    {"title": "Cengage Test Bank 실전 모의고사 30문항 풀이 및 오답 점검", "done": False},
-                    {"title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 25문장 영작 암기", "done": False}
+                    {"title": "Pathways 3 필수 78단어 (Cengage 60어휘 + p.9/18/66/116 확장 18어휘) 완벽 암기", "done": True},
+                    {"title": "10/13 현장강의 지목 포인트 (p.18 pre-, p.66 복합형용사, p.67 시제, p.116 -ive & geo-) 정독", "done": True},
+                    {"title": "Cengage + 10/13 강의 지목 실전 모의고사 45문항 (2문장 서술형 포함) 풀이", "done": False},
+                    {"title": "In-Class Writing: 5문단 비교대조 에세이 25문장 영작 & Thesis/Topic 4문장 밑줄 훈련", "done": False}
                 ]
             }
         ]
@@ -1005,10 +1005,10 @@ weekly_courses = [
                 "prof": "김나나 교수님 (KNN / 성적비중 30%)",
                 "midterm_book": "Prism Reading 3 (Unit 5 Architecture & Unit 6 Energy)",
                 "tasks": [
-                    {"title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 영한 정밀 대역 정독", "done": True},
-                    {"title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 영한 정밀 대역 정독", "done": True},
-                    {"title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리", "done": False},
-                    {"title": "서술형 번역 4문항 채점 기준표 및 지칭 대명사 추론 4문항 암기", "done": False}
+                    {"title": "Prism Reading 3 Unit 5 & Unit 6 본문 4편 영한 정밀 대역 정독 (완비)", "done": True},
+                    {"title": "10/14 강의 지목 전 분반 공통 출제 Language Development (p.100·101·118·119) 체화", "done": True},
+                    {"title": "김나나 교수님 6대 출제 유형 + 연어·격식동사 실전 모의고사 36문항 풀이", "done": False},
+                    {"title": "p.119 격식 동사 8선 (diminish, contest, consult, deliver, instigate, omit, secure, utilize) 암기", "done": False}
                 ]
             },
             {
@@ -1017,13 +1017,13 @@ weekly_courses = [
                 "time": "3~4교시 (11:00~13:00)",
                 "room": "공학관 204호",
                 "prof": "김은경 교수님 (천인국·최영규 교재)",
-                "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사)",
+                "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사 & 구름 12제)",
                 "tasks": [
-                    {"title": "중간고사 범위 1~5장 객관식/단답형 연습문제 CBT 129문항 완독", "done": False},
-                    {"title": "김은경 교수님 지필고사 대비 7대 고난도 손코딩 & 상태 추적 챌린지 풀이", "done": False},
-                    {"title": "원형 큐(MAX_QSIZE=5) 및 덱 모듈러(%) 연산 포인터 이동 정밀 추적", "done": False},
-                    {"title": "스택 기반 중위->후위 수식 변환 및 피연산자 스택 계산 과정 손추적", "done": False},
-                    {"title": "Big-O 시간 복잡도(c, n_0) 수학적 증명 및 하노이의 탑 점화식 유도", "done": False}
+                    {"title": "중간고사 범위 1~5장 핵심 연습문제 CBT 60문항 (해설 100% 완비) 완독", "done": False},
+                    {"title": "지필 19대 문항 (핵심 7유형 + 구름 실습 12제 전수) 손코딩 & 상태 추적 풀이", "done": False},
+                    {"title": "원형 큐(MAX_QSIZE=5) 및 원형 덱 시계/반시계 모듈러(%) 회전 공식 완벽 암기", "done": False},
+                    {"title": "스택 괄호 검사 3대 에러 조건 및 중위→후위 변환·계산(val1, val2 순서) 손추적", "done": False},
+                    {"title": "Big-O 시간 복잡도(c, n₀) 수학적 증명, 거듭제곱 O(log n), 하노이 탑 O(2ⁿ) 유도", "done": False}
                 ]
             },
             {
@@ -1147,7 +1147,8 @@ app_data = {
                 }
             ]
         },
-                "pathways3": json.load(open(os.path.join(BASE_PARENT, "data", "books", "pathways3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "pathways3.json")) else {},
+        "pathways3": json.load(open(os.path.join(BASE_PARENT, "data", "books", "pathways3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "pathways3.json")) else {},
+        "billy_exam": json.load(open(os.path.join(BASE_PARENT, "data", "books", "pathways3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "pathways3.json")) else {},
         "knn_exam": json.load(open(os.path.join(BASE_PARENT, "data", "books", "prism3.json"), encoding="utf-8")) if os.path.exists(os.path.join(BASE_PARENT, "data", "books", "prism3.json")) else {},
         "portrait": {
             "id": "portrait",

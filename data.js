@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "+FU1ntZcU99JY919M5pX+Q==",
-    "iv": "TyMzPU1tCOea0IfN",
-    "ciphertext": "a9vLVidXP/17AP+T9pvubGC5kniDwkA17l9HH/EOovS36R3so3da6HHjDu0EnBGsosSx6I62NOPLIULTBrpaXIo20263rtCD8Ro+Sb0Mkwg5prKrxHyWro8Ibb98pat42zXaZs3rC0spoyHPptpl8jERkyhC3gRPJADNRyYnFq/mAYK2CGgg2yTrp/WjxWT8/IVoANahN6POGcQBl+5S2EbXjg4yt+jyvWDBq/tqpmL/lBfbmvuv8pBoSaX4F3PXlldvE4P+Fgu5+iptgK7yvYp/O0b4iy3GYCniLu651ElDN/l1V/B2/pye0sjDyJATQvKrluCdbSpFnwtQSV+8a28rI9Zapn/I90FH4UNLgVZqHN7jdqxIYkfn6LB1/uhRu8feGjiJLGgnqfn0Dn2J4VDXhJtlswYNTyXjB3bd2vMMguFd5c+03GHcbskRSZvuHCsRCF9XlUTkEERJSArRSMH1SRpWMadtokA+ZvNam9oXHwSRYa70TapROaUwDQTz24lo34A5hgE/LidIqrIWBNzjK322Dvvx/QHXOl0YncjLc7o7uHb+4BqQHvaTtZlN14omYEMJqQ2ybQRC0XRSAj0HHsBTEOEbvXw3upU9eLh76xhkjhgsmqKeHUmDqQk9lpvZJnEU8lq5X2WaRCATmKNBXOFlIpprOVJrMFw9WXfEbkJGwr4yze92RmERKEmoKN+F/H86Qxr7nsAAHn0Sxqn6nxixeJl0/7DZT04M+Y45fw/v1BMbLQh3TZGQHIea+Gz+WsDkuw/Vcg4rwopgk01O2EH4Ln/8gOq8YFNbBYbQhTAixG7G7E1ni89nSE78MXj64+q1I4ZOTjpNHr5eh0bbahsOd/fqMUJmMJroptObIwbgVErnJ2QQ+vFU43F5Cmp/NzM05oEWBsvqE6rpLpvP2xjwncqxQlgvsoBqENDV8Vbag4rphVY41WsWc68aa2Ewhru2jC51+I+GlERQbKslhu0m1eqe7VW3p1DdWGg32RfntBRPieZi0D9oa5fbmTjZMjXVr8cGziF+vH8ojkomHD7/l/AU1cjtWiCK5PtTEH3MKi8dPLLNWDugZL9T+JsetlpSHkgVb2CY2MZEX3fHcxAvGE6GpCV2XKG1wQFED6oBrwfF+5/GvbMvvj0faAH0UANemaJTg02pf+s7wYG9rTHCoEkWk7gFGhaY275oN2L6SJFECKPsaOR8CHfSkZZqOUL9jllVQimrEw8r1Au+OykGlkAlk31Sfz7xFwMV8K8y/MCQeepnX4rBfMTPBUN8KYL5bld87UlhpNpeyWII4YJDh1fSCxCI6aikzEh6mhXcIQWcs1VQVsHQd1DfhSv2VGt+AsXGBvXBKn6BLxHbGr4wmQGCSszrxQNo0m02ZzupTJGP2moHTEn86BdkhC+m9wqRnM9AliBsvoKn9/hi53TiYn1h70dz0j/z6DYuG8Y78YM4JFCj3IKENea7Dj6ys9K8bSJZowIQeHMQKCAxYrDFOIepmIcmJxlxNTgOYCHsbTP3T66enBr06aOAnzv4LV8VSB8337T0COV0Hi6TBbtedzwG8qOe11FYdZY6izDyApM8Ams1fSLNsVyYzzCQYJ6cnhFPD7zVPucmwQ9g3ts9IFgEPDJkkZ0iZFxtrJv2tkIPvVhfsvKUgzYek8pdOlViGnqxNu/uyJ+zeTGIbTdUX8BagB5Gqo+CTEuj+qZ9HpQtX+IbezdHu9wFVZsomH6889WIDeFb2f0Z+NaG9+dOProOWM4aH83XDiAmOKyOr4t7apuZwuXkpqXXo6oR0pabj3jq5hedwThPbxsqKet39dPefwqrhp/0ocGFzwgx0aafyv88pW61t+b3tkgnTOk6DJaWPhpLVEYeduvri0PveG3N5W24e5wtJWKefNrLy+/2T0oHSfyPTtZ7VEn2bBlJ9ppWvLuhzXnp0BAuvJoy2o8jLUUL85pHrqEUQsCUOTAzvOVC2a0IXazDTUKLRr03HU+9NVnn5dZre1arMyP3yYQGoxdI1lIstfOzArU34FvQ//IAQhl1mugbEwSUB1Ul8IMwQAbpg1j/uBqr7ositIQ2Y4RNEl7DmXfKYL40opOwZvuZRlYC7+AVnc78kAqKt/6VwXyGRyrjBwMzyMO3PNNCXl9S95mo+GCeC1JDYM8U8fTCz97n5QKiqLDr/vQf2g+YlhzW//ytcOpIVNW7Wr4/TrEGF2RN/fjMbL3StPCLgEjYtLmRtHelrb8JPe4Wxw9TiqNQbugFNSuE2u4M/Qv58DyVhxCcNhwzmCdgKbeKBEzAi72ugBIk2HInxG67jsLF5ywcdEGuIhtpwRQww0lSjWUqpZ2ATKdV6SUSU1G3kIhotYiekMZezhqysxXxBTJhMo8llH7mwwhtGnpSd/ap3l93pbUM8HNio3MVoodF5sV1vjhR+7YdhjjY+d8z9IdYgsbm8WTQhp0lPpvNIgHJC0ew7+pNGmB9Ow4h5NpPrm5fnwA8FsVsKWVR2FjIw+sC1inLeMRtcj/EFqKMCQHhYDveA8UruE+RHw19BZmDj+vRoJ/0/aMETcAlzYex+FqnxUabIxY/XBaV+3GB8yAxm6qlw4WjXE07Cqpoz81rbkIFAL+MjiYB4DSXl0vgg+nh225hyGIfHnwUDCMN5QMJ5wMKyehPMCB6WOmfpNgvw1QknOnJAXfsGHCXZVCLv79HM087SXsKPJuZ7pbMMVHEixMn5ZjaLrUN9ptUz0vhCZOBVZ0dREdiH7y83fD/WCXmI6Qk24KAmaioZBaG3+f5bJ0Nc/J8Dgv6WXoruCijL82bjHJxCVlOTbO6RHeBwkXP52VS/kY+TCyh4SP5HQD2fc1PxLt/6HXmdo+NFKcvxvstETle64B6hFXaRkacB9cEG9pwM2cWChumarz99yNwF9eXp7M4F2ajS0rgd4/1++Q33UtRmjVsLdDLm0JJq2QhptiHfj0eHnPELGnqMkHmeorTnpLeyNogPvmYY06/hBQlmXRfi2qR0NFXBSX91/3tJUILzBZS6eazUGf0QNGoY2ZjfzOKWa1R6OAA/D+Cil+zZOppSMVMS7VD4JKAES2b6RscKi1cYDATiQaLDndXa7HX4C551rhpDVGENwEIOaqKidiB9E2fxh7ojgQP1aZ0Wq5oydHodflpMxVVord+Le1jwuztMbzksALXZlGBZMS1VdnliGjcU3jepFaI1KN4uSsHmMGAkByeF8rU/Wnacugu5GuKHkJY1BmW/luyrpG/DQupXH7aTUtlrEG3vQjzEZ2CcSJ72OLSABizRvhol4XLEJHWy+6sx+fiY6DtQ+yWd4vjBQg5/goK8Ru3DhlHXLrPfFzyq8VtwSr0r9OHsSbK+ttZqEIdm3IV30AMFXn8uyh+Fc/yAQc7Sey/uYos+D6CEkaR/bQV6WUxqsNbjNcKBzkId1B9djkeBF+feQP5gMbVlUe/msdXeEjmxM6Tthxi4JMeMbxAoRe0tdCpddCY6r5gCjzdbQvIMNOUFiE+LMSs8AwvJ5bfXiBry3l3tMICgvIwf1xMQawsQ80hz37lnkmuKIQoYG4C6YvuiiNpADThcIEQs3+rmHw86WZxlnE8L/xDMi0phyJ/BP8KaIUGEGXbRalFMzr0IMEwGjjKcCWg9dx7qkJfSR4hAubpTGDn7PNF7mZkSKlCHxZ/QYbqvlzsKmWAhp/2tpAEvlEg6SkifT2e/6ynuw6Psoz/cK++6oJSGkfcGrpPt8ax98NCljdBmZRzClzsYbqvDN2cwc3KL9pdQB5eNSFvDtX4f6VPQmIaxCJm6hrDijPTGchLROzflaLnElZyIGxZz0YQHNHm9UtuNQxU7+YbYYNIfveYjRFm2NzvXd8D5dTAX99bc+cmE587i/SMKXa2kQ6y2w2wIAnnZ3sPnmvddMEMN4TABUBPjzeWbrxU/akVF6zi2IoxkUNYqCLKZVffSAFpXxOWHSdgxVkBT2e8g+RqQHfczKuslDU/+UBneHwQqUVkrhI7Il5ylnxOymqAcqpvfvJZS4nr2YKS4+PZ2pBSYbxZzliemK7Jhq5mWKBlrcGc/LkHq9Sl3062KAHu08nbMr8g6mjA5biSyTs4gIMYrlU76GY7NEd/t4GAG9Ya7C0zKgntdYK5TzxXR+zJT/XsgArqs5pxM0w2K1duN3sCBqi/n5ikTBof6yytcjhGxIQTc5q67IMs5PoewiXfAaBBXtFWi685L0CZQaljKLcf+nUJ3dcJiTVzuQmaskTL2/1i3X/bLLkXwPNVVsVJsD4leuODdpGpYnBDMgMH51lAF3Fj2xXmvYcCBVvLeh7EqcKxaeCHBO1D+axtBpndbWrbasKsRnl40I5I45SwriKiCiiFCd88ALhEi2GLkA5iCkWO2SJ9kMJR79tkJD7a3BWJvauW/2dEMIgoHPMw29bNBc0uG+lWAEydd+dZOcmw/2hgQHr8y0aSwkrzy25OELWKhiHvjHAZql4lYgTVnwl8FcyoFrNZq35EkZdmdXWLRVzlDhzyVSpX5pSTBvE8fnD1ALt7u4vmtc89NYFUva+RS/g3OGI8/1t+vPDMOBBHZUHnrPL0aGDbYfr7p5thfZPG9AbVYy1yDShab0iND4o/xD4l/5OqfEEXMShqAfXSEG6HmXMWnpkBvly5zEeGy/78AsuMp7nvvmOlPBZP37iiHk1t31pE9uxv+6kA71LXWE18JBDc6u7ZTgPcJcXozeCTbakl29BNhdbYw9eVISyeGnIegmoZ+nTfeO0VtqxQ56h2Ip86/fW94CvriIJ6oVOTHTTxVgasMB0Js1BO8RUNF7+DnQ9IcVeQgpo8IwIfLltd3DBruxhIg0dVL1YcKeqKRCJkU0WdFCLURjXd8+biCcwPiSMkfd+OGTGnbL5PVlhn0ejh+QVxlWcGGJireATPOEi63nPIZEciALNNQs0su/pvT7Jw21knBwK37wTr/a2nCafX+askXpVC9bZ7m1GNk7ndXXM93alWUlbliFM8ZcUahrq20YKcSpyJ1159xBE/OD1r9XaOHhloFAVA++eY0gwXC0I6X2RUkvU12/zzswPxxpmWZW9wdIr1j6pM3a0NaQJZIsnFs8nFstB5Ql+BthCQOgQCSWRwbrZeg9vTCzwvazklIfn+xUoVdmun3lW4Ln4wxVBDuMc6CI2gbi7h+ixd3pBmb6HM+4qfawbyj9FtayMdurRS6rFBuJ0Q++9hu3Bbw14vD0AR25QscrzHJO+/fzamsECiAcZrajbgKJhyRhOEAYklepIimnFxgI76FwOhuher/7kTo0NNmqQPMC3UWp686qYwAkGT7Ggh9jJ6IL4ki6337FuHr8NNG3MO6XvExyVJjuaDpcvDhZCiJjDbnLwKw2UsOtw/sMvzyprG0FvyjeunbiEF4EW0iRyL842BzYfotXFFKVlutR8JEdDuZR053Cj5YY1ETgbIxIqbPsye10JWXjP8Y3ortxMZAYjizdfe4xhMPpudolSPKcVWiht4ypz9haIzt7R6O/c4JLuChL//5CbgMHC5AT4u/hRoakfZ7kxFlvg961XKGeQh2aKV7+DqUBV1OoMUVc0tUhfbh0lHSCik+Iex0Hplno/ZusCjsqyhprEi2HeTYO/5XL5dd2jggFLgQor572q8Khp0ghlpGxDsO2AREj9iCXqMRPCCVv7xSA782OVwBP5zc6B7RI3CfxIy15BdEOx3M/E9GnfPbZpiryuRpdfQs7Jj045WvBj789oLpo6m8HYkWBgSZ15k0xEAoiqK+JeBrrKRcGgnRBk0kZnQs4bR1bfhJ10LVZ3vgt1PKWX+fYyNYZM/BImCFLYD0fKshaf0rgY5jVSbM/uYWv1A90+kLPndTKszQNLCE7X1yrqVE4R+Kni3kNnFxGqfKT9TRkjctUXwoNAPxTscA6da/ZXvBOw6QHCUDnMwUtTxd8sway23nwC5VgTtPNYsGQKRnnX3738NmUuJnGKYWVldt0aKfCXXixPpsU0VSlzjW9gSV7Dx24UEP/fi+QL4oqU5C7FWNkqI4M0zd+BMO+Wms5oWtGn+WlQfUu+NyJHVWo74WFN748/GayPa1WGSzitgBcZkYzFmrDAONl8OwB3KrjmLdQAazm2qcBxOXpzbcaQyviXMlUabAvhYYv2c"
+    "salt": "spbHmpJRLUbo815zzYl5Cw==",
+    "iv": "iwIBsIobNoNPICZd",
+    "ciphertext": "KVcawKyBGQ0kWwzmsgW/n2+kMHECuEXfg8mjmjnZc/NLJFbZYO2HmMhVPvqh4HKnm4OWMDMS4IhI22JriNUG2/3R+ojpuZN/msoyAw/SOh7QwoEhWiWiZTj6zdV3qX3W2PUzwLQBegNW7FUgjesWaCaHKbqnmIJ8C8s6/LZuy/OvVqVY9Ee9qM2hbNr6Ec4PQcYM0HQiVl/EmlB0k5NwzbGYM5fnDl0yeMEQF5SW6q2R/hqxpjCiDPPe2h4QCRtAMWv55JkDiMQYOHkgGBZEN10OmUmmtm+1/w+2Xbkvh48a+wQiSM1MU5lTAm33RT7c7RNqne44+aCQCpq7oQfmptLTmUVFr1wYIuB1uvrC+yvOzFOWcdNUL4ZaJ+rK5AzJSFZt4CopGrwJLofe5T74C1xpvKF+1fZqin5EUIY1p/hmlwlNODQHniY2UQRYxiRQYCdrN1A+2PAQa/ke9cq8FHEK+Hb7Vv2J0YMKEBfX/mxC2CKOwLbOaXG2F7RkDMfwRpvdZaWhNywftRZ7C2fYPNvp4YjQXvjdtlhmfpsiNLtojKnlNVEQ5v+K/Tydzu4UIrenHEmHjL+fEutoR41ZXMdqTxbLZFlWJM17NhJVqLJniy4uju90CaAsLmvGHNJNP1PnSvLPFsC5s5a+kxafT4XvJD/I5OCV5wws6RDosWXYVNI20AAFZilYsdiL1opv3pIruZLoenIXLt31h+grslSRBv/CoLMsoaPL395pekUyEJUhc/pUpqI3rbI3bwISM8RdgRO/d6o8H73BVaOV8bhXgi6NDSnkP3uSIuhtRIF3pEUXAN5sY2j33tGgG9De23nlUPCDU9ZLs3gR3nP78njQ7rr+q8RrwFjYA4yA1kLPBzX8Q0ZMtQakz0R4V7k4KjiMntNfpoT0F9obeiP8ceI6+qfHD4OfbFAZy7SAumO1sXMQv2wmIVCtPVH+3oGGEvJWBWs1oUh/6AkuLKQK5bztGAIo0vqOAVwNJt9vNYRKJAyDHMz/90cWKxWTKE+sZ85qrLVgixjrZLmwG2RO9gc80xLQmkjPxxM8jlVktPyq7NzklravDqlojhmVtEpZ/oZUr3SiMHXEhG7Y4QWLL6s8reXCsc3mvtujMw8Bnc8+wdJfjwXa1seILx+J/06lCgRwUGWum9R8oxHXynUvR5qFIAsiEPJNf9RfUWk77gBDTKW7avcooKu5dzrM6hyeg27d4zImL9g9AfiG6T1tJQqF7dZ1iKfr0mFjjShMKxKNA4zbI9jdnb/v+Z1yVfe+hydGbXNyRY3GKJCa4OZGeyBRGnygriMSuxl/jgB9b5kp8+mQEYkCR9UPS09ARMPdTMlJ1Ievh4dyOHwcGaylpeP6Cbef59yAk3UqoRPtqTlxB3/1Ft33iol5aNrqDsmu/uvjV5a9xkmd4hZqU8O/l/5FucHug9S1lLhDlQla2PNeMA0jr8vXxwfzYd+DCjBoOKwgYGAn5G7zj7BaeFgUImP63DcyYJLP8JYTSwk+QpkS/G1RVZsXuuPcUpGRyu7+tlRa4WPgll/1FI8AUc/4oooUgQM3X85v2eUkYKcZUOxEoxyPzUZMk4m4gViH/vu4nZI/mU7KJw2oi6SDuHEpazVpUi50SzeFwP7+ulUZ9vslv7104tU6UJ5eXyhWv953EJDpC0CrcK0pwODML6DjBxdKRTp4KeYErrKXU9F9tJkBrcqnBgC8pOT8z48UsacliH6QHgegHanENro5pC0JqH/20cpVThQujqpTj3yeSospxsGrdJ5vL/rluDN9VOIdyJb7XWYr6yt7sipdw0fEjTUhnGpMu9ZryJrJ3dx4iPK4mrr4NO9mdwId2cNWs591luGdWtQZD7DriwCHuO4Ro1B3bo9nBonxU1R8uyOVxZNyb1r65xtLWuTiFgl0f/cOZ85z3Qo3M7Lrj2Y3kIXWnXjTK3QTWkxtZVWuABwgmee4jZguq5DexDgOkrbm41rwdjEglYZyjZg+tqOw324kGUk3i6nfScYTzslOPCR15oaS7tvk6wibwN0pElpQ0hr5NwucsObJB4amwZWQ6A/bqdU2hroxQFb94d8LUgCXs3IQPcJQf4JIdYGu89tdqvRWVymQzF1N4xYSs3Upjk5uJKiqV+RH9NiZMzldteUp/fMGZsBbhN1vLfMQJ2IO8DWmq3fjwhAvTYPZdATUV3Nir4aap2b6gL95eGReo558FRWe6fcq28EyzF3QE2IfynneQzsm6bMxy6OLPjjQmhWHPqEeEXTSTMtQTWmp5l1gaxFaj0UEhxrnosqAvfa7T4A63ObC5xrcNczSNGbqZFLB3fxL0+zNZhR/BJhK8YwqGpKRFIIjoVJlvqcLGhkDt/z46xuSF2VXfXZIcLq4lYHUZwVMC6BE8iz6gWze9ggt37GOwp0qUl+R0doTqrv73JAVZVLMTtJk14K26cNKnMJujiqHIUfadQ6tBzpIK5dKCnRxf4ZFrElqVPpHxgbllxwG3oUNHqEyqLJI+SWRU2VrIdy4/1PwkNkoc05p3ynzGCZlUNe0is2eGZEoNWXVicq3tZoPbz2Yb0PVl0pWbTKjlKSZIOLqCPb/b7AVbsXz+ZUOcftqj/FQC6HTz7rGcx5wpDM7gkJGhP8B1ZYjwva0GcJP3VqqbgoQW2qSRNzfp/qsL8h8ZnkPHXCW6rl3Q+njPmCfufHFCU3f1zsZ9UGXdB9V4J8BQBdvVkMLfv0BGXStYxVFYKnqw2L6ZJENMy1QrA1Rtu7eka8uWM3gL62OOPYdCfrd5GWOx9y76T1FrBudAwe/gnzsp3wod5oiYIo7OsQUfj+8g7PVkFT4VT43/srQpNOf/UbBX/iAb1yg8F45BQbplFcK1i6Ft2T14Uqxrz1EAuIm2ufFoku4TR6oMib69G/xxG2wdGiMLS3NScwFfxYK/j1sQNCDBPFcoE8OsbbDTzoYoYQGPD0BcvCDnfshAsJPh9fSABryTYl2NQVDOWRxADZ2ObYPZm7WXGj4mDE6yfydxWd+9vW24j39L86UCYpbf8FnFQ9hKv8XYxCS3QbZfzvtOygBm5HNDkpVFH67JRFNZFhPR1IMcWjciP/QuR5e9XNDVZckdUU2+vvOUEl5anHtLlPCaEbuWceq0HTgdbnFhw2aB37cOhA3oQa62DMhcLoFeYKwqQ9j7BVSA1cl2h4/HN+/N+Hfi5pEfQthy3wuv4bMYh+3VW8n4UBxYOfAgTJg5vQ1gaq9C8nMD5dAoCrez9/6t3iJhUkjM9FzLHtD6LjVbrORu9Psm2UnH2QFj/sOCKeu7yvMhs5ckbO9E0eYoFRvD804a8Gb5CBRle7kNRXM1MpBYgQWKt8GJrASxgczmO1YXM1swzGh+Pay+3GC+Rb6fMjs8PXfq+B2dZFvc+wa71cJl09pTr8OPm9xScKyM9OzZTX+5NPMt+KHcsgvVVEu7XEOhep8jIJ7zsHVUCUQouSHh1JBKSG32vrhWtC7Ha0PnsgeBU1iPGCrtsJqZ0eJUw0USCIhIe085hpITwaJ9JD2dSt7mYIQjcwMJNwRWaJRIuIhQvqu0LYTdCBNhhX5b1pMOIFYLLLQo9MSNAlx9W2IzNMderRea58M9NkTZ/A9FUHiWuPfMX9SC/vxu9sTd5cX37jWfzxpqa90tuqAvnLDMcfmw0TJkg+AHeHqupsNv4w6AfO1o5fdBSyV8bubW4YZ+1w+DHsWKJUSM7FPnUgBLfvI1rS1Ncg3aAWupV6jDLbOy55Onui97+/GDxRBpt9+/TxMMCQHJJreeyH0iwVVNwEx7keDvswJM6l0qC+pqXIPm8eQdDhNTevRskbV0qp9LgjN/O6rONTVE7OeuoI32rqSVaIHXOSVAoqZu3110wvzT5rgafY7tHPy5gEAK4xw5xoQdeT6tNGMt2/DdBinWFI4fM204vyDjIWZ6ir8kqFISFDDUekwuhkHv86BZkVdmOqpRhRePoHu7ywx0ZLhfqur5vuDp0N/JT8uhwQAGDvV/ywj7wVoCt6quTL+cAp3gydgQtE5u8fMhrH8Qf6+YgVIFQhKk0ZE9mhPFON2XrjzGFMbEN9C/Y+JsvdUd9v0XNh74AVHtoAGaksAzCgvfD/OnSffKjzYk4XXP9cKLUOl3IBoEDsrhEQ/PbJeGfSRBGB8h4r0sGx4suH4CdL4VEca2cXLddeywPe5xnIx91xHr54xSBoOTlHOTut2A+gjruvL8C9s6YLw9QH+VsJyaKM9WUnbGPd3QsMEr6lAY8DnCFc9ZppmU7Cbsj6XPo37ZWZw6YkSAkxRNcHrGETwlj+8kip0+uF9eoB1mAJITAkk1n1zSQ55N1JQ8sDAJwDTqdc4boE3qz/r26xtdkFVjVsrmLeHin7Bj59wGM2PPLNjkegaBAPc7kqMSiVv6JrEVj0t97Vz5DL2Cex1jfTk8MNLZFqOjx+aJKfcApdTCgmTHA3jZXK7nqHRd7XgWIhgN/0/VrCT49nLCZuarj0LD1/9tRjwjoK1K2pvdra6SZ7/GrgZAlwLvRIRiLqp13etCf74rxxP0TmRJVNEMbyWyCjdCiGaY3hW6DP7BqsWrrTLuc3I1RylmNgSD3KyvFw5SAis6/3n7unTfkOi8rQ8nNhFS9+PoxNr04++CTEjdiCeoBKGJgduO3BUaMlZk8bXvT4h78cLPJCjrlfs1Bpn/lWNdMHVJzbJ0bFVrBKSDDoKsb0lbcL6/j+257+QQ/TiMzGd4/M/WDGvXLTcZsQ6hGd7WhP/3GCgPNrNY/yUpcwO5rq/Rpee4OOWg+Ve0KudG092pRFwcdVus+gKXT5goilfAY1bhL9862nip8TFRpc8GpM0WFos47FBwntWpYEcl++LMtUwiXyArUlyc0ZmnCHOX7WFwxu6o1MBH9BuFt1QhNPU9Tn/6X3dHI2xIrJf+5RhWzXVDnpPhV2MkqlUvvDsqiR7QGBf9aDZ9p1pPOV+cBPVtIW87llb0CkCExiSrgpYRzd1oj4nUfbTCvDJovjELAFUSreCOLvtpo/GKfHU6L3J4C4qyKZ9ybGXPwKypUaL9VI6B/KeMTDSBiYdzKpbciKApHXV8vYa9+/2A2T+qd8I1+pN2KZLLRPg0Bn+H5CW+kiFM6PturYWUkpX4hKsWw5nLePxA6cI9tN96aE8CVW85HhibfRFkP4w5W3ehFsJ4HlsNoO+kTbhxa/ebAwsvHg/cAhKQPH+oLamrIAMBFyH1LU+wlk+ePVziz6n0yxjuf3wxv/5Op6TSlY6f7caRHU5rvloKWSGjdnKbRZhkHnswa8ksi0NUsubeqVC7S7e4n2T507DhLzfJqsRgg3kSEDc+0udcuYdiczRrQ4L8GqkSpretR1uCmj+2Vv19bwnw7EVjIPHLzebqpvzUV4/waS3b8ckMbHb+dM4UEDdOk60BXM6xNbSVmpa3qEH8+BjXLUd96MkXB1G2c78JsIu3Knxix+BUjQHjNc63eA0/FXg9evofBXF/eYpk4NEEuNKISn4ehAfAdTTGWC6yOB3tp2VTP0k9Yo4f61VcuIQC50DSTDBah2TfOGzQLQE9acNsc8MIp5eMxvkNmhh5Z9tOi071rJgUqm2U4l8OQwGQKgDQ4l/9k7ptf79+Z7cD8YQKpWPPpIkUOz2UBkTtm+RdTX/QVG10ifiCRyhuJdCHAg4pbEa/f2HQwYFw8rLSUuadqmYhwobdQoiXTrMaDmr/kXIiBTzYU0GfZ59yKsUBtBrHOUYqxohRjTBqIfSzXo8z3BYM5nMf/oFStlu1gRavmhNvN3kKaL3U+VMn/nzkC2aPtBOFzqIzGnHysA8MFcFMTwA8qxwbsSwFIVc78al4+yvcopnCeWzDu/jNoh2UiCpp5VUhumJLFO7DGDkwADcpS4C0ESHejqclPhhu/wOQnOdAzblWdtweufxl8blCGwUrETMiga0FjQsYLPNnf8Itdv+P01zWODHGm0fMzqAGxO2jzOhP4LtO+41MaHeh/++MaxQbK5GMP9OBf8AeUPbP1lmHlLgukZZSxjG0NFHNS79U3PUY/WXLhRhVwcOlqaVJDNmrrE63R+swHK6kynWgT+RSAWRiDibc6Pq/wBni+evuCWZ+M1sDnoz7nQ7PfJmfN0Ov+IoQApFDNzrfqOTWmLwKq3hwQJ+dSI4NMmgpzRC0EV0g0AocHUS/HdSkOvyvm5WYWx5zXodGuC4DMtLlBmH8USucY3xl8JDpnsaP4NX5Acj2oECdH6nXW06gCbaXWOIZ5Q30+e6cXLH5RzGujs2THK5C1YSqm1afr31J7TCKmgjcM4yNW95Ihho3ar650N9ozLCsP/PeFb6/1KG2v6Pu5c+ZrS5KzDINSu3nE6Z8U1FJAF71WQ9VCerMkrKaFnA1O0="
   },
   "weekly_courses": [
     {
@@ -68,19 +68,19 @@ var HUFS_DATA = {
           "midterm_book": "Robert Bolton, People Skills (Chapters 5, 6, 7)",
           "tasks": [
             {
-              "title": "Quiz 3 대비 People Skills 5·6·7장 영한대역 원문 정독 (완비)",
+              "title": "Quiz 3 만점 족보 & People Skills 5·6·7장 영한대역 원문 정독 (완비)",
               "done": true
             },
             {
-              "title": "11대 반영적 경청 지침 및 경청 금지 5대 상황 원칙 체화",
+              "title": "11대 반영적 경청 지침 · Sperry 준언어 7대 감정 · 경청 금지 5대 상황 체화",
               "done": true
             },
             {
-              "title": "Dr. McLain 스타일 4지선다 적중 모의고사 15문항 풀이 및 오답 정리",
+              "title": "Dr. McLain 스타일 4지선다 적중 모의고사 25문항 풀이 및 오답 정리",
               "done": false
             },
             {
-              "title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7% vs 93%) 및 학자 매칭 암기",
+              "title": "핵심 통계 수치 (125wpm, 35% vs 65%, 7%/38%/55%, 85%) 및 학자 30카드 암기",
               "done": false
             }
           ]
@@ -94,19 +94,19 @@ var HUFS_DATA = {
           "midterm_book": "Pathways 3 (Reading, Writing, and Critical Thinking)",
           "tasks": [
             {
-              "title": "Pathways 3 Unit 1, 3, 5 Target Words 60종 Cengage 영영 정의 완벽 암기",
+              "title": "Pathways 3 필수 78단어 (Cengage 60어휘 + p.9/18/66/116 확장 18어휘) 완벽 암기",
               "done": true
             },
             {
-              "title": "Reading 1 본문 3편 (What Are They Thinking?, Living on an Urban Planet, The New Face of Tourism) 정독",
+              "title": "10/13 현장강의 지목 포인트 (p.18 pre-, p.66 복합형용사, p.67 시제, p.116 -ive & geo-) 정독",
               "done": true
             },
             {
-              "title": "Cengage Test Bank 실전 모의고사 30문항 풀이 및 오답 점검",
+              "title": "Cengage + 10/13 강의 지목 실전 모의고사 45문항 (2문장 서술형 포함) 풀이",
               "done": false
             },
             {
-              "title": "In-Class Writing: 5문단 비교대조 에세이 Outline 및 25문장 영작 암기",
+              "title": "In-Class Writing: 5문단 비교대조 에세이 25문장 영작 & Thesis/Topic 4문장 밑줄 훈련",
               "done": false
             }
           ]
@@ -125,19 +125,19 @@ var HUFS_DATA = {
           "midterm_book": "Prism Reading 3 (Unit 5 Architecture & Unit 6 Energy)",
           "tasks": [
             {
-              "title": "Prism Reading 3 Unit 5 (Architecture) Reading 1 & 2 원문 및 영한 정밀 대역 정독",
+              "title": "Prism Reading 3 Unit 5 & Unit 6 본문 4편 영한 정밀 대역 정독 (완비)",
               "done": true
             },
             {
-              "title": "Prism Reading 3 Unit 6 (Energy) Reading 1 & 2 원문 및 영한 정밀 대역 정독",
+              "title": "10/14 강의 지목 전 분반 공통 출제 Language Development (p.100·101·118·119) 체화",
               "done": true
             },
             {
-              "title": "김나나 교수님 6대 출제 유형 고난도 실전 모의고사 24문항 풀이 및 오답 정리",
+              "title": "김나나 교수님 6대 출제 유형 + 연어·격식동사 실전 모의고사 36문항 풀이",
               "done": false
             },
             {
-              "title": "서술형 번역 4문항 채점 기준표 및 지칭 대명사 추론 4문항 암기",
+              "title": "p.119 격식 동사 8선 (diminish, contest, consult, deliver, instigate, omit, secure, utilize) 암기",
               "done": false
             }
           ]
@@ -148,26 +148,26 @@ var HUFS_DATA = {
           "time": "3~4교시 (11:00~13:00)",
           "room": "공학관 204호",
           "prof": "김은경 교수님 (천인국·최영규 교재)",
-          "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사)",
+          "midterm_book": "파이썬으로 쉽게 풀어쓴 자료구조 1~5장 (지필고사 & 구름 12제)",
           "tasks": [
             {
-              "title": "중간고사 범위 1~5장 객관식/단답형 연습문제 CBT 129문항 완독",
+              "title": "중간고사 범위 1~5장 핵심 연습문제 CBT 60문항 (해설 100% 완비) 완독",
               "done": false
             },
             {
-              "title": "김은경 교수님 지필고사 대비 7대 고난도 손코딩 & 상태 추적 챌린지 풀이",
+              "title": "지필 19대 문항 (핵심 7유형 + 구름 실습 12제 전수) 손코딩 & 상태 추적 풀이",
               "done": false
             },
             {
-              "title": "원형 큐(MAX_QSIZE=5) 및 덱 모듈러(%) 연산 포인터 이동 정밀 추적",
+              "title": "원형 큐(MAX_QSIZE=5) 및 원형 덱 시계/반시계 모듈러(%) 회전 공식 완벽 암기",
               "done": false
             },
             {
-              "title": "스택 기반 중위->후위 수식 변환 및 피연산자 스택 계산 과정 손추적",
+              "title": "스택 괄호 검사 3대 에러 조건 및 중위→후위 변환·계산(val1, val2 순서) 손추적",
               "done": false
             },
             {
-              "title": "Big-O 시간 복잡도(c, n_0) 수학적 증명 및 하노이의 탑 점화식 유도",
+              "title": "Big-O 시간 복잡도(c, n₀) 수학적 증명, 거듭제곱 O(log n), 하노이 탑 O(2ⁿ) 유도",
               "done": false
             }
           ]
@@ -209,6 +209,38 @@ var HUFS_DATA = {
       "author": "Robert Bolton",
       "category": "고급소통 (Dr. Reid McLain)",
       "sections": [
+        {
+          "id": 0,
+          "title": "★ Quiz 3 만점 핵심 족보 (통계·학자·준언어·11대 수칙 총정리)",
+          "short_title": "★ 만점 족보",
+          "sentences": [
+            {
+              "zh": "[1] 핵심 통계 수치 완벽 암기 (Listening & Nonverbal Statistics)",
+              "py": "Ch 5 · Ch 6 · Ch 7 숫자 함정 1순위",
+              "kr": "• 깨어 있는 시간 중 소통(Communication) 비율: 70% (미국인 기준 80%)\n• 소통 시간의 4대 영역 비중: 듣기(Listening) 45% > 말하기(Speaking) 30% > 읽기(Reading) 16% > 쓰기(Writing) 9%\n• Ray Birdwhistell 대면 소통 비중: 언어적(Verbal) 35% vs 비언어적(Nonverbal) 65%\n• Albert Mehrabian 감정·태도 전달 공식: 언어(Words) 7% + 음성·어조(Vocal/Paralanguage) 38% + 표정·신체(Facial/Bodily) 55% = 비언어 총 93%\n• 눈(Eyes)을 통한 비언어 정보 수용 비율: 전체 감각 정보의 85%\n• 평균 말하기 속도 vs 사고 속도: 말하기 125 wpm (분당 125단어) vs 인간의 사고(Thinking) 속도는 그 수배에 달해 시간차(Time lag) 발생\n• Ralph Nichols 기억 잔존율: 직후 50% 기억 → 48시간(2개월) 후 25%만 잔존"
+            },
+            {
+              "zh": "[2] 학자 및 핵심 이론 1:1 매칭 (Scholars & Core Concepts)",
+              "py": "Dr. Reid McLain 교수님 최빈출 학자 매칭",
+              "kr": "• Paul Cameron: 인간의 의식적 성찰(내면의 생각) 중 실제 입 밖으로 발화되는 비율은 극히 일부에 불과함을 증명한 심리학자\n• Ralph Nichols (미네소타대): 경청 연구의 아버지, 직후 50% / 2일 후 25%만 기억한다는 실증 연구 및 경청 나쁜 습관 규명\n• Ray Birdwhistell: 키네식스(Kinesics, 신체언어학) 창시자, 대면 대화에서 언어 35% vs 비언어 65% 규명\n• Albert Mehrabian: 감정 불일치 시 7% - 38% - 55% 법칙 정립 (언어와 비언어가 충돌하면 사람은 무조건 비언어를 신뢰함)\n• Bandler & Grinder: 모든 인간 소통과 신체 움직임은 무작위가 아니라 고도로 구조화된 '규칙 지배적 행동(Rule-governed behavior)'이라고 정의\n• Carl Rogers: 인간중심 상담의 창시자, 공감적·반영적 경청(Reflective Listening)이 상대의 방어기제를 낮추고 성장을 돕는 핵심임을 정립\n• Eugene Gendlin: 내면의 모호한 신체적·감정적 느낌에 주의를 집중하여 언어로 명확화하는 '초점 맞추기(Focusing)' 이론 창시\n• John Powell: 경청하지 않는 이유와 인간관계의 자기개방·방어기제 분석\n• Søren Kierkegaard: 진정한 도움은 내가 아는 곳이 아니라 '상대방이 현재 서 있는 자리(Where the other person is)'에서 출발해야 한다고 역설\n• Dr. Len Sperry: 목소리의 고저(Pitch), 크기(Volume), 속도(Rate) 조합에 따른 7대 감정 준언어(Paralanguage) 분석표 제시"
+            },
+            {
+              "zh": "[3] Dr. Len Sperry 준언어(Paralanguage) 7대 감정 매칭표",
+              "py": "Ch 6 Table 6-1 · 목소리 크기(Volume) · 높낮이(Pitch) · 속도(Rate)",
+              "kr": "1. 애정 (Affection): 부드럽고 낮음 (Soft) / 낮음 (Low) / 느림 (Slow) / 규칙적 리듬\n2. 분노 (Anger): 큼 (Loud) / 높음 (High) / 빠름 (Fast) / 불규칙한 억양\n3. 지루함 (Boredom): 보통~작음 (Moderate to low) / 보통~낮음 (Moderate to low) / 다소 느림 (Moderately slow) / 단조로운 모노톤(Monotone)\n4. 쾌활함·기쁨 (Cheerfulness): 다소 높음 (Moderately high) / 다소 높음 (Moderately high) / 다소 빠름 (Moderately fast) / 규칙적 오르내림\n5. 조바심·성급함 (Impatience): 보통 (Normal) / 정상~다소 높음 (Normal to moderately high) / 다소 빠름 (Moderately fast)\n6. 기쁨·환희 (Joy): 큼 (Loud) / 높음 (High) / 빠름 (Fast)\n7. 슬픔 (Sadness): 작고 부드러움 (Soft) / 낮음 (Low) / 느림 (Slow) / 잦은 멈춤과 한숨"
+            },
+            {
+              "zh": "[4] 효율적 바디랭귀지 5대 수칙 & 경청 능력 개선 11대 수칙",
+              "py": "Ch 6 & Ch 7 실전 행동 지침",
+              "kr": "[효율적 바디랭귀지 5대 수칙]\n1. 타인의 비언어적 행동에 담긴 단서(Cue)에 민감하게 주의를 기울이라.\n2. 비언어적 신호를 성급히 단정하지 말고 반영적 경청으로 검증(Check out)하라.\n3. 자신의 몸이 보내는 비언어적 메시지에 자각(Self-awareness)을 가져라.\n4. 언어적 메시지와 비언어적 메시지의 일치성(Congruence)을 유지하라.\n5. 상황과 맥락(Context)에 맞게 비언어적 표현의 레퍼토리를 확장하라.\n\n[경청 능력 개선 11대 수칙 (Ch 7)]\n1. 말하기를 멈추라 (Stop talking).\n2. 상대방이 편안하게 말할 수 있는 분위기를 조성하라.\n3. 듣고 싶어 한다는 의지를 행동으로 보여주라.\n4. 산만하게 만드는 방해 요소를 제거하라.\n5. 상대방의 입장에서 공감(Empathize)하라.\n6. 인내심을 가져라 (중간에 말을 끊지 말라).\n7. 자신의 성질이나 감정을 다스리라 (Hold your temper).\n8. 논쟁이나 비판을 삼가라 (이겨도 지는 것이다).\n9. 질문을 적절히 활용하라.\n10. '당신이 느끼는 감정은 틀렸다'고 부정하지 말라.\n11. 다시 한 번 말하기를 멈추라 (첫 번째이자 마지막 수칙)."
+            },
+            {
+              "zh": "[5] 부가적 반응 6가지 & 반영적 경청 O/X 11가지 조건",
+              "py": "Ch 5 · Ch 7 시험 단골 비교 포인트",
+              "kr": "[경청 클러스터 — 주의를 기울이고 있음을 보여주는 부가적 반응]\n1. 자세(Posture): 상체를 상대 쪽으로 약간 기울인 개방적 자세\n2. 신체 움직임(Body motion): 긴장을 풀고 자연스럽게 호응하는 고개 끄덕임\n3. 시선 맞춤(Eye contact): 강압적 응시(Staring)가 아닌 부드럽고 지속적인 시선 교환\n4. 비방해적 환경(Nondistracting environment): 물리적·심리적 방해물 차단\n5. 최소 격려 반응(Minimal encouragers): '음, 그렇군요, 계속 말씀해 보세요' 등 짧은 추임새\n6. 침묵(Attentive silence): 상대가 생각과 감정을 정리할 수 있도록 기다려 주는 적극적 침묵\n\n[반영적 경청을 해야 할 때(O) vs 하지 말아야 할 때(X)]\n• 해야 할 때 (O): 상대가 강한 감정(분노, 슬픔, 불안)을 겪을 때 / 문제의 본질이 모호하여 스스로 정리가 필요할 때 / 오해의 소지가 큰 중요한 대화일 때 / 상대가 방어적이거나 위축되어 있을 때\n• 하지 말아야 할 때 (X): 1) 내 몸과 마음이 피곤하거나 경청할 에너지가 없을 때 2) 시간이 부족할 때 3) 나 자신의 감정이나 이해관계가 지나치게 얽혀 중립을 지킬 수 없을 때 4) 상대가 단순한 사실 정보(예: 길 찾기, 시간 질문)만 물어볼 때 5) 반영적 경청을 상대를 조종하거나 통제하려는 수단으로 악용하려 할 때"
+            }
+          ]
+        },
         {
           "id": 1,
           "title": "제5장: Why Reflective Responses Work",
@@ -749,279 +781,595 @@ var HUFS_DATA = {
       "vocab": [
         {
           "zh": "Rule-governed behavior",
-          "py": "규칙 지배적 행동",
-          "pos": "명사",
-          "kr": "모든 인간 소통은 고도로 구조화된 규칙의 지배를 받는다는 언어학 이론",
-          "level": "⭐ Bolton Ch 5",
+          "py": "규칙 지배적 행동 [Bandler & Grinder]",
+          "pos": "핵심 이론",
+          "kr": "모든 인간 소통과 신체 움직임은 우연이 아니라 고도로 구조화된 규칙의 지배를 받는다는 이론",
+          "level": "⭐ Ch 6",
           "note": "Bandler & Grinder 주장"
         },
         {
-          "zh": "Presenting Problem vs Basic Problem",
-          "py": "표면적 문제 vs 근본 문제",
-          "pos": "명사",
-          "kr": "취약한 근본 문제를 숨기고 덜 중요한 표면 문제로 상대를 떠보는 인간 소통의 특이성",
-          "level": "⭐ Bolton Ch 5",
-          "note": "Beating around the bush"
+          "zh": "7% - 38% - 55% Rule",
+          "py": "메흐라비안의 법칙 [Albert Mehrabian]",
+          "pos": "통계 공식",
+          "kr": "감정·태도 전달 시 언어(Words) 7%, 음성·어조(Vocal) 38%, 표정·신체(Facial) 55%로 비언어가 93%를 차지한다는 공식",
+          "level": "⭐ Ch 6",
+          "note": "언어와 비언어 충돌 시 비언어를 신뢰함"
         },
         {
-          "zh": "125 wpm vs 4x Brain Speed",
-          "py": "말하기 속도 vs 뇌 처리 속도",
-          "pos": "통계",
-          "kr": "평균 말하기 속도(125wpm)보다 뇌 사고 속도가 4배 빨라 주의가 쉽게 산만해지는 원인",
-          "level": "⭐ Bolton Ch 5",
-          "note": "Mental vacation"
+          "zh": "35% vs 65% Ratio",
+          "py": "버드휘스텔 대면 소통 비율 [Ray Birdwhistell]",
+          "pos": "통계 공식",
+          "kr": "성인 두 사람의 대면 대화에서 언어적 의미는 35% 미만이며 비언어적 소통이 65% 이상을 차지한다는 연구 결과",
+          "level": "⭐ Ch 6",
+          "note": "Kinesics(신체언어학) 창시자"
         },
         {
-          "zh": "Ray Birdwhistell 35% vs 65%",
-          "py": "단어 vs 신체 언어",
-          "pos": "통계",
-          "kr": "대면 대화에서 단어가 전달하는 의미는 35% 이하, 65% 이상은 신체 언어에서 발생",
-          "level": "⭐ Bolton Ch 6",
-          "note": "Body language dominance"
+          "zh": "125 wpm vs Thought Speed",
+          "py": "말하기 속도(125wpm)와 사고 속도의 격차",
+          "pos": "통계 공식",
+          "kr": "평균 말하기 속도는 분당 약 125단어인 반면 인간의 사고 속도는 훨씬 빨라 여분의 정신적 시간차(Time lag)가 발생함",
+          "level": "⭐ Ch 5",
+          "note": "딴생각(Daydreaming)의 주원인"
         },
         {
-          "zh": "Albert Mehrabian 7% vs 93%",
-          "py": "메시지 영향력 비중",
-          "pos": "통계",
-          "kr": "메시지 영향력 중 언어적 요소는 단 7%, 나머지 93%는 비언어적 요소(음성 38% + 표정 55%)",
-          "level": "⭐ Bolton Ch 6",
-          "note": "Impact of communication"
+          "zh": "45% - 30% - 16% - 9%",
+          "py": "소통 4대 영역 시간 비중",
+          "pos": "통계 공식",
+          "kr": "소통에 쓰는 시간(깨어 있는 시간의 70~80%) 중 듣기 45%, 말하기 30%, 읽기 16%, 쓰기 9%를 차지함",
+          "level": "⭐ Ch 5",
+          "note": "가장 많이 쓰지만 가장 덜 교육받는 영역이 듣기(45%)"
         },
         {
-          "zh": "Leakage of masked feelings",
-          "py": "감정의 누출",
-          "pos": "명사",
-          "kr": "감정을 아무리 숨기려 해도 미세한 얼굴 표정과 신체 언어로 배어나오는 현상",
-          "level": "⭐ Bolton Ch 6",
-          "note": "Paul Ekman & Wallace Friesen"
+          "zh": "25% Retention Rate",
+          "py": "니콜스의 경청 기억 잔존율 [Ralph Nichols]",
+          "pos": "통계 공식",
+          "kr": "들은 내용의 50%만 직후에 기억하며, 이마저도 시간이 지나면 25% 이하로 떨어진다는 실증 연구",
+          "level": "⭐ Ch 5",
+          "note": "미네소타대 Ralph Nichols 교수"
+        },
+        {
+          "zh": "85% Visual Reception",
+          "py": "시각을 통한 비언어 정보 수용 비율",
+          "pos": "통계 공식",
+          "kr": "인간이 외부 환경과 타인으로부터 받아들이는 비언어적 정보의 85%는 눈(Eyes)을 통해 들어옴",
+          "level": "⭐ Ch 6",
+          "note": "시각적 관찰(Observing)의 중요성"
+        },
+        {
+          "zh": "Hearing vs Listening",
+          "py": "청취(생리적 감각) vs 경청(심리적 의미 부여)",
+          "pos": "핵심 개념",
+          "kr": "Hearing은 음파가 고막을 울리는 수동적·생리적 과정이고, Listening은 주의를 기울여 의미를 해석하는 능동적·심리적 과정",
+          "level": "⭐ Ch 5",
+          "note": "Ch 5 가장 기본 구별 문제"
+        },
+        {
+          "zh": "Attending",
+          "py": "주의 기울이기 (비언어적 집중)",
+          "pos": "핵심 기술",
+          "kr": "온몸과 시선, 자세를 통해 상대방에게 온전히 집중하고 있음을 보여주는 물리적·심리적 현존(Presence)",
+          "level": "⭐ Ch 5",
+          "note": "경청 클러스터의 첫 단계"
+        },
+        {
+          "zh": "Posture of Involvement",
+          "py": "몰입의 자세 (참여적 신체 자세)",
+          "pos": "핵심 기술",
+          "kr": "팔짱을 풀고 상체를 상대방 쪽으로 살짝 기울이며 적절한 거리와 개방적 태도를 유지하는 자세",
+          "level": "⭐ Ch 5",
+          "note": "Attending 핵심 요소"
+        },
+        {
+          "zh": "Minimal Encouragers",
+          "py": "최소 격려 반응 (추임새)",
+          "pos": "핵심 기술",
+          "kr": "대화 주도권을 뺏지 않으면서 '음', '그렇군요', '계속 말씀해 보세요'처럼 상대가 말을 이어가도록 돕는 짧은 반응",
+          "level": "⭐ Ch 5",
+          "note": "Following skills의 핵심"
+        },
+        {
+          "zh": "Door Openers",
+          "py": "말문 열기 (대화 초대하기)",
+          "pos": "핵심 기술",
+          "kr": "상대방의 표정이나 상태를 관찰한 뒤 비강압적으로 대화를 시작하도록 초대하는 열린 반응",
+          "level": "⭐ Ch 5",
+          "note": "Following skills의 첫 단추"
+        },
+        {
+          "zh": "Infrequent Questions",
+          "py": "절제된 열린 질문",
+          "pos": "핵심 기술",
+          "kr": "심문하듯 질문을 쏟아내지 않고 꼭 필요한 순간에 한 번에 하나씩만 던지는 개방형 질문",
+          "level": "⭐ Ch 5",
+          "note": "과도한 질문은 대화 차단막(Roadblock)이 됨"
+        },
+        {
+          "zh": "Attentive Silence",
+          "py": "주의 깊은 침묵",
+          "pos": "핵심 기술",
+          "kr": "단순히 입을 다무는 것이 아니라 따뜻한 시선과 관심을 유지하며 상대가 깊은 생각과 감정을 정리할 시간을 주는 기술",
+          "level": "⭐ Ch 5",
+          "note": "최고 수준의 Following 기술"
+        },
+        {
+          "zh": "Paraphrasing",
+          "py": "바꿔 말하기 (사실·내용 요약 반영)",
+          "pos": "핵심 기술",
+          "kr": "화자가 말한 핵심 사실과 내용(Content)을 경청자 자신의 간결한 언어로 재진술하여 이해 여부를 확인하는 기술",
+          "level": "⭐ Ch 5",
+          "note": "감정이 아닌 사실/내용(Content)에 초점"
+        },
+        {
+          "zh": "Reflecting Feelings",
+          "py": "감정 반영하기",
+          "pos": "핵심 기술",
+          "kr": "화자의 말과 비언어적 단서 이면에 담긴 핵심 감정(Feeling)을 포착하여 거울처럼 비추어 주는 기술",
+          "level": "⭐ Ch 5·6",
+          "note": "표면적 단어보다 비언어적 정서에 주목"
+        },
+        {
+          "zh": "Reflecting Meanings",
+          "py": "의미 반영하기 (사실 + 감정 결합)",
+          "pos": "핵심 기술",
+          "kr": "'~한 일(사실) 때문에 ~하게 느끼시는군요(감정)'처럼 사건과 감정을 하나로 연결하여 반영하는 기술",
+          "level": "⭐ Ch 5",
+          "note": "You feel [Feeling] because [Fact/Event]"
+        },
+        {
+          "zh": "Summative Reflection",
+          "py": "종합적 요약 반영",
+          "pos": "핵심 기술",
+          "kr": "긴 대화나 여러 주제가 오간 뒤 전체 흐름의 핵심 줄기와 감정을 한눈에 갈무리해 주는 반영 기술",
+          "level": "⭐ Ch 5",
+          "note": "대화의 전환점이나 마무리 단계에 활용"
         },
         {
           "zh": "Paralanguage",
-          "py": "준언어 / 음성적 단서",
-          "pos": "명사",
-          "kr": "음조, 말의 속도, 음량, 끊김 등 말이 전달되는 음성적 방식의 신호",
-          "level": "⭐ Bolton Ch 6",
-          "note": "Len Sperry 매칭"
+          "py": "준언어 (음성적 비언어 요소)",
+          "pos": "핵심 개념",
+          "kr": "단어 자체를 제외한 목소리의 높낮이(Pitch), 크기(Volume), 속도(Rate), 억양, 침묵, 한숨 등 모든 음성적 단서",
+          "level": "⭐ Ch 6",
+          "note": "Dr. Len Sperry 7대 감정 매칭표"
         },
         {
-          "zh": "Contrasting Technique",
-          "py": "대조하기 기법",
-          "pos": "기법",
-          "kr": "On the one hand..., on the other hand... 포맷으로 상대의 불일치를 1회만 직면시키는 기술",
-          "level": "⭐ Bolton Ch 7",
-          "note": "Additive response"
+          "zh": "Kinesics",
+          "py": "신체언어학 [Ray Birdwhistell]",
+          "pos": "핵심 개념",
+          "kr": "표정, 제스처, 자세, 시선 등 신체 움직임을 통한 비언어적 의사소통을 연구하는 학문",
+          "level": "⭐ Ch 6",
+          "note": "Ray Birdwhistell 창시"
+        },
+        {
+          "zh": "Leakage",
+          "py": "감정 누출 (비언어적 본심 노출)",
+          "pos": "핵심 개념",
+          "kr": "말로는 감정을 숨기려 해도 목소리 떨림, 시선 회피, 손짓 등 통제하기 어려운 신체 부위를 통해 실제 감정이 새어 나오는 현상",
+          "level": "⭐ Ch 6",
+          "note": "속이기 어려운 비언어 채널"
+        },
+        {
+          "zh": "Congruence",
+          "py": "일치성 (언어와 비언어의 조화)",
+          "pos": "핵심 개념",
+          "kr": "입으로 하는 말(Verbal)과 표정·목소리·몸짓(Nonverbal)이 모순 없이 같은 메시지를 전달하는 상태",
+          "level": "⭐ Ch 6",
+          "note": "신뢰(Trust) 형성의 필수 조건"
+        },
+        {
+          "zh": "Focusing",
+          "py": "초점 맞추기 [Eugene Gendlin]",
+          "pos": "핵심 이론",
+          "kr": "아직 명확한 언어로 표현되지 않은 내면의 모호한 신체적·감정적 느낌(Felt sense)에 주의를 기울여 의미를 깨닫는 과정",
+          "level": "⭐ Ch 7",
+          "note": "시카고대 Eugene Gendlin 교수"
+        },
+        {
+          "zh": "Psuedo-listening",
+          "py": "거짓 경청 (듣는 척하기)",
+          "pos": "경청 장애물",
+          "kr": "겉으로는 고개를 끄덕이고 미소를 지으며 듣는 척하지만 실제로는 전혀 다른 생각을 하고 있는 상태",
+          "level": "⭐ Ch 5·7",
+          "note": "대표적인 비효율적 경청 습관"
+        },
+        {
+          "zh": "Selective Listening",
+          "py": "선택적 경청",
+          "pos": "경청 장애물",
+          "kr": "화자의 전체 메시지 중 자신이 관심 있거나 듣고 싶은 부분만 골라 듣고 나머지는 흘려버리는 습관",
+          "level": "⭐ Ch 7",
+          "note": "방어적·자기중심적 경청"
+        },
+        {
+          "zh": "Defensive Listening",
+          "py": "방어적 경청",
+          "pos": "경청 장애물",
+          "kr": "상대방의 평범하거나 무고한 발언조차 자신에 대한 비난이나 공격으로 받아들이는 태도",
+          "level": "⭐ Ch 7",
+          "note": "낮은 자존감이나 죄책감에서 기인"
+        },
+        {
+          "zh": "Ambushing",
+          "py": "매복형 경청 (공격거리 찾기)",
+          "pos": "경청 장애물",
+          "kr": "상대방을 이해하기 위해서가 아니라 반박하거나 공격할 약점을 잡기 위해 벼르며 듣는 태도",
+          "level": "⭐ Ch 7",
+          "note": "토론이나 말싸움에서 흔히 나타남"
+        },
+        {
+          "zh": "Insulated Listening",
+          "py": "단절적·회피형 경청",
+          "pos": "경청 장애물",
+          "kr": "자신이 피하고 싶거나 불편한 주제가 나오면 아예 귀를 닫고 반응하지 않는 선택적 경청의 반대 형태",
+          "level": "⭐ Ch 7",
+          "note": "불편한 진실 회피"
+        },
+        {
+          "zh": "Stage Hogging",
+          "py": "무대 독점하기 (대화 가로채기)",
+          "pos": "경청 장애물",
+          "kr": "상대방의 말을 조금만 듣고 곧바로 화제를 자기 이야기로 돌려 대화의 중심을 독차지하는 행동",
+          "level": "⭐ Ch 7",
+          "note": "Narcissistic listening"
+        },
+        {
+          "zh": "Søren Kierkegaard's Principle",
+          "py": "키르케고르의 조력 원칙",
+          "pos": "핵심 철학",
+          "kr": "누군가를 진정으로 돕고자 한다면 내가 아는 것보다 그 사람이 현재 서 있는 자리와 이해 수준에서 출발해야 한다는 원칙",
+          "level": "⭐ Ch 7",
+          "note": "공감적 경청의 철학적 토대"
         }
       ],
       "qa": [
         {
           "id": "adv-q1",
           "num": 1,
-          "question": "[Q1] According to Chapter 5, which of the following accurately describes the Four Stages of Skill Development when learning reflective listening?",
+          "question": "Which of the following statements is TRUE regarding the 'Four Stages in Improving Communication' described by Robert Bolton in Chapter 5?",
           "options": [
-            "Curiosity → Intellectual mastery → Emotional detachment → Unstructured spontaneity",
-            "Feeling guilty about past roadblocks → Feeling wooden, artificial, and phony → Feeling skillful → Becoming integrated and virtually automatic",
-            "Skepticism → Parroting exact words → Advising and coaching → Autonomous problem-solving",
-            "Passive silence → Mechanical questioning → Sympathetic agreement → Natural leadership"
+            "In the first stage, learners typically experience high confidence and intellectual mastery before encountering behavioral roadblocks.",
+            "In the second stage, learners often feel wooden, artificial, and phony as they attempt unfamiliar reflective responses.",
+            "In the third stage, reflective listening becomes completely automatic and integrated without any conscious discipline.",
+            "In the fourth stage, learners realize that communication cannot be rule-governed and abandon all formal structures."
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "기술 습득 4단계: 죄책감(`Guilty`) → 어색함·가식성(`Wooden, artificial, phony`) → 능숙함(`Skillful`) → 통합 및 자동화(`Integrated & virtually automatic`)."
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n교재 5장에 설명된 '소통 능력 개선의 4단계'에 관한 설명 중 옳은 것은 무엇인가?\n\n[핵심 원리 및 선지 분석]\n볼턴은 새로운 경청 기술을 익힐 때 거치는 4단계를 다음과 같이 규명했습니다:\n1단계 죄책감(Guilty): 과거 자신이 걸림돌을 남발했음을 깨달음\n2단계 어색함과 가식성(Wooden, artificial, phony): 익숙하지 않은 기술을 쓰며 로봇처럼 부자연스럽고 가식적으로 느낌 (②번 정답)\n3단계 능숙함(Skillful): 꾸준한 연습을 통해 점차 손에 익음 (③번 오답: 자동화는 4단계)\n4단계 통합 및 자동화(Integrated and virtually automatic): 완전히 내면화되어 의식적 노력 없이 자동 구사됨 (④번 오답: 구조를 버리는 것이 아님)\n①번 오답: 1단계는 자신감이 아니라 죄책감(Guilt)입니다."
         },
         {
           "id": "adv-q2",
           "num": 2,
-          "question": "[Q2] How do Richard Bandler and John Grinder respond to the complaint that reflective listening is \"too structured and rule-governed\"?",
+          "question": "How do Richard Bandler and John Grinder address the criticism that reflective listening is 'too structured and rule-governed'?",
           "options": [
-            "They argue that effective listeners must abandon all linguistic structures to achieve pure emotional spontaneity.",
-            "They state that only formal business negotiations require structure, whereas intimate conversations have no rules.",
-            "They point out that there is no such thing as unstructured communication; all human language and communication is highly structured, rule-governed behavior, and structure does not prevent individual style.",
-            "They suggest replacing structured reflective responses with open-ended interrogation to maintain conversational flow."
+            "They argue that human intimacy flourishes only when individuals abandon linguistic rules and speak with total unstructured spontaneity.",
+            "They state that while formal business negotiations are rule-governed, personal conversations between friends are entirely unstructured.",
+            "They point out that all human language and communication is highly structured rule-governed behavior, and structure does not prevent individual style.",
+            "They suggest replacing structured reflections with frequent open-ended questions to maintain a natural conversation flow."
           ],
           "answer": 3,
           "answer_letter": "C",
-          "explanation": "Bandler & Grinder: 구조화되지 않은 소통은 없으며 모든 언어 소통은 규칙 지배적 행동(`rule-governed behavior`)이다. 구조가 개인의 고유한 스타일(`Style`)을 막지 않는다."
+          "explanation": "정답: ③ (C)\n\n[문제 해석]\n반들러와 그린더는 반영적 경청이 '너무 구조화되어 있고 규칙에 얽매여 있다'는 비판에 대해 어떻게 반박하는가?\n\n[핵심 원리 및 선지 분석]\nBandler & Grinder는 '구조화되지 않은 의사소통(unstructured communication)'이란 존재하지 않는다고 단언합니다. 인간의 모든 언어와 소통은 고도로 구조화된 규칙 지배적 행동(rule-governed behavior)이며, 규칙과 구조(Structure)가 있다고 해서 개인의 고유한 개성과 스타일(Style)이 사라지는 것은 아닙니다 (마치 악보와 운지법이 있어도 연주자마다 스타일이 다른 것과 같음)."
         },
         {
           "id": "adv-q3",
           "num": 3,
-          "question": "[Q3] Which of the following correctly lists the Six Peculiarities of Human Communication (four speaker problems and two listener problems) identified in Chapter 5?",
+          "question": "According to Chapter 5, which of the following is identified as one of the four problems on the part of the SPEAKER (rather than the listener)?",
           "options": [
-            "(Speaker) Words have different meanings, coding messages, presenting vs. basic problems, blind to/blinded by emotions; (Listener) easily distracted, hearing through distorting filters.",
-            "(Speaker) Talking too fast, using monotone voice, interrupting, moralizing; (Listener) faking attention, giving premature advice.",
-            "(Speaker) Excessive self-disclosure, emotional leakage, incongruent posture, parroting; (Listener) dogmatic responses, over-listening.",
-            "(Speaker) Attention filters, emotional conditioning, rapid speech rate, cultural repression; (Listener) coding messages, beating around the bush."
+            "The tendency to take 'mental vacations' due to the rapid processing speed of the brain.",
+            "The presence of emotional filters formed by past conditioning that distort incoming messages.",
+            "The habit of presenting a surface problem first to test the listener before sharing the deeper basic concern.",
+            "The activation of attention filters that screen out sound to increase the signal-to-noise ratio."
           ],
-          "answer": 1,
-          "answer_letter": "A",
-          "explanation": "인간 소통의 6대 특이성: 화자 문제 4가지(단어의 다의성, 암호화, 표면 문제 vs 근본 문제, 감정에 무지하거나 잠식됨) + 청자 문제 2가지(쉽게 산만해짐, 필터에 의한 왜곡)."
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\n\n[문제 해석]\n5장에 제시된 인간 의사소통의 6대 특이성 중 청자가 아닌 '화자(Speaker) 측의 문제'에 해당하는 것은 무엇인가?\n\n[핵심 원리 및 오답 분석]\n- ①번: 뇌의 빠른 처리 속도로 인한 딴생각(Mental vacations)은 '청자'의 문제입니다.\n- ②번: 과거 조건화에 따른 감정 필터(Emotional filters) 왜곡은 '청자'의 문제입니다.\n- ③번: 깊은 근본 문제(Basic concern)를 말하기 전 사소한 표면 문제(Presenting problem)로 상대를 떠보는 것(Beating around the bush)은 '화자'의 4대 문제 중 하나입니다 (정답).\n- ④번: 신호 대 잡음비를 높이려는 주의 필터(Attention filters) 작동은 '청자'의 문제입니다."
         },
         {
           "id": "adv-q4",
           "num": 4,
-          "question": "[Q4] What does Robert Bolton mean by the peculiarity that \"The Presenting Problem May Not Be the Major Concern\"?",
+          "question": "In Chapter 5, what does Robert Bolton conclude regarding what happens when a person who is 'blinded by strong emotions' is allowed to verbalize those feelings to an empathic listener?",
           "options": [
-            "Speakers always state their most vulnerable, core problem in the very first sentence of a conversation.",
-            "Speakers often \"beat around the bush\" and begin with a minor, surface-level presenting problem to test the water before trusting the listener with their deeper, underlying basic problem.",
-            "Listeners should immediately solve the presenting problem with factual advice so that the underlying problem disappears on its own.",
-            "Presenting problems are imaginary complaints fabricated to manipulate the listener into taking action."
+            "Verbalizing intense anger inevitably reinforces the emotion, significantly increasing the probability of violent or irrational behavior.",
+            "Talking through intense feelings drains off much of the excess emotion, diminishing the likelihood of rash action and helping restore rationality.",
+            "The listener becomes emotionally consumed, causing both parties to lose rational boundaries.",
+            "The speaker becomes permanently dependent on the listener for emotional regulation."
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "사람들은 가장 취약한 근본 문제(`Basic problem`)를 바로 말하기 두려워 표면적 문제(`Presenting problem`)로 변죽을 울리며(`beating around the bush`) 상대를 떠본다(`test the water`)."
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n5장에서 극심한 감정에 눈이 먼(blinded by strong emotions) 사람이 공감적 청자에게 감정을 말로 털어놓을 때 어떤 일이 일어난다고 볼턴은 결론짓는가?\n\n[핵심 원리 및 오답 함정]\n일반적인 상식으로는 화난 사람에게 감정을 말하게 하면 화가 더 증폭될 것 같지만, 볼턴은 '공감적 청자에게 감정을 말로 표현하면 과잉 감정이 배출되어(drains off much of the excess emotion) 비이성적 행동을 할 가능성이 오히려 줄어들고 이성이 회복된다'는 역설적 팩트를 강조합니다 (교재 p.68)."
         },
         {
           "id": "adv-q5",
           "num": 5,
-          "question": "[Q5] According to Chapter 5, what happens when a person who is \"blinded by strong emotions\" (such as intense anger) is allowed to verbalize those feelings to an empathic listener?",
+          "question": "Which of the following accurately describes the relationship between average speech rate and cognitive processing speed discussed in Chapter 5?",
           "options": [
-            "Verbalizing strong anger inevitably escalates the emotion and makes violent action much more likely.",
-            "The process of talking on a feeling level to an empathic listener drains off much of the excess emotion, diminishing the likelihood of acting irrationally and helping the speaker return to rational abilities.",
-            "The listener becomes emotionally consumed and loses the ability to remain separate from the speaker.",
-            "The speaker's emotional filters become permanently reinforced through Pavlovian conditioning."
+            "The average person speaks at about 500 words per minute, whereas the brain can only process 125 words per minute, causing cognitive overload.",
+            "The average speech rate is about 125 words per minute, but the brain processes language about four times faster, creating spare time for mental distractions.",
+            "Speech rate and thought processing occur at identical speeds of approximately 250 words per minute, requiring absolute concentration.",
+            "Rapid speakers at 300 words per minute completely eliminate the listener's emotional and attention filters."
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "강한 감정에 사로잡힌 사람도 공감적 청자에게 감정을 말로 표현하면 과잉 감정이 배출(`drains off much of the excess emotion`)되어 비이성적 행동 가능성이 줄어들고 이성을 되찾는다."
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n5장에서 다룬 평균 말하기 속도와 뇌의 정보 처리 속도 간의 관계로 옳은 것은 무엇인가?\n\n[핵심 수치 팩트]\n인간의 평균 말하기 속도는 분당 약 125단어(about 125 wpm)인 반면, 뇌와 귀의 처리 속도는 그보다 약 4배 빠른 약 500단어/분입니다. 이로 인해 생기는 남는 여유 생각 시간(Spare time)에 청자가 딴생각(Mental vacation)에 빠지기 쉽습니다 (토끼와 거북이 우화)."
         },
         {
           "id": "adv-q6",
           "num": 6,
-          "question": "[Q6] Why do listeners frequently take \"mental vacations\" and become easily distracted during conversations?",
+          "question": "Which scholar conducted experiments in the 1930s conditioning college students to salivate to neutral words like 'style' and 'urn', demonstrating how emotional filters are formed?",
           "options": [
-            "Because the average person speaks at 500 words per minute while the human brain can only process 125 words per minute.",
-            "Because the average rate of speech is about 125 words per minute, whereas the human ear and brain can process words about four times that fast, leaving spare mental capacity.",
-            "Because 93% of verbal information is filtered out by Gregory Razran's emotional conditioning mechanism.",
-            "Because listeners focus exclusively on facial expressions and ignore the auditory channel."
+            "Gregory Razran",
+            "Ray Birdwhistell",
+            "Albert Mehrabian",
+            "John Drakeford"
           ],
-          "answer": 2,
-          "answer_letter": "B",
-          "explanation": "평균 말하기 속도(분당 125단어)보다 뇌의 처리 속도(약 4배)가 훨씬 빨라 남는 정신 에너지로 딴생각(`mental vacation`)을 하게 된다."
+          "answer": 1,
+          "answer_letter": "A",
+          "explanation": "정답: ① (A)\n\n[문제 해석]\n1930년대 대학생 피험자들에게 파블로프식 조건화를 적용하여 'style', 'urn' 같은 중립적 단어에 침을 흘리도록 유도함으로써 감정 필터의 형성 원리를 입증한 학자는 누구인가?\n\n[학자 매칭]\n뉴욕 퀸즈 칼리지의 심리학자 그레고리 라즈란(Gregory Razran)입니다. 존 드레이크포드(Drakeford)는 주의 필터(Attention filters)를 연구했습니다."
         },
         {
           "id": "adv-q7",
           "num": 7,
-          "question": "[Q7] In Chapter 6, what were the findings of Ray Birdwhistell and Albert Mehrabian regarding the proportion of nonverbal communication?",
+          "question": "According to anthropologist Ray Birdwhistell's research cited in Chapter 6, what proportion of the social meaning in a face-to-face conversation is carried by verbal words?",
           "options": [
-            "Birdwhistell found that 75% of meaning is verbal, while Mehrabian found that 45% of impact is nonverbal.",
-            "Birdwhistell estimated that no more than 35% of meaning derives from words (65%+ from body language), and Mehrabian stated that only 7% of the impact is verbal while 93% is nonverbal.",
-            "Both researchers concluded that words and body language contribute an exact 50-50 split in emotional communication.",
-            "Birdwhistell proved that vocal tone accounts for 85% of factual communication, while Mehrabian showed words account for 55%."
+            "Approximately 65%",
+            "No more than 35%",
+            "Exactly 50%",
+            "Virtually 7%"
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "Birdwhistell(단어 35% 이하 vs 신체 언어 65% 이상), Mehrabian(언어 7% vs 비언어 93%)."
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n6장에 인용된 레이 버드휘스텔의 연구에 따르면, 대면 대화에서 언어적 단어가 전달하는 사회적 의미의 비중은 얼마인가?\n\n[핵심 수치 함정 주의]\n- Ray Birdwhistell: 단어(Words)는 35% 이하(no more than 35%), 신체 언어가 65% 이상입니다.\n- Albert Mehrabian: 언어가 7%, 음성/어조 38%, 표정/신체 55%로 비언어가 93%입니다.\n두 학자의 수치를 혼동하지 않도록 7%와 35%를 명확히 구분해야 합니다."
         },
         {
           "id": "adv-q8",
           "num": 8,
-          "question": "[Q8] According to Paul Ekman and Wallace Friesen (and Sigmund Freud), what is the \"Leakage\" of Masked Feelings?",
+          "question": "According to Paul Ekman and Wallace Friesen's research in Chapter 6, what is meant by the 'leakage' of masked feelings?",
           "options": [
-            "The deliberate use of verbal self-disclosure to reveal one's deepest secrets to a counselor.",
-            "The phenomenon where repressed or consciously concealed emotions involuntarily seep through a person's nonverbal behavior (such as micro-facial expressions, posture, or muscular tension).",
-            "The gradual loss of memory that occurs when a listener fails to paraphrase a speaker's factual statements.",
-            "The tendency of a listener to cry along with a grieving speaker due to a lack of emotional separateness."
+            "The deliberate verbal confession of deeply hidden emotional secrets during active counseling.",
+            "The involuntary seepage of concealed emotions through micro-expressions and subtle bodily cues.",
+            "The gradual decay of conversational memory that occurs when a listener fails to paraphrase facts.",
+            "The distortion of vocal volume when a speaker attempts to articulate technical data."
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "Ekman & Friesen, Freud: 감정을 숨기려 해도 미세한 표정과 신체 언어로 새어 나오는 현상(`Leakage of masked feelings` / *\"Self-betrayal oozes from all our pores\"*)."
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n6장 에크만과 프리센의 연구에서 '위장된 감정의 누출(Leakage of masked feelings)'이 의미하는 바는 무엇인가?\n\n[핵심 원리 분석]\n사람이 끔찍한 감정을 억누르고 거짓으로 미소를 지으려 해도, 슬로모션으로 관찰하면 억압된 진짜 감정이 미세한 표정과 신체 긴장으로 무의식중에 새어 나오는 현상(Leakage)을 뜻합니다. 프로이트의 '자기 배신은 모든 모공에서 스며 나온다'는 명제와 일맥상통합니다."
         },
         {
           "id": "adv-q9",
           "num": 9,
-          "question": "[Q9] According to Dr. Len Sperry's chart of Paralanguage in Chapter 6, which pairing of vocal characteristics and probable feeling/meaning is CORRECT?",
+          "question": "According to Dr. Len Sperry's classification of Paralanguage in Chapter 6, which emotional state is characterized by 'high pitch and drawn-out speech'?",
           "options": [
-            "Monotone voice = Anger; Abrupt speech = Boredom; Slow speed, low pitch = Enthusiasm",
-            "Monotone voice = Boredom; Slow speed, low pitch = Depression; Abrupt speech = Defensiveness; Terse speed, loud tone = Anger; High pitch, drawn-out speech = Disbelief",
-            "Ascending tone = Depression; High voice, emphatic pitch = Defensiveness; Terse speed, loud tone = Astonishment",
-            "High pitch, drawn-out speech = Enthusiasm; Abrupt speech = Astonishment; Monotone voice = Disbelief"
+            "Anger",
+            "Boredom",
+            "Disbelief",
+            "Depression"
           ],
-          "answer": 2,
-          "answer_letter": "B",
-          "explanation": "Dr. Len Sperry의 Paralanguage 7대 매칭 완벽 일치."
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\n\n[문제 해석]\n6장 스페리 박사의 준언어(Paralanguage) 분류표에서 '높은 음높이와 질질 끄는 말투(high pitch and drawn-out speech)'로 특징지어지는 감정 상태는 무엇인가?\n\n[스페리 준언어 7대 감정 표(Table 6-1)]\n- 높은 음높이 + 늘어지는 말(drawn-out): 불신/의구심 (Disbelief) (정답)\n- 모노톤 단조로운 말투: 지루함 (Boredom)\n- 느린 속도 + 낮은 음높이: 우울 (Depression)\n- 딱딱하고 빠른 속도 + 큰 음량: 분노 (Anger)"
         },
         {
           "id": "adv-q10",
           "num": 10,
-          "question": "[Q10] What does Bolton recommend under the guideline \"Note Discrepancies\" when a speaker's words conflict with their body language (e.g., laughing while recounting a tragic job loss, or \"laughing it off\")?",
+          "question": "When a speaker exhibits an obvious discrepancy between verbal statements and nonverbal actions (e.g., laughing while recounting a tragic event), how does Robert Bolton instruct the listener to respond?",
           "options": [
-            "Ignore the words completely because verbal language is always 100% meaningless.",
-            "Ignore the body language and laugh along with the speaker to keep the mood light.",
-            "Recognize that when there is a discrepancy between words and nonverbals, both messages are important, and search for the meanings in each channel of communication.",
-            "Immediately confront and accuse the speaker of lying and being manipulative."
+            "Ignore the verbal message entirely because spoken words carry zero credible meaning.",
+            "Immediately confront the speaker and accuse them of insincerity to force an admission.",
+            "Recognize that both messages are important and explore the meaning behind each channel.",
+            "Mirror the contradictory laughter to make the speaker feel comfortable with their behavior."
           ],
           "answer": 3,
           "answer_letter": "C",
-          "explanation": "말과 신체 언어가 불일치할 때(`laughing it off` 등)는 **양쪽 메시지 모두 중요하므로(`both messages are important`)** 두 채널의 의미를 모두 탐색해야 한다."
+          "explanation": "정답: ③ (C)\n\n[문제 해석]\n화자가 슬픈 이야기를 하면서 웃어넘기는(laughing it off) 것처럼 말과 비언어가 모순될 때, 볼턴은 청자에게 어떻게 대응하라고 지침을 주는가?\n\n[원문 지침 팩트]\n볼턴은 교재 6장에서 '말과 비언어 사이에 불일치가 존재할 때, 양쪽 메시지 모두가 중요하다(both messages are important)'고 명시하며, 둘 중 하나를 무시하지 말고 두 채널 각각에 담긴 의미를 모두 탐색하라고 권고합니다."
         },
         {
           "id": "adv-q11",
           "num": 11,
-          "question": "[Q11] In Chapter 7, why does Bolton warn listeners: Don't Tell the Speaker, \"I Know How You Feel\"?",
+          "question": "In Chapter 7, why does Robert Bolton advise listeners NEVER to tell a troubled speaker, 'I know exactly how you feel'?",
           "options": [
-            "Because it is untrue (our reading of another's feelings is at best an approximation), it blocks the speaker's desire to share more, and the speaker will doubt that you truly understand.",
-            "Because saying \"I know how you feel\" is a form of Contrasting that requires three prior conditions.",
-            "Because listeners should never focus on feelings and should only paraphrase objective facts.",
-            "Because it forces the speaker to use high-intensity feeling words prematurely."
+            "Because it is fundamentally untrue and inevitably shuts down the speaker's willingness to share further.",
+            "Because saying it constitutes a premature form of Contrasting that violates trust.",
+            "Because effective listeners must only paraphrase objective facts and avoid feelings altogether.",
+            "Because it causes the speaker to experience immediate cognitive dissonance."
           ],
           "answer": 1,
           "answer_letter": "A",
-          "explanation": "`\"I know how you feel\"`은 사실이 아닐뿐더러 상대가 더 말할 의욕을 꺾고 불신을 낳는다."
+          "explanation": "정답: ① (A)\n\n[문제 해석]\n7장에서 볼턴이 고민에 빠진 화자에게 '당신 마음이 어떤지 내가 정확히 안다'고 절대 말하지 말라고 조언하는 이유는 무엇인가?\n\n[원문 분석]\n우리가 타인의 감정을 아는 것은 기껏해야 근사치(approximation)일 뿐이므로 '다 안다'는 말은 근본적으로 거짓(untrue)입니다. 화자는 '네가 내 고통을 어떻게 알아?'라는 불신과 반감을 느끼게 되어 대화를 즉시 중단하게 됩니다 (교재 p.94)."
         },
         {
           "id": "adv-q12",
           "num": 12,
-          "question": "[Q12] Which of the following is one of the three ways to \"Strive for Concreteness and Relevance\" in Chapter 7 that many beginners find ironic?",
+          "question": "Which of the following is explicitly highlighted in Chapter 7 as a paradoxical yet effective method to 'Strive for Concreteness and Relevance'?",
           "options": [
-            "Using vague, abstract generalizations so the speaker does not feel cornered.",
-            "Interrupting rambling, long-winded talkers with reflective responses to help them stop talking in circles and focus on the point.",
-            "Asking a rapid series of ten closed-ended questions in succession.",
-            "Remaining completely silent for an hour without making any reflective responses."
+            "Remaining completely silent for several minutes to allow the speaker to reflect.",
+            "Interrupting rambling, long-winded talkers with concise reflective responses.",
+            "Asking a rapid series of five closed-ended clarifying questions.",
+            "Encouraging the speaker to use broad philosophical generalizations."
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "구체성을 높이는 3가지 방법 중 하나는 장황하게 횡설수설하는 화자(`rambling talkers`)를 반영적 응답으로 끊어주어(`interrupt with reflective responses`) 핵심에 집중하게 돕는 것이다."
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n7장에서 구체성과 관련성을 확보하기 위한(Strive for Concreteness) 역설적이면서도 효과적인 방법으로 제시된 것은 무엇인가?\n\n[원문 지침 분석]\n많은 초보자들은 말을 끊는 것이 무례하다고 생각하지만, 볼턴은 횡설수설 장황하게 말을 늘어놓는 화자(rambling talkers)의 말을 '반영적 응답으로 적절히 끊어주는 것(interrupting with reflective responses)'이 화자의 생각을 핵심에 집중시키는 강력한 구체화 기술이라고 설명합니다."
         },
         {
           "id": "adv-q13",
           "num": 13,
-          "question": "[Q13] How should a reflective listener handle a situation where the speaker asks a direct question requesting advice (e.g., *\"What would you do if you were in my shoes?\"*)?",
+          "question": "How should a skilled listener respond when a speaker directly demands advice by asking, 'What would you do if you were in my shoes?'",
           "options": [
-            "Immediately abandon reflective listening and give a detailed lecture on what you did in the past.",
-            "Refuse to speak and walk out of the room to protect the speaker's autonomy.",
-            "Decode what the question really means and reflect back the implicit feeling or meaning behind the question (e.g., *\"This one's really got you stumped!\"*).",
-            "Answer the question with another closed question to shift the topic."
+            "Immediately provide a comprehensive list of actionable steps based on personal experience.",
+            "Decode the question to uncover the underlying feeling or dilemma and reflect that meaning back to the speaker.",
+            "Refuse to speak and remain completely silent until the speaker withdraws the inquiry.",
+            "Redirect the question to a third party to avoid taking any relational responsibility."
           ],
-          "answer": 3,
-          "answer_letter": "C",
-          "explanation": "조언을 구하는 직접 질문에는 질문 이면에 숨겨진 감정/의미를 해독해 반영(`Reflect the feelings implicit in questions`)해야 한다."
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "정답: ② (B)\n\n[문제 해석]\n화자가 '네가 내 입장이라면 어떻게 하겠니?'라고 직접적인 조언을 요구할 때 숙련된 경청자는 어떻게 반응해야 하는가?\n\n[원문 지침 분석]\n성급하게 조언(Advice)을 주는 함정에 빠지지 말고, 그 질문 이면에 숨겨진 화자의 당혹감, 막막함, 딜레마를 해독(Decode)하여 '이 문제가 정말 당신을 막막하게 만들고 있군요'와 같이 숨겨진 감정과 의미를 반영해주어야 합니다."
         },
         {
           "id": "adv-q14",
           "num": 14,
-          "question": "[Q14] What is Contrasting (one of the six Additive Responses Beyond Reflective Listening), and what are its rules of use?",
+          "question": "Which of the following correctly describes 'Contrasting' as an Additive Response in Chapter 7 and its essential rules of application?",
           "options": [
-            "Contrasting is arguing against the speaker's political opinions; it should be used at the very beginning of a conversation.",
-            "Contrasting calls attention to discrepancies in the speaker's behavior using the format *\"On the one hand, you say/feel/do X, and on the other hand, you say/feel/do Y\"*—it requires a firm base of trust, should never be used twice in succession, and must be followed by a return to reflective listening.",
-            "Contrasting is comparing the speaker's problems to the listener's worse problems to make the speaker feel better.",
-            "Contrasting is repeating the speaker's exact words in a monotone voice to highlight their grammatical errors."
+            "It points out behavioral discrepancies using the format 'On the one hand... on the other hand...'; it requires firm trust, must never be used twice consecutively, and requires returning to reflective listening.",
+            "It debates the logical fallacies in the speaker's arguments; it should be applied aggressively at the start of a session to establish dominance.",
+            "It compares the speaker's problems with the listener's own struggles; it is used continuously throughout the dialogue to normalize suffering.",
+            "It repeats the speaker's exact vocabulary in a detached monotone; it is repeated at least three times to enforce cognitive awareness."
           ],
-          "answer": 2,
-          "answer_letter": "B",
-          "explanation": "대조하기(`Contrasting`)는 `\"On the one hand..., on the other hand...\"` 포맷으로 불일치를 짚어주며, 확고한 신뢰 토대 위에서 단 1회만 쓰고(절대 2회 연속 금지) 즉시 반영적 경청으로 돌아가야 한다."
+          "answer": 1,
+          "answer_letter": "A",
+          "explanation": "정답: ① (A)\n\n[문제 해석]\n7장의 부가적 응답인 '대조하기(Contrasting)'의 개념과 그 필수 적용 규칙으로 옳은 것은 무엇인가?\n\n[핵심 3대 규칙]\n'한편으로는 ~하지만 다른 한편으로는 ~하다' 포맷으로 불일치를 짚어주되, 1) 견고한 신뢰 기반(Firm trust), 2) 절대 연속 2회 사용 금지(Never twice consecutively), 3) 대조 직후 즉시 반영적 경청 복귀(Return to reflective listening)라는 엄격한 3대 조건을 지켜야 합니다."
         },
         {
           "id": "adv-q15",
           "num": 15,
-          "question": "[Q15] According to Chapter 7, which of the following accurately describes When NOT to Listen Reflectively?",
+          "question": "According to Chapter 7, which of the following is a specific condition under which a person should DELIBERATELY REFRAIN from using reflective listening?",
           "options": [
-            "When the speaker is speaking in a \"code,\" experiencing strong feelings, or before you act on a task.",
-            "When you are not able to be accepting, when you do not trust the other to find their own solution, when you are not emotionally \"separate\" from the other, when you use listening to hide yourself, or when you feel hassled/depleted (as well as during casual, everyday storytelling).",
-            "When you and the speaker have equally strong needs to talk or before you argue.",
-            "When you are talking to yourself in an inner monologue."
+            "When the speaker is experiencing intense emotional distress such as acute grief.",
+            "When the speaker is communicating using indirect emotional codes.",
+            "When the listener feels pressured, depleted, and inwardly unready to attend to the other.",
+            "When the speaker explicitly brings a complex interpersonal conflict to the dialogue."
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\n\n[문제 해석]\n교재 7장에 따르면, 청자가 의도적으로 반영적 경청을 '하지 말아야(refrain)' 하는 명확한 조건은 무엇인가?\n\n[오답 및 정답 변별력 분석]\n- ①, ②, ④번은 모두 반영적 경청을 '반드시 적극적으로 사용해야 하는(When to listen)' 대표적 상황입니다.\n- ③번: 청자 자신이 심한 압박을 받거나 에너지가 고갈되어 내적으로 들을 준비가 되지 않았을 때(When you feel pressured, depleted, or inwardly unready)는 억지로 듣지 말고 정중히 양해를 구해야 합니다 (정답)."
+        },
+        {
+          "id": "adv_q16",
+          "num": 16,
+          "question": "According to Dr. Len Sperry's chart of vocal cues (Paralanguage) in Chapter 6, which combination of volume, pitch, and rate is typically associated with 'Boredom'?",
+          "options": [
+            "Loud volume, high pitch, fast rate, and irregular inflection",
+            "Soft volume, low pitch, slow rate, and regular rhythm",
+            "Moderate to low volume, moderate to low pitch, moderately slow rate, and a monotone inflection",
+            "Moderately high volume, moderately high pitch, and moderately fast rate"
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\nDr. Len Sperry의 준언어(Paralanguage) 7대 감정 분석표(Table 6-1)에서 지루함(Boredom)은 '보통~낮은 음량(Moderate to low volume), 보통~낮은 음높이(Moderate to low pitch), 다소 느린 속도(Moderately slow rate), 그리고 억양 변화가 없는 단조로운 모노톤(Monotone)'으로 특징지어집니다. ①은 분노(Anger), ②는 애정(Affection), ④는 쾌활함(Cheerfulness)에 해당합니다."
+        },
+        {
+          "id": "adv_q17",
+          "num": 17,
+          "question": "In Chapter 6, Albert Mehrabian's famous formula (7% - 38% - 55%) explains how feelings and attitudes are communicated. What do the 38% and 55% specifically represent?",
+          "options": [
+            "38% verbal content and 55% vocal tone",
+            "38% vocal cues (paralanguage) and 55% facial/bodily expressions",
+            "38% facial expressions and 55% posture and gestures",
+            "38% listening time and 55% speaking time"
           ],
           "answer": 2,
           "answer_letter": "B",
-          "explanation": "반영적 경청을 쓰지 말아야 할 5가지 상황(수용 불가, 상대의 해결 능력 불신, 감정적 미분리, 자기 은폐 수단으로 악용, 피로/고갈 상태 + 가벼운 일상 수다)."
+          "explanation": "정답: ② (B)\nAlbert Mehrabian의 감정 전달 공식에서 전체 정서적 영향력의 7%만이 실제 단어(Words)에서 오며, 38%는 목소리 톤·어조 등 준언어(Vocal cues/Paralanguage), 55%는 표정과 신체 표현(Facial and bodily expressions)에서 비롯됩니다. 즉 비언어적 요소가 합계 93%를 차지합니다."
+        },
+        {
+          "id": "adv_q18",
+          "num": 18,
+          "question": "According to Chapter 5, people speak at an average rate of 125 words per minute, whereas we can think several times faster. How should a skilled reflective listener use this 'spare thinking time'?",
+          "options": [
+            "Plan a clever rebuttal or personal story to share as soon as the speaker pauses",
+            "Mentally drift away to personal chores and return briefly to nod at the speaker",
+            "Observe the speaker's nonverbal cues, ask oneself 'What is this person feeling?', and summarize the speaker's core message",
+            "Interrupt the speaker to help them finish their sentences more quickly"
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\n평균 발화 속도(125 wpm)보다 사고 속도가 훨씬 빠르기 때문에 발생하는 잉여 사고 시간(Spare time)은 나쁜 경청자에게는 딴생각(Daydreaming)이나 반박 준비의 유혹이 되지만, 숙련된 반영적 경청자는 이 시간을 화자의 비언어적 단서(표정, 자세, 어조)를 관찰하고 '이 사람이 지금 느끼는 감정과 핵심 의미는 무엇인가?'를 깊이 성찰하는 데 사용합니다."
+        },
+        {
+          "id": "adv_q19",
+          "num": 19,
+          "question": "Which scholar is cited in Chapter 6 as the founder of Kinesics who estimated that no more than 35% of the social meaning of a two-person conversation is carried by the words?",
+          "options": [
+            "Ray Birdwhistell",
+            "Ralph Nichols",
+            "Eugene Gendlin",
+            "Paul Cameron"
+          ],
+          "answer": 1,
+          "answer_letter": "A",
+          "explanation": "정답: ① (A)\n신체언어학(Kinesics)의 선구자인 인류학자 Ray Birdwhistell은 두 사람 간의 대면 대화에서 언어적 단어(Verbal words)가 전달하는 사회적 의미는 35%를 넘지 않으며, 나머지 65% 이상은 비언어적(Nonverbal) 채널을 통해 전달된다고 밝혔습니다."
+        },
+        {
+          "id": "adv_q20",
+          "num": 20,
+          "question": "In Chapter 7, Robert Bolton discusses five specific situations regarding 'When NOT to Listen Reflectively.' Which of the following is explicitly listed as a time when you should NOT use reflective listening?",
+          "options": [
+            "When the other person is experiencing strong emotions such as anger or grief",
+            "When the speaker's message is ambiguous and hard to understand",
+            "When you are not able to be accepting, or when you want to manipulate the other person into seeing things your way",
+            "When the relationship with the speaker is very important to you"
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\nBolton은 7장에서 반영적 경청을 하지 말아야 할 대표적 상황으로 1) 수용적(Accepting) 태도를 유지할 수 없을 때, 2) 상대를 내 뜻대로 조종(Manipulate)하려는 숨은 의도가 있을 때, 3) 시간이나 에너지가 고갈되었을 때, 4) 내 감정이 지나치게 격해져 있을 때, 5) 상대가 단순한 사실 정보만 요청할 때를 꼽았습니다."
+        },
+        {
+          "id": "adv_q21",
+          "num": 21,
+          "question": "According to Chapter 6, approximately what percentage of our nonverbal comprehension of the world and other people comes through our EYES?",
+          "options": [
+            "35%",
+            "55%",
+            "70%",
+            "85%"
+          ],
+          "answer": 4,
+          "answer_letter": "D",
+          "explanation": "정답: ④ (D)\nBolton 6장에서는 인간이 외부 세계와 타인의 비언어적 단서를 지각할 때 전체 감각 수용의 약 85%가 눈(시각, Eyes)을 통해 이루어진다고 명시합니다. 따라서 '감정을 듣는 기술(Listening to feelings)'의 핵심은 사실상 화자의 신체와 표정을 세밀하게 '관찰하는 기술(Observing)'과 직결됩니다."
+        },
+        {
+          "id": "adv_q22",
+          "num": 22,
+          "question": "In Chapter 5, what is the precise formula that distinguishes a 'Reflection of Meaning' from a simple 'Paraphrase' or 'Reflection of Feeling'?",
+          "options": [
+            "It repeats the speaker's exact words verbatim without changing anything",
+            "It links the speaker's core feeling to the specific factual content or event that triggered it (e.g., 'You feel [feeling] because [event/fact]')",
+            "It offers psychological advice on why the speaker should change their behavior",
+            "It asks three consecutive open-ended questions to probe deeper"
+          ],
+          "answer": 2,
+          "answer_letter": "B",
+          "explanation": "정답: ② (B)\n바꿔 말하기(Paraphrasing)가 사실·내용(Content)에 초점을 맞추고, 감정 반영(Reflecting Feelings)이 정서(Feeling)에 초점을 맞춘다면, 의미 반영(Reflecting Meanings)은 '사실(Fact/Event) + 감정(Feeling)'을 유기적으로 결합하여 '당신은 ~(사실) 때문에 ~(감정)을 느끼시는군요(You feel X because of Y)'의 형태로 화자의 내적 의미를 온전히 짚어주는 기술입니다."
+        },
+        {
+          "id": "adv_q23",
+          "num": 23,
+          "question": "In Chapter 7, which psychologist developed the concept of 'Focusing'—helping a person attend to their unclear internal 'felt sense' until it shifts into clear self-understanding?",
+          "options": [
+            "Eugene Gendlin",
+            "Søren Kierkegaard",
+            "John Powell",
+            "Richard Bandler"
+          ],
+          "answer": 1,
+          "answer_letter": "A",
+          "explanation": "정답: ① (A)\n시카고 대학교의 심리학자 Eugene Gendlin은 내담자가 자신의 몸과 마음속에 있는 모호하지만 생생한 느낌(Felt sense)에 조용히 초점을 맞추고(Focusing), 경청자가 이를 공감적으로 반영해 줄 때 내면의 통찰과 문제 해결이 일어난다는 사실을 규명했습니다."
+        },
+        {
+          "id": "adv_q24",
+          "num": 24,
+          "question": "According to Ralph Nichols' classic research on listening efficiency cited in Chapter 5, how much of a 10-minute oral presentation does the average listener retain after 48 hours?",
+          "options": [
+            "About 80%",
+            "About 65%",
+            "About 50%",
+            "Only about 25%"
+          ],
+          "answer": 4,
+          "answer_letter": "D",
+          "explanation": "정답: ④ (D)\n미네소타 대학교 Ralph Nichols 교수의 실험에 따르면, 평범한 청자는 10분짜리 강연을 들은 직후에는 약 50%를 기억하지만, 48시간이 지나면 절반이 더 날아가 단 25%만을 기억합니다."
+        },
+        {
+          "id": "adv_q25",
+          "num": 25,
+          "question": "When a speaker's verbal message ('I'm totally fine with your decision') contradicts their nonverbal behavior (clenched jaw, tense posture, avoiding eye contact), what principle from Chapter 6 guides the listener?",
+          "options": [
+            "Always trust the verbal words because language is logical and precise",
+            "Ignore both messages and change the subject immediately",
+            "When verbal and nonverbal messages are incongruent, the nonverbal behavior is more reliable because it is harder to fake",
+            "Accuse the speaker of lying to force them to confess"
+          ],
+          "answer": 3,
+          "answer_letter": "C",
+          "explanation": "정답: ③ (C)\n언어적 메시지와 비언어적 메시지가 불일치(Incongruent)할 때, 비언어적 행동은 의식적으로 통제하거나 위장하기 훨씬 어렵기 때문에(감정 누출, Leakage) 화자의 진짜 감정 상태를 더 정확히 드러냅니다. 숙련된 경청자는 비언어적 단서에 주목하여 부드럽게 감정을 반영하고 확인(Check out)합니다."
         }
       ]
     },
@@ -1031,6 +1379,38 @@ var HUFS_DATA = {
       "author": "Cambridge University Press",
       "category": "대학영어 2 평화반 (김나나 교수님)",
       "sections": [
+        {
+          "id": 0,
+          "title": "★ 10월 14일 김나나 교수님 현장강의 족보 & Language Development (p.100·101·118·119)",
+          "short_title": "★ 10/14 출제족보",
+          "sentences": [
+            {
+              "zh": "[시험 구조 & 6대 출제 유형 공식 확정] 14점 만점 (총 14~16문항 · 20~40분 소요 후 퇴실)",
+              "py": "Oct 14 Live Lecture Official Rules · 김나나 교수님 직접 호명",
+              "kr": "1. 주제 찾기 (Main Idea): 각 지문 및 문단의 핵심 주제 파악\n2. 내용 일치·불일치 (Details / Factual Check): 본문 세부 팩트 진위 판별\n3. 지시어 추론 (Reference Words): 대명사(it, they, this, these, them, its 등)가 가리키는 구체적 대상을 본문에서 찾기\n4. 주관식 영한 번역 (Translation): 밑줄 친 중요 영어 문장을 자연스러운 한국어로 번역하기\n5. 보기 박스 어휘 빈칸 채우기 (Word Bank Cloze): 단어 철자를 백지에서 쓰는 것이 아니라 보기 박스(Word Box)에서 알맞은 단어를 골라 채우기\n6. 연어 및 격식 동사 짝꿍 (Collocations & Formal Academic Verbs): 교수님께서 \"이거는 모든 반에 다 냈습니다\"라고 공언하신 p.100, p.101, p.118, p.119 연습문제!"
+            },
+            {
+              "zh": "[Unit 5 p.100] Academic Word Families (품사 파생어 표 & 문장 빈칸 8제)",
+              "py": "Prism Reading 3 Page 100 · 품사 자리 판별 문제",
+              "kr": "• 6대 파생어 가족:\n  1) 명사 function, functionalism / 동사 function / 형용사 functional / 부사 functionally\n  2) 명사 environment / 형용사 environmental / 부사 environmentally\n  3) 명사 depression / 동사 depress / 형용사 depressing / 부사 depressingly\n  4) 명사 responsibility / 형용사 responsible / 부사 responsibly\n  5) 명사 architect, architecture / 형용사 architectural / 부사 architecturally\n  6) 명사 efficiency / 형용사 efficient / 부사 efficiently\n• 교재 100페이지 문장 빈칸 정답:\n  1) It is important to consider the [environmental] impact of any new building on its natural surroundings.\n  2) [Functionalism] is an architectural philosophy that believes that function is more important than beauty.\n  3) [Environmentally] friendly buildings usually use energy very [efficiently].\n  4) Architects need to plan buildings [responsibly] in order to ensure that they are sustainable.\n  5) Badly designed buildings can [depress] even the happiest person.\n  6) One famous critic described [architecture] as \"frozen music,\" meaning the design of a building is artistic.\n  7) Architects must consider the impact of buildings on the [environment].\n  8) Employers must be [responsible] for providing safe working areas."
+            },
+            {
+              "zh": "[Unit 5 p.101] Architecture and Planning Vocabulary (건축·도시계획 핵심 어휘 7선)",
+              "py": "Prism Reading 3 Page 101 · 보기 박스 정의 매칭",
+              "kr": "1. structural engineer (구조 공학자): A person who has special training that enables him or her to help build an architectural design.\n2. skyscrapers (초고층 마천루): Very tall modern buildings in cities.\n3. urban sprawl (도시의 무질서한 확산): When cities spread out into the countryside, and parking lots or new buildings replace forests and fields.\n4. green belt (그린벨트·개발제한구역): A section of nature in or near a city that cannot be developed or built on.\n5. suburban / outskirts (교외의 / 도시 변두리): [Suburban] neighborhoods are not located within a city. They are found on the [outskirts] of a city and usually have houses rather than apartment buildings.\n6. amenities (공공 편의시설): Public [amenities] are facilities that people enjoy living near, such as libraries, swimming pools, and playgrounds."
+            },
+            {
+              "zh": "[Unit 6 p.118] Energy Collocations (에너지 핵심 연어 짝꿍 6그룹 & 예문 6제)",
+              "py": "Prism Reading 3 Page 118 · 전 분반 공통 출제 연어 파트",
+              "kr": "• 6대 명사 연어 그룹:\n  1) fossil / diesel / alternative / renewable / clean + [fuel]\n  2) renewable / green / nuclear / solar / geothermal + [energy]\n  3) environmental / air / industrial / water / radioactive + [pollution]\n  4) energy / fuel / power / water / renewable + [source]\n  5) electricity / energy / oil / gas / agricultural + [production]\n  6) serious / health / environmental / major / medical + [problem]\n• 교재 118페이지 문장 완성 정답:\n  1) Critics of [nuclear energy] say that the risks to the environment outweigh the benefits of cheap electricity.\n  2) Asthma and diabetes are increasingly common [health / medical problems].\n  3) For a [renewable source] of electricity to be truly successful, governments have to invest more money in it.\n  4) [Fossil fuels], such as oil and gas, have a finite lifespan.\n  5) [Green / Renewable] energy, whichever renewable source it comes from, tends to be slightly more expensive for the user.\n  6) Rivers and lakes are two major [water] sources that can be used for hydroelectric power."
+            },
+            {
+              "zh": "[Unit 6 p.119] Formal and Informal Academic Verbs (학술 격식 동사 8선 — 김나나 교수님 강의 중 직접 낭독!)",
+              "py": "Prism Reading 3 Page 119 · 동의어 매칭 및 문장 형태 변형 주의",
+              "kr": "• 격식 동사(Formal) = 일상 동사(Informal) 1:1 매칭:\n  1) consult = look at (자료를 찾아보다·참고하다)\n  2) contest = disagree with (이의를 제기하다·반대하다)\n  3) deliver = give (전달하다·제출하다)\n  4) diminish = decrease (줄어들다·감소하다)\n  5) instigate = start (논쟁·절차를 촉발하다·시작하다)\n  6) omit = skip; leave out (빠뜨리다·누락하다)\n  7) secure = get (확보하다·얻어내다)\n  8) utilize = use (활용하다·사용하다)\n• 교재 119페이지 문장 빈칸 정답 (수동태·3인칭 단수 변형 주의!):\n  1) Resources are beginning to [diminish]; soon they will run out.\n  2) This company needs to [deliver] its energy policy to the government by the end of the year.\n  3) The application to construct a wind farm in this area has been [contested] by local residents who dislike the idea.\n  4) If people [consult] the documents on our website, they can see how biofuel is made.\n  5) The rise in fuel prices should [instigate] a debate on oil reserves.\n  6) This car [utilizes] fuel more efficiently than previous models.\n  7) Advocates of biofuels sometimes [omit] key details such as how much land is needed to cultivate the crops.\n  8) This country must [secure] new renewable energy sources."
+            }
+          ]
+        },
         {
           "id": 1,
           "title": "Unit 5 Reading 1: We Need More Green Buildings",
@@ -1168,208 +1548,543 @@ var HUFS_DATA = {
       "vocab": [
         {
           "word": "compromise",
+          "zh": "compromise",
           "pos": "n",
-          "meaning": "타협, 절충안 - an agreement between two sides in which each side gives up something"
+          "meaning": "타협, 절충안 - an agreement between two sides in which each side gives up something",
+          "py": "[n] an agreement between two sides in which each side gives up something",
+          "kr": "타협, 절충안 - an agreement between two sides in which each side gives up something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 타협, 절충안"
         },
         {
           "word": "conservation",
+          "zh": "conservation",
           "pos": "n",
-          "meaning": "보존, 보호 - the protection of plants, animals, and natural areas from human damage"
+          "meaning": "보존, 보호 - the protection of plants, animals, and natural areas from human damage",
+          "py": "[n] the protection of plants, animals, and natural areas from human damage",
+          "kr": "보존, 보호 - the protection of plants, animals, and natural areas from human damage",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 보존, 보호"
         },
         {
           "word": "durable",
+          "zh": "durable",
           "pos": "adj",
-          "meaning": "내구성 있는, 오래가는 - able to last a long time without being damaged"
+          "meaning": "내구성 있는, 오래가는 - able to last a long time without being damaged",
+          "py": "[adj] able to last a long time without being damaged",
+          "kr": "내구성 있는, 오래가는 - able to last a long time without being damaged",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 내구성 있는, 오래가는"
         },
         {
           "word": "efficiency",
+          "zh": "efficiency",
           "pos": "n",
-          "meaning": "효율성 - the condition of producing desired results without waste"
+          "meaning": "효율성 - the condition of producing desired results without waste",
+          "py": "[n] the condition of producing desired results without waste",
+          "kr": "효율성 - the condition of producing desired results without waste",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 효율성"
         },
         {
           "word": "relevant",
+          "zh": "relevant",
           "pos": "adj",
-          "meaning": "관련 있는, 유의미한 - related to a subject or something happening"
+          "meaning": "관련 있는, 유의미한 - related to a subject or something happening",
+          "py": "[adj] related to a subject or something happening",
+          "kr": "관련 있는, 유의미한 - related to a subject or something happening",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 관련 있는, 유의미한"
         },
         {
           "word": "secondhand",
+          "zh": "secondhand",
           "pos": "adj",
-          "meaning": "중고의 - not new; having been used in the past by someone else"
+          "meaning": "중고의 - not new; having been used in the past by someone else",
+          "py": "[adj] not new; having been used in the past by someone else",
+          "kr": "중고의 - not new; having been used in the past by someone else",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 중고의"
         },
         {
           "word": "sector",
+          "zh": "sector",
           "pos": "n",
-          "meaning": "부문, 분야 - a part of society separated from other parts"
+          "meaning": "부문, 분야 - a part of society separated from other parts",
+          "py": "[n] a part of society separated from other parts",
+          "kr": "부문, 분야 - a part of society separated from other parts",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 부문, 분야"
         },
         {
           "word": "function",
+          "zh": "function",
           "pos": "n",
-          "meaning": "기능, 목적 - a purpose, or the way something works"
+          "meaning": "기능, 목적 - a purpose, or the way something works",
+          "py": "[n] a purpose, or the way something works",
+          "kr": "기능, 목적 - a purpose, or the way something works",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 기능, 목적"
         },
         {
           "word": "depressing",
+          "zh": "depressing",
           "pos": "adj",
-          "meaning": "우울한, 답답한 - making you feel unhappy and without hope"
+          "meaning": "우울한, 답답한 - making you feel unhappy and without hope",
+          "py": "[adj] making you feel unhappy and without hope",
+          "kr": "우울한, 답답한 - making you feel unhappy and without hope",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 우울한, 답답한"
         },
         {
           "word": "inspiring",
+          "zh": "inspiring",
           "pos": "adj",
-          "meaning": "영감을 주는, 고무적인 - causing eagerness to learn or do something"
+          "meaning": "영감을 주는, 고무적인 - causing eagerness to learn or do something",
+          "py": "[adj] causing eagerness to learn or do something",
+          "kr": "영감을 주는, 고무적인 - causing eagerness to learn or do something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 영감을 주는, 고무적인"
         },
         {
           "word": "civilized",
+          "zh": "civilized",
           "pos": "adj",
-          "meaning": "문명화된, 교양 있는 - having a well-developed way of life and social systems"
+          "meaning": "문명화된, 교양 있는 - having a well-developed way of life and social systems",
+          "py": "[adj] having a well-developed way of life and social systems",
+          "kr": "문명화된, 교양 있는 - having a well-developed way of life and social systems",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 문명화된, 교양 있는"
         },
         {
           "word": "reflect on",
+          "zh": "reflect on",
           "pos": "v phrase",
-          "meaning": "인상을 주다 - causes people to think of someone in a specified way"
+          "meaning": "인상을 주다 - causes people to think of someone in a specified way",
+          "py": "[v phrase] causes people to think of someone in a specified way",
+          "kr": "인상을 주다 - causes people to think of someone in a specified way",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v phrase · 한국어: 인상을 주다"
         },
         {
           "word": "reputation",
+          "zh": "reputation",
           "pos": "n",
-          "meaning": "명성, 평판 - the general opinion that people have about someone"
+          "meaning": "명성, 평판 - the general opinion that people have about someone",
+          "py": "[n] the general opinion that people have about someone",
+          "kr": "명성, 평판 - the general opinion that people have about someone",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 명성, 평판"
         },
         {
           "word": "demonstrate",
+          "zh": "demonstrate",
           "pos": "v",
-          "meaning": "입증하다, 시연하다 - to show or prove something clearly"
+          "meaning": "입증하다, 시연하다 - to show or prove something clearly",
+          "py": "[v] to show or prove something clearly",
+          "kr": "입증하다, 시연하다 - to show or prove something clearly",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 입증하다, 시연하다"
         },
         {
           "word": "structural engineer",
+          "zh": "structural engineer",
           "pos": "n",
-          "meaning": "구조 기술사 - specialist helping build an architectural design"
+          "meaning": "구조 기술사 - specialist helping build an architectural design",
+          "py": "[n] specialist helping build an architectural design",
+          "kr": "구조 기술사 - specialist helping build an architectural design",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 구조 기술사"
         },
         {
           "word": "skyscrapers",
+          "zh": "skyscrapers",
           "pos": "n",
-          "meaning": "초고층 빌딩, 마천루 - very tall modern buildings in cities"
+          "meaning": "초고층 빌딩, 마천루 - very tall modern buildings in cities",
+          "py": "[n] very tall modern buildings in cities",
+          "kr": "초고층 빌딩, 마천루 - very tall modern buildings in cities",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 초고층 빌딩, 마천루"
         },
         {
           "word": "urban sprawl",
+          "zh": "urban sprawl",
           "pos": "n",
-          "meaning": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside"
+          "meaning": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside",
+          "py": "[n] uncontrolled expansion of cities into countryside",
+          "kr": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 도시 무질서 팽창"
         },
         {
           "word": "green belt",
+          "zh": "green belt",
           "pos": "n",
-          "meaning": "개발제한구역, 그린벨트 - a section of nature near a city protected from development"
+          "meaning": "개발제한구역, 그린벨트 - a section of nature near a city protected from development",
+          "py": "[n] a section of nature near a city protected from development",
+          "kr": "개발제한구역, 그린벨트 - a section of nature near a city protected from development",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 개발제한구역, 그린벨트"
         },
         {
           "word": "suburban",
+          "zh": "suburban",
           "pos": "adj",
-          "meaning": "교외의 - neighborhoods outside city centers, usually with houses"
+          "meaning": "교외의 - neighborhoods outside city centers, usually with houses",
+          "py": "[adj] neighborhoods outside city centers, usually with houses",
+          "kr": "교외의 - neighborhoods outside city centers, usually with houses",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 교외의"
         },
         {
           "word": "outskirts",
+          "zh": "outskirts",
           "pos": "n",
-          "meaning": "교외, 변두리 - the outer parts of a town or city"
+          "meaning": "교외, 변두리 - the outer parts of a town or city",
+          "py": "[n] the outer parts of a town or city",
+          "kr": "교외, 변두리 - the outer parts of a town or city",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 교외, 변두리"
         },
         {
           "word": "amenities",
+          "zh": "amenities",
           "pos": "n",
-          "meaning": "편의시설 - public facilities that people enjoy, e.g. pools, parks"
+          "meaning": "편의시설 - public facilities that people enjoy, e.g. pools, parks",
+          "py": "[n] public facilities that people enjoy, e.g. pools, parks",
+          "kr": "편의시설 - public facilities that people enjoy, e.g. pools, parks",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 편의시설"
         },
         {
           "word": "aquatic",
+          "zh": "aquatic",
           "pos": "adj",
-          "meaning": "수생의, 물속의 - living in, happening in, or connected with water"
+          "meaning": "수생의, 물속의 - living in, happening in, or connected with water",
+          "py": "[adj] living in, happening in, or connected with water",
+          "kr": "수생의, 물속의 - living in, happening in, or connected with water",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 수생의, 물속의"
         },
         {
           "word": "offshore",
+          "zh": "offshore",
           "pos": "adj/adv",
-          "meaning": "해상의, 앞바다의 - away from or at a distance from the land"
+          "meaning": "해상의, 앞바다의 - away from or at a distance from the land",
+          "py": "[adj/adv] away from or at a distance from the land",
+          "kr": "해상의, 앞바다의 - away from or at a distance from the land",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj/adv · 한국어: 해상의, 앞바다의"
         },
         {
           "word": "inexhaustible",
+          "zh": "inexhaustible",
           "pos": "adj",
-          "meaning": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up"
+          "meaning": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up",
+          "py": "[adj] in such large amounts that it cannot be used up",
+          "kr": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 고갈되지 않는, 무궁무진한"
         },
         {
           "word": "initial",
+          "zh": "initial",
           "pos": "adj",
-          "meaning": "초기의, 처음의 - at the beginning; first"
+          "meaning": "초기의, 처음의 - at the beginning; first",
+          "py": "[adj] at the beginning; first",
+          "kr": "초기의, 처음의 - at the beginning; first",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 초기의, 처음의"
         },
         {
           "word": "generate",
+          "zh": "generate",
           "pos": "v",
-          "meaning": "발생시키다, 생성하다 - to cause to exist; produce"
+          "meaning": "발생시키다, 생성하다 - to cause to exist; produce",
+          "py": "[v] to cause to exist; produce",
+          "kr": "발생시키다, 생성하다 - to cause to exist; produce",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 발생시키다, 생성하다"
         },
         {
           "word": "universal",
+          "zh": "universal",
           "pos": "adj",
-          "meaning": "보편적인, 만인의 - existing everywhere or involving everyone"
+          "meaning": "보편적인, 만인의 - existing everywhere or involving everyone",
+          "py": "[adj] existing everywhere or involving everyone",
+          "kr": "보편적인, 만인의 - existing everywhere or involving everyone",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 보편적인, 만인의"
         },
         {
           "word": "utilize",
+          "zh": "utilize",
           "pos": "v",
-          "meaning": "활용하다, 이용하다 - to make use of something"
+          "meaning": "활용하다, 이용하다 - to make use of something",
+          "py": "[v] to make use of something",
+          "kr": "활용하다, 이용하다 - to make use of something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 활용하다, 이용하다"
         },
         {
           "word": "address",
+          "zh": "address",
           "pos": "v",
-          "meaning": "다루다, 고심하다 - to give attention to or deal with a matter or problem"
+          "meaning": "다루다, 고심하다 - to give attention to or deal with a matter or problem",
+          "py": "[v] to give attention to or deal with a matter or problem",
+          "kr": "다루다, 고심하다 - to give attention to or deal with a matter or problem",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 다루다, 고심하다"
         },
         {
           "word": "adopt",
+          "zh": "adopt",
           "pos": "v",
-          "meaning": "도입하다, 채택하다 - to accept or begin to use something new"
+          "meaning": "도입하다, 채택하다 - to accept or begin to use something new",
+          "py": "[v] to accept or begin to use something new",
+          "kr": "도입하다, 채택하다 - to accept or begin to use something new",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 도입하다, 채택하다"
         },
         {
           "word": "alarming",
+          "zh": "alarming",
           "pos": "adj",
-          "meaning": "걱정스러운, 두려운 - causing worry or fear"
+          "meaning": "걱정스러운, 두려운 - causing worry or fear",
+          "py": "[adj] causing worry or fear",
+          "kr": "걱정스러운, 두려운 - causing worry or fear",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 걱정스러운, 두려운"
         },
         {
           "word": "diminish",
+          "zh": "diminish",
           "pos": "v",
-          "meaning": "줄이다, 감소하다 - to reduce or be reduced in size or importance"
+          "meaning": "줄이다, 감소하다 - to reduce or be reduced in size or importance",
+          "py": "[v] to reduce or be reduced in size or importance",
+          "kr": "줄이다, 감소하다 - to reduce or be reduced in size or importance",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 줄이다, 감소하다"
         },
         {
           "word": "instigate",
+          "zh": "instigate",
           "pos": "v",
-          "meaning": "촉발하다, 부추기다 - to cause an event or situation to happen"
+          "meaning": "촉발하다, 부추기다 - to cause an event or situation to happen",
+          "py": "[v] to cause an event or situation to happen",
+          "kr": "촉발하다, 부추기다 - to cause an event or situation to happen",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 촉발하다, 부추기다"
         },
         {
           "word": "resistant",
+          "zh": "resistant",
           "pos": "adj",
-          "meaning": "저항하는, 반대하는 - not accepting of something"
+          "meaning": "저항하는, 반대하는 - not accepting of something",
+          "py": "[adj] not accepting of something",
+          "kr": "저항하는, 반대하는 - not accepting of something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 저항하는, 반대하는"
         },
         {
           "word": "urgent",
+          "zh": "urgent",
           "pos": "adj",
-          "meaning": "긴급한, 다급한 - needing immediate attention"
+          "meaning": "긴급한, 다급한 - needing immediate attention",
+          "py": "[adj] needing immediate attention",
+          "kr": "긴급한, 다급한 - needing immediate attention",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 긴급한, 다급한"
         },
         {
           "word": "vital",
+          "zh": "vital",
           "pos": "adj",
-          "meaning": "필수적인, 생명에 중요한 - extremely important for success or survival"
+          "meaning": "필수적인, 생명에 중요한 - extremely important for success or survival",
+          "py": "[adj] extremely important for success or survival",
+          "kr": "필수적인, 생명에 중요한 - extremely important for success or survival",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 필수적인, 생명에 중요한"
         },
         {
           "word": "fossil / alternative fuel",
+          "zh": "fossil / alternative fuel",
           "pos": "collocation",
-          "meaning": "화석 연료 / 대체 연료"
+          "meaning": "화석 연료 / 대체 연료",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "화석 연료 / 대체 연료",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 화석 연료 / 대체 연료"
         },
         {
           "word": "renewable / solar energy",
+          "zh": "renewable / solar energy",
           "pos": "collocation",
-          "meaning": "재생 에너지 / 태양광 에너지"
+          "meaning": "재생 에너지 / 태양광 에너지",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "재생 에너지 / 태양광 에너지",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 재생 에너지 / 태양광 에너지"
         },
         {
           "word": "environmental pollution",
+          "zh": "environmental pollution",
           "pos": "collocation",
-          "meaning": "환경 오염 (air / industrial / water / radioactive)"
+          "meaning": "환경 오염 (air / industrial / water / radioactive)",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "환경 오염 (air / industrial / water / radioactive)",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 환경 오염 (air / industrial / water / radioactive)"
         },
         {
           "word": "energy / power source",
+          "zh": "energy / power source",
           "pos": "collocation",
-          "meaning": "에너지원 / 전력원"
+          "meaning": "에너지원 / 전력원",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "에너지원 / 전력원",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 에너지원 / 전력원"
         },
         {
           "word": "electricity / energy production",
+          "zh": "electricity / energy production",
           "pos": "collocation",
-          "meaning": "전력 생산 / 에너지 생산"
+          "meaning": "전력 생산 / 에너지 생산",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "전력 생산 / 에너지 생산",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 전력 생산 / 에너지 생산"
+        },
+        {
+          "word": "functionalism",
+          "zh": "functionalism",
+          "pos": "n",
+          "meaning": "기능주의 (건물의 아름다움보다 실용적 기능이 더 중요하다고 보는 건축 철학) - an architectural philosophy that believes function is more important than beauty",
+          "py": "[n] an architectural philosophy that believes function is more important than beauty",
+          "kr": "기능주의 (건물의 아름다움보다 실용적 기능이 더 중요하다고 보는 건축 철학) — an architectural philosophy that believes function is more important than beauty",
+          "level": "🔥 Unit 5 p.100",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 5 p.100)"
+        },
+        {
+          "word": "depress",
+          "zh": "depress",
+          "pos": "v",
+          "meaning": "우울하게 만들다, 의기소침하게 하다 (파생어: depression, depressing, depressingly) - to make someone feel very sad or lose enthusiasm (n: depression, adj: depressing)",
+          "py": "[v] to make someone feel very sad or lose enthusiasm (n: depression, adj: depressing)",
+          "kr": "우울하게 만들다, 의기소침하게 하다 (파생어: depression, depressing, depressingly) — to make someone feel very sad or lose enthusiasm (n: depression, adj: depressing)",
+          "level": "🔥 Unit 5 p.100",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 5 p.100)"
+        },
+        {
+          "word": "fossil / diesel / alternative / clean + fuel",
+          "zh": "fossil / diesel / alternative / clean + fuel",
+          "pos": "collocation",
+          "meaning": "fuel(연료) 연어 그룹: 화석 연료(fossil fuel), 디젤 연료, 대체 연료, 재생 연료, 청정 연료 - Energy Collocation Group 1: words that partner with 'fuel'",
+          "py": "[collocation] Energy Collocation Group 1: words that partner with 'fuel'",
+          "kr": "fuel(연료) 연어 그룹: 화석 연료(fossil fuel), 디젤 연료, 대체 연료, 재생 연료, 청정 연료 — Energy Collocation Group 1: words that partner with 'fuel'",
+          "level": "🔥 Unit 6 p.118",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.118)"
+        },
+        {
+          "word": "renewable / green / nuclear / solar / geothermal + energy",
+          "zh": "renewable / green / nuclear / solar / geothermal + energy",
+          "pos": "collocation",
+          "meaning": "energy(에너지) 연어 그룹: 재생·친환경·원자력·태양광·지열 에너지 - Energy Collocation Group 2: words that partner with 'energy'",
+          "py": "[collocation] Energy Collocation Group 2: words that partner with 'energy'",
+          "kr": "energy(에너지) 연어 그룹: 재생·친환경·원자력·태양광·지열 에너지 — Energy Collocation Group 2: words that partner with 'energy'",
+          "level": "🔥 Unit 6 p.118",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.118)"
+        },
+        {
+          "word": "environmental / air / industrial / water / radioactive + pollution",
+          "zh": "environmental / air / industrial / water / radioactive + pollution",
+          "pos": "collocation",
+          "meaning": "pollution(오염) 연어 그룹: 환경·대기·산업·수질·방사능 오염 - Energy Collocation Group 3: words that partner with 'pollution'",
+          "py": "[collocation] Energy Collocation Group 3: words that partner with 'pollution'",
+          "kr": "pollution(오염) 연어 그룹: 환경·대기·산업·수질·방사능 오염 — Energy Collocation Group 3: words that partner with 'pollution'",
+          "level": "🔥 Unit 6 p.118",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.118)"
+        },
+        {
+          "word": "consult (= look at)",
+          "zh": "consult (= look at)",
+          "pos": "v (formal)",
+          "meaning": "(자료·문서 등을) 찾아보다, 참고하다, 자문을 구하다 (= look at) - formal academic verb meaning 'look at' (documents, experts, data)",
+          "py": "[v (formal)] formal academic verb meaning 'look at' (documents, experts, data)",
+          "kr": "(자료·문서 등을) 찾아보다, 참고하다, 자문을 구하다 (= look at) — formal academic verb meaning 'look at' (documents, experts, data)",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "contest (= disagree with)",
+          "zh": "contest (= disagree with)",
+          "pos": "v (formal)",
+          "meaning": "이의를 제기하다, 반대하다, 다투다 (= disagree with) - formal academic verb meaning 'disagree with' or oppose formally",
+          "py": "[v (formal)] formal academic verb meaning 'disagree with' or oppose formally",
+          "kr": "이의를 제기하다, 반대하다, 다투다 (= disagree with) — formal academic verb meaning 'disagree with' or oppose formally",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "deliver (= give)",
+          "zh": "deliver (= give)",
+          "pos": "v (formal)",
+          "meaning": "(정책·결과물 등을) 전달하다, 제출하다, 이행하다 (= give) - formal academic verb meaning 'give' or hand over officially",
+          "py": "[v (formal)] formal academic verb meaning 'give' or hand over officially",
+          "kr": "(정책·결과물 등을) 전달하다, 제출하다, 이행하다 (= give) — formal academic verb meaning 'give' or hand over officially",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "diminish (= decrease)",
+          "zh": "diminish (= decrease)",
+          "pos": "v (formal)",
+          "meaning": "줄어들다, 감소하다, 약화되다 (= decrease) - formal academic verb meaning 'decrease' or become smaller",
+          "py": "[v (formal)] formal academic verb meaning 'decrease' or become smaller",
+          "kr": "줄어들다, 감소하다, 약화되다 (= decrease) — formal academic verb meaning 'decrease' or become smaller",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "instigate (= start)",
+          "zh": "instigate (= start)",
+          "pos": "v (formal)",
+          "meaning": "(논쟁·변화·절차 등을) 촉발하다, 시작하게 하다 (= start) - formal academic verb meaning 'start' or provoke (a debate, action)",
+          "py": "[v (formal)] formal academic verb meaning 'start' or provoke (a debate, action)",
+          "kr": "(논쟁·변화·절차 등을) 촉발하다, 시작하게 하다 (= start) — formal academic verb meaning 'start' or provoke (a debate, action)",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "omit (= skip; leave out)",
+          "zh": "omit (= skip; leave out)",
+          "pos": "v (formal)",
+          "meaning": "빠뜨리다, 누락하다, 생략하다 (= skip; leave out) - formal academic verb meaning 'skip' or 'leave out'",
+          "py": "[v (formal)] formal academic verb meaning 'skip' or 'leave out'",
+          "kr": "빠뜨리다, 누락하다, 생략하다 (= skip; leave out) — formal academic verb meaning 'skip' or 'leave out'",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "secure (= get)",
+          "zh": "secure (= get)",
+          "pos": "v (formal)",
+          "meaning": "(에너지원·자금 등을 어렵게) 확보하다, 얻어내다 (= get) - formal academic verb meaning 'get' or obtain with effort",
+          "py": "[v (formal)] formal academic verb meaning 'get' or obtain with effort",
+          "kr": "(에너지원·자금 등을 어렵게) 확보하다, 얻어내다 (= get) — formal academic verb meaning 'get' or obtain with effort",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "utilize (= use)",
+          "zh": "utilize (= use)",
+          "pos": "v (formal)",
+          "meaning": "활용하다, 실용적으로 사용하다 (= use) - formal academic verb meaning 'use' effectively",
+          "py": "[v (formal)] formal academic verb meaning 'use' effectively",
+          "kr": "활용하다, 실용적으로 사용하다 (= use) — formal academic verb meaning 'use' effectively",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
         }
       ],
       "qa": [
@@ -1648,14 +2363,172 @@ var HUFS_DATA = {
           "type": "short",
           "answer": 0,
           "explanation": "(1) recycling materials into new products (재활용 과정), (2) decreasing air pollution (대기 오염 감소)"
+        },
+        {
+          "id": "knn_q25",
+          "num": 25,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.119 Formal Academic Verbs] Match the formal academic verbs (consult, contest, instigate, omit) with their exact informal alternatives from Page 119.",
+          "options": [
+            "consult = look at / contest = disagree with / instigate = start / omit = skip (leave out)",
+            "consult = give / contest = get / instigate = decrease / omit = use",
+            "consult = start / contest = look at / instigate = skip / omit = disagree with",
+            "consult = use / contest = decrease / instigate = give / omit = get"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "정답: ①\n10월 14일 현장 강의에서 김나나 교수님이 직접 읽어주시며 강조하신 119페이지 학술 격식 동사 8선 매칭입니다:\n• consult = look at (참고하다/찾아보다)\n• contest = disagree with (반대하다/이의를 제기하다)\n• deliver = give (전달하다)\n• diminish = decrease (감소하다)\n• instigate = start (촉발하다/시작하다)\n• omit = skip; leave out (누락하다/빠뜨리다)\n• secure = get (확보하다)\n• utilize = use (활용하다)"
+        },
+        {
+          "id": "knn_q26",
+          "num": 26,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.119 Sentence Completion] Choose the correct formal verbs from the box to complete the three textbook sentences read aloud by Prof. Kim Nana:\n1. Resources are beginning to ________; soon they will run out.\n2. The application to construct a wind farm in this area has been ________ by local residents who dislike the idea.\n3. If people ________ the documents on our website, they can see how biofuel is made.",
+          "options": [
+            "deliver / utilized / omit",
+            "diminish / contested / consult",
+            "instigate / secured / contest",
+            "omit / diminished / deliver"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n10월 14일 강의 녹취록 25분~27분에서 김나나 교수님이 한 문장씩 직접 읽고 해석해 주신 119페이지 Exercise 4번 원문입니다. 특히 2번 문장은 `has been + 과거분사(contested)` 수동태로 변형되어야 함에 주의하세요!"
+        },
+        {
+          "id": "knn_q27",
+          "num": 27,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.119 Sentence Completion] Complete sentences 5, 6, and 7 from Page 119:\n5. The rise in fuel prices should ________ a debate on oil reserves.\n6. This car ________ fuel more efficiently than previous models.\n7. Advocates of biofuels sometimes ________ key details such as how much land is needed to cultivate the crops.",
+          "options": [
+            "instigate / utilizes / omit",
+            "contest / delivers / secure",
+            "diminish / consults / instigate",
+            "secure / omits / utilize"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "정답: ①\n교재 119페이지 Exercise 4번의 5, 6, 7번 문장입니다. 유가 상승이 논쟁을 '촉발하다(`instigate`)', 이 자동차가 연료를 더 효율적으로 '활용하다(`utilizes`, 3인칭 단수 -s 주의)', 바이오연료 옹호론자들이 핵심 세부사항을 '누락하다(`omit`)'가 정답입니다."
+        },
+        {
+          "id": "knn_q28",
+          "num": 28,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.118 Energy Collocations] Match each group of modifiers from Page 118 with the single noun that collocates with ALL words in that group:\nGroup A: fossil / diesel / alternative / renewable / clean + [ ______ ]\nGroup B: environmental / air / industrial / water / radioactive + [ ______ ]\nGroup C: electricity / energy / oil / gas / agricultural + [ ______ ]",
+          "options": [
+            "Group A: energy / Group B: problem / Group C: source",
+            "Group A: fuel / Group B: pollution / Group C: production",
+            "Group A: source / Group B: pollution / Group C: energy",
+            "Group A: fuel / Group B: problem / Group C: source"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n김나나 교수님께서 \"이거는 모든 반에 다 냈습니다\"라고 밝히신 118페이지 Energy Collocations 문제입니다.\n• fossil/diesel/alternative/renewable/clean + **fuel**\n• renewable/green/nuclear/solar/geothermal + **energy**\n• environmental/air/industrial/water/radioactive + **pollution**\n• energy/fuel/power/water/renewable + **source**\n• electricity/energy/oil/gas/agricultural + **production**\n• serious/health/environmental/major/medical + **problem**"
+        },
+        {
+          "id": "knn_q29",
+          "num": 29,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.118 Exercise 2] Complete the sentences from Page 118 Exercise 2:\n1. Critics of ________ energy say that the risks to the environment outweigh the benefits of cheap electricity.\n2. Asthma and diabetes are increasingly common ________ problems.\n3. ________ fuels, such as oil and gas, have a finite lifespan.",
+          "options": [
+            "solar / industrial / Clean",
+            "nuclear / health (or medical) / Fossil",
+            "geothermal / environmental / Renewable",
+            "green / major / Alternative"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 118페이지 Exercise 2번입니다. 저렴한 전기라는 이점보다 환경적 위험(방사능 등)이 더 크다고 비판받는 것은 원자력 에너지(`nuclear energy`), 천식과 당뇨병은 건강/의학적 문제(`health / medical problems`), 석유와 가스처럼 수명이 유한한 것은 화석 연료(`Fossil fuels`)입니다."
+        },
+        {
+          "id": "knn_q30",
+          "num": 30,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.100 Academic Word Families] Choose the correct word forms from the family table on Page 100 to complete the sentences:\n1. ________ is an architectural philosophy that believes that function is more important than beauty.\n2. ________ friendly buildings usually use energy very ________.\n3. One famous critic described ________ as 'frozen music,' meaning the design of a building is artistic.",
+          "options": [
+            "Function / Environmental / efficient / architect",
+            "Functionalism / Environmentally / efficiently / architecture",
+            "Functional / Environment / efficiency / architectural",
+            "Functionally / Environmentally / efficient / architecture"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 100페이지 Academic Word Families 연습문제 2번의 2, 3, 6번 문장입니다.\n1) 건축 철학의 명칭이므로 명사 `Functionalism`(기능주의)\n2) 형용사 `friendly`를 수식하는 부사 `Environmentally`와 동사 `use`를 수식하는 부사 `efficiently`\n3) '얼어붙은 음악'으로 묘사된 예술 분야이므로 명사 `architecture`(건축)"
+        },
+        {
+          "id": "knn_q31",
+          "num": 31,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.100 Academic Word Families] Complete sentences 4, 5, and 8 from Page 100:\n4. Architects need to plan buildings ________ in order to ensure that they are sustainable.\n5. Badly designed buildings can ________ even the happiest person.\n8. Employers must be ________ for providing safe working areas.",
+          "options": [
+            "responsible / depression / responsibly",
+            "responsibly / depress / responsible",
+            "responsibility / depressing / responsible",
+            "responsibly / depressingly / responsibility"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 100페이지 연습문제 2번의 4, 5, 8번 문장입니다. 동사 `plan`을 수식하는 부사 `responsibly`, 조동사 `can` 뒤의 동사원형 `depress`, `be동사 + 형용사 + for` 구문의 `responsible`이 정답입니다."
+        },
+        {
+          "id": "knn_q32",
+          "num": 32,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.101 Architecture and Planning Vocabulary] Match the definitions from Page 101 with the exact terms from the box:\n(A) When cities spread out into the countryside, and parking lots or new buildings replace forests and fields.\n(B) A section of nature in or near a city that cannot be developed or built on.\n(C) Public facilities that people enjoy living near, such as libraries, swimming pools, and playgrounds.",
+          "options": [
+            "(A) outskirts / (B) suburban / (C) skyscrapers",
+            "(A) urban sprawl / (B) green belt / (C) amenities",
+            "(A) green belt / (B) urban sprawl / (C) structural engineer",
+            "(A) suburban / (B) amenities / (C) outskirts"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 101페이지 Exercise 3번 정의 매칭 문제입니다.\n• (A) 도시가 시골로 팽창하며 숲과 들판을 주차장·건물로 대체하는 현상 = `urban sprawl`(도시 확산)\n• (B) 도시 내·외곽에서 개발이나 건축이 금지된 자연 녹지 구역 = `green belt`(그린벨트)\n• (C) 도서관, 수영장, 놀이터 등 주민들이 가까이 두고 즐기는 공공 편의시설 = `amenities`"
+        },
+        {
+          "id": "knn_q33",
+          "num": 33,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.101 Exercise 3] Complete sentence 1 and sentence 5 from Page 101:\n1. A person who has special training that enables him or her to help build an architectural design is a ________.\n5. ________ neighborhoods are not located within a city. They are found on the ________ of a city and usually have houses rather than apartment buildings.",
+          "options": [
+            "structural engineer / Suburban / outskirts",
+            "architect / Urban / green belt",
+            "structural engineer / Outskirts / suburban",
+            "skyscraper / Suburban / amenities"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "정답: ①\n교재 101페이지 Exercise 3번의 1번과 5번 문장입니다. 건축 설계를 안전하게 시공하도록 전문 훈련을 받은 사람은 `structural engineer`(구조 공학자)이며, 도시 내부가 아니라 도시 변두리(`on the outskirts of a city`)에 위치해 아파트보다 단독주택이 많은 동네는 `Suburban`(교외의) 주거지입니다."
+        },
+        {
+          "id": "knn_q34",
+          "num": 34,
+          "question": "[Oct 14 강의 지목 — 지시어 추론 (Reference Words)] In Unit 5 Reading 2 (Bosco Verticale in Milan), Paragraph 4 states: \"The trees and plants on the buildings also help reduce noise and air pollution from the traffic below. In addition, they absorb carbon dioxide and produce oxygen.\" What does the pronoun 'they' refer to?",
+          "options": [
+            "The residents living in Bosco Verticale",
+            "The traffic and cars below the buildings",
+            "The trees and plants on the buildings",
+            "The architects and structural engineers in Milan"
+          ],
+          "type": "choice",
+          "answer": 3,
+          "explanation": "정답: ③\n김나나 교수님이 6대 출제 유형 중 하나로 직접 강조하신 지시어 추론(Reference Words) 유형입니다. 앞 문장의 주어인 `The trees and plants on the buildings`(건물들에 심어진 나무와 식물들)를 받아 이산화탄소를 흡수하고 산소를 배출하는 주체를 가리킵니다."
+        },
+        {
+          "id": "knn_q35",
+          "num": 35,
+          "question": "[Oct 14 강의 지목 — 주관식 영한 번역 대비] 다음 Unit 5 Reading 1의 핵심 문장을 자연스러운 한국어로 번역하시오.\n\"While a building's exterior should be aesthetically pleasing, its primary purpose must always be to serve the practical needs of the people who use it.\"",
+          "options": [],
+          "type": "short",
+          "answer": "건물의 외관이 미적으로(시각적으로) 아름다워야 하지만, 건물의 최우선 목적은 언제나 그 건물을 사용하는 사람들의 실용적인 필요(요구)를 충족시키는 것이어야 한다.",
+          "explanation": "채점 포인트:\n1) `While ~` (비록 ~일지라도 / ~이지만 대조 구문)\n2) `aesthetically pleasing` (미적으로 아름다운 / 보기 좋은)\n3) `primary purpose` (최우선 목적 / 가장 중요한 목적)\n4) `serve the practical needs of the people who use it` (그 건물을 이용하는 사람들의 실용적인 필요를 충족시키다/제공하다)"
+        },
+        {
+          "id": "knn_q36",
+          "num": 36,
+          "question": "[Oct 14 강의 지목 — 주관식 영한 번역 대비] 다음 Unit 6 Reading 1·Language Development 연계 핵심 문장을 자연스러운 한국어로 번역하시오.\n\"As fossil fuels continue to diminish and environmental pollution worsens, governments must invest heavily to secure new renewable energy sources.\"",
+          "options": [],
+          "type": "short",
+          "answer": "화석 연료가 계속해서 고갈되고(감소하고) 환경 오염이 악화됨에 따라, 각국 정부는 새로운 재생 에너지원을 확보하기 위해 대대적으로 투자해야 한다.",
+          "explanation": "채점 포인트:\n1) `fossil fuels continue to diminish` (화석 연료가 계속 줄어들다/감소하다)\n2) `environmental pollution worsens` (환경 오염이 악화되다)\n3) `secure new renewable energy sources` (새로운 재생 에너지원을 확보하다)"
         }
       ]
     },
     "ds_pencil": {
       "id": "ds_pencil",
-      "name": "자료구조 중간고사 지필 7대 고난도 문항",
+      "name": "자료구조 지필 19대 문항 & 구름 12제 마스터 (김은경 교수님)",
       "author": "김은경 교수님 (천인국·최영규 교재)",
-      "category": "자료구조 지필고사 집중 대비",
+      "category": "1~5장 핵심 이론 · 손코딩 · 구름(Goorm) 실습 12제 전수 탑재",
       "qa": [
         {
           "id": "ds-p1",
@@ -1944,104 +2817,380 @@ var HUFS_DATA = {
             }
           ],
           "rubric": "시간 복잡도 비교 표에서 O(1)과 O(n)이 뒤바뀌면 -3점. insert(pos + 1) 인덱스 오류 시 -1점."
+        },
+        {
+          "id": "ds_p13",
+          "num": 13,
+          "title": "[구름 과제 2.14] 근로소득 누진세 및 세후 소득 계산기 (구간별 초과 누진세율)",
+          "question": "근로소득(income, 단위: 만원)을 입력받아 아래 과세표준 구간별 세율표에 따라 누진세(tax)와 세후 소득(income - tax)을 계산하는 함수를 작성하시오.\n- 1,200만원 이하: 6%\n- 1,200만원 초과 ~ 4,600만원 이하: 15% (1,200만원까지는 6%, 초과분만 15%)\n- 4,600만원 초과 ~ 8,800만원 이하: 24%\n- 8,800만원 초과 ~ 15,000만원 이하: 35%\n- 15,000만원 초과: 38%",
+          "sub_questions": [
+            {
+              "sub_num": "13-1",
+              "sub_title": "지필 빈칸 1순위: 구간별 초과분(income - 기준금액) 누적 계산 로직",
+              "solution": "def calc_tax(income):\n    if income <= 1200:\n        tax = income * 0.06\n    elif income <= 4600:\n        tax = 1200 * 0.06 + (income - 1200) * 0.15\n    elif income <= 8800:\n        tax = 1200 * 0.06 + (4600 - 1200) * 0.15 + (income - 4600) * 0.24\n    elif income <= 15000:\n        tax = 1200 * 0.06 + 3400 * 0.15 + (8800 - 4600) * 0.24 + (income - 8800) * 0.35\n    else:\n        tax = 1200 * 0.06 + 3400 * 0.15 + 4200 * 0.24 + (15000 - 8800) * 0.35 + (income - 15000) * 0.38\n    return tax"
+            },
+            {
+              "sub_num": "13-2",
+              "sub_title": "손추적 예제: 소득이 2,000만원일 때 전체 세금과 세후 소득은?",
+              "solution": "• 1구간 (1,200만원 이하): 1200 * 0.06 = 72만원\n• 2구간 (1,200만원 초과분 800만원): (2000 - 1200) * 0.15 = 800 * 0.15 = 120만원\n• 총 세금(tax) = 72 + 120 = 192만원\n• 세후 소득(net) = 2000 - 192 = 1,808만원"
+            }
+          ],
+          "rubric": "전체 금액에 상위 세율을 일괄 곱하는(예: 2000 * 0.15) 실수를 범하면 0점 처리됨. 반드시 하위 구간 세액 합산 + (income - 하한선) * 해당구간세율 공식을 정확히 작성할 것."
+        },
+        {
+          "id": "ds_p14",
+          "num": 14,
+          "title": "[구름 과제 2.15] 번호 맞히기 게임 (Up-and-Down 탐색 범위 좁히기)",
+          "question": "숨겨진 두 자리 숫자(answer)를 최대 10번 안에 맞히는 Up-and-Down 게임을 구현하시오. 사용자의 추측값(guess)에 따라 힌트 범위(min_v ~ max_v)를 동적으로 갱신해야 한다.",
+          "sub_questions": [
+            {
+              "sub_num": "14-1",
+              "sub_title": "지필 빈칸 1순위: min_v와 max_v 갱신 조건문",
+              "solution": "min_v, max_v = 0, 99\nfor i in range(10):\n    guess = int(input(f'숫자를 입력하세요(범위:{min_v}~{max_v}): '))\n    if guess == answer:\n        print(f'정답입니다. {i+1}번 만에 맞추셨습니다.')\n        break\n    elif guess < answer:\n        print('아닙니다. 더 큰 숫자입니다!')\n        if guess > min_v:\n            min_v = guess   # 하한선(min_v)을 guess로 끌어올림\n    else:\n        print('아닙니다. 더 작은 숫자입니다!')\n        if guess < max_v:\n            max_v = guess   # 상한선(max_v)을 guess로 끌어내림"
+            },
+            {
+              "sub_num": "14-2",
+              "sub_title": "시간 복잡도 연계 질문: 항상 중간값(mid)을 부를 때 최악 탐색 횟수는?",
+              "solution": "매 단계 탐색 범위가 절반(1/2)으로 줄어드는 이진 탐색(Binary Search) 원리와 동일하므로 시간 복잡도는 O(log₂ n)이다. 0~99(100개) 범위에서는 최대 ⌈log₂ 100⌉ = 7번 이내에 반드시 정답을 찾을 수 있다."
+            }
+          ],
+          "rubric": "guess < answer(정답이 더 클 때)에서 min_v = guess로 갱신하고, guess > answer(정답이 더 작을 때)에서 max_v = guess로 갱신하는 부등호 방향을 반대로 쓰지 않도록 주의할 것."
+        },
+        {
+          "id": "ds_p15",
+          "num": 15,
+          "title": "[구름 과제 2.16] 숫자 피라미드 출력 (3중 분할 중첩 루프 설계)",
+          "question": "높이(height)를 입력받아 각 줄마다 좌측 공백, 오름차순 홀수(1, 3, 5, ...), 내림차순 홀수(..., 5, 3, 1)로 구성된 대칭 숫자 피라미드를 출력하는 중첩 for 루프를 작성하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "15-1",
+              "sub_title": "지필 빈칸 1순위: 공백 루프 · 오름차순 루프 · 내림차순 루프 range() 인자",
+              "solution": "for i in range(1, height + 1):\n    # 1) 앞쪽 정렬용 공백 출력\n    for _ in range(height - i):\n        print('   ', end='')\n    # 2) 중앙까지 홀수 오름차순 출력: 1, 3, ..., 2*i - 1\n    for j in range(1, i + 1):\n        print(f'{2*j - 1:3d}', end='')\n    # 3) 중앙 우측 홀수 내림차순 출력: 2*(i-1) - 1, ..., 3, 1\n    for j in range(i - 1, 0, -1):\n        print(f'{2*j - 1:3d}', end='')\n    print()"
+            },
+            {
+              "sub_num": "15-2",
+              "sub_title": "시간 복잡도 분석: 높이 N일 때 전체 출력 연산 횟수는?",
+              "solution": "바깥 루프가 i = 1부터 N까지 돌 때 내부 루프의 총 반복 횟수는 (N - i) + i + (i - 1) = N + i - 1회이므로, 전체 연산 횟수는 ∑(N + i - 1) ≈ (3/2)N²에 비례하여 O(N²) 시간 복잡도를 가진다."
+            }
+          ],
+          "rubric": "내림차순 루프의 range(i - 1, 0, -1)에서 시작값(i-1), 종료값(0), 증감폭(-1) 3개 인자와 홀수 수식(2*j - 1)을 정확히 작성해야 만점."
+        },
+        {
+          "id": "ds_p16",
+          "num": 16,
+          "title": "[구름 과제 4.17] 배열 스택(ArrayStack)을 이용한 회문(Palindrome) 판별기",
+          "question": "입력 문자열에서 알파벳과 숫자만 추출해 소문자로 통일한 뒤, ArrayStack 하나만을 사용하여 앞뒤가 똑같은 회문(Palindrome, 예: 'Madam, I'm Adam', 'racecar')인지 판별하는 함수를 작성하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "16-1",
+              "sub_title": "지필 손코딩 모범 답안: 전처리 + 스택 push 후 pop 역순 비교",
+              "solution": "def is_palindrome_stack(text):\n    s = ArrayStack(100)\n    clean = ''\n    for ch in text.lower():\n        if 'a' <= ch <= 'z' or '0' <= ch <= '9':\n            clean += ch\n            s.push(ch)\n    for ch in clean:\n        if ch != s.pop():   # LIFO 특성상 맨 뒤 글자부터 꺼내어 앞 글자와 비교\n            return False\n    return True"
+            },
+            {
+              "sub_num": "16-2",
+              "sub_title": "비교 질문: 4.17 스택 회문 검사 vs 5.22 원형 덱 회문 검사의 차이점은?",
+              "solution": "• 스택(4.17): LIFO 구조이므로 문자열 전체를 일단 끝까지 push한 뒤, 다시 처음부터 순회하며 pop()한 문자(역순)와 비교해야 한다(2-Pass).\n• 덱(5.22): 양단 입출력이 가능하므로 while dq.size() > 1 동안 deleteFront()와 deleteRear()를 동시에 꺼내 한 번에 양끝을 비교할 수 있다(절반만 비교, 1개 남으면 자동 종료)."
+            }
+          ],
+          "rubric": "대소문자 통일(.lower()) 및 공백·문장부호 제거 전처리를 수행한 뒤 스택의 LIFO 역순 출력 성질을 활용해 비교했는지 채점함."
+        },
+        {
+          "id": "ds_p17",
+          "num": 17,
+          "title": "[구름 과제 4.20] 중위표기 수식의 후위표기 변환(Infix2Postfix) 및 계산(evalPostfix) 통합",
+          "question": "공백으로 분리된 중위표기 수식(예: '( 2 + 3 ) * 4 - 5')을 입력받아 1) 후위표기 리스트로 변환하고, 2) 변환된 후위표기 수식을 스택으로 계산해 최종 결과를 출력하는 두 핵심 함수(Infix2Postfix, evalPostfix)의 빈칸과 스택 상태를 추적하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "17-1",
+              "sub_title": "연산자 우선순위 함수 precedence(op) 및 변환·계산 핵심 조건",
+              "solution": "def precedence(op):\n    if op in ('(', ')'): return 0\n    elif op in ('+', '-'): return 1\n    elif op in ('*', '/'): return 2\n    return -1\n\n# [Infix2Postfix 핵심 규칙]\n# 1) '('는 무조건 스택에 push하되, 스택 안에 들어간 '('의 우선순위는 0으로 취급\n# 2) ')'를 만나면 '('가 나올 때까지 pop하여 출력 리스트에 추가 ('('는 버림)\n# 3) 일반 연산자 op를 만나면: while not s.isEmpty() and precedence(op) <= precedence(s.peek()): output.append(s.pop()) 후 s.push(op)\n\n# [evalPostfix 핵심 규칙 — 피연산자 순서 절대 주의!]\n# 연산자 token을 만나면:\n# val2 = s.pop()  # 먼저 꺼낸 값이 오른쪽 피연산자(두 번째 값)!\n# val1 = s.pop()  # 나중에 꺼낸 값이 왼쪽 피연산자(첫 번째 값)!\n# '-', '/' 연산 시 반드시 val1 - val2, val1 / val2 순서로 계산 후 push!"
+            },
+            {
+              "sub_num": "17-2",
+              "sub_title": "실전 손추적: 중위식 '8 / 2 - 3 + ( 3 * 2 )'의 후위식 변환 결과와 계산 과정",
+              "solution": "1) 후위식 변환 결과: 8 2 / 3 - 3 2 * +\n2) 후위식 스택 계산 과정:\n   • 8, 2 push → [8, 2]\n   • '/' 만남 → val2=2, val1=8 → 8/2=4.0 push → [4.0]\n   • 3 push → [4.0, 3]\n   • '-' 만남 → val2=3, val1=4.0 → 4.0-3=1.0 push → [1.0]\n   • 3, 2 push → [1.0, 3, 2]\n   • '*' 만남 → val2=2, val1=3 → 3*2=6 push → [1.0, 6]\n   • '+' 만남 → val2=6, val1=1.0 → 1.0+6=7.0 push → 최종 정답: 7.0"
+            }
+          ],
+          "rubric": "evalPostfix에서 첫 번째 pop()을 val2, 두 번째 pop()을 val1으로 두어 val1 - val2 및 val1 / val2로 연산하는 순서를 뒤바꾸면 감점됨."
+        },
+        {
+          "id": "ds_p18",
+          "num": 18,
+          "title": "[구름 과제 5.19] 미로 탐색 알고리즘 비교: 스택 기반 깊이우선탐색(DFS) vs 큐 기반 너비우선탐색(BFS)",
+          "question": "5장 실습 과제인 미로 탐색 프로그램에서 1) 유효 이동 칸 검사 함수 isValidPos(x, y)를 작성하고, 2) 스택(DFS)을 쓸 때와 원형 큐(BFS)를 쓸 때의 탐색 궤적 및 최단 경로 보장 여부를 비교 서술하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "18-1",
+              "sub_title": "지필 손코딩 1순위: isValidPos(x, y) 경계 조건 및 통로 검사",
+              "solution": "def isValidPos(x, y):\n    if 0 <= x < MAZE_SIZE and 0 <= y < MAZE_SIZE:\n        if map[y][x] == '0' or map[y][x] == 'x':  # 아직 안 가본 통로('0')이거나 출구('x')\n            return True\n    return False\n\n# 방문 표시: 꺼낸 위치 (x, y)가 출구('x')가 아니면 map[y][x] = '.' 으로 마킹하여 무한 루프(재방문) 방지!"
+            },
+            {
+              "sub_num": "18-2",
+              "sub_title": "서술형 핵심: DFS(스택) vs BFS(큐) 코드 차이 및 최단 경로 보장 비교",
+              "solution": "• 코드상의 유일한 차이: 컨테이너 객체를 ArrayStack()에서 CircularQueue()로 바꾸고, push/pop을 enqueue/dequeue로 바꾼 것뿐이다.\n• 탐색 방식 및 최단 경로 보장 여부:\n  - DFS(스택): 가장 최근에 넣은 인접 칸을 먼저 꺼내므로 한 갈래 길로 끝까지 파고들며, 막히면 되돌아온다(Backtracking). 처음 찾은 경로가 최단 경로임을 보장하지 않는다.\n  - BFS(원형 큐): 시작점에서 거리가 1인 칸, 2인 칸 순서대로 물결이 퍼지듯 탐색하므로, 출구('x')에 도달했을 때의 경로가 항상 최단 거리임을 보장한다."
+            }
+          ],
+          "rubric": "isValidPos에서 인덱스 범위(0 <= x < MAZE_SIZE)를 먼저 검사(단락 평가)한 뒤 map[y][x] in ('0', 'x')를 확인해야 IndexError가 발생하지 않음."
+        },
+        {
+          "id": "ds_p19",
+          "num": 19,
+          "title": "[구름 과제 5.22] 원형 덱(CircularDeque)을 이용한 양방향 회문(Palindrome) 검사기",
+          "question": "원형 큐(CircularQueue)를 상속받아 구현한 원형 덱(CircularDeque)을 이용하여 문자열이 회문인지 판별하는 알고리즘을 작성하고, 왜 반복 조건이 `dq.size() > 1`인지 서술하시오.",
+          "sub_questions": [
+            {
+              "sub_num": "19-1",
+              "sub_title": "지필 손코딩 모범 답안: addRear 적재 후 deleteFront == deleteRear 비교",
+              "solution": "def is_palindrome_deque(text):\n    dq = CircularDeque(100)\n    for ch in text.lower():\n        if 'a' <= ch <= 'z' or '0' <= ch <= '9':\n            dq.addRear(ch)\n\n    while dq.size() > 1:   # 원소가 2개 이상 남아 있을 때만 양끝 쌍 비교\n        if dq.deleteFront() != dq.deleteRear():\n            return False\n    return True"
+            },
+            {
+              "sub_num": "19-2",
+              "sub_title": "감점 방어 서술 포인트: 왜 while not dq.isEmpty()가 아니라 while dq.size() > 1 인가?",
+              "solution": "문자열 길이가 홀수(예: 'madam', 5글자)일 때 양끝에서 2개씩 두 번 꺼내면 정중앙 글자('d') 1개만 덱에 남게 된다. 만약 조건을 `not dq.isEmpty()`로 두면 마지막 1개 남은 원소에 대해 `deleteFront()`를 수행한 직후 덱이 비어버려, 이어지는 `deleteRear()`에서 언더플로(Underflow / None 반환)가 발생해 무조건 False가 되는 치명적 버그가 생긴다. 따라서 `dq.size() > 1`이 정답이다."
+            }
+          ],
+          "rubric": "반복 조건 `dq.size() > 1` 명시 및 홀수 길이 문자열에서의 언더플로 방지 이유를 정확히 서술해야 만점."
         }
       ],
       "vocab": [
         {
           "zh": "Abstract Data Type (ADT)",
-          "py": "추상 자료형",
+          "py": "추상 자료형 [1장]",
           "pos": "핵심 개념",
-          "kr": "데이터와 연산의 명세만을 정의하고 구체적 구현 세부사항은 내부로 은닉하는 객체지향 설계 개념",
-          "level": "⭐ 자료구조 1장",
-          "note": "캡슐화 및 정보 은닉"
+          "kr": "데이터와 연산의 명세(What)만을 정의하고 구체적 구현 방법(How)은 은닉하는 개념",
+          "level": "⭐ 1장",
+          "note": "정보 은닉 및 캡슐화"
         },
         {
-          "zh": "Big-O Notation",
-          "py": "빅오 표기법",
-          "pos": "점근 표기법",
-          "kr": "입력 크기 n에 대해 최악의 경우(Worst-case) 실행 시간의 상한(Upper Bound)을 나타내는 점근적 분석 도구",
-          "level": "⭐ 자료구조 1장",
-          "note": "0 <= f(n) <= c*g(n)"
+          "zh": "Big-O 수학적 정의",
+          "py": "T(n) ≤ c · g(n) (단, n ≥ n₀)",
+          "pos": "시간 복잡도",
+          "kr": "충분히 큰 입력 크기 n ≥ n₀에 대해 수행 시간의 점근적 상한(Upper bound)을 나타내는 표기법",
+          "level": "⭐ 1장",
+          "note": "최고차항만 남기고 계수는 버림"
         },
         {
-          "zh": "Amortized Analysis",
-          "py": "분할 상환 분석",
-          "pos": "분석 기법",
-          "kr": "가끔 발생하는 배열 확장 O(N) 비용을 연속된 저비용 연산에 골고루 분할하여 연산당 평균 O(1)을 산출하는 기법",
-          "level": "⭐ 자료구조 2장",
-          "note": "Doubling Strategy"
+          "zh": "시간 복잡도 서열",
+          "py": "O(1) < O(log n) < O(n) < O(n log n) < O(n²) < O(2ⁿ) < O(n!)",
+          "pos": "시간 복잡도",
+          "kr": "입력 크기 n이 커질 때 실행 시간이 적게 걸리는(빠른) 순서부터 나열한 표준 복잡도 서열",
+          "level": "⭐ 1장",
+          "note": "연습문제 1.8 단골 출제"
         },
         {
-          "zh": "Circular Queue",
-          "py": "원형 큐",
-          "pos": "자료구조",
-          "kr": "선형 큐의 잘못된 포화 상태를 해결하기 위해 배열의 처음과 끝을 모듈러(%) 연산으로 연결한 구조",
-          "level": "⭐ 자료구조 5장",
-          "note": "front == rear: 공백, (rear+1)%size == front: 포화"
+          "zh": "거듭제곱 분할 정복 (power)",
+          "py": "O(log₂ n) 시간 복잡도",
+          "pos": "순환 알고리즘",
+          "kr": "xⁿ을 계산할 때 n이 짝수면 power(x*x, n//2), 홀수면 x * power(x*x, (n-1)//2)로 호출하여 지수를 절반씩 줄이는 기법",
+          "level": "⭐ 2장",
+          "note": "억지 기법 O(n)보다 훨씬 빠름"
         },
         {
-          "zh": "Double-Ended Queue (Deque)",
-          "py": "덱",
-          "pos": "자료구조",
-          "kr": "전단(Front)과 후단(Rear) 양쪽 끝에서 모두 삽입과 삭제가 가능한 양방향 큐",
-          "level": "⭐ 자료구조 5장",
-          "note": "회문 검사 및 슬라이딩 윈도우"
+          "zh": "하노이의 탑 (Tower of Hanoi)",
+          "py": "총 이동 횟수: 2ⁿ - 1회 → O(2ⁿ)",
+          "pos": "순환 알고리즘",
+          "kr": "n개의 원판을 옮기기 위해 (n-1)개 이동 2번 + 가장 큰 원판 이동 1번을 수행하는 지수 시간 순환 알고리즘",
+          "level": "⭐ 2장",
+          "note": "점화식: T(n) = 2T(n-1) + 1"
         },
         {
-          "zh": "Negative Modulo Correction",
-          "py": "음수 모듈러 보정",
-          "pos": "알고리즘 공식",
-          "kr": "front가 0일 때 1을 빼면 -1이 되는 문제를 방지하기 위해 (front - 1 + capacity) % capacity로 양수화하는 기법",
-          "level": "⭐ 자료구조 5장",
-          "note": "덱 add_front 구현"
+          "zh": "피보나치 순환 호출 (구름 2.17)",
+          "py": "시간 복잡도 O(2ⁿ) vs 반복/큐 O(n)",
+          "pos": "구름 12제",
+          "kr": "순환으로 구현한 fib(n)은 동일한 하위 문제를 중복 계산하여 지수 시간이 걸리지만, 반복문이나 큐(5.21)를 쓰면 O(n)에 해결됨",
+          "level": "🔥 구름 2.17·5.21",
+          "note": "중복 호출 빈도 측정 문제"
         },
         {
-          "zh": "Postfix Notation",
-          "py": "후위 표기법",
-          "pos": "수식 표기법",
-          "kr": "연산자를 피연산자 뒤에 표기하여 괄호 없이도 연산자 우선순위를 명확히 계산할 수 있는 방식",
-          "level": "⭐ 자료구조 4장",
-          "note": "스택 기반 수식 계산"
+          "zh": "근로소득 누진세 공식 (구름 2.14)",
+          "py": "하위 구간 세액 합 + (income - 기준하한) × 세율",
+          "pos": "구름 12제",
+          "kr": "과세 구간을 넘을 때 전체 소득이 아닌 해당 구간 초과분에만 높은 세율을 곱하여 합산하는 조건문 로직",
+          "level": "🔥 구름 2.14",
+          "note": "2,000만원일 때 세금 192만원"
         },
         {
-          "zh": "Singly Linked List",
-          "py": "단순 연결 리스트",
-          "pos": "자료구조",
-          "kr": "데이터와 다음 노드를 가리키는 링크(포인터)를 갖는 노드들이 단방향으로 연결된 동적 자료구조",
-          "level": "⭐ 자료구조 3장",
-          "note": "임의 삽입/삭제 O(1)"
+          "zh": "Up-and-Down 범위 갱신 (구름 2.15)",
+          "py": "guess < answer → min_v = guess / guess > answer → max_v = guess",
+          "pos": "구름 12제",
+          "kr": "추측값이 정답보다 작으면 하한선(min_v)을 올리고, 정답보다 크면 상한선(max_v)을 낮추는 이진 탐색 원리 게임",
+          "level": "🔥 구름 2.15",
+          "note": "최적 탐색 시 O(log n)"
         },
         {
-          "zh": "Cache Locality",
-          "py": "캐시 지역성",
-          "pos": "컴퓨터 구조",
-          "kr": "연속된 메모리에 배치된 동적 배열이 비연속 노드로 분산된 연결 리스트보다 CPU 캐시 적중률이 훨씬 우수한 특성",
-          "level": "⭐ 자료구조 3장",
-          "note": "공간 지역성(Spatial Locality)"
+          "zh": "숫자 피라미드 3분할 루프 (구름 2.16)",
+          "py": "공백(height-i) + 오름차순(1~i) + 내림차순(i-1~1)",
+          "pos": "구름 12제",
+          "kr": "한 줄 출력을 좌측 공백 루프, 중앙까지의 홀수(2*j-1) 증가 루프, 우측 홀수 감소 루프 3개로 나누어 구현",
+          "level": "🔥 구름 2.16",
+          "note": "range(i-1, 0, -1) 주의"
         },
         {
-          "zh": "Tower of Hanoi",
-          "py": "하노이의 탑",
-          "pos": "재귀 알고리즘",
-          "kr": "n개의 원반을 최소 2^n - 1회의 이동으로 목적 기둥으로 옮기는 대표적인 분할 정복 재귀 문제",
-          "level": "⭐ 자료구조 1장",
-          "note": "T(n) = 2T(n-1) + 1 -> O(2^n)"
+          "zh": "ArrayList 삽입·삭제 복잡도",
+          "py": "평균·최악 O(n) / 맨 뒤(append·pop) O(1)",
+          "pos": "3장 리스트",
+          "kr": "배열 리스트의 중간에 원소를 넣거나 빼면 뒤쪽 원소들을 한 칸씩 이동시켜야 하므로 O(n)이 소요됨",
+          "level": "⭐ 3장",
+          "note": "getEntry(pos) 참조는 O(1)"
         },
         {
-          "zh": "Activation Record",
-          "py": "활성화 레코드",
-          "pos": "메모리 구조",
-          "kr": "함수 호출 시 시스템 Call Stack에 할당되어 매개변수, 지역변수, 복귀 주소를 저장하는 스택 프레임",
-          "level": "⭐ 자료구조 4장",
-          "note": "스택 오버플로우 원인"
+          "zh": " 파이썬 리스트 깊은 복제",
+          "py": "B = list(A) 또는 B = A[:] (B = A는 얕은 참조 복사!)",
+          "pos": "3장 리스트",
+          "kr": "B = A는 동일한 리스트 객체를 가리키므로, 독립된 새 리스트 객체를 만들려면 list(A)나 A[:]를 써야 함",
+          "level": "⭐ 3장",
+          "note": "연습문제 3.7 핵심 함정"
         },
         {
-          "zh": "Stack Overflow vs Underflow",
-          "py": "오버플로우 vs 언더플로우",
-          "pos": "예외 상황",
-          "kr": "가득 찬 스택에 push를 시도할 때(Overflow)와 빈 스택에서 pop/peek을 시도할 때(Underflow) 발생하는 오류",
-          "level": "⭐ 자료구조 4장",
-          "note": "IndexError 방어 코딩"
+          "zh": "ArraySet 집합 연산 복잡도",
+          "py": "union · intersect · difference 모두 O(n²)",
+          "pos": "3장 집합",
+          "kr": "정렬되지 않은 배열 기반 집합에서 합집합·교집합·차집합은 원소마다 contains() 선형 탐색 O(n)을 수행해 O(n²)이 걸림",
+          "level": "⭐ 3장",
+          "note": "중복 불허·순서 없음"
+        },
+        {
+          "zh": "Stack (스택) LIFO 구조",
+          "py": "초기 top = -1 / 공백: top == -1 / 포화: top == capacity - 1",
+          "pos": "4장 스택",
+          "kr": "가장 나중에 들어온 자료가 가장 먼저 나가는 후입선출(LIFO) 자료구조로 push와 pop 모두 O(1)",
+          "level": "⭐ 4장",
+          "note": "함수 복귀 주소·미로 DFS·Undo"
+        },
+        {
+          "zh": "괄호 검사 3대 조건 (구름 4.18)",
+          "py": "에러 1(종료 후 잔여) · 에러 2(닫는 괄호 과잉) · 에러 3(쌍 불일치)",
+          "pos": "구름 12제",
+          "kr": "1) 왼쪽·오른쪽 괄호 개수 일치 2) 같은 타입에서 왼쪽이 먼저 등장 3) 서로 다른 타입의 괄호 쌍이 교차하지 않을 것",
+          "level": "🔥 구름 4.18·4.19",
+          "note": "따옴표 문자열·주석 내부 무시"
+        },
+        {
+          "zh": "중위→후위 변환 (Infix2Postfix)",
+          "py": "precedence('(')=0, '+,-'=1, '*,/'=2",
+          "pos": "구름 12제",
+          "kr": "연산자 op를 만나면 스택 상단의 연산자 우선순위가 op보다 크거나 같을 동안(<=) 모두 pop하여 출력한 뒤 op를 push함",
+          "level": "🔥 구름 4.20",
+          "note": "닫는 괄호 ')'는 '('까지 pop"
+        },
+        {
+          "zh": "후위식 계산 피연산자 순서 (evalPostfix)",
+          "py": "val2 = s.pop(); val1 = s.pop() → val1 - val2",
+          "pos": "구름 12제",
+          "kr": "후위식 계산 시 먼저 pop된 값이 오른쪽 피연산자(val2)이고 두 번째 pop된 값이 왼쪽 피연산자(val1)이므로 뺄셈·나눗셈 순서에 주의!",
+          "level": "🔥 구름 4.20",
+          "note": "순서 바뀌면 부호/역수 오답"
+        },
+        {
+          "zh": "원형 큐 공백 vs 포화 조건",
+          "py": "isEmpty: front == rear / isFull: front == (rear + 1) % capacity",
+          "pos": "5장 원형 큐",
+          "kr": "공백과 포화를 구별하기 위해 배열 한 칸을 비워두며, 포화 상태일 때 실제 저장된 원소 수는 capacity - 1개임",
+          "level": "⭐ 5장 필수",
+          "note": "김은경 교수님 지필 1순위"
+        },
+        {
+          "zh": "원형 큐 요소 개수 공식 (size)",
+          "py": "(rear - front + capacity) % capacity",
+          "pos": "5장 원형 큐",
+          "kr": "rear가 front보다 인덱스가 작아진 회전 상태에서도 항상 정확한 데이터 개수를 구하는 모듈러 공식",
+          "level": "⭐ 5장 필수",
+          "note": "예: cap=12, front=7, rear=2 → 7개"
+        },
+        {
+          "zh": "원형 덱 시계 vs 반시계 회전",
+          "py": "시계(+1): addRear, deleteFront / 반시계(-1): addFront, deleteRear",
+          "pos": "5장 원형 덱",
+          "kr": "addFront와 deleteRear는 인덱스를 1 감소시키는 반시계 방향 회전 (idx - 1 + capacity) % capacity를 수행함",
+          "level": "⭐ 5장 필수",
+          "note": "연습문제 5.13~5.14 핵심"
+        },
+        {
+          "zh": "원형 덱 회문 검사 (구름 5.22)",
+          "py": "while dq.size() > 1: dq.deleteFront() != dq.deleteRear()",
+          "pos": "구름 12제",
+          "kr": "홀수 길이 문자열에서 정중앙 1글자가 남았을 때 언더플로가 나지 않도록 반드시 dq.size() > 1 조건으로 반복함",
+          "level": "🔥 구름 5.22",
+          "note": "양단 동시 비교"
+        },
+        {
+          "zh": "2-스택 큐 구현 (구름 5.20)",
+          "py": "입력은 S1.push(x), 출력은 S2가 비었을 때만 S1→S2 전량 이동 후 S2.pop()",
+          "pos": "구름 12제",
+          "kr": "LIFO 스택 두 개를 직렬로 거치면 역순의 역순이 되어 FIFO 큐 순서로 출력되는 원리",
+          "level": "🔥 구름 5.20",
+          "note": "연습문제 5.3 & 구름 5.20"
+        },
+        {
+          "zh": "정렬된 배열 우선순위 큐 (구름 5.23)",
+          "py": "enqueue(삽입 정렬): O(n) / dequeue(맨 끝 최댓값 삭제): O(1)",
+          "pos": "구름 12제",
+          "kr": "삽입할 때 오름차순 위치에 맞춰 끼워 넣으면(O(n)), 가장 우선순위가 높은 최댓값은 배열 맨 끝에 있어 O(1)에 삭제 가능",
+          "level": "🔥 구름 5.23",
+          "note": "정렬 안 된 배열은 삽입 O(1), 삭제 O(n)"
+        }
+      ],
+      "sections": [
+        {
+          "id": 1,
+          "title": "★ 구름(Goorm) 실습 12제 지필 출제 포인트 한눈에 보기",
+          "short_title": "★ 구름 12제 총정리",
+          "sentences": [
+            {
+              "zh": "[2장 파이썬 & 재귀 4제] 2.14(누진세) · 2.15(Up-Down) · 2.16(숫자피라미드) · 2.17(피보나치 빈도)",
+              "py": "구름(Goorm) Ch 2 실습 과제 4문항 핵심 요약",
+              "kr": "• 연습문제 2.14 (근로소득 누진세): 하위 구간 세액 합산 + (income - 구간하한) * 세율. 예: 2,000만원 → 1200*0.06 + (2000-1200)*0.15 = 72 + 120 = 192만원.\n• 연습문제 2.15 (Up-and-Down 게임): guess < answer이면 min_v = guess로 하한 상향, guess > answer이면 max_v = guess로 상한 하향.\n• 연습문제 2.16 (숫자 피라미드): 줄 i(1~h)마다 공백(h-i)개 + 오름차순 홀수 range(1, i+1) + 내림차순 홀수 range(i-1, 0, -1).\n• 연습문제 2.17 (순환 피보나치 호출 빈도): count[n] += 1 배열로 측정 시, F(n)이 호출되는 총횟수는 정확히 피보나치 수 성질을 따르며 시간 복잡도는 O(2ⁿ) (비효율적 중복 호출 증명)."
+            },
+            {
+              "zh": "[4장 스택 3제] 4.17(스택 회문) · 4.18+4.19(괄호 검사기 심화) · 4.20(중위→후위 변환 및 계산)",
+              "py": "구름(Goorm) Ch 4 실습 과제 3문항 핵심 요약",
+              "kr": "• 연습문제 4.17 (스택 회문 검사): 전처리(소문자·영숫자만 추출) 후 스택에 모두 push → 처음부터 순회하며 ch != s.pop() 이면 False.\n• 연습문제 4.18+4.19 (괄호 검사 3대 조건 및 에러코드): 조건 1(닫는 괄호 시 스택 공백 금지 → 위반 시 에러 2), 조건 2(쌍 일치 → 위반 시 에러 3), 조건 3(종료 후 스택 공백 필수 → 위반 시 에러 1). 작은따옴표·큰따옴표 문자열 내부와 # 주석 내부의 괄호는 무시!\n• 연습문제 4.20 (중위→후위 변환 및 계산): precedence('(')=0, '+,-'=1, '*,/'=2. 연산자 만남 시 while not s.isEmpty() and precedence(op) <= precedence(s.peek()): output.append(s.pop()). 후위식 계산 시 먼저 pop한 값이 val2(우측), 두 번째 pop한 값이 val1(좌측) → val1 - val2, val1 / val2!"
+            },
+            {
+              "zh": "[5장 큐·덱·우선순위큐 5제] 5.19(미로 DFS/BFS) · 5.20(2-스택 큐) · 5.21(큐 피보나치) · 5.22(덱 회문) · 5.23(정렬 우선순위큐)",
+              "py": "구름(Goorm) Ch 5 실습 과제 5문항 핵심 요약",
+              "kr": "• 연습문제 5.19 (미로 탐색): isValidPos(x,y)에서 0<=x<MAZE_SIZE and 0<=y<MAZE_SIZE 및 map[y][x] in ('0','x') 확인. 스택(DFS)은 한 길로 파고들고, 원형 큐(BFS)는 가까운 칸부터 탐색해 최단 경로를 보장함.\n• 연습문제 5.20 (두 개의 스택으로 큐 구현): enqueue(x)는 무조건 S1.push(x). dequeue()는 S2.isEmpty()일 때만 while not S1.isEmpty(): S2.push(S1.pop())으로 순서를 뒤집어 옮긴 뒤 S2.pop() 반환 (분할상환 O(1)).\n• 연습문제 5.21 (원형 큐 피보나치): 초기 Q.enqueue(0), Q.enqueue(1) 후 루프마다 val = Q.dequeue() + Q.peek(); Q.enqueue(val). O(n) 시간, O(1) 공간.\n• 연습문제 5.22 (원형 덱 회문): while dq.size() > 1 동안 dq.deleteFront() != dq.deleteRear() 비교. 반시계 회전: (idx - 1 + capacity) % capacity.\n• 연습문제 5.23 (정렬된 배열 우선순위 큐): 삽입 시 뒤에서부터 큰 원소를 한 칸씩 밀며 오름차순 삽입 O(n), 삭제 시 맨 끝 최댓값을 즉시 pop()하여 O(1)."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "제1~3장 핵심 이론 요약 (Big-O 시간복잡도 · 순환(재귀) · 배열 리스트 & 집합 ADT)",
+          "short_title": "1~3장 핵심이론",
+          "sentences": [
+            {
+              "zh": "[1장 알고리즘과 시간 복잡도] Big-O 정의 · 복잡도 서열 · 최선/최악/평균",
+              "py": "Chapter 1 Core Theory",
+              "kr": "• 추상 자료형(ADT): 데이터와 연산의 '무엇(What)'만 정의하고 '어떻게(How)' 구현하는지는 은닉(정보 은닉·캡슐화).\n• Big-O 수학적 정의: n ≥ n₀인 모든 n에 대해 T(n) ≤ c × g(n)을 만족하는 양의 상수 c와 n₀가 존재하면 T(n) = O(g(n)).\n• 복잡도 빠른 순서(작은 순): O(1) < O(log n) < O(n) < O(n log n) < O(n²) < O(n³) < O(2ⁿ) < O(n!)."
+            },
+            {
+              "zh": "[2장 순환(Recursion)] 팩토리얼 · 거듭제곱 O(log n) · 하노이의 탑 O(2ⁿ)",
+              "py": "Chapter 2 Core Theory",
+              "kr": "• 순환 함수의 필수 2요소: 1) 순환을 멈추는 기저 조건(Base case), 2) 문제의 크기가 줄어드는 순환 호출(Recursive step).\n• 억지 기법 거듭제곱 power(x, n)은 O(n)이지만, 분할 정복 power(x*x, n//2)는 매 단계 지수가 절반으로 줄어들어 O(log₂ n).\n• 하노이의 탑(Tower of Hanoi): 원판 n개를 옮기는 최소 이동 횟수는 T(n) = 2T(n-1) + 1 = 2ⁿ - 1회 → O(2ⁿ)."
+            },
+            {
+              "zh": "[3장 배열 리스트(ArrayList)와 집합(ArraySet)] 삽입·삭제 이동 횟수 및 시간 복잡도",
+              "py": "Chapter 3 Core Theory",
+              "kr": "• 배열 리스트 접근 getEntry(pos): 인덱스 직접 참조이므로 O(1).\n• 배열 리스트 삽입 insert(pos, e) / 삭제 delete(pos): 중간이나 맨 앞(pos=0)에 삽입·삭제 시 뒤쪽 원소들을 한 칸씩 밀거나 당겨야 하므로 평균·최악 O(n). 단, 맨 뒤(pos=size) 삽입·삭제는 이동이 없어 O(1).\n• 집합(Set)의 연산: 원소의 중복을 허용하지 않으며 순서가 없다. contains(e)를 선형 탐색으로 구현하면 합집합(union), 교집합(intersect), 차집합(difference)은 이중 루프가 되어 O(n²)."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "제4~5장 핵심 이론 요약 (스택 · 수식변환 · 원형큐 · 원형덱 · 우선순위큐)",
+          "short_title": "4~5장 핵심이론",
+          "sentences": [
+            {
+              "zh": "[4장 스택(Stack)] LIFO 구조 · top 포인터 · 괄호 검사 · 후위표기 수식",
+              "py": "Chapter 4 Core Theory",
+              "kr": "• 스택(Stack): 후입선출(LIFO: Last-In First-Out). 배열 구현 시 초기 공백 상태는 top = -1, 포화 상태는 top == capacity - 1.\n• push(e): top += 1 후 array[top] = e (O(1)) / pop(): array[top] 반환 후 top -= 1 (O(1)).\n• 스택 응용 분야: 함수 호출 복귀 주소(시스템 스택), 괄호 검사, 수식 계산(중위→후위 변환), 미로 찾기(DFS), 편집기 실행 취소(Undo)."
+            },
+            {
+              "zh": "[5장 원형 큐(CircularQueue) & 원형 덱(CircularDeque)] 모듈러(%) 회전 공식 완벽 대조",
+              "py": "Chapter 5 Core Theory (지필 1순위 출제 표!)",
+              "kr": "• 선형 큐의 문제점: 배열 앞부분이 비어 있어도 rear가 끝에 도달하면 더 이상 삽입할 수 없는 '거짓 포화(False Full)' 발생 → 원형 큐로 해결!\n• 원형 큐 초기값: front = 0, rear = 0 (공백과 포화를 구별하기 위해 배열의 한 칸을 항상 비워둠! 최대 저장 개수 = capacity - 1).\n• 공백 상태 조건(isEmpty): front == rear\n• 포화 상태 조건(isFull): front == (rear + 1) % capacity\n• 현재 요소 개수(size): (rear - front + capacity) % capacity\n• 시계 방향 회전(+1): enqueue(x) [rear = (rear + 1) % capacity], dequeue() [front = (front + 1) % capacity], addRear(x), deleteFront()\n• 반시계 방향 회전(-1): addFront(x) [먼저 array[front] = x 넣은 후 front = (front - 1 + capacity) % capacity], deleteRear() [먼저 array[rear] 꺼낸 후 rear = (rear - 1 + capacity) % capacity]."
+            }
+          ]
         }
       ]
     },
@@ -4955,6 +6104,33 @@ var HUFS_DATA = {
       "category": "대영2 (Billy Joseph Fitzgerald)",
       "sections": [
         {
+          "id": 0,
+          "title": "★ 10월 13일 빌리 교수님 현장강의 출제 포인트 (페이지별 족보)",
+          "short_title": "★ 10/13 출제족보",
+          "sentences": [
+            {
+              "zh": "[내일 10/20 지필 중간고사 핵심 구조] 총점 50점 만점 지필 시험 (지난주 10/13 에세이 완료!)",
+              "py": "Oct 20 Official Exam Rules · 백년관 508호 (화 5~6교시)",
+              "kr": "1. 지난주(10/13 화) 글쓰기(In-Class Essay) 완료에 이어, 내일(10/20 화)은 '총점 50점 만점 독해·어휘·문법 오프라인 지필 중간고사'가 실시됩니다!\n2. Reading Section (15점, 5문항): 객관식 4지선다 + 주관식 단답/서술형(Short Answer) 혼합 출제.\n3. ⚠️ 주관식 서술형 절대 원칙: 모든 주관식(Short Answer) 문항은 반드시 최소 2문장 이상(at least two sentences)으로 완전한 문장으로 답해야 만점을 받습니다! 한 문장이나 단어로만 쓰면 감점됩니다.\n4. 어휘 및 문법 파트: 교수님이 지목하신 단원별 Vocabulary Extension 및 시제/조건절 문법 규칙에서 전수 출제됩니다."
+            },
+            {
+              "zh": "[Unit 1 지목 페이지] p.4 (단어) · p.9 (문맥 추론) · p.10 (중심/뒷받침 문장) · p.12 (단어) · p.18 (복합명사 & pre-)",
+              "py": "Unit 1: Social Relationships 핵심 출제 포인트",
+              "kr": "• p.9 Inferring Meaning (문맥 속 의미 추론):\n  - no slouch = 매우 유능한 존재 (very capable / good at solving problems, 문어 Bertha 사례)\n  - went viral = 인터넷에서 순식간에 퍼져 유명해지다 (spread quickly on the internet, 앵무새 Snowball 사례)\n  - had a soft spot for = ~에게 남다른 애정·호감을 갖다 (felt affection for / liked very much)\n  - inner lives = 내면의 정신·감정 세계 (involves your mind) / notion = 생각·관념 (an idea) / lead someone astray = 오도하다·잘못 믿게 하다 (believe something incorrectly) / engage in = ~에 참여하다 (take part in)\n• p.10 Main Idea vs Supporting Ideas (고릴라 물장구 지문):\n  - Main Idea (M): A study shows that male gorillas splash water to attract female gorillas (and intimidate other males).\n  - Supporting Ideas (S): 1) 손바닥을 펴서 수면을 친다(How it is done) 2) 다른 수컷들을 겁주어 쫓아낸다(Purpose) 3) 고릴라가 창의적이고 지적인 동물임을 증명한다(Conclusion).\n• p.18 Vocabulary Extension:\n  - Part A (복합명사): 1) 부모·배우자·형제자매·자녀 = immediate family (직계 가족; 친척 포함 시 extended family, 동물 새끼는 offspring) 2) 겔라다 사회의 암컷 = decision-makers 3) 야생동물 연구 = wildlife 4) 개의 집중 표현 = eye contact 5) 올챙이 놀이 = air bubbles.\n  - Part B (접두사 pre- = before in time): 1) prepare some slides (슬라이드 준비) 2) predict a person's behavior (행동 예측) 3) no previous experience (이전 경력) 4) prevent conflict (갈등 예방) 5) seeing a preview online (예고편 미리보기)."
+            },
+            {
+              "zh": "[Unit 3 지목 페이지] p.52 (도시화 2문장 서술형) · p.58 (한국 GDP 그래프) · p.60 (단어) · p.66 (income & 복합형용사) · p.67 & p.251 (시제)",
+              "py": "Unit 3: City Solutions 핵심 출제 포인트",
+              "kr": "• p.52 주관식 2문장 서술형 대비 모범 답안 (Why is urbanization good for the environment?):\n  \"First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person. Second, city apartments require less energy to heat, cool, and light than houses in the suburbs, and shorter city roads and power lines use fewer resources.\"\n• p.58 시각 그래프 분석 (South Korea Overtaking Europe, 1985-2021):\n  - 1985년부터 2021년까지 대한민국의 1인당 GDP가 가파르게 성장하여 포르투갈, 스페인, 이탈리아 등 유럽 국가들을 추월하고 영국 수준에 근접했음을 보여주며, 본문의 \"South Korea has gone from being one of the world's poorest countries to being richer than many countries in Europe\" 문장을 뒷받침함.\n• p.66 Vocabulary Extension:\n  - Part A (income 표현): 1) 임대 수익 = additional source of income (추가 소득원) 2) 고소득층과 저임금층 격차 = income inequality (소득 불평등) 3) 연봉 10만 달러(annual income)에서 20% 소득세(income tax)를 내면 8만 달러의 가처분 소득(disposable income)이 남음.\n  - Part B (복합형용사 Compound Adjectives): 명사 앞에서 하이픈(-)으로 연결하되, -ly 부사가 앞에 오면 하이픈을 쓰지 않음! 1) heavily visited cities (하이픈 없음 주의!) 2) hard-earned money 3) three-meter tides 4) fast-moving storms (참고: slow-moving, low-income, 10-ton).\n• p.67 & p.251 Simple Past vs Present Perfect:\n  - 과거 특정 시점(during the 1950s, Before the 20th century, in 1961, in 1987, last year) → 무조건 단순과거(moved, invested, was, started, rose).\n  - 과거부터 현재까지 이어지는 기간·반복(during the past few decades, Since then, every year since 2020) → 현재완료(has improved, has increased, have used)."
+            },
+            {
+              "zh": "[Unit 5 지목 페이지] p.102 (단어) · p.107 (지오투어리즘 비교표) · p.108 & p.117 (인과관계 & if 쉼표 규칙) · p.116 (-ive & geo- 어근)",
+              "py": "Unit 5: The Travel Business 핵심 출제 포인트",
+              "kr": "• p.107 Mass Tourism vs Geotourism 비교:\n  - Mass Tourism: 대형 리조트·크루즈 중심, 환경 오염 및 유적 훼손 유발, 수익이 외부 대기업으로 유출됨.\n  - Geotourism: 여행지의 자연환경·문화·유산을 보존 및 강화하고, 현지 주민을 공식 가이드(official guides)로 고용하고 지역 상점을 이용해 지역 경제에 실질적 혜택을 줌.\n• p.108 & p.117 Cause & Effect 및 if 조건절 쉼표(Comma) 절대 규칙:\n  - 원인(Cause): Tourism brings money into a community → 결과(Effect): local governments make improvements to roads and bridges.\n  - 원인(Cause): Tourists have little contact with local people → 결과(Effect): People don't learn much about each other's cultures.\n  - ⚠️ if 쉼표 규칙: If절이 문장 맨 앞에 오면 조건절 끝에 반드시 쉼표(,)를 찍고(If more tourists visit the islands, there will be more trash.), 주절이 먼저 오고 if절이 뒤에 오면 쉼표를 절대 찍지 않는다(Local craftspeople will make more money if tourists buy more souvenirs.). 또한 조건절(if절) 안에는 미래 조동사 will을 쓰지 않고 현재시제를 쓴다!\n• p.116 Vocabulary Extension (빌리 교수님 강력 강조 페이지):\n  - Part A (-ive 단어의 명사 Noun vs 형용사 Adjective 구별):\n    1) distinctive architecture → 형용사 (A)\n    2) The objective of geotourism → 명사 (N, 목표)\n    3) native wildlife → 형용사 (A)\n    4) Tourists are representatives of their home country → 명사 (N, 대표자들)\n    5) alternative travel options → 형용사 (A)\n  - Part B (접두사 geo-, eco-, re-, inter- 및 어근 결합 5단어 영영 정의):\n    1) Geopolitics = the relationship between the world's countries (세계 국가들 간의 지정학적 관계)\n    2) ecocidal = damaging to the environment (환경을 파괴하는)\n    3) aspire = aim to achieve something (무언가를 성취하기를 열망하다)\n    4) re-enact = perform it again (사건이나 연극을 다시 재연하다)\n    5) interject = throw a comment into a conversation (대화 도중에 말을 끼어들다)"
+            }
+          ]
+        },
+        {
           "id": 1,
           "title": "Unit 1: What Are They Thinking? (동물 인지 과학)",
           "short_title": "Unit 1 동물인지",
@@ -5064,488 +6240,976 @@ var HUFS_DATA = {
               "py": ""
             }
           ]
+        },
+        {
+          "id": 4,
+          "title": "★ In-Class Essay 만점 모범 답안 (5문단 비교·대조 전문 + 밑줄 필수 문장)",
+          "short_title": "★ 에세이 전문",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1: Introduction] Online Social Networks vs. Face-to-Face Friendships\nIn the modern digital era, young people can connect with hundreds of individuals across the globe with a single tap on a smartphone screen. Both online social networks and face-to-face friendships share the same basic goal of helping people connect, share their daily lives, and escape loneliness. However, having hundreds of online followers is very different from having true friends in real life. [밑줄 필수 — Thesis Statement] Although both forms of connection help people stay in touch, online social networks only offer fast and convenient interaction, whereas face-to-face friendships provide deeper emotional awareness, healthier ways to resolve conflict, and freedom from the pressure of social status.",
+              "py": "제1문단 서론 (Hook + Background + 마지막 문장 Thesis Statement 밑줄 필수!)",
+              "kr": "현대 디지털 시대에 젊은이들은 스마트폰 화면을 한 번 터치하는 것만으로도 전 세계 수백 명의 사람들과 연결될 수 있습니다. 온라인 소셜 네트워크와 대면 우정 모두 사람들이 서로 연결되고, 일상을 공유하며, 외로움에서 벗어나도록 돕는다는 똑같은 기본 목표를 공유합니다. 하지만 수백 명의 온라인 팔로워를 가진 것은 현실에서 진정한 친구를 둔 것과 매우 다릅니다. [Thesis 밑줄] 비록 두 연결 방식 모두 사람들이 연락을 주고받도록 돕지만, 온라인 소셜 네트워크는 단지 빠르고 편리한 상호작용만 제공하는 반면, 대면 우정은 더 깊은 감정적 인식, 갈등을 건강하게 해결하는 방법, 그리고 사회적 지위의 압박으로부터의 자유를 제공합니다."
+            },
+            {
+              "zh": "[Paragraph 2: Body 1 — Speed and Effort of Interaction]\n[밑줄 필수 — Topic Sentence 1] First, online platforms and real-life settings differ in the speed and effort required to interact with others. On social media, users can interact instantly with hundreds of peers and acquire large follower lists without leaving their homes. A quick comment or message can easily maintain a casual relationship. In contrast, building face-to-face friendships requires physical presence, shared time, and patience. Meeting someone in person takes real planning and active conversation. While online networking offers great convenience in quantity, face-to-face interaction requires real effort that builds strong trust.",
+              "py": "제2문단 본론 1 (첫 문장 Topic Sentence 밑줄 필수! · 타깃 어휘: interact, acquire)",
+              "kr": "[Topic 1 밑줄] 첫째, 온라인 플랫폼과 현실의 환경은 타인과 상호작용하는 데 필요한 속도와 노력 면에서 다릅니다. 소셜 미디어에서 이용자들은 집 밖으로 나가지 않고도 수백 명의 또래와 즉각적으로 상호작용(interact)하며 대규모 팔로워 목록을 확보(acquire)할 수 있습니다. 짧은 댓글이나 메시지 하나로 가벼운 관계를 쉽게 유지할 수 있습니다. 반면에(In contrast) 대면 우정을 쌓는 것은 물리적인 만남, 공유하는 시간, 그리고 인내심을 요구합니다. 누군가를 직접 만난다는 것은 실제 약속 계획과 적극적인 대화를 필요로 합니다. 온라인 네트워킹이 양적인 면에서 큰 편리함을 제공하지만, 대면 상호작용은 강한 신뢰를 쌓는 진정한 노력을 요구합니다."
+            },
+            {
+              "zh": "[Paragraph 3: Body 2 — Emotional Depth and Awareness]\n[밑줄 필수 — Topic Sentence 2] Second, face-to-face friendships build much greater emotional depth because friends are fully aware of real human feelings. Digital communication relies heavily on short text messages, emojis, and edited photos, which easily hide loneliness and sadness. On the other hand, in-person conversations allow friends to be aware of facial expressions, voice tone, and body language. When a friend is sad, being in the same room gives warm comfort that no phone screen can replace. Therefore, real-life presence creates true empathy, whereas online contact often stays on the surface.",
+              "py": "제3문단 본론 2 (첫 문장 Topic Sentence 밑줄 필수! · 타깃 어휘: aware of, replace)",
+              "kr": "[Topic 2 밑줄] 둘째, 대면 우정은 친구들이 진짜 인간적 감정을 온전히 인식(aware of)할 수 있기 때문에 훨씬 더 큰 정서적 깊이를 쌓아줍니다. 디지털 소통은 짧은 문자 메시지, 이모티콘, 그리고 보정된 사진에 크게 의존하므로 외로움과 슬픔을 쉽게 숨길 수 있습니다. 반면에(On the other hand) 직접 마주 보고 나누는 대화는 친구들이 얼굴 표정, 목소리 톤, 그리고 몸짓을 온전히 알아차릴 수 있게 해줍니다. 친구가 슬퍼할 때 같은 방에 함께 있어 주는 것은 그 어떤 휴대폰 화면도 대체(replace)할 수 없는 따뜻한 위로를 줍니다. 따라서 현실의 존재감은 진정한 공감을 만들어내는 반면(whereas), 온라인 연락은 종종 겉면에만 머무릅니다."
+            },
+            {
+              "zh": "[Paragraph 4: Body 3 — Conflict Resolution and Social Status]\n[밑줄 필수 — Topic Sentence 3] Third, the two forms of connection deal with interpersonal conflict and social status in very different ways. On social networks, users often feel pressured to emulate popular influencers to gain high social status and likes. This creates stressful comparison, and small disagreements easily cause serious online conflict or sudden blocking. Conversely, real-life friendships encourage people to talk honestly about difficult feelings. Solving problems in person teaches friends to understand each other and resolve conflict through mutual respect. As a result, face-to-face bonds grow stronger through trust, while online relationships often suffer from competition.",
+              "py": "제4문단 본론 3 (첫 문장 Topic Sentence 밑줄 필수! · 타깃 어휘: conflict, status, emulate, bond)",
+              "kr": "[Topic 3 밑줄] 셋째, 이 두 가지 연결 방식은 대인관계의 갈등(conflict)과 사회적 지위(status)를 매우 다른 방식으로 다룹니다. 소셜 네트워크에서 이용자들은 높은 사회적 지위와 좋아요를 얻기 위해 인기 인플루언서를 모방(emulate)해야 한다는 압박감을 자주 느낍니다. 이는 스트레스 많은 비교를 낳고, 작은 의견 차이도 심각한 온라인 갈등이나 갑작스러운 차단으로 쉽게 이어집니다. 반대로 현실의 우정은 사람들이 어려운 감정에 대해 솔직하게 이야기하도록 격려합니다. 직접 만나 문제를 해결하는 과정은 친구들이 서로를 이해하고 상호 존중을 통해 갈등을 해결하도록 가르쳐줍니다. 결과적으로 대면 유대감(bonds)은 신뢰를 통해 더욱 강해지는 반면, 온라인 관계는 종종 경쟁으로 인해 고통받습니다."
+            },
+            {
+              "zh": "[Paragraph 5: Conclusion — Summary Statement & Final Thought]\nIn conclusion, while both online networks and real-life friendships connect people, face-to-face relationships are irreplaceable for true emotional happiness. Online platforms give fast interaction, but face-to-face bonds build deep awareness, help friends overcome conflict, and value real honesty over social status. Technology should serve as a useful tool for daily communication, but true happiness depends on the warmth of real-life connections. For college students, cherishing face-to-face friendships is essential to living a happy and balanced life.",
+              "py": "제5문단 결론 (Summary Statement + Final Thought)",
+              "kr": "결론적으로, 온라인 네트워크와 현실의 우정 모두 사람들을 연결해 주지만, 진정한 정서적 행복을 위해서는 대면 관계가 결코 대체될 수 없습니다. 온라인 플랫폼은 빠른 상호작용을 주지만, 대면 유대감은 깊은 감정 인식을 쌓아주고, 친구들이 갈등을 극복하도록 도우며, 사회적 지위보다 진짜 솔직함을 소중히 여깁니다. 기술은 일상적인 소통을 위한 유용한 도구 역할을 해야 하지만, 진정한 행복은 현실 관계의 따뜻함에 달려 있습니다. 대학생들에게 대면 우정을 소중히 여기는 것은 행복하고 균형 잡힌 삶을 살아가는 데 필수적입니다."
+            }
+          ]
         }
       ],
       "vocab": [
         {
           "word": "behavior",
+          "zh": "behavior",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "the way someone or something acts",
-          "kr": "행동, 처신",
-          "ex": "Even rats show human-like behavior in lab experiments."
+          "py": "[n · Unit 1] the way someone or something acts",
+          "kr": "행동, 처신 — the way someone or something acts",
+          "level": "⭐ Unit 1",
+          "ex": "Even rats show human-like behavior in lab experiments.",
+          "note": "예문: Even rats show human-like behavior in lab experiments."
         },
         {
           "word": "bond",
+          "zh": "bond",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "a feeling of connection with someone or something else",
-          "kr": "유대감, 결속",
-          "ex": "People often form strong bonds with animals they interact with."
+          "py": "[n · Unit 1] a feeling of connection with someone or something else",
+          "kr": "유대감, 결속 — a feeling of connection with someone or something else",
+          "level": "⭐ Unit 1",
+          "ex": "People often form strong bonds with animals they interact with.",
+          "note": "예문: People often form strong bonds with animals they interact with."
         },
         {
           "word": "cognitive",
+          "zh": "cognitive",
           "pos": "adj",
           "unit": "Unit 1",
           "def_en": "relating to thinking and understanding",
-          "kr": "인지적인",
-          "ex": "Regular exercise can help with physical fitness and cognitive function."
+          "py": "[adj · Unit 1] relating to thinking and understanding",
+          "kr": "인지적인 — relating to thinking and understanding",
+          "level": "⭐ Unit 1",
+          "ex": "Regular exercise can help with physical fitness and cognitive function.",
+          "note": "예문: Regular exercise can help with physical fitness and cognitive function."
         },
         {
           "word": "complex",
+          "zh": "complex",
           "pos": "adj",
           "unit": "Unit 1",
           "def_en": "involving a lot of different parts; difficult to understand",
-          "kr": "복잡한",
-          "ex": "Some believe emotions like sadness are too complex for nonhuman species."
+          "py": "[adj · Unit 1] involving a lot of different parts; difficult to understand",
+          "kr": "복잡한 — involving a lot of different parts; difficult to understand",
+          "level": "⭐ Unit 1",
+          "ex": "Some believe emotions like sadness are too complex for nonhuman species.",
+          "note": "예문: Some believe emotions like sadness are too complex for nonhuman species."
         },
         {
           "word": "controversial",
+          "zh": "controversial",
           "pos": "adj",
           "unit": "Unit 1",
           "def_en": "causing disagreement",
-          "kr": "논란의 여지가 있는",
-          "ex": "The idea that animals feel emotions is controversial and sparks intense debate."
+          "py": "[adj · Unit 1] causing disagreement",
+          "kr": "논란의 여지가 있는 — causing disagreement",
+          "level": "⭐ Unit 1",
+          "ex": "The idea that animals feel emotions is controversial and sparks intense debate.",
+          "note": "예문: The idea that animals feel emotions is controversial and sparks intense debate."
         },
         {
           "word": "discipline",
+          "zh": "discipline",
           "pos": "v",
           "unit": "Unit 1",
           "def_en": "to train someone to follow rules or codes of behavior",
-          "kr": "훈육하다, 규율을 따르게 하다",
-          "ex": "One way to discipline children is to establish a quiet timeout."
+          "py": "[v · Unit 1] to train someone to follow rules or codes of behavior",
+          "kr": "훈육하다, 규율을 따르게 하다 — to train someone to follow rules or codes of behavior",
+          "level": "⭐ Unit 1",
+          "ex": "One way to discipline children is to establish a quiet timeout.",
+          "note": "예문: One way to discipline children is to establish a quiet timeout."
         },
         {
           "word": "establish",
+          "zh": "establish",
           "pos": "v",
           "unit": "Unit 1",
           "def_en": "to create or start something that will last a long time",
-          "kr": "확립하다, 설립하다",
-          "ex": "Children generally sleep better when parents establish a regular bedtime routine."
+          "py": "[v · Unit 1] to create or start something that will last a long time",
+          "kr": "확립하다, 설립하다 — to create or start something that will last a long time",
+          "level": "⭐ Unit 1",
+          "ex": "Children generally sleep better when parents establish a regular bedtime routine.",
+          "note": "예문: Children generally sleep better when parents establish a regular bedtime routine."
         },
         {
           "word": "extended family",
+          "zh": "extended family",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "a group that includes uncles, cousins, grandparents, etc.",
-          "kr": "대가족",
-          "ex": "Previously, it was common for extended families to live together in one home."
+          "py": "[n · Unit 1] a group that includes uncles, cousins, grandparents, etc.",
+          "kr": "대가족 — a group that includes uncles, cousins, grandparents, etc.",
+          "level": "⭐ Unit 1",
+          "ex": "Previously, it was common for extended families to live together in one home.",
+          "note": "예문: Previously, it was common for extended families to live together in one home."
         },
         {
           "word": "gender",
+          "zh": "gender",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "the characteristics of being male or female",
-          "kr": "성별",
-          "ex": "It is normal for children, regardless of gender, to fear separation."
+          "py": "[n · Unit 1] the characteristics of being male or female",
+          "kr": "성별 — the characteristics of being male or female",
+          "level": "⭐ Unit 1",
+          "ex": "It is normal for children, regardless of gender, to fear separation.",
+          "note": "예문: It is normal for children, regardless of gender, to fear separation."
         },
         {
           "word": "generally",
+          "zh": "generally",
           "pos": "adv",
           "unit": "Unit 1",
           "def_en": "usually",
-          "kr": "일반적으로, 대개",
-          "ex": "Researchers observed that children generally respond well to consistent schedules."
+          "py": "[adv · Unit 1] usually",
+          "kr": "일반적으로, 대개 — usually",
+          "level": "⭐ Unit 1",
+          "ex": "Researchers observed that children generally respond well to consistent schedules.",
+          "note": "예문: Researchers observed that children generally respond well to consistent schedules."
         },
         {
           "word": "grief",
+          "zh": "grief",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "a very sad feeling (especially after someone dies)",
-          "kr": "비탄, 깊은 슬픔",
-          "ex": "Some animals appear to express grief when a family member dies."
+          "py": "[n · Unit 1] a very sad feeling (especially after someone dies)",
+          "kr": "비탄, 깊은 슬픔 — a very sad feeling (especially after someone dies)",
+          "level": "⭐ Unit 1",
+          "ex": "Some animals appear to express grief when a family member dies.",
+          "note": "예문: Some animals appear to express grief when a family member dies."
         },
         {
           "word": "intense",
+          "zh": "intense",
           "pos": "adj",
           "unit": "Unit 1",
           "def_en": "very great or extreme",
-          "kr": "극심한, 강렬한",
-          "ex": "Children can experience an intense feeling of fear when lost."
+          "py": "[adj · Unit 1] very great or extreme",
+          "kr": "극심한, 강렬한 — very great or extreme",
+          "level": "⭐ Unit 1",
+          "ex": "Children can experience an intense feeling of fear when lost.",
+          "note": "예문: Children can experience an intense feeling of fear when lost."
         },
         {
           "word": "observe",
+          "zh": "observe",
           "pos": "v",
           "unit": "Unit 1",
           "def_en": "to notice something after looking closely",
-          "kr": "관찰하다, 목격하다",
-          "ex": "Biologists observed wolves cooperating in complex social groups."
+          "py": "[v · Unit 1] to notice something after looking closely",
+          "kr": "관찰하다, 목격하다 — to notice something after looking closely",
+          "level": "⭐ Unit 1",
+          "ex": "Biologists observed wolves cooperating in complex social groups.",
+          "note": "예문: Biologists observed wolves cooperating in complex social groups."
         },
         {
           "word": "previously",
+          "zh": "previously",
           "pos": "adv",
           "unit": "Unit 1",
           "def_en": "before the time period that you are talking about",
-          "kr": "이전에, 과거에",
-          "ex": "Extended family households were far more common previously."
+          "py": "[adv · Unit 1] before the time period that you are talking about",
+          "kr": "이전에, 과거에 — before the time period that you are talking about",
+          "level": "⭐ Unit 1",
+          "ex": "Extended family households were far more common previously.",
+          "note": "예문: Extended family households were far more common previously."
         },
         {
           "word": "recognition",
+          "zh": "recognition",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "an understanding that something is true",
-          "kr": "인정, 인식",
-          "ex": "There is a growing recognition that animal minds are sophisticated."
+          "py": "[n · Unit 1] an understanding that something is true",
+          "kr": "인정, 인식 — an understanding that something is true",
+          "level": "⭐ Unit 1",
+          "ex": "There is a growing recognition that animal minds are sophisticated.",
+          "note": "예문: There is a growing recognition that animal minds are sophisticated."
         },
         {
           "word": "repeatedly",
+          "zh": "repeatedly",
           "pos": "adv",
           "unit": "Unit 1",
           "def_en": "occurring many times",
-          "kr": "반복해서, 여러 차례",
-          "ex": "After doing this repeatedly, the animals mastered the maze."
+          "py": "[adv · Unit 1] occurring many times",
+          "kr": "반복해서, 여러 차례 — occurring many times",
+          "level": "⭐ Unit 1",
+          "ex": "After doing this repeatedly, the animals mastered the maze.",
+          "note": "예문: After doing this repeatedly, the animals mastered the maze."
         },
         {
           "word": "replace",
+          "zh": "replace",
           "pos": "v",
           "unit": "Unit 1",
           "def_en": "to have something new or different instead of the original",
-          "kr": "대체하다, 대신하다",
-          "ex": "When birds shed feathers, new plumage grows to replace that which was lost."
+          "py": "[v · Unit 1] to have something new or different instead of the original",
+          "kr": "대체하다, 대신하다 — to have something new or different instead of the original",
+          "level": "⭐ Unit 1",
+          "ex": "When birds shed feathers, new plumage grows to replace that which was lost.",
+          "note": "예문: When birds shed feathers, new plumage grows to replace that which was lost."
         },
         {
           "word": "social structure",
+          "zh": "social structure",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "the way a group of people or animals is organized",
-          "kr": "사회 구조, 집단 구조",
-          "ex": "Elephants maintain a matriarchal social structure led by the oldest female."
+          "py": "[n · Unit 1] the way a group of people or animals is organized",
+          "kr": "사회 구조, 집단 구조 — the way a group of people or animals is organized",
+          "level": "⭐ Unit 1",
+          "ex": "Elephants maintain a matriarchal social structure led by the oldest female.",
+          "note": "예문: Elephants maintain a matriarchal social structure led by the oldest female."
         },
         {
           "word": "suffering",
+          "zh": "suffering",
           "pos": "n",
           "unit": "Unit 1",
           "def_en": "pain, either mental or physical",
-          "kr": "고통, 괴로움",
-          "ex": "The rats stopped pressing the lever to prevent the other rats suffering."
+          "py": "[n · Unit 1] pain, either mental or physical",
+          "kr": "고통, 괴로움 — pain, either mental or physical",
+          "level": "⭐ Unit 1",
+          "ex": "The rats stopped pressing the lever to prevent the other rats suffering.",
+          "note": "예문: The rats stopped pressing the lever to prevent the other rats suffering."
         },
         {
           "word": "treat",
+          "zh": "treat",
           "pos": "v",
           "unit": "Unit 1",
           "def_en": "to behave toward someone or something in a particular way",
-          "kr": "대우하다, 다루다",
-          "ex": "Society has a moral duty to treat living creatures with compassion."
+          "py": "[v · Unit 1] to behave toward someone or something in a particular way",
+          "kr": "대우하다, 다루다 — to behave toward someone or something in a particular way",
+          "level": "⭐ Unit 1",
+          "ex": "Society has a moral duty to treat living creatures with compassion.",
+          "note": "예문: Society has a moral duty to treat living creatures with compassion."
         },
         {
           "word": "aspect",
+          "zh": "aspect",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "a part or side of something",
-          "kr": "측면, 양상",
-          "ex": "One negative aspect of city living is chronic traffic congestion."
+          "py": "[n · Unit 3] a part or side of something",
+          "kr": "측면, 양상 — a part or side of something",
+          "level": "⭐ Unit 3",
+          "ex": "One negative aspect of city living is chronic traffic congestion.",
+          "note": "예문: One negative aspect of city living is chronic traffic congestion."
         },
         {
           "word": "barrier",
+          "zh": "barrier",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "something that blocks movement or separates things",
-          "kr": "장벽, 방벽",
-          "ex": "Coastal cities construct storm surge barriers to block ocean surges."
+          "py": "[n · Unit 3] something that blocks movement or separates things",
+          "kr": "장벽, 방벽 — something that blocks movement or separates things",
+          "level": "⭐ Unit 3",
+          "ex": "Coastal cities construct storm surge barriers to block ocean surges.",
+          "note": "예문: Coastal cities construct storm surge barriers to block ocean surges."
         },
         {
           "word": "canal",
+          "zh": "canal",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "an artificial waterway for boats or water conveyance",
-          "kr": "운하, 수로",
-          "ex": "Venice is internationally famous for its historic canals."
+          "py": "[n · Unit 3] an artificial waterway for boats or water conveyance",
+          "kr": "운하, 수로 — an artificial waterway for boats or water conveyance",
+          "level": "⭐ Unit 3",
+          "ex": "Venice is internationally famous for its historic canals.",
+          "note": "예문: Venice is internationally famous for its historic canals."
         },
         {
           "word": "concentration",
+          "zh": "concentration",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "a huge amount or number of something in one place",
-          "kr": "집중, 밀집",
-          "ex": "Metropolitan areas feature a dense concentration of economic talent."
+          "py": "[n · Unit 3] a huge amount or number of something in one place",
+          "kr": "집중, 밀집 — a huge amount or number of something in one place",
+          "level": "⭐ Unit 3",
+          "ex": "Metropolitan areas feature a dense concentration of economic talent.",
+          "note": "예문: Metropolitan areas feature a dense concentration of economic talent."
         },
         {
           "word": "construction",
+          "zh": "construction",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "the work or industry of building structures",
-          "kr": "건설, 공사",
-          "ex": "Hundreds of architects and engineers work in the construction industry."
+          "py": "[n · Unit 3] the work or industry of building structures",
+          "kr": "건설, 공사 — the work or industry of building structures",
+          "level": "⭐ Unit 3",
+          "ex": "Hundreds of architects and engineers work in the construction industry.",
+          "note": "예문: Hundreds of architects and engineers work in the construction industry."
         },
         {
           "word": "dense",
+          "zh": "dense",
           "pos": "adj",
           "unit": "Unit 3",
           "def_en": "having a large amount of something close together",
-          "kr": "인구 밀도가 높은, 빽빽한",
-          "ex": "Some megacities are extremely dense, housing thousands per square kilometer."
+          "py": "[adj · Unit 3] having a large amount of something close together",
+          "kr": "인구 밀도가 높은, 빽빽한 — having a large amount of something close together",
+          "level": "⭐ Unit 3",
+          "ex": "Some megacities are extremely dense, housing thousands per square kilometer.",
+          "note": "예문: Some megacities are extremely dense, housing thousands per square kilometer."
         },
         {
           "word": "fierce",
+          "zh": "fierce",
           "pos": "adj",
           "unit": "Unit 3",
           "def_en": "powerful, violent, and aggressive (weather/storm)",
-          "kr": "사나운, 맹렬한",
-          "ex": "Low-lying cities suffer severe damage when struck by a fierce typhoon."
+          "py": "[adj · Unit 3] powerful, violent, and aggressive (weather/storm)",
+          "kr": "사나운, 맹렬한 — powerful, violent, and aggressive (weather/storm)",
+          "level": "⭐ Unit 3",
+          "ex": "Low-lying cities suffer severe damage when struck by a fierce typhoon.",
+          "note": "예문: Low-lying cities suffer severe damage when struck by a fierce typhoon."
         },
         {
           "word": "growth",
+          "zh": "growth",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "the process of increasing",
-          "kr": "성장, 증가",
-          "ex": "Rapid population growth forces municipal borders outward."
+          "py": "[n · Unit 3] the process of increasing",
+          "kr": "성장, 증가 — the process of increasing",
+          "level": "⭐ Unit 3",
+          "ex": "Rapid population growth forces municipal borders outward.",
+          "note": "예문: Rapid population growth forces municipal borders outward."
         },
         {
           "word": "income",
+          "zh": "income",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "money that a person earns",
-          "kr": "소득, 수입",
-          "ex": "Urban workers generally earn higher average incomes than agricultural labor."
+          "py": "[n · Unit 3] money that a person earns",
+          "kr": "소득, 수입 — money that a person earns",
+          "level": "⭐ Unit 3",
+          "ex": "Urban workers generally earn higher average incomes than agricultural labor.",
+          "note": "예문: Urban workers generally earn higher average incomes than agricultural labor."
         },
         {
           "word": "lower",
+          "zh": "lower",
           "pos": "v",
           "unit": "Unit 3",
           "def_en": "to move down or reduce the level/amount",
-          "kr": "낮추다, 내리다",
-          "ex": "Hydraulic gates can lower or raise water levels during floods."
+          "py": "[v · Unit 3] to move down or reduce the level/amount",
+          "kr": "낮추다, 내리다 — to move down or reduce the level/amount",
+          "level": "⭐ Unit 3",
+          "ex": "Hydraulic gates can lower or raise water levels during floods.",
+          "note": "예문: Hydraulic gates can lower or raise water levels during floods."
         },
         {
           "word": "occasional",
+          "zh": "occasional",
           "pos": "adj",
           "unit": "Unit 3",
           "def_en": "happening from time to time, not regularly",
-          "kr": "가끔의, 때때로의",
-          "ex": "What was once an occasional storm has now become an annual crisis."
+          "py": "[adj · Unit 3] happening from time to time, not regularly",
+          "kr": "가끔의, 때때로의 — happening from time to time, not regularly",
+          "level": "⭐ Unit 3",
+          "ex": "What was once an occasional storm has now become an annual crisis.",
+          "note": "예문: What was once an occasional storm has now become an annual crisis."
         },
         {
           "word": "partially",
+          "zh": "partially",
           "pos": "adv",
           "unit": "Unit 3",
           "def_en": "partly, not completely",
-          "kr": "부분적으로",
-          "ex": "During high tide, ground floors in Venice are partially submerged."
+          "py": "[adv · Unit 3] partly, not completely",
+          "kr": "부분적으로 — partly, not completely",
+          "level": "⭐ Unit 3",
+          "ex": "During high tide, ground floors in Venice are partially submerged.",
+          "note": "예문: During high tide, ground floors in Venice are partially submerged."
         },
         {
           "word": "productive",
+          "zh": "productive",
           "pos": "adj",
           "unit": "Unit 3",
           "def_en": "able to achieve a significant amount or result",
-          "kr": "생산적인",
-          "ex": "Knowledge-sharing clusters make urban professionals far more productive."
+          "py": "[adj · Unit 3] able to achieve a significant amount or result",
+          "kr": "생산적인 — able to achieve a significant amount or result",
+          "level": "⭐ Unit 3",
+          "ex": "Knowledge-sharing clusters make urban professionals far more productive.",
+          "note": "예문: Knowledge-sharing clusters make urban professionals far more productive."
         },
         {
           "word": "resident",
+          "zh": "resident",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "a person who lives in a particular place or area",
-          "kr": "거주자, 주민",
-          "ex": "Every resident must be prepared for extreme weather occurrences."
+          "py": "[n · Unit 3] a person who lives in a particular place or area",
+          "kr": "거주자, 주민 — a person who lives in a particular place or area",
+          "level": "⭐ Unit 3",
+          "ex": "Every resident must be prepared for extreme weather occurrences.",
+          "note": "예문: Every resident must be prepared for extreme weather occurrences."
         },
         {
           "word": "separate",
+          "zh": "separate",
           "pos": "v",
           "unit": "Unit 3",
           "def_en": "to keep apart or divide",
-          "kr": "분리하다, 떼어놓다",
-          "ex": "Massive seawalls separate the rising ocean from inland residential zones."
+          "py": "[v · Unit 3] to keep apart or divide",
+          "kr": "분리하다, 떼어놓다 — to keep apart or divide",
+          "level": "⭐ Unit 3",
+          "ex": "Massive seawalls separate the rising ocean from inland residential zones.",
+          "note": "예문: Massive seawalls separate the rising ocean from inland residential zones."
         },
         {
           "word": "spread out",
+          "zh": "spread out",
           "pos": "v",
           "unit": "Unit 3",
           "def_en": "to cover a huge area",
-          "kr": "넓게 퍼지다, 확산되다",
-          "ex": "Metropolises continue to spread out into surrounding rural provinces."
+          "py": "[v · Unit 3] to cover a huge area",
+          "kr": "넓게 퍼지다, 확산되다 — to cover a huge area",
+          "level": "⭐ Unit 3",
+          "ex": "Metropolises continue to spread out into surrounding rural provinces.",
+          "note": "예문: Metropolises continue to spread out into surrounding rural provinces."
         },
         {
           "word": "suburb",
+          "zh": "suburb",
           "pos": "n",
           "unit": "Unit 3",
           "def_en": "areas outside of a large city that have homes and businesses",
-          "kr": "교외 주거지구",
-          "ex": "Families often migrate to quiet suburbs seeking affordable single homes."
+          "py": "[n · Unit 3] areas outside of a large city that have homes and businesses",
+          "kr": "교외 주거지구 — areas outside of a large city that have homes and businesses",
+          "level": "⭐ Unit 3",
+          "ex": "Families often migrate to quiet suburbs seeking affordable single homes.",
+          "note": "예문: Families often migrate to quiet suburbs seeking affordable single homes."
         },
         {
           "word": "temporarily",
+          "zh": "temporarily",
           "pos": "adv",
           "unit": "Unit 3",
           "def_en": "for a limited period of time; not permanently",
-          "kr": "일시적으로",
-          "ex": "Stores had to close temporarily while municipal pumps drained floodwater."
+          "py": "[adv · Unit 3] for a limited period of time; not permanently",
+          "kr": "일시적으로 — for a limited period of time; not permanently",
+          "level": "⭐ Unit 3",
+          "ex": "Stores had to close temporarily while municipal pumps drained floodwater.",
+          "note": "예문: Stores had to close temporarily while municipal pumps drained floodwater."
         },
         {
           "word": "tend to",
+          "zh": "tend to",
           "pos": "v",
           "unit": "Unit 3",
           "def_en": "to usually do something or be a certain way",
-          "kr": "~하는 경향이 있다",
-          "ex": "Cities tend to offer superior healthcare and university facilities."
+          "py": "[v · Unit 3] to usually do something or be a certain way",
+          "kr": "~하는 경향이 있다 — to usually do something or be a certain way",
+          "level": "⭐ Unit 3",
+          "ex": "Cities tend to offer superior healthcare and university facilities.",
+          "note": "예문: Cities tend to offer superior healthcare and university facilities."
         },
         {
           "word": "urban",
+          "zh": "urban",
           "pos": "adj",
           "unit": "Unit 3",
           "def_en": "relating to a city",
-          "kr": "도시의",
-          "ex": "The planet has crossed the threshold into an urban majority."
+          "py": "[adj · Unit 3] relating to a city",
+          "kr": "도시의 — relating to a city",
+          "level": "⭐ Unit 3",
+          "ex": "The planet has crossed the threshold into an urban majority.",
+          "note": "예문: The planet has crossed the threshold into an urban majority."
         },
         {
           "word": "alternative",
+          "zh": "alternative",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "one option instead of another",
-          "kr": "대안, 양자택일",
-          "ex": "Geotourism offers a sustainable alternative to destructive mass tourism."
+          "py": "[n · Unit 5] one option instead of another",
+          "kr": "대안, 양자택일 — one option instead of another",
+          "level": "⭐ Unit 5",
+          "ex": "Geotourism offers a sustainable alternative to destructive mass tourism.",
+          "note": "예문: Geotourism offers a sustainable alternative to destructive mass tourism."
         },
         {
           "word": "awareness",
+          "zh": "awareness",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "knowledge that something exists",
-          "kr": "인식, 의식",
-          "ex": "The campaign aims to raise environmental awareness among international travelers."
+          "py": "[n · Unit 5] knowledge that something exists",
+          "kr": "인식, 의식 — knowledge that something exists",
+          "level": "⭐ Unit 5",
+          "ex": "The campaign aims to raise environmental awareness among international travelers.",
+          "note": "예문: The campaign aims to raise environmental awareness among international travelers."
         },
         {
           "word": "comfort",
+          "zh": "comfort",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "a state of ease or well-being",
-          "kr": "안락, 편안함",
-          "ex": "Modern eco-lodges provide luxury and comfort without depleting energy."
+          "py": "[n · Unit 5] a state of ease or well-being",
+          "kr": "안락, 편안함 — a state of ease or well-being",
+          "level": "⭐ Unit 5",
+          "ex": "Modern eco-lodges provide luxury and comfort without depleting energy.",
+          "note": "예문: Modern eco-lodges provide luxury and comfort without depleting energy."
         },
         {
           "word": "distinctive",
+          "zh": "distinctive",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "special; very different",
-          "kr": "독특한, 구별되는",
-          "ex": "Venice possesses a distinctive architecture shaped by its marine canals."
+          "py": "[adj · Unit 5] special; very different",
+          "kr": "독특한, 구별되는 — special; very different",
+          "level": "⭐ Unit 5",
+          "ex": "Venice possesses a distinctive architecture shaped by its marine canals.",
+          "note": "예문: Venice possesses a distinctive architecture shaped by its marine canals."
         },
         {
           "word": "earn a living",
+          "zh": "earn a living",
           "pos": "phr",
           "unit": "Unit 5",
           "def_en": "to get money to pay for things that you need",
-          "kr": "생계를 유지하다, 돈을 벌다",
-          "ex": "Indigenous residents earn a living as official eco-tour guides."
+          "py": "[phr · Unit 5] to get money to pay for things that you need",
+          "kr": "생계를 유지하다, 돈을 벌다 — to get money to pay for things that you need",
+          "level": "⭐ Unit 5",
+          "ex": "Indigenous residents earn a living as official eco-tour guides.",
+          "note": "예문: Indigenous residents earn a living as official eco-tour guides."
         },
         {
           "word": "ecological",
+          "zh": "ecological",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "relating to the relationship between living things and their surroundings",
-          "kr": "생태학적인, 환경의",
-          "ex": "Resorts must calculate their ecological footprint prior to development."
+          "py": "[adj · Unit 5] relating to the relationship between living things and their surroundings",
+          "kr": "생태학적인, 환경의 — relating to the relationship between living things and their surroundings",
+          "level": "⭐ Unit 5",
+          "ex": "Resorts must calculate their ecological footprint prior to development.",
+          "note": "예문: Resorts must calculate their ecological footprint prior to development."
         },
         {
           "word": "economy",
+          "zh": "economy",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "the system by which a governments industry and money are organized",
-          "kr": "경제",
-          "ex": "The local island economy relies almost exclusively on overseas visitors."
+          "py": "[n · Unit 5] the system by which a governments industry and money are organized",
+          "kr": "경제 — the system by which a governments industry and money are organized",
+          "level": "⭐ Unit 5",
+          "ex": "The local island economy relies almost exclusively on overseas visitors.",
+          "note": "예문: The local island economy relies almost exclusively on overseas visitors."
         },
         {
           "word": "enriching",
+          "zh": "enriching",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "providing more appreciation or enjoyment",
-          "kr": "풍요롭게 하는, 보람 있는",
-          "ex": "Authentic cultural exchanges make travel far more enriching than sightseeing."
+          "py": "[adj · Unit 5] providing more appreciation or enjoyment",
+          "kr": "풍요롭게 하는, 보람 있는 — providing more appreciation or enjoyment",
+          "level": "⭐ Unit 5",
+          "ex": "Authentic cultural exchanges make travel far more enriching than sightseeing.",
+          "note": "예문: Authentic cultural exchanges make travel far more enriching than sightseeing."
         },
         {
           "word": "harmful",
+          "zh": "harmful",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "damaging; dangerous",
-          "kr": "해로운, 유해한",
-          "ex": "Mass cruise exhaust produces harmful emissions that damage historic masonry."
+          "py": "[adj · Unit 5] damaging; dangerous",
+          "kr": "해로운, 유해한 — damaging; dangerous",
+          "level": "⭐ Unit 5",
+          "ex": "Mass cruise exhaust produces harmful emissions that damage historic masonry.",
+          "note": "예문: Mass cruise exhaust produces harmful emissions that damage historic masonry."
         },
         {
           "word": "landmark",
+          "zh": "landmark",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "a building or structure with historical or cultural significance",
-          "kr": "랜드마크, 유서 깊은 건축물",
-          "ex": "Chichen Itza is a sacred Mayan landmark that draws millions annually."
+          "py": "[n · Unit 5] a building or structure with historical or cultural significance",
+          "kr": "랜드마크, 유서 깊은 건축물 — a building or structure with historical or cultural significance",
+          "level": "⭐ Unit 5",
+          "ex": "Chichen Itza is a sacred Mayan landmark that draws millions annually.",
+          "note": "예문: Chichen Itza is a sacred Mayan landmark that draws millions annually."
         },
         {
           "word": "maintain",
+          "zh": "maintain",
           "pos": "v",
           "unit": "Unit 5",
           "def_en": "to keep at a certain level",
-          "kr": "유지하다, 보전하다",
-          "ex": "Park authorities restrict tourist volume to maintain fragile trails."
+          "py": "[v · Unit 5] to keep at a certain level",
+          "kr": "유지하다, 보전하다 — to keep at a certain level",
+          "level": "⭐ Unit 5",
+          "ex": "Park authorities restrict tourist volume to maintain fragile trails.",
+          "note": "예문: Park authorities restrict tourist volume to maintain fragile trails."
         },
         {
           "word": "necessary",
+          "zh": "necessary",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "essential; required",
-          "kr": "필수적인, 필요한",
-          "ex": "Strict quotas are necessary to protect ancient ruins from overtourism."
+          "py": "[adj · Unit 5] essential; required",
+          "kr": "필수적인, 필요한 — essential; required",
+          "level": "⭐ Unit 5",
+          "ex": "Strict quotas are necessary to protect ancient ruins from overtourism.",
+          "note": "예문: Strict quotas are necessary to protect ancient ruins from overtourism."
         },
         {
           "word": "objective",
+          "zh": "objective",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "a goal",
-          "kr": "목표, 목적",
-          "ex": "A primary objective of geotourism is the preservation of geographic character."
+          "py": "[n · Unit 5] a goal",
+          "kr": "목표, 목적 — a goal",
+          "level": "⭐ Unit 5",
+          "ex": "A primary objective of geotourism is the preservation of geographic character.",
+          "note": "예문: A primary objective of geotourism is the preservation of geographic character."
         },
         {
           "word": "official",
+          "zh": "official",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "relating to a government or an organization",
-          "kr": "공식적인, 공인된",
-          "ex": "All visitors must be escorted by official licensed indigenous guides."
+          "py": "[adj · Unit 5] relating to a government or an organization",
+          "kr": "공식적인, 공인된 — relating to a government or an organization",
+          "level": "⭐ Unit 5",
+          "ex": "All visitors must be escorted by official licensed indigenous guides.",
+          "note": "예문: All visitors must be escorted by official licensed indigenous guides."
         },
         {
           "word": "partnership",
+          "zh": "partnership",
           "pos": "n",
           "unit": "Unit 5",
           "def_en": "a way of working with another person, group, or organization",
-          "kr": "협력 관계, 파트너십",
-          "ex": "Sustainable travel requires an equal partnership between operators and locals."
+          "py": "[n · Unit 5] a way of working with another person, group, or organization",
+          "kr": "협력 관계, 파트너십 — a way of working with another person, group, or organization",
+          "level": "⭐ Unit 5",
+          "ex": "Sustainable travel requires an equal partnership between operators and locals.",
+          "note": "예문: Sustainable travel requires an equal partnership between operators and locals."
         },
         {
           "word": "preserve",
+          "zh": "preserve",
           "pos": "v",
           "unit": "Unit 5",
           "def_en": "to keep in a certain condition",
-          "kr": "보존하다, 지키다",
-          "ex": "Nations establish marine sanctuaries to preserve endangered coral reefs."
+          "py": "[v · Unit 5] to keep in a certain condition",
+          "kr": "보존하다, 지키다 — to keep in a certain condition",
+          "level": "⭐ Unit 5",
+          "ex": "Nations establish marine sanctuaries to preserve endangered coral reefs.",
+          "note": "예문: Nations establish marine sanctuaries to preserve endangered coral reefs."
         },
         {
           "word": "renewable",
+          "zh": "renewable",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "able to be replaced naturally",
-          "kr": "재생 가능한",
-          "ex": "Eco-hotels generate electricity using renewable solar panels and wind turbines."
+          "py": "[adj · Unit 5] able to be replaced naturally",
+          "kr": "재생 가능한 — able to be replaced naturally",
+          "level": "⭐ Unit 5",
+          "ex": "Eco-hotels generate electricity using renewable solar panels and wind turbines.",
+          "note": "예문: Eco-hotels generate electricity using renewable solar panels and wind turbines."
         },
         {
           "word": "spiritual",
+          "zh": "spiritual",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "relating to a higher purpose rather than just material needs",
-          "kr": "영적인, 정신적인",
-          "ex": "Indigenous communities attribute deep spiritual meaning to volcanic peaks."
+          "py": "[adj · Unit 5] relating to a higher purpose rather than just material needs",
+          "kr": "영적인, 정신적인 — relating to a higher purpose rather than just material needs",
+          "level": "⭐ Unit 5",
+          "ex": "Indigenous communities attribute deep spiritual meaning to volcanic peaks.",
+          "note": "예문: Indigenous communities attribute deep spiritual meaning to volcanic peaks."
         },
         {
           "word": "sustainable",
+          "zh": "sustainable",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "able to continue in the long-term",
-          "kr": "지속 가능한",
-          "ex": "Sustainable tourism ensures heritage survives for future generations."
+          "py": "[adj · Unit 5] able to continue in the long-term",
+          "kr": "지속 가능한 — able to continue in the long-term",
+          "level": "⭐ Unit 5",
+          "ex": "Sustainable tourism ensures heritage survives for future generations.",
+          "note": "예문: Sustainable tourism ensures heritage survives for future generations."
         },
         {
           "word": "vital",
+          "zh": "vital",
           "pos": "adj",
           "unit": "Unit 5",
           "def_en": "necessary or extremely important",
-          "kr": "필수적인, 극히 중대한",
-          "ex": "Educating international guests on cultural etiquette is of vital importance."
+          "py": "[adj · Unit 5] necessary or extremely important",
+          "kr": "필수적인, 극히 중대한 — necessary or extremely important",
+          "level": "⭐ Unit 5",
+          "ex": "Educating international guests on cultural etiquette is of vital importance.",
+          "note": "예문: Educating international guests on cultural etiquette is of vital importance."
+        },
+        {
+          "word": "no slouch",
+          "zh": "no slouch",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "very capable; good at doing something",
+          "py": "[idiom · Unit 1 p.9] very capable; good at doing something",
+          "kr": "결코 만만치 않은 존재, 매우 유능한 존재 — very capable; good at doing something",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Bertha the octopus was no slouch at solving puzzles.",
+          "note": "예문: Bertha the octopus was no slouch at solving puzzles."
+        },
+        {
+          "word": "went viral",
+          "zh": "went viral",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "spread quickly and widely on the internet",
+          "py": "[idiom · Unit 1 p.9] spread quickly and widely on the internet",
+          "kr": "(영상·소식이) 인터넷을 통해 순식간에 퍼져 화제가 되다 — spread quickly and widely on the internet",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Videos of Snowball the dancing parrot went viral online.",
+          "note": "예문: Videos of Snowball the dancing parrot went viral online."
+        },
+        {
+          "word": "have a soft spot for",
+          "zh": "have a soft spot for",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "feel special affection for; like someone or something very much",
+          "py": "[idiom · Unit 1 p.9] feel special affection for; like someone or something very much",
+          "kr": "~에게 남다른 애정(연민·호감)을 느끼다 — feel special affection for; like someone or something very much",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Many researchers have a soft spot for the animals they study.",
+          "note": "예문: Many researchers have a soft spot for the animals they study."
+        },
+        {
+          "word": "lead someone astray",
+          "zh": "lead someone astray",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "cause someone to do or believe something incorrectly",
+          "py": "[idiom · Unit 1 p.9] cause someone to do or believe something incorrectly",
+          "kr": "남을 잘못된 길로 인도하다, 오판하게 만들다 — cause someone to do or believe something incorrectly",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Relying only on human intuition can lead scientists astray.",
+          "note": "예문: Relying only on human intuition can lead scientists astray."
+        },
+        {
+          "word": "immediate family",
+          "zh": "immediate family",
+          "pos": "n",
+          "unit": "Unit 1 p.18",
+          "def_en": "parents, spouse (husband or wife), brothers, sisters, and children",
+          "py": "[n · Unit 1 p.18] parents, spouse (husband or wife), brothers, sisters, and children",
+          "kr": "직계 가족 (부모·배우자·형제자매·자녀) — parents, spouse (husband or wife), brothers, sisters, and children",
+          "level": "🔥 Unit 1 p.18 (출제지목)",
+          "ex": "Your parents, husband or wife, brothers and sisters, and children make up your immediate family.",
+          "note": "예문: Your parents, husband or wife, brothers and sisters, and children make up your immediate family."
+        },
+        {
+          "word": "offspring",
+          "zh": "offspring",
+          "pos": "n",
+          "unit": "Unit 1 p.12",
+          "def_en": "a person's children or an animal's young",
+          "py": "[n · Unit 1 p.12] a person's children or an animal's young",
+          "kr": "(동물의) 새끼, 자식, 자손 (단수·복수 동형) — a person's children or an animal's young",
+          "level": "🔥 Unit 1 p.12 (출제지목)",
+          "ex": "A wolf pack consists of a breeding pair and their offspring.",
+          "note": "예문: A wolf pack consists of a breeding pair and their offspring."
+        },
+        {
+          "word": "decision-makers",
+          "zh": "decision-makers",
+          "pos": "n",
+          "unit": "Unit 1 p.18",
+          "def_en": "those who have the power to make important choices in a group",
+          "py": "[n · Unit 1 p.18] those who have the power to make important choices in a group",
+          "kr": "의사결정권자들 (겔라다 원숭이 모계 사회의 암컷들) — those who have the power to make important choices in a group",
+          "level": "🔥 Unit 1 p.18 (출제지목)",
+          "ex": "In gelada societies, researchers have observed that females are the decision-makers.",
+          "note": "예문: In gelada societies, researchers have observed that females are the decision-makers."
+        },
+        {
+          "word": "predict vs prevent vs preview",
+          "zh": "predict vs prevent vs preview",
+          "pos": "v/n",
+          "unit": "Unit 1 p.18",
+          "def_en": "pre- (before in time): predict (forecast), prevent (stop before it happens), preview (see beforehand)",
+          "py": "[v/n · Unit 1 p.18] pre- (before in time): predict (forecast), prevent (stop before it happens), preview (see beforehand)",
+          "kr": "접두사 pre- (미리·이전에): predict(예측하다), prevent(예방하다), preview(예고편), previous(이전의), prepare(준비하다) — pre- (before in time): predict (forecast), prevent (stop before it happens), preview (see beforehand)",
+          "level": "🔥 Unit 1 p.18 (출제지목)",
+          "ex": "Being polite to your co-workers is one way to prevent conflict in the workplace.",
+          "note": "예문: Being polite to your co-workers is one way to prevent conflict in the workplace."
+        },
+        {
+          "word": "disposable income",
+          "zh": "disposable income",
+          "pos": "n",
+          "unit": "Unit 3 p.66",
+          "def_en": "the amount of money you have left after paying taxes",
+          "py": "[n · Unit 3 p.66] the amount of money you have left after paying taxes",
+          "kr": "가처분 소득 (연간 소득 annual income에서 소득세 income tax를 빼고 남은 돈) — the amount of money you have left after paying taxes",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "If your annual income is $100,000 and you pay 20% income tax, your disposable income is $80,000.",
+          "note": "예문: If your annual income is $100,000 and you pay 20% income tax, your disposable income is $80,000."
+        },
+        {
+          "word": "income inequality",
+          "zh": "income inequality",
+          "pos": "n",
+          "unit": "Unit 3 p.66",
+          "def_en": "when there is a big difference in income between high and low earners",
+          "py": "[n · Unit 3 p.66] when there is a big difference in income between high and low earners",
+          "kr": "소득 불평등 (고소득층과 저임금 계층 간의 큰 소득 격차) — when there is a big difference in income between high and low earners",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "The large gap between top earners and low-wage earners is called income inequality.",
+          "note": "예문: The large gap between top earners and low-wage earners is called income inequality."
+        },
+        {
+          "word": "heavily visited",
+          "zh": "heavily visited",
+          "pos": "adj",
+          "unit": "Unit 3 p.66",
+          "def_en": "visited by a very large number of people (NO hyphen after -ly adverbs!)",
+          "py": "[adj · Unit 3 p.66] visited by a very large number of people (NO hyphen after -ly adverbs!)",
+          "kr": "방문객이 매우 많은 (-ly 부사로 시작하는 복합형용사는 하이픈을 쓰지 않음!) — visited by a very large number of people (NO hyphen after -ly adverbs!)",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "Venice is one of the most heavily visited cities in the world.",
+          "note": "예문: Venice is one of the most heavily visited cities in the world."
+        },
+        {
+          "word": "hard-earned",
+          "zh": "hard-earned",
+          "pos": "adj",
+          "unit": "Unit 3 p.66",
+          "def_en": "obtained through a lot of effort and hard work (hyphenated before a noun)",
+          "py": "[adj · Unit 3 p.66] obtained through a lot of effort and hard work (hyphenated before a noun)",
+          "kr": "피땀 흘려 번, 힘들게 얻은 (명사 앞에서 하이픈 연결) — obtained through a lot of effort and hard work (hyphenated before a noun)",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "The residents lost a lot of their hard-earned money after the tornado.",
+          "note": "예문: The residents lost a lot of their hard-earned money after the tornado."
+        },
+        {
+          "word": "representatives",
+          "zh": "representatives",
+          "pos": "n",
+          "unit": "Unit 5 p.116",
+          "def_en": "people who speak or act on behalf of a group or country (-ive used as a NOUN)",
+          "py": "[n · Unit 5 p.116] people who speak or act on behalf of a group or country (-ive used as a NOUN)",
+          "kr": "대표자들, 사절단 (-ive로 끝나지만 명사로 쓰인 핵심 예) — people who speak or act on behalf of a group or country (-ive used as a NOUN)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Tourists are representatives of their home country.",
+          "note": "예문: Tourists are representatives of their home country."
+        },
+        {
+          "word": "geopolitics",
+          "zh": "geopolitics",
+          "pos": "n",
+          "unit": "Unit 5 p.116",
+          "def_en": "the relationship between the world's countries (geo- + politics)",
+          "py": "[n · Unit 5 p.116] the relationship between the world's countries (geo- + politics)",
+          "kr": "지정학, 세계 각국 간의 정치·지리적 관계 (10/13 강의 빌리 교수님 직접 강조!) — the relationship between the world's countries (geo- + politics)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Geopolitics refers to the political relationships between the world's countries.",
+          "note": "예문: Geopolitics refers to the political relationships between the world's countries."
+        },
+        {
+          "word": "ecocidal",
+          "zh": "ecocidal",
+          "pos": "adj",
+          "unit": "Unit 5 p.116",
+          "def_en": "damaging or destructive to the environment (eco- + -cidal)",
+          "py": "[adj · Unit 5 p.116] damaging or destructive to the environment (eco- + -cidal)",
+          "kr": "환경을 파괴하는, 생태계를 말살하는 — damaging or destructive to the environment (eco- + -cidal)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Uncontrolled mass tourism can become an ecocidal activity.",
+          "note": "예문: Uncontrolled mass tourism can become an ecocidal activity."
+        },
+        {
+          "word": "aspire",
+          "zh": "aspire",
+          "pos": "v",
+          "unit": "Unit 5 p.116",
+          "def_en": "to aim to achieve something great (root: spir)",
+          "py": "[v · Unit 5 p.116] to aim to achieve something great (root: spir)",
+          "kr": "열망하다, 포부를 품고 목표를 추구하다 — to aim to achieve something great (root: spir)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Many young travelers aspire to make a positive impact on the world.",
+          "note": "예문: Many young travelers aspire to make a positive impact on the world."
+        },
+        {
+          "word": "re-enact",
+          "zh": "re-enact",
+          "pos": "v",
+          "unit": "Unit 5 p.116",
+          "def_en": "to perform or act out a past event again (re- + en- + act)",
+          "py": "[v · Unit 5 p.116] to perform or act out a past event again (re- + en- + act)",
+          "kr": "(과거의 역사적 사건이나 장면을) 다시 재연하다 — to perform or act out a past event again (re- + en- + act)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Actors in historic towns often re-enact famous battles for tourists.",
+          "note": "예문: Actors in historic towns often re-enact famous battles for tourists."
+        },
+        {
+          "word": "interject",
+          "zh": "interject",
+          "pos": "v",
+          "unit": "Unit 5 p.116",
+          "def_en": "to throw a comment suddenly into a conversation (inter- + ject)",
+          "py": "[v · Unit 5 p.116] to throw a comment suddenly into a conversation (inter- + ject)",
+          "kr": "(대화 도중에 갑자기) 말을 끼어들다, 불쑥 한마디 던지다 — to throw a comment suddenly into a conversation (inter- + ject)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "The local resident stood up to interject a question during the town meeting.",
+          "note": "예문: The local resident stood up to interject a question during the town meeting."
         }
       ],
       "qa": [
@@ -5674,7 +7338,7 @@ var HUFS_DATA = {
             "comfort",
             "awareness",
             "recognition",
-            "economy      ### [Part 2] Contextual Cloze & Collocations (Questions 11 ~ 15) > **Directions**: Choose the best word or phrase to fill in the blank in each sentence."
+            "economy"
           ],
           "answer": 1,
           "explanation": "어휘 영영 정의: comfort: a state of ease or well-being"
@@ -5739,7 +7403,7 @@ var HUFS_DATA = {
             "replace",
             "discipline",
             "preserve",
-            "lower      ### [Part 3] Reading Comprehension & Skill Analysis (Questions 16 ~ 23) > **Directions**: Read each passage and answer the questions based on the text.  #### [Passage 1: Animal Cognition] In a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance."
+            "lower"
           ],
           "answer": 3,
           "explanation": "문맥 어휘 빈칸: preserve: 산성비와 훼손으로부터 사원을 '보존하다'"
@@ -5747,7 +7411,7 @@ var HUFS_DATA = {
         {
           "id": "billy-q16",
           "num": 16,
-          "question": "[Q16] What is the main idea of Passage 1?",
+          "question": "[Passage 1: Animal Cognition]\nIn a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance.\n\n[Q16] What is the main idea of Passage 1?",
           "options": [
             "New Caledonian crows have the largest brain-to-body ratio among all bird species.",
             "Betty the crow proved that animals can invent tools through cognitive planning rather than simple chance.",
@@ -5760,12 +7424,12 @@ var HUFS_DATA = {
         {
           "id": "billy-q17",
           "num": 17,
-          "question": "[Q17] Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
+          "question": "[Passage 1: Animal Cognition]\nIn a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance.\n\n[Q17] Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
           "options": [
             "The meat was floating in deep water.",
             "Several straight wires were scattered on the table.",
             "The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve the food.",
-            "The container was placed inside a laboratory cage.      #### [Passage 2: Urban Living] Today, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water."
+            "The container was placed inside a laboratory cage."
           ],
           "answer": 3,
           "explanation": "세부 근거(Supporting): 구부려서 갈고리를 먼저 만드는 계획적 행동"
@@ -5773,7 +7437,7 @@ var HUFS_DATA = {
         {
           "id": "billy-q18",
           "num": 18,
-          "question": "[Q18] According to Passage 2, what is one major reason why cities produce so much wealth?",
+          "question": "[Passage 2: Urban Living]\nToday, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water.\n\n[Q18] According to Passage 2, what is one major reason why cities produce so much wealth?",
           "options": [
             "Rural residents donate a significant portion of their income to metropolitan projects.",
             "The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure.",
@@ -5786,12 +7450,12 @@ var HUFS_DATA = {
         {
           "id": "billy-q19",
           "num": 19,
-          "question": "[Q19] What causes the expansion of sprawling informal settlements (slums)?",
+          "question": "[Passage 2: Urban Living]\nToday, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water.\n\n[Q19] What causes the expansion of sprawling informal settlements (slums)?",
           "options": [
             "Too much investment in mass transit systems.",
             "A decline in global gross domestic product.",
             "The failure of municipal governments to manage growth and provide affordable housing.",
-            "Excessive dispersal of people into remote rural towns.      #### [Passage 3: Sustainable Tourism] The tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers."
+            "Excessive dispersal of people into remote rural towns."
           ],
           "answer": 3,
           "explanation": "인과 추론: 주택 공급 및 도시 관리 실패로 인한 슬럼화"
@@ -5799,7 +7463,7 @@ var HUFS_DATA = {
         {
           "id": "billy-q20",
           "num": 20,
-          "question": "[Q20] What problem initially prompted the government of Palau to change its tourism policy?",
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q20] What problem initially prompted the government of Palau to change its tourism policy?",
           "options": [
             "The economy collapsed because tourists refused to visit the island.",
             "Foreign tour operators refused to employ indigenous islanders.",
@@ -5812,7 +7476,7 @@ var HUFS_DATA = {
         {
           "id": "billy-q21",
           "num": 21,
-          "question": "[Q21] How does the Palau government fund its conservation partnerships with indigenous rangers?",
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q21] How does the Palau government fund its conservation partnerships with indigenous rangers?",
           "options": [
             "By borrowing money from multinational banking organizations.",
             "By collecting a mandatory green fee from foreign visitors.",
@@ -5825,7 +7489,7 @@ var HUFS_DATA = {
         {
           "id": "billy-q22",
           "num": 22,
-          "question": "[Q22] Which of the following words best describes the Palau Pledge?",
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q22] Which of the following words best describes the Palau Pledge?",
           "options": [
             "An optional questionnaire about traveler preferences.",
             "A commercial contract that allows tourists to collect marine specimens.",
@@ -5838,12 +7502,12 @@ var HUFS_DATA = {
         {
           "id": "billy-q23",
           "num": 23,
-          "question": "[Q23] The author's primary purpose in writing Passage 3 is to:",
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q23] The author's primary purpose in writing Passage 3 is to:",
           "options": [
             "Criticize the government of Palau for imposing excessive regulations on travelers.",
             "Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism.",
             "Warn tourists that visiting island nations is becoming economically unaffordable.",
-            "Argue that all tourism should be banned to protect the Pacific Ocean.      ### [Part 4] Visual Analysis & Cause-Effect Reasoning (Questions 24 ~ 26)"
+            "Argue that all tourism should be banned to protect the Pacific Ocean."
           ],
           "answer": 2,
           "explanation": "작가의도/목적 파악: 혁신 정책과 파트너십을 통한 지속 가능 관광 모델 제시"
@@ -5882,7 +7546,7 @@ var HUFS_DATA = {
             "Stone masonry was built inside the citadel.",
             "Daily visitor admissions were restricted to 2,500.",
             "Overtourism was eliminated entirely.",
-            "Authorities banned all historic preservation projects.      ### [Part 5] Grammar & Essay Structure (Questions 27 ~ 30)"
+            "Authorities banned all historic preservation projects."
           ],
           "answer": 2,
           "explanation": "인과 구조 분석: 직후 결과: 일일 입장객 수를 2,500명으로 제한"
@@ -5934,10 +7598,1884 @@ var HUFS_DATA = {
             "To present a catchy quote that has no relation to the rest of the text.",
             "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
             "To summarize the entire essay and offer a call to action.",
-            "To list all supporting statistics without making any interpretive claims.      ## [제5장] 정답표, 심층 해설 및 오답 매력도 완벽 분석"
+            "To list all supporting statistics without making any interpretive claims."
           ],
           "answer": 2,
           "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"
+        },
+        {
+          "id": "pw_q31",
+          "num": 31,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part A] In the sentences below, the words in bold all end in '-ive'. In which sentence is the '-ive' word used as a NOUN (N) rather than an adjective (A)?",
+          "options": [
+            "Tourists often take photos of distinctive architecture.",
+            "The primary objective of geotourism is to protect the local environment and culture.",
+            "Visitors should not feed native wildlife in national parks.",
+            "Train travel is an eco-friendly alternative travel option."
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 116페이지 Vocabulary Extension Part A 문제입니다. `-ive`로 끝나는 단어는 대개 형용사(distinctive, native, alternative)이지만, ②의 `objective`(목표, 목적)와 4번 예문의 `representatives`(대표자들)는 명사(Noun)로 쓰였습니다."
+        },
+        {
+          "id": "pw_q32",
+          "num": 32,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part B] Match the word formed from word parts ('geo-', 'eco-', 'spir', 're-', 'inter-') with its exact meaning: What does 'geopolitics' mean?",
+          "options": [
+            "The study of ancient rocks and fossils",
+            "The relationship between the world's countries",
+            "A type of tourism that harms local wildlife",
+            "Throwing a sudden comment into a conversation"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n10월 13일 강의 27분 33초에서 빌리 교수님이 116페이지 Part B를 보며 직접 강조하신 어근 `geo-` 문제입니다. `Geopolitics`(지정학)의 교재 정답은 `a. the relationship between the world's countries`입니다."
+        },
+        {
+          "id": "pw_q33",
+          "num": 33,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part B] Which word from Page 116 Part B means 'damaging to the environment' (formed from the root 'eco')?",
+          "options": [
+            "aspire",
+            "re-enact",
+            "ecocidal",
+            "interject"
+          ],
+          "answer": 3,
+          "explanation": "정답: ③\n교재 116페이지 Part B 2번 문항입니다.① `aspire` = aim to achieve something(열망하다), ② `re-enact` = perform it again(재연하다), ③ `ecocidal` = damaging to the environment(환경을 파괴하는), ④ `interject` = throw a comment into a conversation(대화에 말을 끼어들다)."
+        },
+        {
+          "id": "pw_q34",
+          "num": 34,
+          "question": "[Oct 13 강의 지목 — Unit 1 p.9 Inferring Meaning] In Reading 1, the author writes that animals are 'no slouch' when it comes to intelligence, and that videos of a dancing parrot 'went viral.' What do 'no slouch' and 'went viral' mean?",
+          "options": [
+            "'No slouch' means very lazy; 'went viral' means caught a dangerous disease",
+            "'No slouch' means very capable/good at something; 'went viral' means spread quickly on the internet",
+            "'No slouch' means moving slowly; 'went viral' means hidden from the public",
+            "'No slouch' means lacking emotion; 'went viral' means studied in a laboratory"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n10월 13일 강의에서 빌리 교수님이 9페이지를 펴고 직접 뜻을 물어보신 관용 표현입니다. `no slouch`는 '게으름뱅이가 아닌, 즉 매우 유능하고 뛰어난 존재'라는 뜻이며, `went viral`은 '온라인상에서 순식간에 퍼져 유명해졌다'는 뜻입니다."
+        },
+        {
+          "id": "pw_q35",
+          "num": 35,
+          "question": "[Oct 13 강의 지목 — Unit 1 p.10 Reading Skill] In the paragraph on Page 10 about male gorillas in northern Congo splashing water with their hands, which statement is the MAIN IDEA (M) rather than a Supporting Idea (S)?",
+          "options": [
+            "Male gorillas sometimes hit the surface of the water with their palms open.",
+            "Splashing water helps scare off and intimidate other males.",
+            "A study shows that male gorillas splash water to attract female gorillas and find a mate.",
+            "Larger male gorillas are usually more successful at finding mates."
+          ],
+          "answer": 3,
+          "explanation": "정답: ③\n교재 10페이지 연습문제 A·B입니다. 단락 전체의 중심 생각(Main Idea)은 ③ '수컷 고릴라가 짝을 찾기 위해 물장구를 친다는 연구 결과'이며, ①(방식: How)과 ②(목적: Purpose)는 뒷받침 문장(Supporting Ideas), ④는 본문에 없는 잉여 문장(Extra)입니다."
+        },
+        {
+          "id": "pw_q36",
+          "num": 36,
+          "question": "[Oct 13 강의 지목 — Unit 1 p.18 Vocabulary Extension] Complete the two sentences from Page 18:\n1. Your parents, husband or wife, brothers and sisters, and children make up your ________.\n2. Being polite to your co-workers is one way to ________ conflict in the workplace.",
+          "options": [
+            "extended family / prepare",
+            "immediate family / prevent",
+            "social structure / preview",
+            "offspring / predict"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 18페이지 Part A 1번과 Part B 4번 원문 문장입니다. 부모·배우자·형제자매·자녀는 직계 가족(`immediate family`)이며, 직장 내 갈등을 미리 막는 것은 `prevent`(예방하다)입니다."
+        },
+        {
+          "id": "pw_q37",
+          "num": 37,
+          "question": "[Oct 13 강의 지목 — Unit 3 p.66 Compound Adjectives] According to the Word Forms rule on Page 66, which compound adjective is punctuated CORRECTLY when placed before a noun?",
+          "options": [
+            "Venice is one of the most heavily-visited cities in the world.",
+            "Venice is one of the most heavily visited cities in the world, and residents lost their hard-earned money.",
+            "The residents lost their hard earned money in the fast moving storm.",
+            "The Moses barriers can stop three meter tides."
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 66페이지 Part B의 핵심 문법 규칙입니다: 복합형용사가 명사 앞에 올 때는 하이픈(-)으로 연결하지만(`hard-earned money`, `three-meter tides`, `fast-moving storms`), **첫 단어가 `-ly`로 끝나는 부사일 때는 절대 하이픈을 쓰지 않습니다(`heavily visited cities`)**!"
+        },
+        {
+          "id": "pw_q38",
+          "num": 38,
+          "question": "[Oct 13 강의 지목 — Unit 3 p.66 Income Expressions] \"If your ________ is $100,000 and you have to pay 20 percent ________, your ________ is $80,000.\"",
+          "options": [
+            "source of income / income inequality / annual income",
+            "annual income / income tax / disposable income",
+            "disposable income / income tax / annual income",
+            "annual income / disposable income / source of income"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 66페이지 Part A 3번 원문입니다. 연간 총소득(`annual income`) 10만 달러에서 20%의 소득세(`income tax`)를 납부하고 나면 세후 실제로 쓸 수 있는 가처분 소득(`disposable income`) 8만 달러가 남습니다."
+        },
+        {
+          "id": "pw_q39",
+          "num": 39,
+          "question": "[Oct 13 강의 지목 — Unit 3 p.67 Simple Past vs Present Perfect] Choose the correct verb forms for sentences 1, 5, and 7 on Page 67:\n1. Large numbers of people (moved / have moved) to Seoul during the 1950s.\n5. In 1961, the life expectancy in South Korea was 51 years. Since then, it (increased / has increased) to 79 years.\n7. Engineers (used / have used) the barriers several times every year since 2020.",
+          "options": [
+            "moved / has increased / have used",
+            "have moved / increased / used",
+            "moved / increased / have used",
+            "have moved / has increased / have used"
+          ],
+          "answer": 1,
+          "explanation": "정답: ①\n교재 67페이지 연습문제 B번입니다. `during the 1950s`는 이미 끝난 과거의 특정 시기이므로 단순과거(`moved`), `Since then`과 `every year since 2020`은 과거부터 현재까지 이어지는 기간 및 반복이므로 현재완료(`has increased`, `have used`)를 씁니다."
+        },
+        {
+          "id": "pw_q40",
+          "num": 40,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.117 'if' Clause Comma & Tense Rule] Which sentence below uses the correct verb tense AND the correct comma punctuation according to Page 117?",
+          "options": [
+            "If more tourists will visit the islands, there will be more trash on the beaches.",
+            "If more tourists visit the islands there will be more trash on the beaches.",
+            "Local craftspeople will make more money, if tourists buy more souvenirs.",
+            "Local craftspeople will make more money if tourists buy more souvenirs."
+          ],
+          "answer": 4,
+          "explanation": "정답: ④\n교재 117페이지에서 빌리 교수님이 콕 집어 강조하신 두 가지 철칙입니다: 1) `if` 조건절 안에는 미래시제 `will`을 쓰지 않고 현재시제(`visit`, `buy`)를 쓴다. 2) `If`절이 문장 앞에 오면 절 끝에 반드시 쉼표(`,`)를 찍고, 주절이 먼저 오고 `if`절이 뒤에 오면 `if` 앞에 쉼표를 절대 찍지 않는다!"
+        },
+        {
+          "id": "pw_q41",
+          "num": 41,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.108 Cause & Effect] In the statement \"Because tourists have little contact with local people on mass resort tours, people don't learn much about each other's cultures,\" what is the CAUSE and what is the EFFECT?",
+          "options": [
+            "Cause: People don't learn much about cultures → Effect: Tourists have little contact with locals",
+            "Cause: Tourists have little contact with local people → Effect: People don't learn much about each other's cultures",
+            "Both clauses are effects of geotourism",
+            "Both clauses are causes of economic growth"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 108페이지 인과관계 분석 문제입니다. 관광객들이 현지 주민들과 접촉할 기회가 거의 없다는 것이 원인(Cause)이며, 그로 인해 서로의 문화에 대해 거의 배우지 못한다는 것이 결과(Effect)입니다."
+        },
+        {
+          "id": "pw_q42",
+          "num": 42,
+          "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] How does living in dense cities benefit the environment compared to living in suburbs? (Write at least TWO complete sentences as required by Prof. Billy.)",
+          "options": [],
+          "type": "short",
+          "answer": "First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person. Second, city apartments require less energy to heat, cool, and light than houses in the suburbs, and shorter roads and power lines require fewer resources.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장: First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person.\n2문장: Second, city apartments require less energy to heat, cool, and light than suburban houses, and shorter city roads and sewers use fewer resources to build and operate."
+        },
+        {
+          "id": "pw_q43",
+          "num": 43,
+          "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] According to Unit 5 (p.107), how does geotourism differ from mass tourism in terms of its impact on the local economy and environment? (Write at least TWO complete sentences.)",
+          "options": [],
+          "type": "short",
+          "answer": "While mass tourism often damages fragile environments and sends profits to large outside corporations, geotourism preserves or enhances the local environment, culture, and heritage. In addition, geotourism directly supports the local economy by hiring local residents as official guides and encouraging visitors to buy from local businesses.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장(환경/문화 대비): While mass tourism often damages fragile environments and sends profits to large outside corporations, geotourism preserves or enhances the local environment, culture, and heritage.\n2문장(지역 경제 혜택): In addition, geotourism directly supports the local economy by hiring local residents as official guides and encouraging visitors to buy from local businesses."
+        },
+        {
+          "id": "pw_q44",
+          "num": 44,
+          "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] In Unit 1, how did researchers Inbal Ben-Ami Bartal and her colleagues prove that rats can feel empathy? (Write at least TWO complete sentences.)",
+          "options": [],
+          "type": "short",
+          "answer": "In the experiment, rats learned to pull a lever to get food, but they later saw that pulling the lever gave a painful electric shock to a rat in a neighboring cage. Once the rats realized this, they stopped pulling the lever to prevent the other rat's suffering, which suggests that they felt empathy.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장(실험 설계): In the experiment, rats learned to pull a lever to get food, but they later noticed that pulling the lever gave an electric shock to another rat in a nearby cage.\n2문장(결과 및 의의): The rats stopped pulling the lever in order to prevent the other rat's suffering, which demonstrates that nonhuman animals can feel empathy."
+        },
+        {
+          "id": "pw_q45",
+          "num": 45,
+          "question": "[Oct 13 강의 지목 — In-Class Essay Mandatory Rule] When writing your 5-paragraph Compare and Contrast Essay on the exam paper, which sentences MUST you underline to avoid losing formatting points?",
+          "options": [
+            "You must underline every target vocabulary word used in the essay.",
+            "You must underline the Hook in the introduction and the Final Thought in the conclusion.",
+            "You must underline the Thesis Statement in the introduction and the Topic Sentence in each of the three body paragraphs (4 sentences total).",
+            "You must underline the entire concluding paragraph."
+          ],
+          "answer": 3,
+          "explanation": "정답: ③\n10월 13일 현장 강의 29분 28초에서 빌리 교수님이 직접 지시하신 에세이 필수 규칙입니다: 서론 마지막 문장인 Thesis Statement(중심 문장) 1개와 본론 1, 2, 3의 첫 문장인 Topic Sentence(주제문) 3개 등 총 4개 문장에 반드시 밑줄(Underline)을 그어야 합니다!"
+        }
+      ]
+    },
+    "billy_exam": {
+      "id": "pathways3",
+      "name": "Pathways 3 (Reading & Writing)",
+      "author": "Cengage National Geographic",
+      "category": "대영2 (Billy Joseph Fitzgerald)",
+      "sections": [
+        {
+          "id": 0,
+          "title": "★ 10월 13일 빌리 교수님 현장강의 출제 포인트 (페이지별 족보)",
+          "short_title": "★ 10/13 출제족보",
+          "sentences": [
+            {
+              "zh": "[내일 10/20 지필 중간고사 핵심 구조] 총점 50점 만점 지필 시험 (지난주 10/13 에세이 완료!)",
+              "py": "Oct 20 Official Exam Rules · 백년관 508호 (화 5~6교시)",
+              "kr": "1. 지난주(10/13 화) 글쓰기(In-Class Essay) 완료에 이어, 내일(10/20 화)은 '총점 50점 만점 독해·어휘·문법 오프라인 지필 중간고사'가 실시됩니다!\n2. Reading Section (15점, 5문항): 객관식 4지선다 + 주관식 단답/서술형(Short Answer) 혼합 출제.\n3. ⚠️ 주관식 서술형 절대 원칙: 모든 주관식(Short Answer) 문항은 반드시 최소 2문장 이상(at least two sentences)으로 완전한 문장으로 답해야 만점을 받습니다! 한 문장이나 단어로만 쓰면 감점됩니다.\n4. 어휘 및 문법 파트: 교수님이 지목하신 단원별 Vocabulary Extension 및 시제/조건절 문법 규칙에서 전수 출제됩니다."
+            },
+            {
+              "zh": "[Unit 1 지목 페이지] p.4 (단어) · p.9 (문맥 추론) · p.10 (중심/뒷받침 문장) · p.12 (단어) · p.18 (복합명사 & pre-)",
+              "py": "Unit 1: Social Relationships 핵심 출제 포인트",
+              "kr": "• p.9 Inferring Meaning (문맥 속 의미 추론):\n  - no slouch = 매우 유능한 존재 (very capable / good at solving problems, 문어 Bertha 사례)\n  - went viral = 인터넷에서 순식간에 퍼져 유명해지다 (spread quickly on the internet, 앵무새 Snowball 사례)\n  - had a soft spot for = ~에게 남다른 애정·호감을 갖다 (felt affection for / liked very much)\n  - inner lives = 내면의 정신·감정 세계 (involves your mind) / notion = 생각·관념 (an idea) / lead someone astray = 오도하다·잘못 믿게 하다 (believe something incorrectly) / engage in = ~에 참여하다 (take part in)\n• p.10 Main Idea vs Supporting Ideas (고릴라 물장구 지문):\n  - Main Idea (M): A study shows that male gorillas splash water to attract female gorillas (and intimidate other males).\n  - Supporting Ideas (S): 1) 손바닥을 펴서 수면을 친다(How it is done) 2) 다른 수컷들을 겁주어 쫓아낸다(Purpose) 3) 고릴라가 창의적이고 지적인 동물임을 증명한다(Conclusion).\n• p.18 Vocabulary Extension:\n  - Part A (복합명사): 1) 부모·배우자·형제자매·자녀 = immediate family (직계 가족; 친척 포함 시 extended family, 동물 새끼는 offspring) 2) 겔라다 사회의 암컷 = decision-makers 3) 야생동물 연구 = wildlife 4) 개의 집중 표현 = eye contact 5) 올챙이 놀이 = air bubbles.\n  - Part B (접두사 pre- = before in time): 1) prepare some slides (슬라이드 준비) 2) predict a person's behavior (행동 예측) 3) no previous experience (이전 경력) 4) prevent conflict (갈등 예방) 5) seeing a preview online (예고편 미리보기)."
+            },
+            {
+              "zh": "[Unit 3 지목 페이지] p.52 (도시화 2문장 서술형) · p.58 (한국 GDP 그래프) · p.60 (단어) · p.66 (income & 복합형용사) · p.67 & p.251 (시제)",
+              "py": "Unit 3: City Solutions 핵심 출제 포인트",
+              "kr": "• p.52 주관식 2문장 서술형 대비 모범 답안 (Why is urbanization good for the environment?):\n  \"First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person. Second, city apartments require less energy to heat, cool, and light than houses in the suburbs, and shorter city roads and power lines use fewer resources.\"\n• p.58 시각 그래프 분석 (South Korea Overtaking Europe, 1985-2021):\n  - 1985년부터 2021년까지 대한민국의 1인당 GDP가 가파르게 성장하여 포르투갈, 스페인, 이탈리아 등 유럽 국가들을 추월하고 영국 수준에 근접했음을 보여주며, 본문의 \"South Korea has gone from being one of the world's poorest countries to being richer than many countries in Europe\" 문장을 뒷받침함.\n• p.66 Vocabulary Extension:\n  - Part A (income 표현): 1) 임대 수익 = additional source of income (추가 소득원) 2) 고소득층과 저임금층 격차 = income inequality (소득 불평등) 3) 연봉 10만 달러(annual income)에서 20% 소득세(income tax)를 내면 8만 달러의 가처분 소득(disposable income)이 남음.\n  - Part B (복합형용사 Compound Adjectives): 명사 앞에서 하이픈(-)으로 연결하되, -ly 부사가 앞에 오면 하이픈을 쓰지 않음! 1) heavily visited cities (하이픈 없음 주의!) 2) hard-earned money 3) three-meter tides 4) fast-moving storms (참고: slow-moving, low-income, 10-ton).\n• p.67 & p.251 Simple Past vs Present Perfect:\n  - 과거 특정 시점(during the 1950s, Before the 20th century, in 1961, in 1987, last year) → 무조건 단순과거(moved, invested, was, started, rose).\n  - 과거부터 현재까지 이어지는 기간·반복(during the past few decades, Since then, every year since 2020) → 현재완료(has improved, has increased, have used)."
+            },
+            {
+              "zh": "[Unit 5 지목 페이지] p.102 (단어) · p.107 (지오투어리즘 비교표) · p.108 & p.117 (인과관계 & if 쉼표 규칙) · p.116 (-ive & geo- 어근)",
+              "py": "Unit 5: The Travel Business 핵심 출제 포인트",
+              "kr": "• p.107 Mass Tourism vs Geotourism 비교:\n  - Mass Tourism: 대형 리조트·크루즈 중심, 환경 오염 및 유적 훼손 유발, 수익이 외부 대기업으로 유출됨.\n  - Geotourism: 여행지의 자연환경·문화·유산을 보존 및 강화하고, 현지 주민을 공식 가이드(official guides)로 고용하고 지역 상점을 이용해 지역 경제에 실질적 혜택을 줌.\n• p.108 & p.117 Cause & Effect 및 if 조건절 쉼표(Comma) 절대 규칙:\n  - 원인(Cause): Tourism brings money into a community → 결과(Effect): local governments make improvements to roads and bridges.\n  - 원인(Cause): Tourists have little contact with local people → 결과(Effect): People don't learn much about each other's cultures.\n  - ⚠️ if 쉼표 규칙: If절이 문장 맨 앞에 오면 조건절 끝에 반드시 쉼표(,)를 찍고(If more tourists visit the islands, there will be more trash.), 주절이 먼저 오고 if절이 뒤에 오면 쉼표를 절대 찍지 않는다(Local craftspeople will make more money if tourists buy more souvenirs.). 또한 조건절(if절) 안에는 미래 조동사 will을 쓰지 않고 현재시제를 쓴다!\n• p.116 Vocabulary Extension (빌리 교수님 강력 강조 페이지):\n  - Part A (-ive 단어의 명사 Noun vs 형용사 Adjective 구별):\n    1) distinctive architecture → 형용사 (A)\n    2) The objective of geotourism → 명사 (N, 목표)\n    3) native wildlife → 형용사 (A)\n    4) Tourists are representatives of their home country → 명사 (N, 대표자들)\n    5) alternative travel options → 형용사 (A)\n  - Part B (접두사 geo-, eco-, re-, inter- 및 어근 결합 5단어 영영 정의):\n    1) Geopolitics = the relationship between the world's countries (세계 국가들 간의 지정학적 관계)\n    2) ecocidal = damaging to the environment (환경을 파괴하는)\n    3) aspire = aim to achieve something (무언가를 성취하기를 열망하다)\n    4) re-enact = perform it again (사건이나 연극을 다시 재연하다)\n    5) interject = throw a comment into a conversation (대화 도중에 말을 끼어들다)"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "Unit 1: What Are They Thinking? (동물 인지 과학)",
+          "short_title": "Unit 1 동물인지",
+          "sentences": [
+            {
+              "zh": "[Paragraph A (도입: 도구 사용과 문제 해결)] Animals demonstrate problem-solving abilities that challenge the idea that only humans possess advanced intelligence.",
+              "kr": "핵심 세부 내용: 까마귀(New Caledonian crows)가 철사를 구부려 도구를 만들고 병 속에 든 먹이를 꺼내는 실험. 이는 단순 시행착오가 아니라 사전 계획(planning)과 인과 추론에 기반함.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph B (자아 인식과 거울 실험)] Self-recognition in mirrors indicates a higher level of consciousness in certain animals.",
+              "kr": "핵심 세부 내용: 침팬지, 돌고래, 코끼리가 거울에 비친 자신의 몸에 묻은 점을 확인하고 닦아내는 행동. 이는 '나(Self)'라는 개념을 인식함을 증명.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C (동물의 슬픔과 애도 - Grief)] Animals show emotional responses, particularly grief, when family members or companions die.",
+              "kr": "핵심 세부 내용: 코끼리 무리가 죽은 동료의 뼈 주위에 모여 오랜 시간 코로 만지며 침묵을 지키는 의식적 애도 행동.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D (공감 능력 - Empathy in Rats & Dogs)] Recent scientific experiments reveal that empathy is not unique to humans.",
+              "kr": "핵심 세부 내용: 쥐 실험(Lever-pulling experiment) — 레버를 당기면 먹이가 나오지만 다른 쥐에게 전기 충격이 가해진다는 사실을 인지하자 쥐들이 레버 누르기를 중단함 (suffering 방지 본능).",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E (학계의 회의론과 반론 - Anthropomorphism)] Skeptics warn against anthropomorphism (인간화: 동물의 행동에 인간의 감정을 투영하는 오류).",
+              "kr": "핵심 세부 내용: 동물의 특정 행동이 실제 감정인지, 단순한 조건반사적 생존 기제인지 엄밀한 과학적 검증이 필요하다는 주장.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F & G (결론 및 시사점)] Expanding recognition of animal cognition reshapes how humans treat and protect nonhuman species.",
+              "kr": "핵심 세부 내용: 동물의 지능과 감정을 인정함으로써 동물 복지 법안, 사육 환경 개선, 생태계 보존의 도덕적 정당성이 확보됨.",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Unit 3: Living on an Urban Planet (메가시티와 도시화)",
+          "short_title": "Unit 3 도시화",
+          "sentences": [
+            {
+              "zh": "[Paragraph A (도시 행성으로의 전환)] Humanity has crossed a historic threshold, transitioning into an predominantly urban species.",
+              "kr": "핵심 세부 내용: 과거 농경 중심 사회에서 산업화 이후 급격한 도시 집중. 1950년 인구 1,000만 이상의 메가시티는 뉴욕과 도쿄 2곳에 불과했으나 현재는 30개 이상으로 급증.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph B (도시 집중의 경제적 동인 - Push & Pull Factors)] Economic opportunities act as the strongest magnet drawing rural populations into cities.",
+              "kr": "핵심 세부 내용: 도시의 높은 소득 수준(income), 다양한 일자리, 교육 및 의료 인프라. 반면 농촌 지역의 일자리 부족과 기후 변화로 인한 농업 생산성 저하.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C (도시의 생산성과 규모의 경제 - Productivity)] Dense concentrations of people foster greater economic productivity and technological innovation.",
+              "kr": "핵심 세부 내용: 지식 교류의 가속화, 인프라 공유로 인한 1인당 생산성 향상. 세계 GDP의 80% 이상이 도시에서 창출됨.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D (도시 스프롤 현상과 교외화 - Sprawl & Suburbs)] Rapid population growth forces cities to spread out into surrounding rural areas, creating extensive suburbs.",
+              "kr": "핵심 세부 내용: 도심 지가 상승으로 인해 외곽으로의 확산(sprawl). 긴 통근 시간, 교통 체증, 탄소 배출 증가라는 부작용 야기.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E (도시의 환경적 도전과 슬럼 문제)] Uncontrolled urban growth leads to severe infrastructural strain and social inequality.",
+              "kr": "핵심 세부 내용: 개발도상국 도시의 슬럼(무허가 빈민가) 형성, 식수 부족, 폐기물 처리 불능, 대기 및 수질 오염 심화.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F & G (미래 도시 솔루션 - Green & Smart Cities)] Sustainable urban planning and technological innovations are essential to ensure the livability of future cities.",
+              "kr": "핵심 세부 내용: 대중교통 중심 개발(TOD), 녹지 공간 확충, 에너지 효율적 친환경 건축, 스마트 그리드 도입.",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Unit 5: The New Face of Tourism (지속 가능한 지오투어리즘)",
+          "short_title": "Unit 5 관광",
+          "sentences": [
+            {
+              "zh": "[Paragraph A (대중 관광의 폭발적 성장과 명암)] Global tourism has grown exponentially, bringing substantial economic gains but severe environmental strains.",
+              "kr": "핵심 세부 내용: 저비용 항공사(LCC)의 보급과 크루즈 여행 확대로 전 세계 해외 여행객 수가 14억 명을 돌파함.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph B (과잉 관광의 피해 사례 - Venice & Machu Picchu)] Fragile historic destinations are suffering irreversible damage due to mass visitor overcrowding.",
+              "kr": "핵심 세부 내용: 베네치아의 대형 크루즈선 파도로 인한 석조 기초 침식 및 현지 주민 유출; 마추픽추와 마야 유적의 계단 마모 및 폐기물 범람.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C (새로운 관광 패러다임의 태동 - Geotourism)] Geotourism emerges as an alternative that sustains or enhances the geographical character of a place.",
+              "kr": "핵심 세부 내용: 내셔널 지오그래픽이 제안한 개념: 환경(environment), 문화(culture), 미학(aesthetics), 유산(heritage), 현지 주민의 복지(well-being)를 모두 보존하는 총체적 접근.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D (지역 사회와의 상생 파트너십 - Partnerships)] Successful sustainable tourism depends on deep partnerships between tour operators and local residents.",
+              "kr": "핵심 세부 내용: 현지 주민을 공식 가이드(official guides)로 고용하여 정당한 생계(earn a living)를 보장하고, 수익이 다국적 기업이 아닌 지역 공동체로 환원되도록 구조화.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E (재생 에너지와 친환경 숙박 시설 - Eco-friendly Hospitality)] Modern eco-lodges demonstrate that guest comfort can coexist with renewable and sustainable practices.",
+              "kr": "핵심 세부 내용: 태양광 및 지열 에너지 사용, 빗물 재활용, 일회용 플라스틱 퇴출, 현지 유기농 식자재 사용.",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F (여행자의 책임과 의식 고취 - Traveler Awareness)] Educating travelers to respect local culture and environment is vital for the long-term future of tourism.",
+              "kr": "핵심 세부 내용: 관광객 스스로가 탄소 발자국을 줄이고, 현지 규칙을 준수하며, 문화적 민감성을 발휘해야 한다는 인식 제고.",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "★ In-Class Essay 만점 모범 답안 (5문단 비교·대조 전문 + 밑줄 필수 문장)",
+          "short_title": "★ 에세이 전문",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1: Introduction] Online Social Networks vs. Face-to-Face Friendships\nIn the modern digital era, young people can connect with hundreds of individuals across the globe with a single tap on a smartphone screen. Both online social networks and face-to-face friendships share the same basic goal of helping people connect, share their daily lives, and escape loneliness. However, having hundreds of online followers is very different from having true friends in real life. [밑줄 필수 — Thesis Statement] Although both forms of connection help people stay in touch, online social networks only offer fast and convenient interaction, whereas face-to-face friendships provide deeper emotional awareness, healthier ways to resolve conflict, and freedom from the pressure of social status.",
+              "py": "제1문단 서론 (Hook + Background + 마지막 문장 Thesis Statement 밑줄 필수!)",
+              "kr": "현대 디지털 시대에 젊은이들은 스마트폰 화면을 한 번 터치하는 것만으로도 전 세계 수백 명의 사람들과 연결될 수 있습니다. 온라인 소셜 네트워크와 대면 우정 모두 사람들이 서로 연결되고, 일상을 공유하며, 외로움에서 벗어나도록 돕는다는 똑같은 기본 목표를 공유합니다. 하지만 수백 명의 온라인 팔로워를 가진 것은 현실에서 진정한 친구를 둔 것과 매우 다릅니다. [Thesis 밑줄] 비록 두 연결 방식 모두 사람들이 연락을 주고받도록 돕지만, 온라인 소셜 네트워크는 단지 빠르고 편리한 상호작용만 제공하는 반면, 대면 우정은 더 깊은 감정적 인식, 갈등을 건강하게 해결하는 방법, 그리고 사회적 지위의 압박으로부터의 자유를 제공합니다."
+            },
+            {
+              "zh": "[Paragraph 2: Body 1 — Speed and Effort of Interaction]\n[밑줄 필수 — Topic Sentence 1] First, online platforms and real-life settings differ in the speed and effort required to interact with others. On social media, users can interact instantly with hundreds of peers and acquire large follower lists without leaving their homes. A quick comment or message can easily maintain a casual relationship. In contrast, building face-to-face friendships requires physical presence, shared time, and patience. Meeting someone in person takes real planning and active conversation. While online networking offers great convenience in quantity, face-to-face interaction requires real effort that builds strong trust.",
+              "py": "제2문단 본론 1 (첫 문장 Topic Sentence 밑줄 필수! · 타깃 어휘: interact, acquire)",
+              "kr": "[Topic 1 밑줄] 첫째, 온라인 플랫폼과 현실의 환경은 타인과 상호작용하는 데 필요한 속도와 노력 면에서 다릅니다. 소셜 미디어에서 이용자들은 집 밖으로 나가지 않고도 수백 명의 또래와 즉각적으로 상호작용(interact)하며 대규모 팔로워 목록을 확보(acquire)할 수 있습니다. 짧은 댓글이나 메시지 하나로 가벼운 관계를 쉽게 유지할 수 있습니다. 반면에(In contrast) 대면 우정을 쌓는 것은 물리적인 만남, 공유하는 시간, 그리고 인내심을 요구합니다. 누군가를 직접 만난다는 것은 실제 약속 계획과 적극적인 대화를 필요로 합니다. 온라인 네트워킹이 양적인 면에서 큰 편리함을 제공하지만, 대면 상호작용은 강한 신뢰를 쌓는 진정한 노력을 요구합니다."
+            },
+            {
+              "zh": "[Paragraph 3: Body 2 — Emotional Depth and Awareness]\n[밑줄 필수 — Topic Sentence 2] Second, face-to-face friendships build much greater emotional depth because friends are fully aware of real human feelings. Digital communication relies heavily on short text messages, emojis, and edited photos, which easily hide loneliness and sadness. On the other hand, in-person conversations allow friends to be aware of facial expressions, voice tone, and body language. When a friend is sad, being in the same room gives warm comfort that no phone screen can replace. Therefore, real-life presence creates true empathy, whereas online contact often stays on the surface.",
+              "py": "제3문단 본론 2 (첫 문장 Topic Sentence 밑줄 필수! · 타깃 어휘: aware of, replace)",
+              "kr": "[Topic 2 밑줄] 둘째, 대면 우정은 친구들이 진짜 인간적 감정을 온전히 인식(aware of)할 수 있기 때문에 훨씬 더 큰 정서적 깊이를 쌓아줍니다. 디지털 소통은 짧은 문자 메시지, 이모티콘, 그리고 보정된 사진에 크게 의존하므로 외로움과 슬픔을 쉽게 숨길 수 있습니다. 반면에(On the other hand) 직접 마주 보고 나누는 대화는 친구들이 얼굴 표정, 목소리 톤, 그리고 몸짓을 온전히 알아차릴 수 있게 해줍니다. 친구가 슬퍼할 때 같은 방에 함께 있어 주는 것은 그 어떤 휴대폰 화면도 대체(replace)할 수 없는 따뜻한 위로를 줍니다. 따라서 현실의 존재감은 진정한 공감을 만들어내는 반면(whereas), 온라인 연락은 종종 겉면에만 머무릅니다."
+            },
+            {
+              "zh": "[Paragraph 4: Body 3 — Conflict Resolution and Social Status]\n[밑줄 필수 — Topic Sentence 3] Third, the two forms of connection deal with interpersonal conflict and social status in very different ways. On social networks, users often feel pressured to emulate popular influencers to gain high social status and likes. This creates stressful comparison, and small disagreements easily cause serious online conflict or sudden blocking. Conversely, real-life friendships encourage people to talk honestly about difficult feelings. Solving problems in person teaches friends to understand each other and resolve conflict through mutual respect. As a result, face-to-face bonds grow stronger through trust, while online relationships often suffer from competition.",
+              "py": "제4문단 본론 3 (첫 문장 Topic Sentence 밑줄 필수! · 타깃 어휘: conflict, status, emulate, bond)",
+              "kr": "[Topic 3 밑줄] 셋째, 이 두 가지 연결 방식은 대인관계의 갈등(conflict)과 사회적 지위(status)를 매우 다른 방식으로 다룹니다. 소셜 네트워크에서 이용자들은 높은 사회적 지위와 좋아요를 얻기 위해 인기 인플루언서를 모방(emulate)해야 한다는 압박감을 자주 느낍니다. 이는 스트레스 많은 비교를 낳고, 작은 의견 차이도 심각한 온라인 갈등이나 갑작스러운 차단으로 쉽게 이어집니다. 반대로 현실의 우정은 사람들이 어려운 감정에 대해 솔직하게 이야기하도록 격려합니다. 직접 만나 문제를 해결하는 과정은 친구들이 서로를 이해하고 상호 존중을 통해 갈등을 해결하도록 가르쳐줍니다. 결과적으로 대면 유대감(bonds)은 신뢰를 통해 더욱 강해지는 반면, 온라인 관계는 종종 경쟁으로 인해 고통받습니다."
+            },
+            {
+              "zh": "[Paragraph 5: Conclusion — Summary Statement & Final Thought]\nIn conclusion, while both online networks and real-life friendships connect people, face-to-face relationships are irreplaceable for true emotional happiness. Online platforms give fast interaction, but face-to-face bonds build deep awareness, help friends overcome conflict, and value real honesty over social status. Technology should serve as a useful tool for daily communication, but true happiness depends on the warmth of real-life connections. For college students, cherishing face-to-face friendships is essential to living a happy and balanced life.",
+              "py": "제5문단 결론 (Summary Statement + Final Thought)",
+              "kr": "결론적으로, 온라인 네트워크와 현실의 우정 모두 사람들을 연결해 주지만, 진정한 정서적 행복을 위해서는 대면 관계가 결코 대체될 수 없습니다. 온라인 플랫폼은 빠른 상호작용을 주지만, 대면 유대감은 깊은 감정 인식을 쌓아주고, 친구들이 갈등을 극복하도록 도우며, 사회적 지위보다 진짜 솔직함을 소중히 여깁니다. 기술은 일상적인 소통을 위한 유용한 도구 역할을 해야 하지만, 진정한 행복은 현실 관계의 따뜻함에 달려 있습니다. 대학생들에게 대면 우정을 소중히 여기는 것은 행복하고 균형 잡힌 삶을 살아가는 데 필수적입니다."
+            }
+          ]
+        }
+      ],
+      "vocab": [
+        {
+          "word": "behavior",
+          "zh": "behavior",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "the way someone or something acts",
+          "py": "[n · Unit 1] the way someone or something acts",
+          "kr": "행동, 처신 — the way someone or something acts",
+          "level": "⭐ Unit 1",
+          "ex": "Even rats show human-like behavior in lab experiments.",
+          "note": "예문: Even rats show human-like behavior in lab experiments."
+        },
+        {
+          "word": "bond",
+          "zh": "bond",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "a feeling of connection with someone or something else",
+          "py": "[n · Unit 1] a feeling of connection with someone or something else",
+          "kr": "유대감, 결속 — a feeling of connection with someone or something else",
+          "level": "⭐ Unit 1",
+          "ex": "People often form strong bonds with animals they interact with.",
+          "note": "예문: People often form strong bonds with animals they interact with."
+        },
+        {
+          "word": "cognitive",
+          "zh": "cognitive",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "relating to thinking and understanding",
+          "py": "[adj · Unit 1] relating to thinking and understanding",
+          "kr": "인지적인 — relating to thinking and understanding",
+          "level": "⭐ Unit 1",
+          "ex": "Regular exercise can help with physical fitness and cognitive function.",
+          "note": "예문: Regular exercise can help with physical fitness and cognitive function."
+        },
+        {
+          "word": "complex",
+          "zh": "complex",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "involving a lot of different parts; difficult to understand",
+          "py": "[adj · Unit 1] involving a lot of different parts; difficult to understand",
+          "kr": "복잡한 — involving a lot of different parts; difficult to understand",
+          "level": "⭐ Unit 1",
+          "ex": "Some believe emotions like sadness are too complex for nonhuman species.",
+          "note": "예문: Some believe emotions like sadness are too complex for nonhuman species."
+        },
+        {
+          "word": "controversial",
+          "zh": "controversial",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "causing disagreement",
+          "py": "[adj · Unit 1] causing disagreement",
+          "kr": "논란의 여지가 있는 — causing disagreement",
+          "level": "⭐ Unit 1",
+          "ex": "The idea that animals feel emotions is controversial and sparks intense debate.",
+          "note": "예문: The idea that animals feel emotions is controversial and sparks intense debate."
+        },
+        {
+          "word": "discipline",
+          "zh": "discipline",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to train someone to follow rules or codes of behavior",
+          "py": "[v · Unit 1] to train someone to follow rules or codes of behavior",
+          "kr": "훈육하다, 규율을 따르게 하다 — to train someone to follow rules or codes of behavior",
+          "level": "⭐ Unit 1",
+          "ex": "One way to discipline children is to establish a quiet timeout.",
+          "note": "예문: One way to discipline children is to establish a quiet timeout."
+        },
+        {
+          "word": "establish",
+          "zh": "establish",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to create or start something that will last a long time",
+          "py": "[v · Unit 1] to create or start something that will last a long time",
+          "kr": "확립하다, 설립하다 — to create or start something that will last a long time",
+          "level": "⭐ Unit 1",
+          "ex": "Children generally sleep better when parents establish a regular bedtime routine.",
+          "note": "예문: Children generally sleep better when parents establish a regular bedtime routine."
+        },
+        {
+          "word": "extended family",
+          "zh": "extended family",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "a group that includes uncles, cousins, grandparents, etc.",
+          "py": "[n · Unit 1] a group that includes uncles, cousins, grandparents, etc.",
+          "kr": "대가족 — a group that includes uncles, cousins, grandparents, etc.",
+          "level": "⭐ Unit 1",
+          "ex": "Previously, it was common for extended families to live together in one home.",
+          "note": "예문: Previously, it was common for extended families to live together in one home."
+        },
+        {
+          "word": "gender",
+          "zh": "gender",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "the characteristics of being male or female",
+          "py": "[n · Unit 1] the characteristics of being male or female",
+          "kr": "성별 — the characteristics of being male or female",
+          "level": "⭐ Unit 1",
+          "ex": "It is normal for children, regardless of gender, to fear separation.",
+          "note": "예문: It is normal for children, regardless of gender, to fear separation."
+        },
+        {
+          "word": "generally",
+          "zh": "generally",
+          "pos": "adv",
+          "unit": "Unit 1",
+          "def_en": "usually",
+          "py": "[adv · Unit 1] usually",
+          "kr": "일반적으로, 대개 — usually",
+          "level": "⭐ Unit 1",
+          "ex": "Researchers observed that children generally respond well to consistent schedules.",
+          "note": "예문: Researchers observed that children generally respond well to consistent schedules."
+        },
+        {
+          "word": "grief",
+          "zh": "grief",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "a very sad feeling (especially after someone dies)",
+          "py": "[n · Unit 1] a very sad feeling (especially after someone dies)",
+          "kr": "비탄, 깊은 슬픔 — a very sad feeling (especially after someone dies)",
+          "level": "⭐ Unit 1",
+          "ex": "Some animals appear to express grief when a family member dies.",
+          "note": "예문: Some animals appear to express grief when a family member dies."
+        },
+        {
+          "word": "intense",
+          "zh": "intense",
+          "pos": "adj",
+          "unit": "Unit 1",
+          "def_en": "very great or extreme",
+          "py": "[adj · Unit 1] very great or extreme",
+          "kr": "극심한, 강렬한 — very great or extreme",
+          "level": "⭐ Unit 1",
+          "ex": "Children can experience an intense feeling of fear when lost.",
+          "note": "예문: Children can experience an intense feeling of fear when lost."
+        },
+        {
+          "word": "observe",
+          "zh": "observe",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to notice something after looking closely",
+          "py": "[v · Unit 1] to notice something after looking closely",
+          "kr": "관찰하다, 목격하다 — to notice something after looking closely",
+          "level": "⭐ Unit 1",
+          "ex": "Biologists observed wolves cooperating in complex social groups.",
+          "note": "예문: Biologists observed wolves cooperating in complex social groups."
+        },
+        {
+          "word": "previously",
+          "zh": "previously",
+          "pos": "adv",
+          "unit": "Unit 1",
+          "def_en": "before the time period that you are talking about",
+          "py": "[adv · Unit 1] before the time period that you are talking about",
+          "kr": "이전에, 과거에 — before the time period that you are talking about",
+          "level": "⭐ Unit 1",
+          "ex": "Extended family households were far more common previously.",
+          "note": "예문: Extended family households were far more common previously."
+        },
+        {
+          "word": "recognition",
+          "zh": "recognition",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "an understanding that something is true",
+          "py": "[n · Unit 1] an understanding that something is true",
+          "kr": "인정, 인식 — an understanding that something is true",
+          "level": "⭐ Unit 1",
+          "ex": "There is a growing recognition that animal minds are sophisticated.",
+          "note": "예문: There is a growing recognition that animal minds are sophisticated."
+        },
+        {
+          "word": "repeatedly",
+          "zh": "repeatedly",
+          "pos": "adv",
+          "unit": "Unit 1",
+          "def_en": "occurring many times",
+          "py": "[adv · Unit 1] occurring many times",
+          "kr": "반복해서, 여러 차례 — occurring many times",
+          "level": "⭐ Unit 1",
+          "ex": "After doing this repeatedly, the animals mastered the maze.",
+          "note": "예문: After doing this repeatedly, the animals mastered the maze."
+        },
+        {
+          "word": "replace",
+          "zh": "replace",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to have something new or different instead of the original",
+          "py": "[v · Unit 1] to have something new or different instead of the original",
+          "kr": "대체하다, 대신하다 — to have something new or different instead of the original",
+          "level": "⭐ Unit 1",
+          "ex": "When birds shed feathers, new plumage grows to replace that which was lost.",
+          "note": "예문: When birds shed feathers, new plumage grows to replace that which was lost."
+        },
+        {
+          "word": "social structure",
+          "zh": "social structure",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "the way a group of people or animals is organized",
+          "py": "[n · Unit 1] the way a group of people or animals is organized",
+          "kr": "사회 구조, 집단 구조 — the way a group of people or animals is organized",
+          "level": "⭐ Unit 1",
+          "ex": "Elephants maintain a matriarchal social structure led by the oldest female.",
+          "note": "예문: Elephants maintain a matriarchal social structure led by the oldest female."
+        },
+        {
+          "word": "suffering",
+          "zh": "suffering",
+          "pos": "n",
+          "unit": "Unit 1",
+          "def_en": "pain, either mental or physical",
+          "py": "[n · Unit 1] pain, either mental or physical",
+          "kr": "고통, 괴로움 — pain, either mental or physical",
+          "level": "⭐ Unit 1",
+          "ex": "The rats stopped pressing the lever to prevent the other rats suffering.",
+          "note": "예문: The rats stopped pressing the lever to prevent the other rats suffering."
+        },
+        {
+          "word": "treat",
+          "zh": "treat",
+          "pos": "v",
+          "unit": "Unit 1",
+          "def_en": "to behave toward someone or something in a particular way",
+          "py": "[v · Unit 1] to behave toward someone or something in a particular way",
+          "kr": "대우하다, 다루다 — to behave toward someone or something in a particular way",
+          "level": "⭐ Unit 1",
+          "ex": "Society has a moral duty to treat living creatures with compassion.",
+          "note": "예문: Society has a moral duty to treat living creatures with compassion."
+        },
+        {
+          "word": "aspect",
+          "zh": "aspect",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "a part or side of something",
+          "py": "[n · Unit 3] a part or side of something",
+          "kr": "측면, 양상 — a part or side of something",
+          "level": "⭐ Unit 3",
+          "ex": "One negative aspect of city living is chronic traffic congestion.",
+          "note": "예문: One negative aspect of city living is chronic traffic congestion."
+        },
+        {
+          "word": "barrier",
+          "zh": "barrier",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "something that blocks movement or separates things",
+          "py": "[n · Unit 3] something that blocks movement or separates things",
+          "kr": "장벽, 방벽 — something that blocks movement or separates things",
+          "level": "⭐ Unit 3",
+          "ex": "Coastal cities construct storm surge barriers to block ocean surges.",
+          "note": "예문: Coastal cities construct storm surge barriers to block ocean surges."
+        },
+        {
+          "word": "canal",
+          "zh": "canal",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "an artificial waterway for boats or water conveyance",
+          "py": "[n · Unit 3] an artificial waterway for boats or water conveyance",
+          "kr": "운하, 수로 — an artificial waterway for boats or water conveyance",
+          "level": "⭐ Unit 3",
+          "ex": "Venice is internationally famous for its historic canals.",
+          "note": "예문: Venice is internationally famous for its historic canals."
+        },
+        {
+          "word": "concentration",
+          "zh": "concentration",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "a huge amount or number of something in one place",
+          "py": "[n · Unit 3] a huge amount or number of something in one place",
+          "kr": "집중, 밀집 — a huge amount or number of something in one place",
+          "level": "⭐ Unit 3",
+          "ex": "Metropolitan areas feature a dense concentration of economic talent.",
+          "note": "예문: Metropolitan areas feature a dense concentration of economic talent."
+        },
+        {
+          "word": "construction",
+          "zh": "construction",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "the work or industry of building structures",
+          "py": "[n · Unit 3] the work or industry of building structures",
+          "kr": "건설, 공사 — the work or industry of building structures",
+          "level": "⭐ Unit 3",
+          "ex": "Hundreds of architects and engineers work in the construction industry.",
+          "note": "예문: Hundreds of architects and engineers work in the construction industry."
+        },
+        {
+          "word": "dense",
+          "zh": "dense",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "having a large amount of something close together",
+          "py": "[adj · Unit 3] having a large amount of something close together",
+          "kr": "인구 밀도가 높은, 빽빽한 — having a large amount of something close together",
+          "level": "⭐ Unit 3",
+          "ex": "Some megacities are extremely dense, housing thousands per square kilometer.",
+          "note": "예문: Some megacities are extremely dense, housing thousands per square kilometer."
+        },
+        {
+          "word": "fierce",
+          "zh": "fierce",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "powerful, violent, and aggressive (weather/storm)",
+          "py": "[adj · Unit 3] powerful, violent, and aggressive (weather/storm)",
+          "kr": "사나운, 맹렬한 — powerful, violent, and aggressive (weather/storm)",
+          "level": "⭐ Unit 3",
+          "ex": "Low-lying cities suffer severe damage when struck by a fierce typhoon.",
+          "note": "예문: Low-lying cities suffer severe damage when struck by a fierce typhoon."
+        },
+        {
+          "word": "growth",
+          "zh": "growth",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "the process of increasing",
+          "py": "[n · Unit 3] the process of increasing",
+          "kr": "성장, 증가 — the process of increasing",
+          "level": "⭐ Unit 3",
+          "ex": "Rapid population growth forces municipal borders outward.",
+          "note": "예문: Rapid population growth forces municipal borders outward."
+        },
+        {
+          "word": "income",
+          "zh": "income",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "money that a person earns",
+          "py": "[n · Unit 3] money that a person earns",
+          "kr": "소득, 수입 — money that a person earns",
+          "level": "⭐ Unit 3",
+          "ex": "Urban workers generally earn higher average incomes than agricultural labor.",
+          "note": "예문: Urban workers generally earn higher average incomes than agricultural labor."
+        },
+        {
+          "word": "lower",
+          "zh": "lower",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to move down or reduce the level/amount",
+          "py": "[v · Unit 3] to move down or reduce the level/amount",
+          "kr": "낮추다, 내리다 — to move down or reduce the level/amount",
+          "level": "⭐ Unit 3",
+          "ex": "Hydraulic gates can lower or raise water levels during floods.",
+          "note": "예문: Hydraulic gates can lower or raise water levels during floods."
+        },
+        {
+          "word": "occasional",
+          "zh": "occasional",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "happening from time to time, not regularly",
+          "py": "[adj · Unit 3] happening from time to time, not regularly",
+          "kr": "가끔의, 때때로의 — happening from time to time, not regularly",
+          "level": "⭐ Unit 3",
+          "ex": "What was once an occasional storm has now become an annual crisis.",
+          "note": "예문: What was once an occasional storm has now become an annual crisis."
+        },
+        {
+          "word": "partially",
+          "zh": "partially",
+          "pos": "adv",
+          "unit": "Unit 3",
+          "def_en": "partly, not completely",
+          "py": "[adv · Unit 3] partly, not completely",
+          "kr": "부분적으로 — partly, not completely",
+          "level": "⭐ Unit 3",
+          "ex": "During high tide, ground floors in Venice are partially submerged.",
+          "note": "예문: During high tide, ground floors in Venice are partially submerged."
+        },
+        {
+          "word": "productive",
+          "zh": "productive",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "able to achieve a significant amount or result",
+          "py": "[adj · Unit 3] able to achieve a significant amount or result",
+          "kr": "생산적인 — able to achieve a significant amount or result",
+          "level": "⭐ Unit 3",
+          "ex": "Knowledge-sharing clusters make urban professionals far more productive.",
+          "note": "예문: Knowledge-sharing clusters make urban professionals far more productive."
+        },
+        {
+          "word": "resident",
+          "zh": "resident",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "a person who lives in a particular place or area",
+          "py": "[n · Unit 3] a person who lives in a particular place or area",
+          "kr": "거주자, 주민 — a person who lives in a particular place or area",
+          "level": "⭐ Unit 3",
+          "ex": "Every resident must be prepared for extreme weather occurrences.",
+          "note": "예문: Every resident must be prepared for extreme weather occurrences."
+        },
+        {
+          "word": "separate",
+          "zh": "separate",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to keep apart or divide",
+          "py": "[v · Unit 3] to keep apart or divide",
+          "kr": "분리하다, 떼어놓다 — to keep apart or divide",
+          "level": "⭐ Unit 3",
+          "ex": "Massive seawalls separate the rising ocean from inland residential zones.",
+          "note": "예문: Massive seawalls separate the rising ocean from inland residential zones."
+        },
+        {
+          "word": "spread out",
+          "zh": "spread out",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to cover a huge area",
+          "py": "[v · Unit 3] to cover a huge area",
+          "kr": "넓게 퍼지다, 확산되다 — to cover a huge area",
+          "level": "⭐ Unit 3",
+          "ex": "Metropolises continue to spread out into surrounding rural provinces.",
+          "note": "예문: Metropolises continue to spread out into surrounding rural provinces."
+        },
+        {
+          "word": "suburb",
+          "zh": "suburb",
+          "pos": "n",
+          "unit": "Unit 3",
+          "def_en": "areas outside of a large city that have homes and businesses",
+          "py": "[n · Unit 3] areas outside of a large city that have homes and businesses",
+          "kr": "교외 주거지구 — areas outside of a large city that have homes and businesses",
+          "level": "⭐ Unit 3",
+          "ex": "Families often migrate to quiet suburbs seeking affordable single homes.",
+          "note": "예문: Families often migrate to quiet suburbs seeking affordable single homes."
+        },
+        {
+          "word": "temporarily",
+          "zh": "temporarily",
+          "pos": "adv",
+          "unit": "Unit 3",
+          "def_en": "for a limited period of time; not permanently",
+          "py": "[adv · Unit 3] for a limited period of time; not permanently",
+          "kr": "일시적으로 — for a limited period of time; not permanently",
+          "level": "⭐ Unit 3",
+          "ex": "Stores had to close temporarily while municipal pumps drained floodwater.",
+          "note": "예문: Stores had to close temporarily while municipal pumps drained floodwater."
+        },
+        {
+          "word": "tend to",
+          "zh": "tend to",
+          "pos": "v",
+          "unit": "Unit 3",
+          "def_en": "to usually do something or be a certain way",
+          "py": "[v · Unit 3] to usually do something or be a certain way",
+          "kr": "~하는 경향이 있다 — to usually do something or be a certain way",
+          "level": "⭐ Unit 3",
+          "ex": "Cities tend to offer superior healthcare and university facilities.",
+          "note": "예문: Cities tend to offer superior healthcare and university facilities."
+        },
+        {
+          "word": "urban",
+          "zh": "urban",
+          "pos": "adj",
+          "unit": "Unit 3",
+          "def_en": "relating to a city",
+          "py": "[adj · Unit 3] relating to a city",
+          "kr": "도시의 — relating to a city",
+          "level": "⭐ Unit 3",
+          "ex": "The planet has crossed the threshold into an urban majority.",
+          "note": "예문: The planet has crossed the threshold into an urban majority."
+        },
+        {
+          "word": "alternative",
+          "zh": "alternative",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "one option instead of another",
+          "py": "[n · Unit 5] one option instead of another",
+          "kr": "대안, 양자택일 — one option instead of another",
+          "level": "⭐ Unit 5",
+          "ex": "Geotourism offers a sustainable alternative to destructive mass tourism.",
+          "note": "예문: Geotourism offers a sustainable alternative to destructive mass tourism."
+        },
+        {
+          "word": "awareness",
+          "zh": "awareness",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "knowledge that something exists",
+          "py": "[n · Unit 5] knowledge that something exists",
+          "kr": "인식, 의식 — knowledge that something exists",
+          "level": "⭐ Unit 5",
+          "ex": "The campaign aims to raise environmental awareness among international travelers.",
+          "note": "예문: The campaign aims to raise environmental awareness among international travelers."
+        },
+        {
+          "word": "comfort",
+          "zh": "comfort",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a state of ease or well-being",
+          "py": "[n · Unit 5] a state of ease or well-being",
+          "kr": "안락, 편안함 — a state of ease or well-being",
+          "level": "⭐ Unit 5",
+          "ex": "Modern eco-lodges provide luxury and comfort without depleting energy.",
+          "note": "예문: Modern eco-lodges provide luxury and comfort without depleting energy."
+        },
+        {
+          "word": "distinctive",
+          "zh": "distinctive",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "special; very different",
+          "py": "[adj · Unit 5] special; very different",
+          "kr": "독특한, 구별되는 — special; very different",
+          "level": "⭐ Unit 5",
+          "ex": "Venice possesses a distinctive architecture shaped by its marine canals.",
+          "note": "예문: Venice possesses a distinctive architecture shaped by its marine canals."
+        },
+        {
+          "word": "earn a living",
+          "zh": "earn a living",
+          "pos": "phr",
+          "unit": "Unit 5",
+          "def_en": "to get money to pay for things that you need",
+          "py": "[phr · Unit 5] to get money to pay for things that you need",
+          "kr": "생계를 유지하다, 돈을 벌다 — to get money to pay for things that you need",
+          "level": "⭐ Unit 5",
+          "ex": "Indigenous residents earn a living as official eco-tour guides.",
+          "note": "예문: Indigenous residents earn a living as official eco-tour guides."
+        },
+        {
+          "word": "ecological",
+          "zh": "ecological",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "relating to the relationship between living things and their surroundings",
+          "py": "[adj · Unit 5] relating to the relationship between living things and their surroundings",
+          "kr": "생태학적인, 환경의 — relating to the relationship between living things and their surroundings",
+          "level": "⭐ Unit 5",
+          "ex": "Resorts must calculate their ecological footprint prior to development.",
+          "note": "예문: Resorts must calculate their ecological footprint prior to development."
+        },
+        {
+          "word": "economy",
+          "zh": "economy",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "the system by which a governments industry and money are organized",
+          "py": "[n · Unit 5] the system by which a governments industry and money are organized",
+          "kr": "경제 — the system by which a governments industry and money are organized",
+          "level": "⭐ Unit 5",
+          "ex": "The local island economy relies almost exclusively on overseas visitors.",
+          "note": "예문: The local island economy relies almost exclusively on overseas visitors."
+        },
+        {
+          "word": "enriching",
+          "zh": "enriching",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "providing more appreciation or enjoyment",
+          "py": "[adj · Unit 5] providing more appreciation or enjoyment",
+          "kr": "풍요롭게 하는, 보람 있는 — providing more appreciation or enjoyment",
+          "level": "⭐ Unit 5",
+          "ex": "Authentic cultural exchanges make travel far more enriching than sightseeing.",
+          "note": "예문: Authentic cultural exchanges make travel far more enriching than sightseeing."
+        },
+        {
+          "word": "harmful",
+          "zh": "harmful",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "damaging; dangerous",
+          "py": "[adj · Unit 5] damaging; dangerous",
+          "kr": "해로운, 유해한 — damaging; dangerous",
+          "level": "⭐ Unit 5",
+          "ex": "Mass cruise exhaust produces harmful emissions that damage historic masonry.",
+          "note": "예문: Mass cruise exhaust produces harmful emissions that damage historic masonry."
+        },
+        {
+          "word": "landmark",
+          "zh": "landmark",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a building or structure with historical or cultural significance",
+          "py": "[n · Unit 5] a building or structure with historical or cultural significance",
+          "kr": "랜드마크, 유서 깊은 건축물 — a building or structure with historical or cultural significance",
+          "level": "⭐ Unit 5",
+          "ex": "Chichen Itza is a sacred Mayan landmark that draws millions annually.",
+          "note": "예문: Chichen Itza is a sacred Mayan landmark that draws millions annually."
+        },
+        {
+          "word": "maintain",
+          "zh": "maintain",
+          "pos": "v",
+          "unit": "Unit 5",
+          "def_en": "to keep at a certain level",
+          "py": "[v · Unit 5] to keep at a certain level",
+          "kr": "유지하다, 보전하다 — to keep at a certain level",
+          "level": "⭐ Unit 5",
+          "ex": "Park authorities restrict tourist volume to maintain fragile trails.",
+          "note": "예문: Park authorities restrict tourist volume to maintain fragile trails."
+        },
+        {
+          "word": "necessary",
+          "zh": "necessary",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "essential; required",
+          "py": "[adj · Unit 5] essential; required",
+          "kr": "필수적인, 필요한 — essential; required",
+          "level": "⭐ Unit 5",
+          "ex": "Strict quotas are necessary to protect ancient ruins from overtourism.",
+          "note": "예문: Strict quotas are necessary to protect ancient ruins from overtourism."
+        },
+        {
+          "word": "objective",
+          "zh": "objective",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a goal",
+          "py": "[n · Unit 5] a goal",
+          "kr": "목표, 목적 — a goal",
+          "level": "⭐ Unit 5",
+          "ex": "A primary objective of geotourism is the preservation of geographic character.",
+          "note": "예문: A primary objective of geotourism is the preservation of geographic character."
+        },
+        {
+          "word": "official",
+          "zh": "official",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "relating to a government or an organization",
+          "py": "[adj · Unit 5] relating to a government or an organization",
+          "kr": "공식적인, 공인된 — relating to a government or an organization",
+          "level": "⭐ Unit 5",
+          "ex": "All visitors must be escorted by official licensed indigenous guides.",
+          "note": "예문: All visitors must be escorted by official licensed indigenous guides."
+        },
+        {
+          "word": "partnership",
+          "zh": "partnership",
+          "pos": "n",
+          "unit": "Unit 5",
+          "def_en": "a way of working with another person, group, or organization",
+          "py": "[n · Unit 5] a way of working with another person, group, or organization",
+          "kr": "협력 관계, 파트너십 — a way of working with another person, group, or organization",
+          "level": "⭐ Unit 5",
+          "ex": "Sustainable travel requires an equal partnership between operators and locals.",
+          "note": "예문: Sustainable travel requires an equal partnership between operators and locals."
+        },
+        {
+          "word": "preserve",
+          "zh": "preserve",
+          "pos": "v",
+          "unit": "Unit 5",
+          "def_en": "to keep in a certain condition",
+          "py": "[v · Unit 5] to keep in a certain condition",
+          "kr": "보존하다, 지키다 — to keep in a certain condition",
+          "level": "⭐ Unit 5",
+          "ex": "Nations establish marine sanctuaries to preserve endangered coral reefs.",
+          "note": "예문: Nations establish marine sanctuaries to preserve endangered coral reefs."
+        },
+        {
+          "word": "renewable",
+          "zh": "renewable",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "able to be replaced naturally",
+          "py": "[adj · Unit 5] able to be replaced naturally",
+          "kr": "재생 가능한 — able to be replaced naturally",
+          "level": "⭐ Unit 5",
+          "ex": "Eco-hotels generate electricity using renewable solar panels and wind turbines.",
+          "note": "예문: Eco-hotels generate electricity using renewable solar panels and wind turbines."
+        },
+        {
+          "word": "spiritual",
+          "zh": "spiritual",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "relating to a higher purpose rather than just material needs",
+          "py": "[adj · Unit 5] relating to a higher purpose rather than just material needs",
+          "kr": "영적인, 정신적인 — relating to a higher purpose rather than just material needs",
+          "level": "⭐ Unit 5",
+          "ex": "Indigenous communities attribute deep spiritual meaning to volcanic peaks.",
+          "note": "예문: Indigenous communities attribute deep spiritual meaning to volcanic peaks."
+        },
+        {
+          "word": "sustainable",
+          "zh": "sustainable",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "able to continue in the long-term",
+          "py": "[adj · Unit 5] able to continue in the long-term",
+          "kr": "지속 가능한 — able to continue in the long-term",
+          "level": "⭐ Unit 5",
+          "ex": "Sustainable tourism ensures heritage survives for future generations.",
+          "note": "예문: Sustainable tourism ensures heritage survives for future generations."
+        },
+        {
+          "word": "vital",
+          "zh": "vital",
+          "pos": "adj",
+          "unit": "Unit 5",
+          "def_en": "necessary or extremely important",
+          "py": "[adj · Unit 5] necessary or extremely important",
+          "kr": "필수적인, 극히 중대한 — necessary or extremely important",
+          "level": "⭐ Unit 5",
+          "ex": "Educating international guests on cultural etiquette is of vital importance.",
+          "note": "예문: Educating international guests on cultural etiquette is of vital importance."
+        },
+        {
+          "word": "no slouch",
+          "zh": "no slouch",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "very capable; good at doing something",
+          "py": "[idiom · Unit 1 p.9] very capable; good at doing something",
+          "kr": "결코 만만치 않은 존재, 매우 유능한 존재 — very capable; good at doing something",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Bertha the octopus was no slouch at solving puzzles.",
+          "note": "예문: Bertha the octopus was no slouch at solving puzzles."
+        },
+        {
+          "word": "went viral",
+          "zh": "went viral",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "spread quickly and widely on the internet",
+          "py": "[idiom · Unit 1 p.9] spread quickly and widely on the internet",
+          "kr": "(영상·소식이) 인터넷을 통해 순식간에 퍼져 화제가 되다 — spread quickly and widely on the internet",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Videos of Snowball the dancing parrot went viral online.",
+          "note": "예문: Videos of Snowball the dancing parrot went viral online."
+        },
+        {
+          "word": "have a soft spot for",
+          "zh": "have a soft spot for",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "feel special affection for; like someone or something very much",
+          "py": "[idiom · Unit 1 p.9] feel special affection for; like someone or something very much",
+          "kr": "~에게 남다른 애정(연민·호감)을 느끼다 — feel special affection for; like someone or something very much",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Many researchers have a soft spot for the animals they study.",
+          "note": "예문: Many researchers have a soft spot for the animals they study."
+        },
+        {
+          "word": "lead someone astray",
+          "zh": "lead someone astray",
+          "pos": "idiom",
+          "unit": "Unit 1 p.9",
+          "def_en": "cause someone to do or believe something incorrectly",
+          "py": "[idiom · Unit 1 p.9] cause someone to do or believe something incorrectly",
+          "kr": "남을 잘못된 길로 인도하다, 오판하게 만들다 — cause someone to do or believe something incorrectly",
+          "level": "🔥 Unit 1 p.9 (출제지목)",
+          "ex": "Relying only on human intuition can lead scientists astray.",
+          "note": "예문: Relying only on human intuition can lead scientists astray."
+        },
+        {
+          "word": "immediate family",
+          "zh": "immediate family",
+          "pos": "n",
+          "unit": "Unit 1 p.18",
+          "def_en": "parents, spouse (husband or wife), brothers, sisters, and children",
+          "py": "[n · Unit 1 p.18] parents, spouse (husband or wife), brothers, sisters, and children",
+          "kr": "직계 가족 (부모·배우자·형제자매·자녀) — parents, spouse (husband or wife), brothers, sisters, and children",
+          "level": "🔥 Unit 1 p.18 (출제지목)",
+          "ex": "Your parents, husband or wife, brothers and sisters, and children make up your immediate family.",
+          "note": "예문: Your parents, husband or wife, brothers and sisters, and children make up your immediate family."
+        },
+        {
+          "word": "offspring",
+          "zh": "offspring",
+          "pos": "n",
+          "unit": "Unit 1 p.12",
+          "def_en": "a person's children or an animal's young",
+          "py": "[n · Unit 1 p.12] a person's children or an animal's young",
+          "kr": "(동물의) 새끼, 자식, 자손 (단수·복수 동형) — a person's children or an animal's young",
+          "level": "🔥 Unit 1 p.12 (출제지목)",
+          "ex": "A wolf pack consists of a breeding pair and their offspring.",
+          "note": "예문: A wolf pack consists of a breeding pair and their offspring."
+        },
+        {
+          "word": "decision-makers",
+          "zh": "decision-makers",
+          "pos": "n",
+          "unit": "Unit 1 p.18",
+          "def_en": "those who have the power to make important choices in a group",
+          "py": "[n · Unit 1 p.18] those who have the power to make important choices in a group",
+          "kr": "의사결정권자들 (겔라다 원숭이 모계 사회의 암컷들) — those who have the power to make important choices in a group",
+          "level": "🔥 Unit 1 p.18 (출제지목)",
+          "ex": "In gelada societies, researchers have observed that females are the decision-makers.",
+          "note": "예문: In gelada societies, researchers have observed that females are the decision-makers."
+        },
+        {
+          "word": "predict vs prevent vs preview",
+          "zh": "predict vs prevent vs preview",
+          "pos": "v/n",
+          "unit": "Unit 1 p.18",
+          "def_en": "pre- (before in time): predict (forecast), prevent (stop before it happens), preview (see beforehand)",
+          "py": "[v/n · Unit 1 p.18] pre- (before in time): predict (forecast), prevent (stop before it happens), preview (see beforehand)",
+          "kr": "접두사 pre- (미리·이전에): predict(예측하다), prevent(예방하다), preview(예고편), previous(이전의), prepare(준비하다) — pre- (before in time): predict (forecast), prevent (stop before it happens), preview (see beforehand)",
+          "level": "🔥 Unit 1 p.18 (출제지목)",
+          "ex": "Being polite to your co-workers is one way to prevent conflict in the workplace.",
+          "note": "예문: Being polite to your co-workers is one way to prevent conflict in the workplace."
+        },
+        {
+          "word": "disposable income",
+          "zh": "disposable income",
+          "pos": "n",
+          "unit": "Unit 3 p.66",
+          "def_en": "the amount of money you have left after paying taxes",
+          "py": "[n · Unit 3 p.66] the amount of money you have left after paying taxes",
+          "kr": "가처분 소득 (연간 소득 annual income에서 소득세 income tax를 빼고 남은 돈) — the amount of money you have left after paying taxes",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "If your annual income is $100,000 and you pay 20% income tax, your disposable income is $80,000.",
+          "note": "예문: If your annual income is $100,000 and you pay 20% income tax, your disposable income is $80,000."
+        },
+        {
+          "word": "income inequality",
+          "zh": "income inequality",
+          "pos": "n",
+          "unit": "Unit 3 p.66",
+          "def_en": "when there is a big difference in income between high and low earners",
+          "py": "[n · Unit 3 p.66] when there is a big difference in income between high and low earners",
+          "kr": "소득 불평등 (고소득층과 저임금 계층 간의 큰 소득 격차) — when there is a big difference in income between high and low earners",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "The large gap between top earners and low-wage earners is called income inequality.",
+          "note": "예문: The large gap between top earners and low-wage earners is called income inequality."
+        },
+        {
+          "word": "heavily visited",
+          "zh": "heavily visited",
+          "pos": "adj",
+          "unit": "Unit 3 p.66",
+          "def_en": "visited by a very large number of people (NO hyphen after -ly adverbs!)",
+          "py": "[adj · Unit 3 p.66] visited by a very large number of people (NO hyphen after -ly adverbs!)",
+          "kr": "방문객이 매우 많은 (-ly 부사로 시작하는 복합형용사는 하이픈을 쓰지 않음!) — visited by a very large number of people (NO hyphen after -ly adverbs!)",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "Venice is one of the most heavily visited cities in the world.",
+          "note": "예문: Venice is one of the most heavily visited cities in the world."
+        },
+        {
+          "word": "hard-earned",
+          "zh": "hard-earned",
+          "pos": "adj",
+          "unit": "Unit 3 p.66",
+          "def_en": "obtained through a lot of effort and hard work (hyphenated before a noun)",
+          "py": "[adj · Unit 3 p.66] obtained through a lot of effort and hard work (hyphenated before a noun)",
+          "kr": "피땀 흘려 번, 힘들게 얻은 (명사 앞에서 하이픈 연결) — obtained through a lot of effort and hard work (hyphenated before a noun)",
+          "level": "🔥 Unit 3 p.66 (출제지목)",
+          "ex": "The residents lost a lot of their hard-earned money after the tornado.",
+          "note": "예문: The residents lost a lot of their hard-earned money after the tornado."
+        },
+        {
+          "word": "representatives",
+          "zh": "representatives",
+          "pos": "n",
+          "unit": "Unit 5 p.116",
+          "def_en": "people who speak or act on behalf of a group or country (-ive used as a NOUN)",
+          "py": "[n · Unit 5 p.116] people who speak or act on behalf of a group or country (-ive used as a NOUN)",
+          "kr": "대표자들, 사절단 (-ive로 끝나지만 명사로 쓰인 핵심 예) — people who speak or act on behalf of a group or country (-ive used as a NOUN)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Tourists are representatives of their home country.",
+          "note": "예문: Tourists are representatives of their home country."
+        },
+        {
+          "word": "geopolitics",
+          "zh": "geopolitics",
+          "pos": "n",
+          "unit": "Unit 5 p.116",
+          "def_en": "the relationship between the world's countries (geo- + politics)",
+          "py": "[n · Unit 5 p.116] the relationship between the world's countries (geo- + politics)",
+          "kr": "지정학, 세계 각국 간의 정치·지리적 관계 (10/13 강의 빌리 교수님 직접 강조!) — the relationship between the world's countries (geo- + politics)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Geopolitics refers to the political relationships between the world's countries.",
+          "note": "예문: Geopolitics refers to the political relationships between the world's countries."
+        },
+        {
+          "word": "ecocidal",
+          "zh": "ecocidal",
+          "pos": "adj",
+          "unit": "Unit 5 p.116",
+          "def_en": "damaging or destructive to the environment (eco- + -cidal)",
+          "py": "[adj · Unit 5 p.116] damaging or destructive to the environment (eco- + -cidal)",
+          "kr": "환경을 파괴하는, 생태계를 말살하는 — damaging or destructive to the environment (eco- + -cidal)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Uncontrolled mass tourism can become an ecocidal activity.",
+          "note": "예문: Uncontrolled mass tourism can become an ecocidal activity."
+        },
+        {
+          "word": "aspire",
+          "zh": "aspire",
+          "pos": "v",
+          "unit": "Unit 5 p.116",
+          "def_en": "to aim to achieve something great (root: spir)",
+          "py": "[v · Unit 5 p.116] to aim to achieve something great (root: spir)",
+          "kr": "열망하다, 포부를 품고 목표를 추구하다 — to aim to achieve something great (root: spir)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Many young travelers aspire to make a positive impact on the world.",
+          "note": "예문: Many young travelers aspire to make a positive impact on the world."
+        },
+        {
+          "word": "re-enact",
+          "zh": "re-enact",
+          "pos": "v",
+          "unit": "Unit 5 p.116",
+          "def_en": "to perform or act out a past event again (re- + en- + act)",
+          "py": "[v · Unit 5 p.116] to perform or act out a past event again (re- + en- + act)",
+          "kr": "(과거의 역사적 사건이나 장면을) 다시 재연하다 — to perform or act out a past event again (re- + en- + act)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "Actors in historic towns often re-enact famous battles for tourists.",
+          "note": "예문: Actors in historic towns often re-enact famous battles for tourists."
+        },
+        {
+          "word": "interject",
+          "zh": "interject",
+          "pos": "v",
+          "unit": "Unit 5 p.116",
+          "def_en": "to throw a comment suddenly into a conversation (inter- + ject)",
+          "py": "[v · Unit 5 p.116] to throw a comment suddenly into a conversation (inter- + ject)",
+          "kr": "(대화 도중에 갑자기) 말을 끼어들다, 불쑥 한마디 던지다 — to throw a comment suddenly into a conversation (inter- + ject)",
+          "level": "🔥 Unit 5 p.116 (출제지목)",
+          "ex": "The local resident stood up to interject a question during the town meeting.",
+          "note": "예문: The local resident stood up to interject a question during the town meeting."
+        }
+      ],
+      "qa": [
+        {
+          "id": "billy-q1",
+          "num": 1,
+          "question": "[Q1] A part or side of something.",
+          "options": [
+            "income",
+            "aspect",
+            "barrier",
+            "resident"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: aspect: a part or side of something"
+        },
+        {
+          "id": "billy-q2",
+          "num": 2,
+          "question": "[Q2] Involving a lot of different parts; difficult to understand.",
+          "options": [
+            "cognitive",
+            "controversial",
+            "complex",
+            "intense"
+          ],
+          "answer": 3,
+          "explanation": "어휘 영영 정의: complex: involving a lot of different parts; difficult to understand"
+        },
+        {
+          "id": "billy-q3",
+          "num": 3,
+          "question": "[Q3] Able to continue in the long-term without damaging the environment.",
+          "options": [
+            "renewable",
+            "sustainable",
+            "distinctive",
+            "productive"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: sustainable: able to continue in the long-term"
+        },
+        {
+          "id": "billy-q4",
+          "num": 4,
+          "question": "[Q4] To train someone to follow rules or codes of behavior.",
+          "options": [
+            "observe",
+            "discipline",
+            "establish",
+            "replace"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: discipline: to train someone to follow rules"
+        },
+        {
+          "id": "billy-q5",
+          "num": 5,
+          "question": "[Q5] Having a large amount of something close together.",
+          "options": [
+            "urban",
+            "occasional",
+            "dense",
+            "fierce"
+          ],
+          "answer": 3,
+          "explanation": "어휘 영영 정의: dense: having a large amount of something close together"
+        },
+        {
+          "id": "billy-q6",
+          "num": 6,
+          "question": "[Q6] A building or structure with historical or cultural significance.",
+          "options": [
+            "suburb",
+            "landmark",
+            "canal",
+            "barrier"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: landmark: building/structure with historical significance"
+        },
+        {
+          "id": "billy-q7",
+          "num": 7,
+          "question": "[Q7] Pain, either mental or physical.",
+          "options": [
+            "grief",
+            "suffering",
+            "discipline",
+            "behavior"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: suffering: pain, either mental or physical"
+        },
+        {
+          "id": "billy-q8",
+          "num": 8,
+          "question": "[Q8] A way of working with another person, group, or organization.",
+          "options": [
+            "partnership",
+            "social structure",
+            "extended family",
+            "objective"
+          ],
+          "answer": 1,
+          "explanation": "어휘 영영 정의: partnership: a way of working with another person/org"
+        },
+        {
+          "id": "billy-q9",
+          "num": 9,
+          "question": "[Q9] To notice something after looking closely.",
+          "options": [
+            "treat",
+            "observe",
+            "establish",
+            "preserve"
+          ],
+          "answer": 2,
+          "explanation": "어휘 영영 정의: observe: to notice something after looking closely"
+        },
+        {
+          "id": "billy-q10",
+          "num": 10,
+          "question": "[Q10] A state of ease or well-being.",
+          "options": [
+            "comfort",
+            "awareness",
+            "recognition",
+            "economy"
+          ],
+          "answer": 1,
+          "explanation": "어휘 영영 정의: comfort: a state of ease or well-being"
+        },
+        {
+          "id": "billy-q11",
+          "num": 11,
+          "question": "[Q11] After being hit by three major storms in a month, the historic seaside village had to close its harbor ______ while engineers completed structural repairs.",
+          "options": [
+            "repeatedly",
+            "temporarily",
+            "previously",
+            "partially"
+          ],
+          "answer": 2,
+          "explanation": "문맥 어휘 빈칸: temporarily: 수리 기간 동안 '일시적으로' 폐쇄"
+        },
+        {
+          "id": "billy-q12",
+          "num": 12,
+          "question": "[Q12] The mayor emphasized that raising public ______ regarding recycling practices is a vital prerequisite for building a green city.",
+          "options": [
+            "awareness",
+            "concentration",
+            "comfort",
+            "income"
+          ],
+          "answer": 1,
+          "explanation": "문맥 어휘 콜로케이션: raise public awareness: 대중 인식을 고취하다"
+        },
+        {
+          "id": "billy-q13",
+          "num": 13,
+          "question": "[Q13] When wild animals feel threatened, they often display unpredictable ______ that can put observers in danger.",
+          "options": [
+            "grief",
+            "discipline",
+            "behavior",
+            "gender"
+          ],
+          "answer": 3,
+          "explanation": "문맥 어휘 빈칸: unpredictable behavior: 예측 불가능한 행동 양식"
+        },
+        {
+          "id": "billy-q14",
+          "num": 14,
+          "question": "[Q14] Developing nations often struggle with uncontrolled urban sprawl because major cities continue to ______ into nearby agricultural zones.",
+          "options": [
+            "spread out",
+            "earn a living",
+            "tend to",
+            "separate"
+          ],
+          "answer": 1,
+          "explanation": "문맥 어휘 구동사: spread out: 도시 외곽으로 뻗어나가다/확산되다"
+        },
+        {
+          "id": "billy-q15",
+          "num": 15,
+          "question": "[Q15] In order to ______ the ancient temple from acid rain and tourist vandalism, the government installed protective glass barriers.",
+          "options": [
+            "replace",
+            "discipline",
+            "preserve",
+            "lower"
+          ],
+          "answer": 3,
+          "explanation": "문맥 어휘 빈칸: preserve: 산성비와 훼손으로부터 사원을 '보존하다'"
+        },
+        {
+          "id": "billy-q16",
+          "num": 16,
+          "question": "[Passage 1: Animal Cognition]\nIn a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance.\n\n[Q16] What is the main idea of Passage 1?",
+          "options": [
+            "New Caledonian crows have the largest brain-to-body ratio among all bird species.",
+            "Betty the crow proved that animals can invent tools through cognitive planning rather than simple chance.",
+            "Laboratory experiments on animals frequently produce controversial and untrustworthy results.",
+            "Using wire hooks is an innate survival skill passed down through crow generations."
+          ],
+          "answer": 2,
+          "explanation": "독해 대의 파악: 인지적 계획을 통한 도구 제작 증명 (Main Idea)"
+        },
+        {
+          "id": "billy-q17",
+          "num": 17,
+          "question": "[Passage 1: Animal Cognition]\nIn a famous laboratory experiment, researchers presented New Caledonian crows with a container of meat floating in water that was too deep for their beaks to reach. Nearby, several wire hooks and straight pieces of wire were scattered on the table. Without prior training, one crow named Betty selected a straight piece of wire, bent one end against a crevice in the cage to fashion a curved hook, and successfully lifted the meat basket out of the container. This extraordinary feat demonstrated that the crow was not merely relying on trial and error, but was capable of understanding physical cause-and-effect relationships and formulating a multi-step plan in advance.\n\n[Q17] Which detail from the passage directly supports the claim that the crow understood physical cause-and-effect?",
+          "options": [
+            "The meat was floating in deep water.",
+            "Several straight wires were scattered on the table.",
+            "The crow bent the straight wire against a crevice to fashion a hook before trying to retrieve the food.",
+            "The container was placed inside a laboratory cage."
+          ],
+          "answer": 3,
+          "explanation": "세부 근거(Supporting): 구부려서 갈고리를 먼저 만드는 계획적 행동"
+        },
+        {
+          "id": "billy-q18",
+          "num": 18,
+          "question": "[Passage 2: Urban Living]\nToday, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water.\n\n[Q18] According to Passage 2, what is one major reason why cities produce so much wealth?",
+          "options": [
+            "Rural residents donate a significant portion of their income to metropolitan projects.",
+            "The dense concentration of people enables rapid knowledge sharing and cost-effective infrastructure.",
+            "Cities occupy over 80 percent of the Earth's total land area.",
+            "Governments ban commercial activity outside metropolitan boundaries."
+          ],
+          "answer": 2,
+          "explanation": "세부 팩트 확인: 인구 집중으로 인한 지식 공유 및 인프라 효율성"
+        },
+        {
+          "id": "billy-q19",
+          "num": 19,
+          "question": "[Passage 2: Urban Living]\nToday, over half of humanity lives in urban areas, and by 2050, that figure is projected to exceed two-thirds. Cities occupy just three percent of the planet's land surface, yet they generate over 80 percent of global gross domestic product. This intense concentration of economic activity and human capital creates tremendous advantages: knowledge spreads rapidly between innovative companies, and infrastructure like water and mass transit can be delivered more cost-effectively per person than in dispersed rural towns. However, rapid urbanization is not without severe drawbacks. When municipal governments fail to build affordable housing and manage growth, sprawling informal settlements known as slums expand rapidly, lacking basic sanitation and clean drinking water.\n\n[Q19] What causes the expansion of sprawling informal settlements (slums)?",
+          "options": [
+            "Too much investment in mass transit systems.",
+            "A decline in global gross domestic product.",
+            "The failure of municipal governments to manage growth and provide affordable housing.",
+            "Excessive dispersal of people into remote rural towns."
+          ],
+          "answer": 3,
+          "explanation": "인과 추론: 주택 공급 및 도시 관리 실패로 인한 슬럼화"
+        },
+        {
+          "id": "billy-q20",
+          "num": 20,
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q20] What problem initially prompted the government of Palau to change its tourism policy?",
+          "options": [
+            "The economy collapsed because tourists refused to visit the island.",
+            "Foreign tour operators refused to employ indigenous islanders.",
+            "Mass tourism was severely damaging the island's coral reefs and marine ecosystem.",
+            "Hotel companies were unable to find renewable sources of solar energy."
+          ],
+          "answer": 3,
+          "explanation": "세부 팩트 확인: 대중 관광으로 인한 산호초 및 해양 생태계 파괴"
+        },
+        {
+          "id": "billy-q21",
+          "num": 21,
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q21] How does the Palau government fund its conservation partnerships with indigenous rangers?",
+          "options": [
+            "By borrowing money from multinational banking organizations.",
+            "By collecting a mandatory green fee from foreign visitors.",
+            "By selling historic landmarks to international hotel chains.",
+            "By permitting cruise ships to anchor directly on coral reefs."
+          ],
+          "answer": 2,
+          "explanation": "세부 팩트 확인: 외국인 대상 의무적 green fee 징수를 통한 기금 조성"
+        },
+        {
+          "id": "billy-q22",
+          "num": 22,
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q22] Which of the following words best describes the Palau Pledge?",
+          "options": [
+            "An optional questionnaire about traveler preferences.",
+            "A commercial contract that allows tourists to collect marine specimens.",
+            "A legal commitment signed by incoming visitors to protect the environment.",
+            "A temporary guideline that applies only during stormy seasons."
+          ],
+          "answer": 3,
+          "explanation": "개념 어휘 이해: 여권에 서명하는 법적 환경 보호 서약 (Palau Pledge)"
+        },
+        {
+          "id": "billy-q23",
+          "num": 23,
+          "question": "[Passage 3: Sustainable Tourism]\nThe tiny island nation of Palau in the western Pacific was once overwhelmed by tourists who damaged coral reefs, discarded plastic waste, and disturbed marine ecosystems. Recognizing that traditional mass tourism was eroding the very natural assets that attracted visitors, the government adopted a groundbreaking approach called the \"Palau Pledge.\" Upon arrival, every foreign traveler must stamp their passport with a legal commitment to act in an environmentally responsible manner. Furthermore, single-use plastics and reef-toxic sunscreens were completely outlawed, and visitors pay a mandatory green fee that directly funds conservation partnerships with indigenous marine rangers.\n\n[Q23] The author's primary purpose in writing Passage 3 is to:",
+          "options": [
+            "Criticize the government of Palau for imposing excessive regulations on travelers.",
+            "Illustrate how innovative policies and partnerships can transform mass tourism into sustainable ecotourism.",
+            "Warn tourists that visiting island nations is becoming economically unaffordable.",
+            "Argue that all tourism should be banned to protect the Pacific Ocean."
+          ],
+          "answer": 2,
+          "explanation": "작가의도/목적 파악: 혁신 정책과 파트너십을 통한 지속 가능 관광 모델 제시"
+        },
+        {
+          "id": "billy-q24",
+          "num": 24,
+          "question": "[Q24] Look at the following statistical summary regarding world urban populations:\n> - Region A: 82% urban population, population growth rate +0.4% per year\n> - Region B: 43% urban population, population growth rate +2.8% per year\n> - Region C: 51% urban population, population growth rate +1.5% per year\n\nWhich statement is an accurate deduction from the data?",
+          "options": [
+            "Region B is already more urbanized than Region A.",
+            "Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth.",
+            "Region C will never reach a 60% urban population level.",
+            "Population growth in Region A is fiercely accelerating due to high fertility rates."
+          ],
+          "answer": 2,
+          "explanation": "시각 도표/통계 분석: 도시화율(비율)과 인구 증가율(속도)의 대조 분석"
+        },
+        {
+          "id": "billy-q25",
+          "num": 25,
+          "question": "[Q25] In analyzing causes and effects, which transition word signals a cause rather than an effect?",
+          "options": [
+            "Therefore",
+            "Consequently",
+            "As a result of",
+            "For this reason"
+          ],
+          "answer": 3,
+          "explanation": "인과 접속사 판별: As a result of (~의 원인으로 인해) vs 나머지(결과 유도)"
+        },
+        {
+          "id": "billy-q26",
+          "num": 26,
+          "question": "[Q26] Read the sentence: *\"Because overtourism degraded the stone masonry of the ancient citadel, authorities restricted daily admissions to 2,500 visitors.\"*  \nWhat is the direct effect in this sentence?",
+          "options": [
+            "Stone masonry was built inside the citadel.",
+            "Daily visitor admissions were restricted to 2,500.",
+            "Overtourism was eliminated entirely.",
+            "Authorities banned all historic preservation projects."
+          ],
+          "answer": 2,
+          "explanation": "인과 구조 분석: 직후 결과: 일일 입장객 수를 2,500명으로 제한"
+        },
+        {
+          "id": "billy-q27",
+          "num": 27,
+          "question": "[Q27] Choose the grammatically correct sentence using the real conditional (`if..., then...`).",
+          "options": [
+            "If tourists will visit sensitive ecological reserves, then they will damage rare flora.",
+            "If tourists visit sensitive ecological reserves, then they will damage rare flora.",
+            "If tourists visited sensitive ecological reserves, then they would damage rare flora.",
+            "If tourists visit sensitive ecological reserves, then they damaged rare flora."
+          ],
+          "answer": 2,
+          "explanation": "조건문 시제 일치: If + 현재동사 (visit), then will + 동사원형"
+        },
+        {
+          "id": "billy-q28",
+          "num": 28,
+          "question": "[Q28] Which sentence correctly makes a comparison between two subjects?",
+          "options": [
+            "Modern eco-lodges are much more sustainable that conventional high-rise hotels.",
+            "Rural areas tend to have a denser population as urban centers.",
+            "Wildlife tourism in Costa Rica is far more enriching than mass cruise travel.",
+            "Chimpanzees have the same cognitive skills than human infants."
+          ],
+          "answer": 3,
+          "explanation": "비교급 구문 정확성: far more enriching than (훨씬 더 풍요로운)"
+        },
+        {
+          "id": "billy-q29",
+          "num": 29,
+          "question": "[Q29] Where should the Thesis Statement typically be positioned within an essay?",
+          "options": [
+            "At the very beginning of the introductory paragraph as the first sentence.",
+            "At the end of the introductory paragraph as the final sentence.",
+            "In the middle of the second body paragraph.",
+            "At the very end of the concluding paragraph as a parting thought."
+          ],
+          "answer": 2,
+          "explanation": "에세이 구조 공식: 서론 단락의 맨 마지막 문장에 위치하는 Thesis Statement"
+        },
+        {
+          "id": "billy-q30",
+          "num": 30,
+          "question": "[Q30] In a five-paragraph academic essay, what is the primary role of a Topic Sentence in a body paragraph?",
+          "options": [
+            "To present a catchy quote that has no relation to the rest of the text.",
+            "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
+            "To summarize the entire essay and offer a call to action.",
+            "To list all supporting statistics without making any interpretive claims."
+          ],
+          "answer": 2,
+          "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"
+        },
+        {
+          "id": "pw_q31",
+          "num": 31,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part A] In the sentences below, the words in bold all end in '-ive'. In which sentence is the '-ive' word used as a NOUN (N) rather than an adjective (A)?",
+          "options": [
+            "Tourists often take photos of distinctive architecture.",
+            "The primary objective of geotourism is to protect the local environment and culture.",
+            "Visitors should not feed native wildlife in national parks.",
+            "Train travel is an eco-friendly alternative travel option."
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 116페이지 Vocabulary Extension Part A 문제입니다. `-ive`로 끝나는 단어는 대개 형용사(distinctive, native, alternative)이지만, ②의 `objective`(목표, 목적)와 4번 예문의 `representatives`(대표자들)는 명사(Noun)로 쓰였습니다."
+        },
+        {
+          "id": "pw_q32",
+          "num": 32,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part B] Match the word formed from word parts ('geo-', 'eco-', 'spir', 're-', 'inter-') with its exact meaning: What does 'geopolitics' mean?",
+          "options": [
+            "The study of ancient rocks and fossils",
+            "The relationship between the world's countries",
+            "A type of tourism that harms local wildlife",
+            "Throwing a sudden comment into a conversation"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n10월 13일 강의 27분 33초에서 빌리 교수님이 116페이지 Part B를 보며 직접 강조하신 어근 `geo-` 문제입니다. `Geopolitics`(지정학)의 교재 정답은 `a. the relationship between the world's countries`입니다."
+        },
+        {
+          "id": "pw_q33",
+          "num": 33,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part B] Which word from Page 116 Part B means 'damaging to the environment' (formed from the root 'eco')?",
+          "options": [
+            "aspire",
+            "re-enact",
+            "ecocidal",
+            "interject"
+          ],
+          "answer": 3,
+          "explanation": "정답: ③\n교재 116페이지 Part B 2번 문항입니다.① `aspire` = aim to achieve something(열망하다), ② `re-enact` = perform it again(재연하다), ③ `ecocidal` = damaging to the environment(환경을 파괴하는), ④ `interject` = throw a comment into a conversation(대화에 말을 끼어들다)."
+        },
+        {
+          "id": "pw_q34",
+          "num": 34,
+          "question": "[Oct 13 강의 지목 — Unit 1 p.9 Inferring Meaning] In Reading 1, the author writes that animals are 'no slouch' when it comes to intelligence, and that videos of a dancing parrot 'went viral.' What do 'no slouch' and 'went viral' mean?",
+          "options": [
+            "'No slouch' means very lazy; 'went viral' means caught a dangerous disease",
+            "'No slouch' means very capable/good at something; 'went viral' means spread quickly on the internet",
+            "'No slouch' means moving slowly; 'went viral' means hidden from the public",
+            "'No slouch' means lacking emotion; 'went viral' means studied in a laboratory"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n10월 13일 강의에서 빌리 교수님이 9페이지를 펴고 직접 뜻을 물어보신 관용 표현입니다. `no slouch`는 '게으름뱅이가 아닌, 즉 매우 유능하고 뛰어난 존재'라는 뜻이며, `went viral`은 '온라인상에서 순식간에 퍼져 유명해졌다'는 뜻입니다."
+        },
+        {
+          "id": "pw_q35",
+          "num": 35,
+          "question": "[Oct 13 강의 지목 — Unit 1 p.10 Reading Skill] In the paragraph on Page 10 about male gorillas in northern Congo splashing water with their hands, which statement is the MAIN IDEA (M) rather than a Supporting Idea (S)?",
+          "options": [
+            "Male gorillas sometimes hit the surface of the water with their palms open.",
+            "Splashing water helps scare off and intimidate other males.",
+            "A study shows that male gorillas splash water to attract female gorillas and find a mate.",
+            "Larger male gorillas are usually more successful at finding mates."
+          ],
+          "answer": 3,
+          "explanation": "정답: ③\n교재 10페이지 연습문제 A·B입니다. 단락 전체의 중심 생각(Main Idea)은 ③ '수컷 고릴라가 짝을 찾기 위해 물장구를 친다는 연구 결과'이며, ①(방식: How)과 ②(목적: Purpose)는 뒷받침 문장(Supporting Ideas), ④는 본문에 없는 잉여 문장(Extra)입니다."
+        },
+        {
+          "id": "pw_q36",
+          "num": 36,
+          "question": "[Oct 13 강의 지목 — Unit 1 p.18 Vocabulary Extension] Complete the two sentences from Page 18:\n1. Your parents, husband or wife, brothers and sisters, and children make up your ________.\n2. Being polite to your co-workers is one way to ________ conflict in the workplace.",
+          "options": [
+            "extended family / prepare",
+            "immediate family / prevent",
+            "social structure / preview",
+            "offspring / predict"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 18페이지 Part A 1번과 Part B 4번 원문 문장입니다. 부모·배우자·형제자매·자녀는 직계 가족(`immediate family`)이며, 직장 내 갈등을 미리 막는 것은 `prevent`(예방하다)입니다."
+        },
+        {
+          "id": "pw_q37",
+          "num": 37,
+          "question": "[Oct 13 강의 지목 — Unit 3 p.66 Compound Adjectives] According to the Word Forms rule on Page 66, which compound adjective is punctuated CORRECTLY when placed before a noun?",
+          "options": [
+            "Venice is one of the most heavily-visited cities in the world.",
+            "Venice is one of the most heavily visited cities in the world, and residents lost their hard-earned money.",
+            "The residents lost their hard earned money in the fast moving storm.",
+            "The Moses barriers can stop three meter tides."
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 66페이지 Part B의 핵심 문법 규칙입니다: 복합형용사가 명사 앞에 올 때는 하이픈(-)으로 연결하지만(`hard-earned money`, `three-meter tides`, `fast-moving storms`), **첫 단어가 `-ly`로 끝나는 부사일 때는 절대 하이픈을 쓰지 않습니다(`heavily visited cities`)**!"
+        },
+        {
+          "id": "pw_q38",
+          "num": 38,
+          "question": "[Oct 13 강의 지목 — Unit 3 p.66 Income Expressions] \"If your ________ is $100,000 and you have to pay 20 percent ________, your ________ is $80,000.\"",
+          "options": [
+            "source of income / income inequality / annual income",
+            "annual income / income tax / disposable income",
+            "disposable income / income tax / annual income",
+            "annual income / disposable income / source of income"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 66페이지 Part A 3번 원문입니다. 연간 총소득(`annual income`) 10만 달러에서 20%의 소득세(`income tax`)를 납부하고 나면 세후 실제로 쓸 수 있는 가처분 소득(`disposable income`) 8만 달러가 남습니다."
+        },
+        {
+          "id": "pw_q39",
+          "num": 39,
+          "question": "[Oct 13 강의 지목 — Unit 3 p.67 Simple Past vs Present Perfect] Choose the correct verb forms for sentences 1, 5, and 7 on Page 67:\n1. Large numbers of people (moved / have moved) to Seoul during the 1950s.\n5. In 1961, the life expectancy in South Korea was 51 years. Since then, it (increased / has increased) to 79 years.\n7. Engineers (used / have used) the barriers several times every year since 2020.",
+          "options": [
+            "moved / has increased / have used",
+            "have moved / increased / used",
+            "moved / increased / have used",
+            "have moved / has increased / have used"
+          ],
+          "answer": 1,
+          "explanation": "정답: ①\n교재 67페이지 연습문제 B번입니다. `during the 1950s`는 이미 끝난 과거의 특정 시기이므로 단순과거(`moved`), `Since then`과 `every year since 2020`은 과거부터 현재까지 이어지는 기간 및 반복이므로 현재완료(`has increased`, `have used`)를 씁니다."
+        },
+        {
+          "id": "pw_q40",
+          "num": 40,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.117 'if' Clause Comma & Tense Rule] Which sentence below uses the correct verb tense AND the correct comma punctuation according to Page 117?",
+          "options": [
+            "If more tourists will visit the islands, there will be more trash on the beaches.",
+            "If more tourists visit the islands there will be more trash on the beaches.",
+            "Local craftspeople will make more money, if tourists buy more souvenirs.",
+            "Local craftspeople will make more money if tourists buy more souvenirs."
+          ],
+          "answer": 4,
+          "explanation": "정답: ④\n교재 117페이지에서 빌리 교수님이 콕 집어 강조하신 두 가지 철칙입니다: 1) `if` 조건절 안에는 미래시제 `will`을 쓰지 않고 현재시제(`visit`, `buy`)를 쓴다. 2) `If`절이 문장 앞에 오면 절 끝에 반드시 쉼표(`,`)를 찍고, 주절이 먼저 오고 `if`절이 뒤에 오면 `if` 앞에 쉼표를 절대 찍지 않는다!"
+        },
+        {
+          "id": "pw_q41",
+          "num": 41,
+          "question": "[Oct 13 강의 지목 — Unit 5 p.108 Cause & Effect] In the statement \"Because tourists have little contact with local people on mass resort tours, people don't learn much about each other's cultures,\" what is the CAUSE and what is the EFFECT?",
+          "options": [
+            "Cause: People don't learn much about cultures → Effect: Tourists have little contact with locals",
+            "Cause: Tourists have little contact with local people → Effect: People don't learn much about each other's cultures",
+            "Both clauses are effects of geotourism",
+            "Both clauses are causes of economic growth"
+          ],
+          "answer": 2,
+          "explanation": "정답: ②\n교재 108페이지 인과관계 분석 문제입니다. 관광객들이 현지 주민들과 접촉할 기회가 거의 없다는 것이 원인(Cause)이며, 그로 인해 서로의 문화에 대해 거의 배우지 못한다는 것이 결과(Effect)입니다."
+        },
+        {
+          "id": "pw_q42",
+          "num": 42,
+          "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] How does living in dense cities benefit the environment compared to living in suburbs? (Write at least TWO complete sentences as required by Prof. Billy.)",
+          "options": [],
+          "type": "short",
+          "answer": "First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person. Second, city apartments require less energy to heat, cool, and light than houses in the suburbs, and shorter roads and power lines require fewer resources.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장: First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person.\n2문장: Second, city apartments require less energy to heat, cool, and light than suburban houses, and shorter city roads and sewers use fewer resources to build and operate."
+        },
+        {
+          "id": "pw_q43",
+          "num": 43,
+          "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] According to Unit 5 (p.107), how does geotourism differ from mass tourism in terms of its impact on the local economy and environment? (Write at least TWO complete sentences.)",
+          "options": [],
+          "type": "short",
+          "answer": "While mass tourism often damages fragile environments and sends profits to large outside corporations, geotourism preserves or enhances the local environment, culture, and heritage. In addition, geotourism directly supports the local economy by hiring local residents as official guides and encouraging visitors to buy from local businesses.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장(환경/문화 대비): While mass tourism often damages fragile environments and sends profits to large outside corporations, geotourism preserves or enhances the local environment, culture, and heritage.\n2문장(지역 경제 혜택): In addition, geotourism directly supports the local economy by hiring local residents as official guides and encouraging visitors to buy from local businesses."
+        },
+        {
+          "id": "pw_q44",
+          "num": 44,
+          "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] In Unit 1, how did researchers Inbal Ben-Ami Bartal and her colleagues prove that rats can feel empathy? (Write at least TWO complete sentences.)",
+          "options": [],
+          "type": "short",
+          "answer": "In the experiment, rats learned to pull a lever to get food, but they later saw that pulling the lever gave a painful electric shock to a rat in a neighboring cage. Once the rats realized this, they stopped pulling the lever to prevent the other rat's suffering, which suggests that they felt empathy.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장(실험 설계): In the experiment, rats learned to pull a lever to get food, but they later noticed that pulling the lever gave an electric shock to another rat in a nearby cage.\n2문장(결과 및 의의): The rats stopped pulling the lever in order to prevent the other rat's suffering, which demonstrates that nonhuman animals can feel empathy."
+        },
+        {
+          "id": "pw_q45",
+          "num": 45,
+          "question": "[Oct 13 강의 지목 — In-Class Essay Mandatory Rule] When writing your 5-paragraph Compare and Contrast Essay on the exam paper, which sentences MUST you underline to avoid losing formatting points?",
+          "options": [
+            "You must underline every target vocabulary word used in the essay.",
+            "You must underline the Hook in the introduction and the Final Thought in the conclusion.",
+            "You must underline the Thesis Statement in the introduction and the Topic Sentence in each of the three body paragraphs (4 sentences total).",
+            "You must underline the entire concluding paragraph."
+          ],
+          "answer": 3,
+          "explanation": "정답: ③\n10월 13일 현장 강의 29분 28초에서 빌리 교수님이 직접 지시하신 에세이 필수 규칙입니다: 서론 마지막 문장인 Thesis Statement(중심 문장) 1개와 본론 1, 2, 3의 첫 문장인 Topic Sentence(주제문) 3개 등 총 4개 문장에 반드시 밑줄(Underline)을 그어야 합니다!"
         }
       ]
     },
@@ -5947,6 +9485,38 @@ var HUFS_DATA = {
       "author": "Cambridge University Press",
       "category": "대학영어 2 평화반 (김나나 교수님)",
       "sections": [
+        {
+          "id": 0,
+          "title": "★ 10월 14일 김나나 교수님 현장강의 족보 & Language Development (p.100·101·118·119)",
+          "short_title": "★ 10/14 출제족보",
+          "sentences": [
+            {
+              "zh": "[시험 구조 & 6대 출제 유형 공식 확정] 14점 만점 (총 14~16문항 · 20~40분 소요 후 퇴실)",
+              "py": "Oct 14 Live Lecture Official Rules · 김나나 교수님 직접 호명",
+              "kr": "1. 주제 찾기 (Main Idea): 각 지문 및 문단의 핵심 주제 파악\n2. 내용 일치·불일치 (Details / Factual Check): 본문 세부 팩트 진위 판별\n3. 지시어 추론 (Reference Words): 대명사(it, they, this, these, them, its 등)가 가리키는 구체적 대상을 본문에서 찾기\n4. 주관식 영한 번역 (Translation): 밑줄 친 중요 영어 문장을 자연스러운 한국어로 번역하기\n5. 보기 박스 어휘 빈칸 채우기 (Word Bank Cloze): 단어 철자를 백지에서 쓰는 것이 아니라 보기 박스(Word Box)에서 알맞은 단어를 골라 채우기\n6. 연어 및 격식 동사 짝꿍 (Collocations & Formal Academic Verbs): 교수님께서 \"이거는 모든 반에 다 냈습니다\"라고 공언하신 p.100, p.101, p.118, p.119 연습문제!"
+            },
+            {
+              "zh": "[Unit 5 p.100] Academic Word Families (품사 파생어 표 & 문장 빈칸 8제)",
+              "py": "Prism Reading 3 Page 100 · 품사 자리 판별 문제",
+              "kr": "• 6대 파생어 가족:\n  1) 명사 function, functionalism / 동사 function / 형용사 functional / 부사 functionally\n  2) 명사 environment / 형용사 environmental / 부사 environmentally\n  3) 명사 depression / 동사 depress / 형용사 depressing / 부사 depressingly\n  4) 명사 responsibility / 형용사 responsible / 부사 responsibly\n  5) 명사 architect, architecture / 형용사 architectural / 부사 architecturally\n  6) 명사 efficiency / 형용사 efficient / 부사 efficiently\n• 교재 100페이지 문장 빈칸 정답:\n  1) It is important to consider the [environmental] impact of any new building on its natural surroundings.\n  2) [Functionalism] is an architectural philosophy that believes that function is more important than beauty.\n  3) [Environmentally] friendly buildings usually use energy very [efficiently].\n  4) Architects need to plan buildings [responsibly] in order to ensure that they are sustainable.\n  5) Badly designed buildings can [depress] even the happiest person.\n  6) One famous critic described [architecture] as \"frozen music,\" meaning the design of a building is artistic.\n  7) Architects must consider the impact of buildings on the [environment].\n  8) Employers must be [responsible] for providing safe working areas."
+            },
+            {
+              "zh": "[Unit 5 p.101] Architecture and Planning Vocabulary (건축·도시계획 핵심 어휘 7선)",
+              "py": "Prism Reading 3 Page 101 · 보기 박스 정의 매칭",
+              "kr": "1. structural engineer (구조 공학자): A person who has special training that enables him or her to help build an architectural design.\n2. skyscrapers (초고층 마천루): Very tall modern buildings in cities.\n3. urban sprawl (도시의 무질서한 확산): When cities spread out into the countryside, and parking lots or new buildings replace forests and fields.\n4. green belt (그린벨트·개발제한구역): A section of nature in or near a city that cannot be developed or built on.\n5. suburban / outskirts (교외의 / 도시 변두리): [Suburban] neighborhoods are not located within a city. They are found on the [outskirts] of a city and usually have houses rather than apartment buildings.\n6. amenities (공공 편의시설): Public [amenities] are facilities that people enjoy living near, such as libraries, swimming pools, and playgrounds."
+            },
+            {
+              "zh": "[Unit 6 p.118] Energy Collocations (에너지 핵심 연어 짝꿍 6그룹 & 예문 6제)",
+              "py": "Prism Reading 3 Page 118 · 전 분반 공통 출제 연어 파트",
+              "kr": "• 6대 명사 연어 그룹:\n  1) fossil / diesel / alternative / renewable / clean + [fuel]\n  2) renewable / green / nuclear / solar / geothermal + [energy]\n  3) environmental / air / industrial / water / radioactive + [pollution]\n  4) energy / fuel / power / water / renewable + [source]\n  5) electricity / energy / oil / gas / agricultural + [production]\n  6) serious / health / environmental / major / medical + [problem]\n• 교재 118페이지 문장 완성 정답:\n  1) Critics of [nuclear energy] say that the risks to the environment outweigh the benefits of cheap electricity.\n  2) Asthma and diabetes are increasingly common [health / medical problems].\n  3) For a [renewable source] of electricity to be truly successful, governments have to invest more money in it.\n  4) [Fossil fuels], such as oil and gas, have a finite lifespan.\n  5) [Green / Renewable] energy, whichever renewable source it comes from, tends to be slightly more expensive for the user.\n  6) Rivers and lakes are two major [water] sources that can be used for hydroelectric power."
+            },
+            {
+              "zh": "[Unit 6 p.119] Formal and Informal Academic Verbs (학술 격식 동사 8선 — 김나나 교수님 강의 중 직접 낭독!)",
+              "py": "Prism Reading 3 Page 119 · 동의어 매칭 및 문장 형태 변형 주의",
+              "kr": "• 격식 동사(Formal) = 일상 동사(Informal) 1:1 매칭:\n  1) consult = look at (자료를 찾아보다·참고하다)\n  2) contest = disagree with (이의를 제기하다·반대하다)\n  3) deliver = give (전달하다·제출하다)\n  4) diminish = decrease (줄어들다·감소하다)\n  5) instigate = start (논쟁·절차를 촉발하다·시작하다)\n  6) omit = skip; leave out (빠뜨리다·누락하다)\n  7) secure = get (확보하다·얻어내다)\n  8) utilize = use (활용하다·사용하다)\n• 교재 119페이지 문장 빈칸 정답 (수동태·3인칭 단수 변형 주의!):\n  1) Resources are beginning to [diminish]; soon they will run out.\n  2) This company needs to [deliver] its energy policy to the government by the end of the year.\n  3) The application to construct a wind farm in this area has been [contested] by local residents who dislike the idea.\n  4) If people [consult] the documents on our website, they can see how biofuel is made.\n  5) The rise in fuel prices should [instigate] a debate on oil reserves.\n  6) This car [utilizes] fuel more efficiently than previous models.\n  7) Advocates of biofuels sometimes [omit] key details such as how much land is needed to cultivate the crops.\n  8) This country must [secure] new renewable energy sources."
+            }
+          ]
+        },
         {
           "id": 1,
           "title": "Unit 5 Reading 1: We Need More Green Buildings",
@@ -6084,208 +9654,543 @@ var HUFS_DATA = {
       "vocab": [
         {
           "word": "compromise",
+          "zh": "compromise",
           "pos": "n",
-          "meaning": "타협, 절충안 - an agreement between two sides in which each side gives up something"
+          "meaning": "타협, 절충안 - an agreement between two sides in which each side gives up something",
+          "py": "[n] an agreement between two sides in which each side gives up something",
+          "kr": "타협, 절충안 - an agreement between two sides in which each side gives up something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 타협, 절충안"
         },
         {
           "word": "conservation",
+          "zh": "conservation",
           "pos": "n",
-          "meaning": "보존, 보호 - the protection of plants, animals, and natural areas from human damage"
+          "meaning": "보존, 보호 - the protection of plants, animals, and natural areas from human damage",
+          "py": "[n] the protection of plants, animals, and natural areas from human damage",
+          "kr": "보존, 보호 - the protection of plants, animals, and natural areas from human damage",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 보존, 보호"
         },
         {
           "word": "durable",
+          "zh": "durable",
           "pos": "adj",
-          "meaning": "내구성 있는, 오래가는 - able to last a long time without being damaged"
+          "meaning": "내구성 있는, 오래가는 - able to last a long time without being damaged",
+          "py": "[adj] able to last a long time without being damaged",
+          "kr": "내구성 있는, 오래가는 - able to last a long time without being damaged",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 내구성 있는, 오래가는"
         },
         {
           "word": "efficiency",
+          "zh": "efficiency",
           "pos": "n",
-          "meaning": "효율성 - the condition of producing desired results without waste"
+          "meaning": "효율성 - the condition of producing desired results without waste",
+          "py": "[n] the condition of producing desired results without waste",
+          "kr": "효율성 - the condition of producing desired results without waste",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 효율성"
         },
         {
           "word": "relevant",
+          "zh": "relevant",
           "pos": "adj",
-          "meaning": "관련 있는, 유의미한 - related to a subject or something happening"
+          "meaning": "관련 있는, 유의미한 - related to a subject or something happening",
+          "py": "[adj] related to a subject or something happening",
+          "kr": "관련 있는, 유의미한 - related to a subject or something happening",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 관련 있는, 유의미한"
         },
         {
           "word": "secondhand",
+          "zh": "secondhand",
           "pos": "adj",
-          "meaning": "중고의 - not new; having been used in the past by someone else"
+          "meaning": "중고의 - not new; having been used in the past by someone else",
+          "py": "[adj] not new; having been used in the past by someone else",
+          "kr": "중고의 - not new; having been used in the past by someone else",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 중고의"
         },
         {
           "word": "sector",
+          "zh": "sector",
           "pos": "n",
-          "meaning": "부문, 분야 - a part of society separated from other parts"
+          "meaning": "부문, 분야 - a part of society separated from other parts",
+          "py": "[n] a part of society separated from other parts",
+          "kr": "부문, 분야 - a part of society separated from other parts",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 부문, 분야"
         },
         {
           "word": "function",
+          "zh": "function",
           "pos": "n",
-          "meaning": "기능, 목적 - a purpose, or the way something works"
+          "meaning": "기능, 목적 - a purpose, or the way something works",
+          "py": "[n] a purpose, or the way something works",
+          "kr": "기능, 목적 - a purpose, or the way something works",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 기능, 목적"
         },
         {
           "word": "depressing",
+          "zh": "depressing",
           "pos": "adj",
-          "meaning": "우울한, 답답한 - making you feel unhappy and without hope"
+          "meaning": "우울한, 답답한 - making you feel unhappy and without hope",
+          "py": "[adj] making you feel unhappy and without hope",
+          "kr": "우울한, 답답한 - making you feel unhappy and without hope",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 우울한, 답답한"
         },
         {
           "word": "inspiring",
+          "zh": "inspiring",
           "pos": "adj",
-          "meaning": "영감을 주는, 고무적인 - causing eagerness to learn or do something"
+          "meaning": "영감을 주는, 고무적인 - causing eagerness to learn or do something",
+          "py": "[adj] causing eagerness to learn or do something",
+          "kr": "영감을 주는, 고무적인 - causing eagerness to learn or do something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 영감을 주는, 고무적인"
         },
         {
           "word": "civilized",
+          "zh": "civilized",
           "pos": "adj",
-          "meaning": "문명화된, 교양 있는 - having a well-developed way of life and social systems"
+          "meaning": "문명화된, 교양 있는 - having a well-developed way of life and social systems",
+          "py": "[adj] having a well-developed way of life and social systems",
+          "kr": "문명화된, 교양 있는 - having a well-developed way of life and social systems",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 문명화된, 교양 있는"
         },
         {
           "word": "reflect on",
+          "zh": "reflect on",
           "pos": "v phrase",
-          "meaning": "인상을 주다 - causes people to think of someone in a specified way"
+          "meaning": "인상을 주다 - causes people to think of someone in a specified way",
+          "py": "[v phrase] causes people to think of someone in a specified way",
+          "kr": "인상을 주다 - causes people to think of someone in a specified way",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v phrase · 한국어: 인상을 주다"
         },
         {
           "word": "reputation",
+          "zh": "reputation",
           "pos": "n",
-          "meaning": "명성, 평판 - the general opinion that people have about someone"
+          "meaning": "명성, 평판 - the general opinion that people have about someone",
+          "py": "[n] the general opinion that people have about someone",
+          "kr": "명성, 평판 - the general opinion that people have about someone",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 명성, 평판"
         },
         {
           "word": "demonstrate",
+          "zh": "demonstrate",
           "pos": "v",
-          "meaning": "입증하다, 시연하다 - to show or prove something clearly"
+          "meaning": "입증하다, 시연하다 - to show or prove something clearly",
+          "py": "[v] to show or prove something clearly",
+          "kr": "입증하다, 시연하다 - to show or prove something clearly",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 입증하다, 시연하다"
         },
         {
           "word": "structural engineer",
+          "zh": "structural engineer",
           "pos": "n",
-          "meaning": "구조 기술사 - specialist helping build an architectural design"
+          "meaning": "구조 기술사 - specialist helping build an architectural design",
+          "py": "[n] specialist helping build an architectural design",
+          "kr": "구조 기술사 - specialist helping build an architectural design",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 구조 기술사"
         },
         {
           "word": "skyscrapers",
+          "zh": "skyscrapers",
           "pos": "n",
-          "meaning": "초고층 빌딩, 마천루 - very tall modern buildings in cities"
+          "meaning": "초고층 빌딩, 마천루 - very tall modern buildings in cities",
+          "py": "[n] very tall modern buildings in cities",
+          "kr": "초고층 빌딩, 마천루 - very tall modern buildings in cities",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 초고층 빌딩, 마천루"
         },
         {
           "word": "urban sprawl",
+          "zh": "urban sprawl",
           "pos": "n",
-          "meaning": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside"
+          "meaning": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside",
+          "py": "[n] uncontrolled expansion of cities into countryside",
+          "kr": "도시 무질서 팽창 - uncontrolled expansion of cities into countryside",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 도시 무질서 팽창"
         },
         {
           "word": "green belt",
+          "zh": "green belt",
           "pos": "n",
-          "meaning": "개발제한구역, 그린벨트 - a section of nature near a city protected from development"
+          "meaning": "개발제한구역, 그린벨트 - a section of nature near a city protected from development",
+          "py": "[n] a section of nature near a city protected from development",
+          "kr": "개발제한구역, 그린벨트 - a section of nature near a city protected from development",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 개발제한구역, 그린벨트"
         },
         {
           "word": "suburban",
+          "zh": "suburban",
           "pos": "adj",
-          "meaning": "교외의 - neighborhoods outside city centers, usually with houses"
+          "meaning": "교외의 - neighborhoods outside city centers, usually with houses",
+          "py": "[adj] neighborhoods outside city centers, usually with houses",
+          "kr": "교외의 - neighborhoods outside city centers, usually with houses",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 교외의"
         },
         {
           "word": "outskirts",
+          "zh": "outskirts",
           "pos": "n",
-          "meaning": "교외, 변두리 - the outer parts of a town or city"
+          "meaning": "교외, 변두리 - the outer parts of a town or city",
+          "py": "[n] the outer parts of a town or city",
+          "kr": "교외, 변두리 - the outer parts of a town or city",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 교외, 변두리"
         },
         {
           "word": "amenities",
+          "zh": "amenities",
           "pos": "n",
-          "meaning": "편의시설 - public facilities that people enjoy, e.g. pools, parks"
+          "meaning": "편의시설 - public facilities that people enjoy, e.g. pools, parks",
+          "py": "[n] public facilities that people enjoy, e.g. pools, parks",
+          "kr": "편의시설 - public facilities that people enjoy, e.g. pools, parks",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: n · 한국어: 편의시설"
         },
         {
           "word": "aquatic",
+          "zh": "aquatic",
           "pos": "adj",
-          "meaning": "수생의, 물속의 - living in, happening in, or connected with water"
+          "meaning": "수생의, 물속의 - living in, happening in, or connected with water",
+          "py": "[adj] living in, happening in, or connected with water",
+          "kr": "수생의, 물속의 - living in, happening in, or connected with water",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 수생의, 물속의"
         },
         {
           "word": "offshore",
+          "zh": "offshore",
           "pos": "adj/adv",
-          "meaning": "해상의, 앞바다의 - away from or at a distance from the land"
+          "meaning": "해상의, 앞바다의 - away from or at a distance from the land",
+          "py": "[adj/adv] away from or at a distance from the land",
+          "kr": "해상의, 앞바다의 - away from or at a distance from the land",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj/adv · 한국어: 해상의, 앞바다의"
         },
         {
           "word": "inexhaustible",
+          "zh": "inexhaustible",
           "pos": "adj",
-          "meaning": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up"
+          "meaning": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up",
+          "py": "[adj] in such large amounts that it cannot be used up",
+          "kr": "고갈되지 않는, 무궁무진한 - in such large amounts that it cannot be used up",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 고갈되지 않는, 무궁무진한"
         },
         {
           "word": "initial",
+          "zh": "initial",
           "pos": "adj",
-          "meaning": "초기의, 처음의 - at the beginning; first"
+          "meaning": "초기의, 처음의 - at the beginning; first",
+          "py": "[adj] at the beginning; first",
+          "kr": "초기의, 처음의 - at the beginning; first",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 초기의, 처음의"
         },
         {
           "word": "generate",
+          "zh": "generate",
           "pos": "v",
-          "meaning": "발생시키다, 생성하다 - to cause to exist; produce"
+          "meaning": "발생시키다, 생성하다 - to cause to exist; produce",
+          "py": "[v] to cause to exist; produce",
+          "kr": "발생시키다, 생성하다 - to cause to exist; produce",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 발생시키다, 생성하다"
         },
         {
           "word": "universal",
+          "zh": "universal",
           "pos": "adj",
-          "meaning": "보편적인, 만인의 - existing everywhere or involving everyone"
+          "meaning": "보편적인, 만인의 - existing everywhere or involving everyone",
+          "py": "[adj] existing everywhere or involving everyone",
+          "kr": "보편적인, 만인의 - existing everywhere or involving everyone",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 보편적인, 만인의"
         },
         {
           "word": "utilize",
+          "zh": "utilize",
           "pos": "v",
-          "meaning": "활용하다, 이용하다 - to make use of something"
+          "meaning": "활용하다, 이용하다 - to make use of something",
+          "py": "[v] to make use of something",
+          "kr": "활용하다, 이용하다 - to make use of something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 활용하다, 이용하다"
         },
         {
           "word": "address",
+          "zh": "address",
           "pos": "v",
-          "meaning": "다루다, 고심하다 - to give attention to or deal with a matter or problem"
+          "meaning": "다루다, 고심하다 - to give attention to or deal with a matter or problem",
+          "py": "[v] to give attention to or deal with a matter or problem",
+          "kr": "다루다, 고심하다 - to give attention to or deal with a matter or problem",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 다루다, 고심하다"
         },
         {
           "word": "adopt",
+          "zh": "adopt",
           "pos": "v",
-          "meaning": "도입하다, 채택하다 - to accept or begin to use something new"
+          "meaning": "도입하다, 채택하다 - to accept or begin to use something new",
+          "py": "[v] to accept or begin to use something new",
+          "kr": "도입하다, 채택하다 - to accept or begin to use something new",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 도입하다, 채택하다"
         },
         {
           "word": "alarming",
+          "zh": "alarming",
           "pos": "adj",
-          "meaning": "걱정스러운, 두려운 - causing worry or fear"
+          "meaning": "걱정스러운, 두려운 - causing worry or fear",
+          "py": "[adj] causing worry or fear",
+          "kr": "걱정스러운, 두려운 - causing worry or fear",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 걱정스러운, 두려운"
         },
         {
           "word": "diminish",
+          "zh": "diminish",
           "pos": "v",
-          "meaning": "줄이다, 감소하다 - to reduce or be reduced in size or importance"
+          "meaning": "줄이다, 감소하다 - to reduce or be reduced in size or importance",
+          "py": "[v] to reduce or be reduced in size or importance",
+          "kr": "줄이다, 감소하다 - to reduce or be reduced in size or importance",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 줄이다, 감소하다"
         },
         {
           "word": "instigate",
+          "zh": "instigate",
           "pos": "v",
-          "meaning": "촉발하다, 부추기다 - to cause an event or situation to happen"
+          "meaning": "촉발하다, 부추기다 - to cause an event or situation to happen",
+          "py": "[v] to cause an event or situation to happen",
+          "kr": "촉발하다, 부추기다 - to cause an event or situation to happen",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: v · 한국어: 촉발하다, 부추기다"
         },
         {
           "word": "resistant",
+          "zh": "resistant",
           "pos": "adj",
-          "meaning": "저항하는, 반대하는 - not accepting of something"
+          "meaning": "저항하는, 반대하는 - not accepting of something",
+          "py": "[adj] not accepting of something",
+          "kr": "저항하는, 반대하는 - not accepting of something",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 저항하는, 반대하는"
         },
         {
           "word": "urgent",
+          "zh": "urgent",
           "pos": "adj",
-          "meaning": "긴급한, 다급한 - needing immediate attention"
+          "meaning": "긴급한, 다급한 - needing immediate attention",
+          "py": "[adj] needing immediate attention",
+          "kr": "긴급한, 다급한 - needing immediate attention",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 긴급한, 다급한"
         },
         {
           "word": "vital",
+          "zh": "vital",
           "pos": "adj",
-          "meaning": "필수적인, 생명에 중요한 - extremely important for success or survival"
+          "meaning": "필수적인, 생명에 중요한 - extremely important for success or survival",
+          "py": "[adj] extremely important for success or survival",
+          "kr": "필수적인, 생명에 중요한 - extremely important for success or survival",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: adj · 한국어: 필수적인, 생명에 중요한"
         },
         {
           "word": "fossil / alternative fuel",
+          "zh": "fossil / alternative fuel",
           "pos": "collocation",
-          "meaning": "화석 연료 / 대체 연료"
+          "meaning": "화석 연료 / 대체 연료",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "화석 연료 / 대체 연료",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 화석 연료 / 대체 연료"
         },
         {
           "word": "renewable / solar energy",
+          "zh": "renewable / solar energy",
           "pos": "collocation",
-          "meaning": "재생 에너지 / 태양광 에너지"
+          "meaning": "재생 에너지 / 태양광 에너지",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "재생 에너지 / 태양광 에너지",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 재생 에너지 / 태양광 에너지"
         },
         {
           "word": "environmental pollution",
+          "zh": "environmental pollution",
           "pos": "collocation",
-          "meaning": "환경 오염 (air / industrial / water / radioactive)"
+          "meaning": "환경 오염 (air / industrial / water / radioactive)",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "환경 오염 (air / industrial / water / radioactive)",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 환경 오염 (air / industrial / water / radioactive)"
         },
         {
           "word": "energy / power source",
+          "zh": "energy / power source",
           "pos": "collocation",
-          "meaning": "에너지원 / 전력원"
+          "meaning": "에너지원 / 전력원",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "에너지원 / 전력원",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 에너지원 / 전력원"
         },
         {
           "word": "electricity / energy production",
+          "zh": "electricity / energy production",
           "pos": "collocation",
-          "meaning": "전력 생산 / 에너지 생산"
+          "meaning": "전력 생산 / 에너지 생산",
+          "py": "[collocation] Prism Reading 3",
+          "kr": "전력 생산 / 에너지 생산",
+          "level": "⭐ Prism 3 본문어휘",
+          "note": "품사: collocation · 한국어: 전력 생산 / 에너지 생산"
+        },
+        {
+          "word": "functionalism",
+          "zh": "functionalism",
+          "pos": "n",
+          "meaning": "기능주의 (건물의 아름다움보다 실용적 기능이 더 중요하다고 보는 건축 철학) - an architectural philosophy that believes function is more important than beauty",
+          "py": "[n] an architectural philosophy that believes function is more important than beauty",
+          "kr": "기능주의 (건물의 아름다움보다 실용적 기능이 더 중요하다고 보는 건축 철학) — an architectural philosophy that believes function is more important than beauty",
+          "level": "🔥 Unit 5 p.100",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 5 p.100)"
+        },
+        {
+          "word": "depress",
+          "zh": "depress",
+          "pos": "v",
+          "meaning": "우울하게 만들다, 의기소침하게 하다 (파생어: depression, depressing, depressingly) - to make someone feel very sad or lose enthusiasm (n: depression, adj: depressing)",
+          "py": "[v] to make someone feel very sad or lose enthusiasm (n: depression, adj: depressing)",
+          "kr": "우울하게 만들다, 의기소침하게 하다 (파생어: depression, depressing, depressingly) — to make someone feel very sad or lose enthusiasm (n: depression, adj: depressing)",
+          "level": "🔥 Unit 5 p.100",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 5 p.100)"
+        },
+        {
+          "word": "fossil / diesel / alternative / clean + fuel",
+          "zh": "fossil / diesel / alternative / clean + fuel",
+          "pos": "collocation",
+          "meaning": "fuel(연료) 연어 그룹: 화석 연료(fossil fuel), 디젤 연료, 대체 연료, 재생 연료, 청정 연료 - Energy Collocation Group 1: words that partner with 'fuel'",
+          "py": "[collocation] Energy Collocation Group 1: words that partner with 'fuel'",
+          "kr": "fuel(연료) 연어 그룹: 화석 연료(fossil fuel), 디젤 연료, 대체 연료, 재생 연료, 청정 연료 — Energy Collocation Group 1: words that partner with 'fuel'",
+          "level": "🔥 Unit 6 p.118",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.118)"
+        },
+        {
+          "word": "renewable / green / nuclear / solar / geothermal + energy",
+          "zh": "renewable / green / nuclear / solar / geothermal + energy",
+          "pos": "collocation",
+          "meaning": "energy(에너지) 연어 그룹: 재생·친환경·원자력·태양광·지열 에너지 - Energy Collocation Group 2: words that partner with 'energy'",
+          "py": "[collocation] Energy Collocation Group 2: words that partner with 'energy'",
+          "kr": "energy(에너지) 연어 그룹: 재생·친환경·원자력·태양광·지열 에너지 — Energy Collocation Group 2: words that partner with 'energy'",
+          "level": "🔥 Unit 6 p.118",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.118)"
+        },
+        {
+          "word": "environmental / air / industrial / water / radioactive + pollution",
+          "zh": "environmental / air / industrial / water / radioactive + pollution",
+          "pos": "collocation",
+          "meaning": "pollution(오염) 연어 그룹: 환경·대기·산업·수질·방사능 오염 - Energy Collocation Group 3: words that partner with 'pollution'",
+          "py": "[collocation] Energy Collocation Group 3: words that partner with 'pollution'",
+          "kr": "pollution(오염) 연어 그룹: 환경·대기·산업·수질·방사능 오염 — Energy Collocation Group 3: words that partner with 'pollution'",
+          "level": "🔥 Unit 6 p.118",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.118)"
+        },
+        {
+          "word": "consult (= look at)",
+          "zh": "consult (= look at)",
+          "pos": "v (formal)",
+          "meaning": "(자료·문서 등을) 찾아보다, 참고하다, 자문을 구하다 (= look at) - formal academic verb meaning 'look at' (documents, experts, data)",
+          "py": "[v (formal)] formal academic verb meaning 'look at' (documents, experts, data)",
+          "kr": "(자료·문서 등을) 찾아보다, 참고하다, 자문을 구하다 (= look at) — formal academic verb meaning 'look at' (documents, experts, data)",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "contest (= disagree with)",
+          "zh": "contest (= disagree with)",
+          "pos": "v (formal)",
+          "meaning": "이의를 제기하다, 반대하다, 다투다 (= disagree with) - formal academic verb meaning 'disagree with' or oppose formally",
+          "py": "[v (formal)] formal academic verb meaning 'disagree with' or oppose formally",
+          "kr": "이의를 제기하다, 반대하다, 다투다 (= disagree with) — formal academic verb meaning 'disagree with' or oppose formally",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "deliver (= give)",
+          "zh": "deliver (= give)",
+          "pos": "v (formal)",
+          "meaning": "(정책·결과물 등을) 전달하다, 제출하다, 이행하다 (= give) - formal academic verb meaning 'give' or hand over officially",
+          "py": "[v (formal)] formal academic verb meaning 'give' or hand over officially",
+          "kr": "(정책·결과물 등을) 전달하다, 제출하다, 이행하다 (= give) — formal academic verb meaning 'give' or hand over officially",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "diminish (= decrease)",
+          "zh": "diminish (= decrease)",
+          "pos": "v (formal)",
+          "meaning": "줄어들다, 감소하다, 약화되다 (= decrease) - formal academic verb meaning 'decrease' or become smaller",
+          "py": "[v (formal)] formal academic verb meaning 'decrease' or become smaller",
+          "kr": "줄어들다, 감소하다, 약화되다 (= decrease) — formal academic verb meaning 'decrease' or become smaller",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "instigate (= start)",
+          "zh": "instigate (= start)",
+          "pos": "v (formal)",
+          "meaning": "(논쟁·변화·절차 등을) 촉발하다, 시작하게 하다 (= start) - formal academic verb meaning 'start' or provoke (a debate, action)",
+          "py": "[v (formal)] formal academic verb meaning 'start' or provoke (a debate, action)",
+          "kr": "(논쟁·변화·절차 등을) 촉발하다, 시작하게 하다 (= start) — formal academic verb meaning 'start' or provoke (a debate, action)",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "omit (= skip; leave out)",
+          "zh": "omit (= skip; leave out)",
+          "pos": "v (formal)",
+          "meaning": "빠뜨리다, 누락하다, 생략하다 (= skip; leave out) - formal academic verb meaning 'skip' or 'leave out'",
+          "py": "[v (formal)] formal academic verb meaning 'skip' or 'leave out'",
+          "kr": "빠뜨리다, 누락하다, 생략하다 (= skip; leave out) — formal academic verb meaning 'skip' or 'leave out'",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "secure (= get)",
+          "zh": "secure (= get)",
+          "pos": "v (formal)",
+          "meaning": "(에너지원·자금 등을 어렵게) 확보하다, 얻어내다 (= get) - formal academic verb meaning 'get' or obtain with effort",
+          "py": "[v (formal)] formal academic verb meaning 'get' or obtain with effort",
+          "kr": "(에너지원·자금 등을 어렵게) 확보하다, 얻어내다 (= get) — formal academic verb meaning 'get' or obtain with effort",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "utilize (= use)",
+          "zh": "utilize (= use)",
+          "pos": "v (formal)",
+          "meaning": "활용하다, 실용적으로 사용하다 (= use) - formal academic verb meaning 'use' effectively",
+          "py": "[v (formal)] formal academic verb meaning 'use' effectively",
+          "kr": "활용하다, 실용적으로 사용하다 (= use) — formal academic verb meaning 'use' effectively",
+          "level": "🔥 Unit 6 p.119",
+          "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
         }
       ],
       "qa": [
@@ -6564,6 +10469,164 @@ var HUFS_DATA = {
           "type": "short",
           "answer": 0,
           "explanation": "(1) recycling materials into new products (재활용 과정), (2) decreasing air pollution (대기 오염 감소)"
+        },
+        {
+          "id": "knn_q25",
+          "num": 25,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.119 Formal Academic Verbs] Match the formal academic verbs (consult, contest, instigate, omit) with their exact informal alternatives from Page 119.",
+          "options": [
+            "consult = look at / contest = disagree with / instigate = start / omit = skip (leave out)",
+            "consult = give / contest = get / instigate = decrease / omit = use",
+            "consult = start / contest = look at / instigate = skip / omit = disagree with",
+            "consult = use / contest = decrease / instigate = give / omit = get"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "정답: ①\n10월 14일 현장 강의에서 김나나 교수님이 직접 읽어주시며 강조하신 119페이지 학술 격식 동사 8선 매칭입니다:\n• consult = look at (참고하다/찾아보다)\n• contest = disagree with (반대하다/이의를 제기하다)\n• deliver = give (전달하다)\n• diminish = decrease (감소하다)\n• instigate = start (촉발하다/시작하다)\n• omit = skip; leave out (누락하다/빠뜨리다)\n• secure = get (확보하다)\n• utilize = use (활용하다)"
+        },
+        {
+          "id": "knn_q26",
+          "num": 26,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.119 Sentence Completion] Choose the correct formal verbs from the box to complete the three textbook sentences read aloud by Prof. Kim Nana:\n1. Resources are beginning to ________; soon they will run out.\n2. The application to construct a wind farm in this area has been ________ by local residents who dislike the idea.\n3. If people ________ the documents on our website, they can see how biofuel is made.",
+          "options": [
+            "deliver / utilized / omit",
+            "diminish / contested / consult",
+            "instigate / secured / contest",
+            "omit / diminished / deliver"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n10월 14일 강의 녹취록 25분~27분에서 김나나 교수님이 한 문장씩 직접 읽고 해석해 주신 119페이지 Exercise 4번 원문입니다. 특히 2번 문장은 `has been + 과거분사(contested)` 수동태로 변형되어야 함에 주의하세요!"
+        },
+        {
+          "id": "knn_q27",
+          "num": 27,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.119 Sentence Completion] Complete sentences 5, 6, and 7 from Page 119:\n5. The rise in fuel prices should ________ a debate on oil reserves.\n6. This car ________ fuel more efficiently than previous models.\n7. Advocates of biofuels sometimes ________ key details such as how much land is needed to cultivate the crops.",
+          "options": [
+            "instigate / utilizes / omit",
+            "contest / delivers / secure",
+            "diminish / consults / instigate",
+            "secure / omits / utilize"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "정답: ①\n교재 119페이지 Exercise 4번의 5, 6, 7번 문장입니다. 유가 상승이 논쟁을 '촉발하다(`instigate`)', 이 자동차가 연료를 더 효율적으로 '활용하다(`utilizes`, 3인칭 단수 -s 주의)', 바이오연료 옹호론자들이 핵심 세부사항을 '누락하다(`omit`)'가 정답입니다."
+        },
+        {
+          "id": "knn_q28",
+          "num": 28,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.118 Energy Collocations] Match each group of modifiers from Page 118 with the single noun that collocates with ALL words in that group:\nGroup A: fossil / diesel / alternative / renewable / clean + [ ______ ]\nGroup B: environmental / air / industrial / water / radioactive + [ ______ ]\nGroup C: electricity / energy / oil / gas / agricultural + [ ______ ]",
+          "options": [
+            "Group A: energy / Group B: problem / Group C: source",
+            "Group A: fuel / Group B: pollution / Group C: production",
+            "Group A: source / Group B: pollution / Group C: energy",
+            "Group A: fuel / Group B: problem / Group C: source"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n김나나 교수님께서 \"이거는 모든 반에 다 냈습니다\"라고 밝히신 118페이지 Energy Collocations 문제입니다.\n• fossil/diesel/alternative/renewable/clean + **fuel**\n• renewable/green/nuclear/solar/geothermal + **energy**\n• environmental/air/industrial/water/radioactive + **pollution**\n• energy/fuel/power/water/renewable + **source**\n• electricity/energy/oil/gas/agricultural + **production**\n• serious/health/environmental/major/medical + **problem**"
+        },
+        {
+          "id": "knn_q29",
+          "num": 29,
+          "question": "[Oct 14 강의 지목 — Unit 6 p.118 Exercise 2] Complete the sentences from Page 118 Exercise 2:\n1. Critics of ________ energy say that the risks to the environment outweigh the benefits of cheap electricity.\n2. Asthma and diabetes are increasingly common ________ problems.\n3. ________ fuels, such as oil and gas, have a finite lifespan.",
+          "options": [
+            "solar / industrial / Clean",
+            "nuclear / health (or medical) / Fossil",
+            "geothermal / environmental / Renewable",
+            "green / major / Alternative"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 118페이지 Exercise 2번입니다. 저렴한 전기라는 이점보다 환경적 위험(방사능 등)이 더 크다고 비판받는 것은 원자력 에너지(`nuclear energy`), 천식과 당뇨병은 건강/의학적 문제(`health / medical problems`), 석유와 가스처럼 수명이 유한한 것은 화석 연료(`Fossil fuels`)입니다."
+        },
+        {
+          "id": "knn_q30",
+          "num": 30,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.100 Academic Word Families] Choose the correct word forms from the family table on Page 100 to complete the sentences:\n1. ________ is an architectural philosophy that believes that function is more important than beauty.\n2. ________ friendly buildings usually use energy very ________.\n3. One famous critic described ________ as 'frozen music,' meaning the design of a building is artistic.",
+          "options": [
+            "Function / Environmental / efficient / architect",
+            "Functionalism / Environmentally / efficiently / architecture",
+            "Functional / Environment / efficiency / architectural",
+            "Functionally / Environmentally / efficient / architecture"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 100페이지 Academic Word Families 연습문제 2번의 2, 3, 6번 문장입니다.\n1) 건축 철학의 명칭이므로 명사 `Functionalism`(기능주의)\n2) 형용사 `friendly`를 수식하는 부사 `Environmentally`와 동사 `use`를 수식하는 부사 `efficiently`\n3) '얼어붙은 음악'으로 묘사된 예술 분야이므로 명사 `architecture`(건축)"
+        },
+        {
+          "id": "knn_q31",
+          "num": 31,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.100 Academic Word Families] Complete sentences 4, 5, and 8 from Page 100:\n4. Architects need to plan buildings ________ in order to ensure that they are sustainable.\n5. Badly designed buildings can ________ even the happiest person.\n8. Employers must be ________ for providing safe working areas.",
+          "options": [
+            "responsible / depression / responsibly",
+            "responsibly / depress / responsible",
+            "responsibility / depressing / responsible",
+            "responsibly / depressingly / responsibility"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 100페이지 연습문제 2번의 4, 5, 8번 문장입니다. 동사 `plan`을 수식하는 부사 `responsibly`, 조동사 `can` 뒤의 동사원형 `depress`, `be동사 + 형용사 + for` 구문의 `responsible`이 정답입니다."
+        },
+        {
+          "id": "knn_q32",
+          "num": 32,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.101 Architecture and Planning Vocabulary] Match the definitions from Page 101 with the exact terms from the box:\n(A) When cities spread out into the countryside, and parking lots or new buildings replace forests and fields.\n(B) A section of nature in or near a city that cannot be developed or built on.\n(C) Public facilities that people enjoy living near, such as libraries, swimming pools, and playgrounds.",
+          "options": [
+            "(A) outskirts / (B) suburban / (C) skyscrapers",
+            "(A) urban sprawl / (B) green belt / (C) amenities",
+            "(A) green belt / (B) urban sprawl / (C) structural engineer",
+            "(A) suburban / (B) amenities / (C) outskirts"
+          ],
+          "type": "choice",
+          "answer": 2,
+          "explanation": "정답: ②\n교재 101페이지 Exercise 3번 정의 매칭 문제입니다.\n• (A) 도시가 시골로 팽창하며 숲과 들판을 주차장·건물로 대체하는 현상 = `urban sprawl`(도시 확산)\n• (B) 도시 내·외곽에서 개발이나 건축이 금지된 자연 녹지 구역 = `green belt`(그린벨트)\n• (C) 도서관, 수영장, 놀이터 등 주민들이 가까이 두고 즐기는 공공 편의시설 = `amenities`"
+        },
+        {
+          "id": "knn_q33",
+          "num": 33,
+          "question": "[Oct 14 강의 지목 — Unit 5 p.101 Exercise 3] Complete sentence 1 and sentence 5 from Page 101:\n1. A person who has special training that enables him or her to help build an architectural design is a ________.\n5. ________ neighborhoods are not located within a city. They are found on the ________ of a city and usually have houses rather than apartment buildings.",
+          "options": [
+            "structural engineer / Suburban / outskirts",
+            "architect / Urban / green belt",
+            "structural engineer / Outskirts / suburban",
+            "skyscraper / Suburban / amenities"
+          ],
+          "type": "choice",
+          "answer": 1,
+          "explanation": "정답: ①\n교재 101페이지 Exercise 3번의 1번과 5번 문장입니다. 건축 설계를 안전하게 시공하도록 전문 훈련을 받은 사람은 `structural engineer`(구조 공학자)이며, 도시 내부가 아니라 도시 변두리(`on the outskirts of a city`)에 위치해 아파트보다 단독주택이 많은 동네는 `Suburban`(교외의) 주거지입니다."
+        },
+        {
+          "id": "knn_q34",
+          "num": 34,
+          "question": "[Oct 14 강의 지목 — 지시어 추론 (Reference Words)] In Unit 5 Reading 2 (Bosco Verticale in Milan), Paragraph 4 states: \"The trees and plants on the buildings also help reduce noise and air pollution from the traffic below. In addition, they absorb carbon dioxide and produce oxygen.\" What does the pronoun 'they' refer to?",
+          "options": [
+            "The residents living in Bosco Verticale",
+            "The traffic and cars below the buildings",
+            "The trees and plants on the buildings",
+            "The architects and structural engineers in Milan"
+          ],
+          "type": "choice",
+          "answer": 3,
+          "explanation": "정답: ③\n김나나 교수님이 6대 출제 유형 중 하나로 직접 강조하신 지시어 추론(Reference Words) 유형입니다. 앞 문장의 주어인 `The trees and plants on the buildings`(건물들에 심어진 나무와 식물들)를 받아 이산화탄소를 흡수하고 산소를 배출하는 주체를 가리킵니다."
+        },
+        {
+          "id": "knn_q35",
+          "num": 35,
+          "question": "[Oct 14 강의 지목 — 주관식 영한 번역 대비] 다음 Unit 5 Reading 1의 핵심 문장을 자연스러운 한국어로 번역하시오.\n\"While a building's exterior should be aesthetically pleasing, its primary purpose must always be to serve the practical needs of the people who use it.\"",
+          "options": [],
+          "type": "short",
+          "answer": "건물의 외관이 미적으로(시각적으로) 아름다워야 하지만, 건물의 최우선 목적은 언제나 그 건물을 사용하는 사람들의 실용적인 필요(요구)를 충족시키는 것이어야 한다.",
+          "explanation": "채점 포인트:\n1) `While ~` (비록 ~일지라도 / ~이지만 대조 구문)\n2) `aesthetically pleasing` (미적으로 아름다운 / 보기 좋은)\n3) `primary purpose` (최우선 목적 / 가장 중요한 목적)\n4) `serve the practical needs of the people who use it` (그 건물을 이용하는 사람들의 실용적인 필요를 충족시키다/제공하다)"
+        },
+        {
+          "id": "knn_q36",
+          "num": 36,
+          "question": "[Oct 14 강의 지목 — 주관식 영한 번역 대비] 다음 Unit 6 Reading 1·Language Development 연계 핵심 문장을 자연스러운 한국어로 번역하시오.\n\"As fossil fuels continue to diminish and environmental pollution worsens, governments must invest heavily to secure new renewable energy sources.\"",
+          "options": [],
+          "type": "short",
+          "answer": "화석 연료가 계속해서 고갈되고(감소하고) 환경 오염이 악화됨에 따라, 각국 정부는 새로운 재생 에너지원을 확보하기 위해 대대적으로 투자해야 한다.",
+          "explanation": "채점 포인트:\n1) `fossil fuels continue to diminish` (화석 연료가 계속 줄어들다/감소하다)\n2) `environmental pollution worsens` (환경 오염이 악화되다)\n3) `secure new renewable energy sources` (새로운 재생 에너지원을 확보하다)"
         }
       ]
     },
@@ -28160,180 +32223,142 @@ var DS_QUIZ_DATA = [
     "question_count": 17,
     "questions": [
       {
-        "id": "ds-1-1",
+        "id": "ch01_q1",
         "num": "1.1",
-        "question": "다음중입력이반드시필요하다고는볼수없는알고리즘은?",
+        "type": "choice",
+        "question": "다음 중 입력(Input)이 반드시 필요하다고는 볼 수 없는 알고리즘은?",
         "options": [
-          "배열에서최댓값을찾는알고리즘",
-          "두수의최대공약수를구하는알고리즘",
-          "평면상에서두점사이의거리를구하는알고리즘",
-          "5개의로또번호예측하는알고리즘"
+          "배열에서 최댓값을 찾는 알고리즘",
+          "두 수의 최대공약수를 구하는 알고리즘",
+          "평면상에서 두 점 사이의 거리를 구하는 알고리즘",
+          "5개의 로또 번호를 무작위로 예측하는 알고리즘"
         ],
         "answer": 4,
-        "explanation": "난수(로또 번호) 생성이나 예측 알고리즘은 외부 입력이 반드시 필요하지 않고 0개 이상의 입력만으로 동작할 수 있습니다.",
-        "type": "choice"
+        "explanation": "정답: ④\n알고리즘의 5대 조건(입력, 출력, 명백성, 유한성, 유효성)에서 입력(Input)은 '0개 이상' 존재하면 됩니다. 로또 번호 무작위 생성 알고리즘은 외부 입력이 0개인 대표적인 예시이며, 출력은 반드시 1개 이상이어야 합니다."
       },
       {
-        "id": "ds-1-2",
+        "id": "ch01_q2",
         "num": "1.2",
-        "question": "다음중추상자료형의설명으로옳지않은것은? 다 다",
+        "type": "choice",
+        "question": "다음 중 추상 자료형(ADT: Abstract Data Type)의 설명으로 옳지 않은 것은?",
         "options": [
-          "사용자들은추상자료형이제공하는연산만을사용할수있다",
-          "사용자들은추상자료형을어떻게사용하는지를알아야한",
-          "사용자들은추상자료형내부의데이터를직접접근할수없",
-          "사용자들은추상자료형어떻게구현되었는지정확히알아야이용할수있다"
+          "사용자들은 추상 자료형이 제공하는 연산만을 사용할 수 있다.",
+          "사용자들은 추상 자료형을 어떻게 사용하는지를 알아야 한다.",
+          "사용자들은 추상 자료형 내부의 데이터를 직접 접근할 수 없다.",
+          "사용자들은 추상 자료형이 내부적으로 어떻게 구현되었는지 정확히 알아야 이용할 수 있다."
         ],
         "answer": 4,
-        "explanation": "추상자료형(ADT)은 구현 세부사항(어떻게 구현되었는지)을 숨기고 사용 방법(인터페이스/연산)만을 제공하는 것이 핵심입니다.",
-        "type": "choice"
+        "explanation": "정답: ④\n추상 자료형(ADT)은 정보 은닉(Information Hiding) 개념에 기반하여 '무엇(What)'을 하는지만 명세하고 '어떻게(How)' 구현되었는지는 숨깁니다. 따라서 사용자는 내부 구현 원리를 몰라도 공개된 인터페이스(연산)만으로 자료형을 사용할 수 있습니다."
       },
       {
-        "id": "ds-1-3",
+        "id": "ch01_q3",
         "num": "1.3",
-        "question": "다음중파이썬에서실행시간측정을위해사용할수있는모듈은? I e Itime 2 edate 3numpy",
-        "options": [],
+        "type": "choice",
+        "question": "다음 중 파이썬에서 알고리즘의 실제 실행 시간을 측정하기 위해 사용할 수 있는 표준 모듈은?",
+        "options": [
+          "time",
+          "date",
+          "numpy",
+          "clock"
+        ],
         "answer": 1,
-        "explanation": "파이썬에서 프로그램의 실행 시간(Elapsed time) 측정을 위해 표준 라이브러리인 time 모듈을 사용합니다.",
-        "type": "short"
+        "explanation": "정답: ①\n파이썬의 표준 `time` 모듈(`import time`)의 `time.time()` 함수를 호출하여 알고리즘 실행 전후의 시각 차이(`end - start`)를 구하면 실행 시간을 초 단위로 측정할 수 있습니다."
       },
       {
-        "id": "ds-1-4",
+        "id": "ch01_q4",
         "num": "1.4",
-        "question": "알고리즘시간복잡도O(1 이의미하는것은?",
+        "type": "choice",
+        "question": "알고리즘의 시간 복잡도 O(1)이 의미하는 것은?",
         "options": [
-          "컴퓨터처리가불가",
-          "입력데이터수가한개",
-          "수행시간이입력데이터수와관계없이일정",
-          "알고리즘길이가입력데이터보다작음"
+          "컴퓨터 처리가 불가능하다.",
+          "입력 데이터의 수가 한 개이다.",
+          "수행 시간이 입력 데이터의 수(n)와 관계없이 항상 일정하다.",
+          "알고리즘 코드의 길이가 입력 데이터보다 작다."
         ],
         "answer": 3,
-        "explanation": "O(1) 상수 시간 복잡도는 입력 데이터의 개수 n과 무관하게 항상 일정한 연산 시간으로 수행됨을 의미합니다.",
-        "type": "choice"
+        "explanation": "정답: ③\nO(1)은 상수 시간(Constant time) 복잡도로, 입력 데이터의 크기 n이 아무리 커져도 기본 연산 횟수와 수행 시간이 일정함을 뜻합니다(예: 배열의 k번째 인덱스 참조 `A[k]`)."
       },
       {
-        "id": "ds-1-5",
+        "id": "ch01_q5",
         "num": "1.5",
-        "question": "다음설명이옳으면o ,틀리면X를표시하라 떤(wha ? 자료나연산이제공되는가뿐만아니라이들이어떻게bow? 구현되는가 도정의한다 복잡도가다르다",
-        "options": [
-          "어떤알고리즘의효율성은사용하는자료구조와밀접한관련이있다",
-          "추상자료형은어떤자료들과자료에가해지는연산들을구체적으로표시하는데어",
-          "크기가",
-          "배열에같은항목이있는지는판단하는알고리즘은최선과최악의경우에대한시간",
-          "배열에같은항목이있는지는최악의경우에도O(m)에판단할수있다"
-        ],
-        "answer": "① O / ② X / ③ O / ④ O / ⑤ X",
-        "explanation": "② 추상자료형은 '어떻게(how)'가 아니라 '무엇을(what)' 제공하는지 정의하는 것입니다. ⑤ 배열의 중복 요소 탐색 최악 시간은 O(n^2)입니다.",
-        "type": "choice"
+        "type": "short",
+        "question": "다음 설명이 옳으면 O, 틀리면 X를 표시하시오.\n(1) 어떤 알고리즘의 효율성은 사용하는 자료구조와 밀접한 관련이 있다.\n(2) 추상 자료형은 어떤 자료나 연산이 제공되는가(What)뿐만 아니라 이들이 어떻게(How) 구현되는가도 정의한다.\n(3) 크기가 n인 배열에서 특정 항목을 순차 탐색할 때 최선과 최악의 경우 시간 복잡도는 서로 다르다.\n(4) 배열에 중복된(같은) 항목이 있는지 판단하는 이중 루프 알고리즘은 최선과 최악의 경우 시간 복잡도가 다르다.\n(5) 정렬되지 않은 배열에 같은 항목이 있는지는 최악의 경우에도 O(n)에 비교 연산만으로 판단할 수 있다.",
+        "options": [],
+        "answer": "(1) O, (2) X, (3) O, (4) O, (5) X",
+        "explanation": "정답: (1) O, (2) X, (3) O, (4) O, (5) X\n• (1) O: 자료구조 선택에 따라 알고리즘의 시간·공간 복잡도가 결정됩니다.\n• (2) X: ADT는 '무엇(What)'만 정의하며 '어떻게(How)' 구현하는지는 정의하지 않습니다.\n• (3) O: 순차 탐색의 최선은 첫 칸에서 찾는 O(1), 최악은 끝까지 가는 O(n)입니다.\n• (4) O: 중복 검사 알고리즘은 첫 두 원소(A[0]==A[1])가 같으면 즉시 종료되어 최선 O(1)이지만, 중복이 없으면 끝까지 비교하여 최악 O(n²)입니다.\n• (5) X: 해시 테이블 등 추가 공간 없이 비교 연산만으로 중복을 검사하려면 최악의 경우 O(n log n) 또는 이중 루프 O(n²)이 필요합니다."
       },
       {
-        "id": "ds-1-6",
+        "id": "ch01_q6",
         "num": "1.6",
-        "question": "다음의시간복잡도함수를오표기법으로나타내라. (1 T(n =n",
+        "type": "short",
+        "question": "다음의 시간 복잡도 함수 T(n)을 빅오(Big-O) 표기법으로 나타내시오.\n(1) T(n) = 10n + 8\n(2) T(n) = n² + 10000n + 50\n(3) T(n) = 2ⁿ + n³ + 100\n(4) T(n) = 7(2ⁿ) + 3ⁿ",
         "options": [],
-        "answer": "① O(n) / ② O(n^2) / ③ O(2^n)",
-        "explanation": "최고차항만 남기고 계수를 생략하여 빅오 표기법으로 단순화합니다.",
-        "type": "short"
+        "answer": "(1) O(n), (2) O(n²), (3) O(2ⁿ), (4) O(3ⁿ)",
+        "explanation": "정답: (1) O(n), (2) O(n²), (3) O(2ⁿ), (4) O(3ⁿ)\nBig-O 표기법에서는 n이 무한히 커질 때 증가율이 가장 큰 최고차항(지배항) 하나만 남기고 상수 계수는 생략합니다. 특히 (4)에서 3ⁿ이 2ⁿ보다 밑(Base)이 더 큰 지수함수이므로 최고차항은 3ⁿ이 되어 O(3ⁿ)입니다."
       },
       {
-        "id": "ds-1-7",
+        "id": "ch01_q7",
         "num": "1.7",
-        "question": "10 +8 ( (2)T(n)=n°+10000n°+50n ) ) \" (4)T(n)=7(2\")+3\"",
-        "options": [
-          "T(m ="
-        ],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "short",
+        "question": "Big-O 표기법의 수학적 정의를 이용해 T(n) = 3n² + 10n + 30 이 O(n²)에 속함을 증명하시오 (상수 c와 n₀ 제시).",
+        "options": [],
+        "answer": "c = 4, n₀ = 13 (또는 c = 43, n₀ = 1 등 조건을 만족하는 양의 상수 쌍)",
+        "explanation": "증명 과정:\nBig-O 정의에 의해 n ≥ n₀인 모든 n에 대해 3n² + 10n + 30 ≤ c·n²을 만족하는 양의 상수 c와 n₀를 찾으면 됩니다.\n• 방법 1 (가장 간단한 정석): n ≥ 1일 때 10n ≤ 10n² 이고 30 ≤ 30n² 이므로, 3n² + 10n + 30 ≤ (3 + 10 + 30)n² = 43n². 따라서 c = 43, n₀ = 1로 잡으면 성립합니다.\n• 방법 2 (최소 정수해): c = 4로 두면 3n² + 10n + 30 ≤ 4n² → n² - 10n - 30 ≥ 0. n = 13일 때 169 - 130 - 30 = 9 ≥ 0이므로 c = 4, n₀ = 13일 때 성립합니다."
       },
       {
-        "id": "ds-1-8",
+        "id": "ch01_q8",
         "num": "1.8",
-        "question": "다음의빅 오표기법들을실행시간이적게걸리는것부터나열하라 0(1)O(n)O(n)O(n\")O(logn)O(nlogn)O(n!)O(2\")",
+        "type": "short",
+        "question": "다음의 빅오 표기법들을 실행 시간이 적게 걸리는 것(빠른 것)부터 순서대로 나열하시오.\n[ O(1), O(n), O(n²), O(n³), O(log n), O(n log n), O(n!), O(2ⁿ) ]",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "O(1) < O(log n) < O(n) < O(n log n) < O(n²) < O(n³) < O(2ⁿ) < O(n!)",
+        "explanation": "정답: O(1) < O(log n) < O(n) < O(n log n) < O(n²) < O(n³) < O(2ⁿ) < O(n!)\n상수 < 로그 < 선형 < 선형로그 < 이차 < 삼차 < 지수 < 팩토리얼 순서입니다."
       },
       {
-        "id": "ds-1-9",
+        "id": "ch01_q9",
         "num": "1.9",
-        "question": "다음알고리즘의시간복잡도를빅오표기법으로나타내라 f : defalgorithml(n): ) defalgorithm2(n): m = 0 sum=0 K =0 e n i n : foriinrange(n): >: whilen>1: j n e , forjinrange(i+1,n+1): n=n / 2 +k++ sum=sum+J n k returnk",
+        "type": "short",
+        "question": "다음 두 알고리즘 `algorithm1(n)`과 `algorithm2(n)`의 시간 복잡도를 빅오 표기법으로 나타내시오.\n```python\ndef algorithm1(n):\n    sum = 0\n    for i in range(n):\n        for j in range(i + 1, n + 1):\n            sum = sum + j\n    return sum\n\ndef algorithm2(n):\n    k = 0\n    while n > 1:\n        n = n / 2\n        k = k + 1\n    return k\n```",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "algorithm1(n): O(n²), algorithm2(n): O(log n)",
+        "explanation": "정답: algorithm1은 O(n²), algorithm2는 O(log n)\n• `algorithm1(n)`: 바깥 루프 i=0..n-1에 대해 안쪽 루프가 n, n-1, ..., 1번 수행되므로 총 연산 횟수는 n(n+1)/2 = O(n²)입니다.\n• `algorithm2(n)`: 매 반복마다 n이 절반(n/2)으로 줄어들어 1 이하가 될 때까지 반복하므로 2ᵏ ≈ n → k = log₂ n회가 되어 O(log n)입니다."
       },
       {
-        "id": "ds-1-10",
+        "id": "ch01_q10",
         "num": "1.10",
-        "question": "다음함수들의최선과최악의경우에대한시간복잡도를빅오표기법으로나타내라 f ) : deffunci(n): f : deffunc2(n): i = n m = 0 sum=0 r i n ) : foriinrange(n): m = 0 sum=0 f = : if1%3==0: f 3 = 0 : if1%3=0: r n : forjinrange(n/2): m = j sum+=j f 2 = 0 : elif1%2==0: m = ] sum+=] f = : elif1%2==0: forjinrange(5): j n ( ) forjinrange(5): sum+ j e : else: sum ＋ゴ e : else: forjinrange(n): r j n ( n ) : forjinrange(n): sum+=j m = j sum+=j n m returnsum n m returnsum",
+        "type": "short",
+        "question": "다음 두 함수 `func1(n)`과 `func2(n)`의 시간 복잡도를 빅오 표기법으로 구하시오.\n```python\ndef func1(n):\n    sum = 0\n    if n % 3 == 0:\n        for j in range(n // 2): sum += j\n    elif n % 2 == 0:\n        for j in range(5): sum += j\n    else:\n        for j in range(n): sum += j\n    return sum\n\ndef func2(n):\n    sum = 0\n    for i in range(n):\n        if i % 3 == 0:\n            for j in range(n // 2): sum += j\n        elif i % 2 == 0:\n            for j in range(5): sum += j\n        else:\n            for j in range(n): sum += j\n    return sum\n```",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "func1(n): 최선 O(1), 최악 O(n) / func2(n): 최선·최악 모두 O(n²)",
+        "explanation": "정답:\n• `func1(n)`은 단일 조건문으로 분기합니다. 입력 n이 3의 배수가 아닌 짝수(예: n=2, 4, 8...)일 때는 `range(5)`만 돌아 최선 O(1)이고, 3의 배수이거나 홀수일 때는 `n//2` 또는 `n`번 돌아 최악 O(n)입니다.\n• `func2(n)`은 바깥에 `for i in range(n)` 루프가 있으므로 i가 0부터 n-1까지 변하면서 세 분기가 모두 고르게 실행됩니다. 따라서 최선·최악 구분 없이 항상 n × O(n) = O(n²)입니다."
       },
       {
-        "id": "ds-1-11",
+        "id": "ch01_q11",
         "num": "1.11",
-        "question": "다음과같은순환적인프로그램에서Sub(",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "배열 `A[0..n-1]`에서 최댓값을 찾는 알고리즘 `find_max(A)`의 최선, 최악, 평균 시간 복잡도는?",
+        "options": [
+          "최선 O(1), 최악 O(n), 평균 O(n)",
+          "최선 O(n), 최악 O(n), 평균 O(n)",
+          "최선 O(1), 최악 O(n²), 평균 O(n log n)",
+          "최선 O(log n), 최악 O(n), 평균 O(log n)"
+        ],
+        "answer": 2,
+        "explanation": "정답: ②\n배열에서 최댓값을 찾으려면 정렬 여부가 주어지지 않은 이상 첫 원소부터 마지막 원소까지 n-1번의 비교를 무조건 수행해야 하므로 최선, 최악, 평균 모두 O(n)입니다."
       },
       {
-        "id": "ds-1-12",
+        "id": "ch01_q12",
         "num": "1.12",
-        "question": "과같이호출할때함수SubO가호출되는횟 수는? f ) : defsub(n): f n= 1 : n n returnn + returnsub(n-1)+sub(n-2)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-1-13",
-        "num": "1.13",
-        "question": "다음함수에서aster sk( S)와같이호출할때출력되는 의개수는? f ) : defasterisk(i): f i : ifi>1: )asterisk(i/2) )asterisk(i/2) print('*',end=\")",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-1-14",
-        "num": "1.14",
-        "question": "* 시각을나타내는T me의추상자료형을정의하려고한다T me을위한데이터로는시 분초를각각표현하기위한정수가필요할것이다T me의연산들을생각해보고정의",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-1-15",
-        "num": "1.15",
-        "question": "를참고하여T me의추상자료형을정의하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-1-16",
-        "num": "1.16",
-        "question": "*피보나치수열은다음과같이순환적으로정의된다. 이입력되면 번째피보나치수를 구해반환하는함수를순환구조와반복구조로각각구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-1-17",
-        "num": "1.17",
-        "question": "0n=0 = fib(n)=11 1n=1 )fib(n-2)+fib(n-1) eotherwise",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "알고리즘이 갖추어야 할 5가지 필수 조건(입력, 출력, 명백성, 유한성, 유효성) 중 '알고리즘의 각 명령어는 모호하지 않고 명확해야 한다'는 조건은?",
+        "options": [
+          "유한성 (Finiteness)",
+          "명백성 (Definiteness)",
+          "유효성 (Effectiveness)",
+          "입력 (Input)"
+        ],
+        "answer": 2,
+        "explanation": "정답: ②\n• 명백성(Definiteness): 각 단계의 명령이 모호하지 않고 명확해야 함\n• 유한성(Finiteness): 유한한 단계 뒤에 반드시 종료되어야 함\n• 유효성(Effectiveness): 모든 연산이 실제로 실행 가능해야 함"
       }
     ]
   },
@@ -28345,274 +32370,132 @@ var DS_QUIZ_DATA = [
     "question_count": 31,
     "questions": [
       {
-        "id": "ds-2-1",
+        "id": "ch02_q1",
         "num": "2.1",
-        "question": "자료구조를클래스로구현하는방법에대한설명중잘못된것은? 다",
-        "options": [
-          "추상자료형의데이터와연산을하나로묶어관리할수있",
-          "데이터는클래스의인스턴스변수에대응된다",
-          "연산은클래스의멤버함수에대응된다",
-          "일반함수로구현하는방법에비해속도가빠르다"
-        ],
-        "answer": 4,
-        "explanation": "자료구조를 클래스로 객체 지향 구현한다고 해서 일반 절차형 함수보다 속도가 더 빠른 것은 아닙니다. 오히려 캡슐화와 유지보수성, 재사용성을 위해 사용합니다.",
-        "type": "choice"
+        "type": "short",
+        "question": "다음과 같이 리스트 A = [10, 20, 30, 40, 50]이 있을 때 아래 파이썬 표현식의 결과값을 쓰시오.\n(1) `A[1:4]`\n(2) `A[-1]`\n(3) `A[::-1]`",
+        "options": [],
+        "answer": "(1) [20, 30, 40], (2) 50, (3) [50, 40, 30, 20, 10]",
+        "explanation": "파이썬 슬라이싱 `A[start:stop:step]`에서 `A[1:4]`는 인덱스 1, 2, 3 요소를 추출하고, `A[-1]`은 마지막 원소 50, `A[::-1]`은 역순 리스트를 반환합니다."
       },
       {
-        "id": "ds-2-2",
+        "id": "ch02_q2",
         "num": "2.2",
-        "question": "사용자정의클래스의객체들에+ 등의표준연산자들을적용할수있도록하는기능 을무엇이라하는가?",
+        "type": "short",
+        "question": "리스트 `A = [1, 2, 3, 4]`의 모든 값을 역순으로 출력하되, 인덱스 값으로 음수(-1, -2, -3, -4)만을 사용하여 출력하는 코드를 작성하시오.",
+        "options": [],
+        "answer": "for i in range(-1, -len(A)-1, -1): print(A[i], end=' ')",
+        "explanation": "음수 인덱스는 맨 뒤가 `-1`이고 맨 앞이 `-len(A)`(여기서는 `-4`)이므로 `print(A[-1], A[-2], A[-3], A[-4])` 또는 `for i in range(-1, -5, -1): print(A[i])`로 구현합니다."
+      },
+      {
+        "id": "ch02_q3",
+        "num": "2.3",
+        "type": "short",
+        "question": "어느 식당의 메뉴 가격 딕셔너리가 `price = {'콩나물해장국': 4500, '갈비탕': 9000, '돈가스': 8000}`으로 주어졌을 때:\n(1) 새로운 메뉴 `'팟타이'`를 7000원에 추가하는 코드\n(2) 모든 메뉴의 가격을 500원씩 인하하는 코드를 작성하시오.",
+        "options": [],
+        "answer": "(1) price['팟타이'] = 7000\n(2) for k in price: price[k] -= 500",
+        "explanation": "딕셔너리에 새 키-값 쌍을 추가할 때는 `dict[key] = val`을 사용하고, 전체 값을 갱신할 때는 `for key in price: price[key] -= 500`으로 순회하며 수정합니다."
+      },
+      {
+        "id": "ch02_q4",
+        "num": "2.4",
+        "type": "short",
+        "question": "자연수 n을 입력받아 조화급수 $1 + \\frac{1}{2} + \\frac{1}{3} + \\dots + \\frac{1}{n}$을 계산하는 함수를 순환(재귀) 구조로 작성하시오.",
+        "options": [],
+        "answer": "def harmonic(n):\n    if n == 1: return 1.0\n    return 1.0 / n + harmonic(n - 1)",
+        "explanation": "기저 조건(Base case)은 `if n == 1: return 1.0`이며, 일반항은 현재 항 `1/n`에 `harmonic(n - 1)`의 반환값을 더하여 반환합니다."
+      },
+      {
+        "id": "ch02_q5",
+        "num": "2.5",
+        "type": "short",
+        "question": "이항계수(Binomial Coefficient) $_nC_k$는 다음과 같이 순환적으로 정의된다:\n$_nC_k = _{n-1}C_{k-1} + _{n-1}C_k$ (단, $0 < k < n$), $_nC_0 = _nC_n = 1$\n이를 순환 함수 `bino_coef_recur(n, k)`와 반복 함수로 각각 구현하시오.",
+        "options": [],
+        "answer": "def bino_coef_recur(n, k):\n    if k == 0 or k == n:\n        return 1\n    return bino_coef_recur(n - 1, k - 1) + bino_coef_recur(n - 1, k)",
+        "explanation": "기저 조건 `k == 0 or k == n`일 때 1을 반환하고, 그 외에는 파스칼의 삼각형 성질인 `bino(n-1, k-1) + bino(n-1, k)`를 재귀 호출합니다."
+      },
+      {
+        "id": "ch02_q6",
+        "num": "2.6",
+        "type": "short",
+        "question": "문자열의 내용을 반대로 뒤집어 반환하는 순환 함수 `reverse(msg)`를 작성하시오. 예를 들어 `reverse('ABCDE')`는 `'EDCBA'`를 반환해야 한다.",
+        "options": [],
+        "answer": "def reverse(msg):\n    if len(msg) <= 1:\n        return msg\n    return reverse(msg[1:]) + msg[0]  # 또는 msg[-1] + reverse(msg[:-1])",
+        "explanation": "기저 조건은 문자열 길이가 1 이하일 때 그대로 반환하는 것이고, 순환 단계에서는 첫 글자 `msg[0]`을 나머지 부분 문자열을 뒤집은 결과 `reverse(msg[1:])`의 맨 뒤에 이어 붙입니다."
+      },
+      {
+        "id": "ch02_q7",
+        "num": "2.7",
+        "type": "short",
+        "question": "[구름 과제 2.17] 순환적인 방법으로 피보나치 수열 `fib(n)`을 호출했을 때 각 매개변수별 호출 빈도를 측정하고자 한다. `fib(5)`를 호출했을 때 `fib(5), fib(4), fib(3), fib(2), fib(1), fib(0)`은 각각 몇 번씩 호출되는가?",
+        "options": [],
+        "answer": "fib(5): 1회, fib(4): 1회, fib(3): 2회, fib(2): 3회, fib(1): 5회, fib(0): 3회 (총 15회 호출)",
+        "explanation": "트리 형태로 전개하면:\n• fib(5) = 1회\n• fib(4) = 1회\n• fib(3) = fib(5)에서 1번 + fib(4)에서 1번 = 2회\n• fib(2) = fib(4)에서 1번 + fib(3) 2번에서 각각 1번 = 3회\n• fib(1) = fib(3) 2번 + fib(2) 3번 = 5회\n• fib(0) = fib(2) 3번에서 각각 1번 = 3회\n중복 호출이 기하급수적으로 늘어나 시간 복잡도는 O(2ⁿ)이 됩니다."
+      },
+      {
+        "id": "ch02_q8",
+        "num": "2.8",
+        "type": "short",
+        "question": "[구름 과제 2.14] 근로소득 누진세율표가 [1,200만원 이하: 6%, 1,200만~4,600만원: 15%, 4,600만~8,800만원: 24%]일 때, 소득이 5,000만원인 사람의 총 세금과 세후 소득을 계산하시오.",
+        "options": [],
+        "answer": "총 세금: 678만원, 세후 소득: 4,322만원",
+        "explanation": "누진세 구간별 계산:\n1) 1,200만원 이하 구간: 1200 × 0.06 = 72만원\n2) 1,200만 ~ 4,600만원 구간(3,400만원): 3400 × 0.15 = 510만원\n3) 4,600만원 초과 구간(5000 - 4600 = 400만원): 400 × 0.24 = 96만원\n• 총 세금 = 72 + 510 + 96 = 678만원\n• 세후 소득 = 5000 - 678 = 4,322만원"
+      },
+      {
+        "id": "ch02_q9",
+        "num": "2.9",
+        "type": "choice",
+        "question": "순환(재귀) 알고리즘으로 하노이의 탑(Tower of Hanoi) 문제를 풀 때, 원판이 5개(n = 5)라면 원판을 옮기는 최소 이동 횟수는 몇 번인가?",
         "options": [
-          "순환",
-          "함수중복",
-          "연산자중복",
-          "상속"
+          "15번",
+          "16번",
+          "31번",
+          "32번"
         ],
         "answer": 3,
-        "explanation": "사용자 정의 클래스 객체에 +, -, == 등의 표준 연산자를 적용할 수 있도록 매직 메서드(__add__ 등)를 재정의하는 것을 '연산자 중복(Operator Overloading)'이라고 합니다.",
-        "type": "choice"
+        "explanation": "정답: ③ `31번`\n하노이의 탑 최소 이동 횟수 공식은 $2^n - 1$입니다. 따라서 $n = 5$일 때 $2^5 - 1 = 32 - 1 = 31$번입니다."
       },
       {
-        "id": "ds-2-3",
-        "num": "2.3",
-        "question": "다음중연산자중복에대한설명으로옳지않은것은? ①사용자정의클래스의특별한멤버함수이다",
+        "id": "ch02_q10",
+        "num": "2.10",
+        "type": "choice",
+        "question": "$x^n$을 구하는 순환적인 거듭제곱 함수 `power(x, n)`에서 지수 $n$을 매 단계 절반(`n // 2`)으로 줄여 호출할 때의 시간 복잡도는?",
         "options": [
-          "객체들을표준연산자들을이용해처리할수있다",
-          "파이썬리스트나튜플과같은클래스에도적용할수있다",
-          "연산자의기능을개발자가마음대로정의할수있다"
+          "O(1)",
+          "O(log₂ n)",
+          "O(n)",
+          "O(2ⁿ)"
         ],
-        "answer": 4,
-        "explanation": "연산자 중복을 하더라도 파이썬 고유의 연산자 우선순위나 문법 규칙(피연산자 개수 등)은 임의로 바꿀 수 없습니다.",
-        "type": "choice"
+        "answer": 2,
+        "explanation": "정답: ② `O(log₂ n)`\n반복문으로 $x$를 $n$번 곱하면 $O(n)$이지만, $x^n = (x^2)^{n/2}$ 성질을 이용한 분할 정복 순환 호출은 매 단계 $n$이 절반으로 줄어들어 $O(\\log_2 n)$에 수행됩니다."
       },
       {
-        "id": "ds-2-4",
-        "num": "2.4",
-        "question": "어떤클래스를상속받아만든새로운클래스를부르는명칭이아닌것은?",
+        "id": "ch02_q11",
+        "num": "2.11",
+        "type": "choice",
+        "question": "[구름 과제 2.15] 0부터 99 사이의 숫자를 맞히는 Up-and-Down 게임에서 정답(`answer`)이 67이고 현재 힌트 범위가 `min_v = 20, max_v = 80`일 때, 사용자가 `guess = 45`를 입력하면 범위는 어떻게 갱신되는가?",
         "options": [
-          "기반클래스",
-          "서브클래스",
-          "파생클래스"
+          "min_v = 45, max_v = 80",
+          "min_v = 20, max_v = 45",
+          "min_v = 45, max_v = 67",
+          "갱신되지 않는다"
         ],
         "answer": 1,
-        "explanation": "상속을 받아 만들어진 클래스는 서브클래스(Subclass), 파생 클래스(Derived Class), 자식 클래스라고 부릅니다. 슈퍼클래스(Superclass)는 부모 클래스를 지칭합니다.",
-        "type": "choice"
+        "explanation": "정답: ① `min_v = 45, max_v = 80`\n추측값 `guess(45) < answer(67)`이므로 '더 큰 숫자입니다!'를 출력하고 하한선 `min_v`를 `45`로 끌어올려 다음 힌트 범위를 `45~80`으로 좁힙니다."
       },
       {
-        "id": "ds-2-5",
-        "num": "2.5",
-        "question": "섭씨온도(° 는수식은 =32+ 1 C)를화 온도(°F)로변환하",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-6",
-        "num": "2.6",
-        "question": "C이다 (1 섭씨온도를화씨온도로변환하는함수를구현하라 (2) 화씨온도를섭씨온도로변환하는함수를구현하라 , 3 4와같이리스트를선언하고이리스트의모든값을역순으로출력하는코 드",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-7",
-        "num": "2.7",
-        "question": ",2 를구현하라단,인덱스값으로는음수만을사용하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-8",
-        "num": "2.8",
-        "question": "리스트의모든값을더해결과를반환하는함수를구현하라 s n Pyt 8 문자열msg =\"Data Str uct ure ho 를선언하고이문자열을먼저그대로출력하고, 다음으로모두대문자로바꿔서출력하고마지막으로모두소문자로바꿔출력하는코드 를작성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-9",
-        "num": "2.9",
-        "question": "어느식당의음식에대한가격정보를다음과같이딕셔너리로표현하자 r ce= '콩나물해장국: 4500,'갈비탕 9000,돈가스:800 0",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-10",
-        "num": "2.10",
-        "question": ")여기에새로운메뉴팟타 이'를7 000원에추가하고,모든메뉴와가격을출력하는코 드 를작성하라 (2)모든메뉴의가격을500원내리는코드를작성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-11",
-        "num": "2.11",
-        "question": "자연수 을받아다음식을계산하는합수를구현하려고한다 + 1 2+1 3+... +1/ n (1) 반복문을이용한함수로구현하라 (2 순환구조의함수로구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-12",
+        "id": "ch02_q12",
         "num": "2.12",
-        "question": "이항계수(b nom a coeff c ent 는다음과같이순환적으로정의할수있다 „Сĸ= \"-Ck-1ta-Chif0<k<n f r (1) 과 를입력받아이항계수를구하는함수를순환구조로구현하라 (2) 이함수를반복문을이용해구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-13",
-        "num": "2.13",
-        "question": "문자열의내용을반대로바꾸는순환적인함수 eve se( 를구현하라예를들어 eve se(\"ABCDE\" 는 EDCBA 를반환해야한다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-14",
-        "num": "2.14",
-        "question": "순환적인방법으로피보나치수열을호출하였을때함수가중복되어호출되는것을확인할 수있 출빈 도록각함수의매개변수별호 도를측정해출력하라 =10을넣었을때 F1bo(10) = 1번 예)n Fi bo(9) = ??번 ...",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-15",
-        "num": "2.15",
-        "question": "4*다음은근로소득세율표를보여주고있다소득을입력하면세금을계산하고세금과세 후소득을출력하는프로그램을작성하라수입이조금이라도많으면세금을세후소득 200만원까지는6%를내 고다 음구간( 이더많아야한 다예를들 어소득이2 000만원이라면1 1 200만원~4 600만원)에포함되는800만원에대해서는1",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-16",
-        "num": "2.16",
-        "question": "%를내야하므로전 체세금은1200x 6%+800 15%이다 소득 근로소득세율 % 6%",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-17",
-        "num": "2.17",
-        "question": ",200만원이하 % 15% 1,200만원~ 4600만원 l 24%l 800만원",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-18",
-        "num": "2.18",
-        "question": ",600만원~ 8, % 35%",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-19",
-        "num": "2.19",
-        "question": ", 800만원~1억5,000만원 % 38%",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-20",
-        "num": "2.20",
-        "question": "억5,000만원초과",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-21",
-        "num": "2.21",
-        "question": "* 번호맞히기게임(Up-and-Down 게임을구현하자숨겨진두자리의숫자를추측하 여맞추는것이다게이머가숫자를예측하면컴퓨터는정답과비교하여 더큰숫자입니 다 은숫자입니다\" 그리고맞 우정답입니다\"를출력한다중간에맞히거 더작 힌경 \"나\" 나",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-22",
-        "num": "2.22",
-        "question": "번동안맞히지못하면게임이끝난다 정답을answe 추측문자를guess이라하면answe 와guess를비교하여결과를 출력하면된다정답범위를힌트로제공하기위해m n과max 변수를사용한다 반복문으로는 o 를사용하고최대10번반복하면서중간에정답을맞히면b eak 문을이용해루프를빠져나와게임을종료한다 - 口 # a #CWWNDCWS#syitem32acmd.na 父人豐입력하세요(범위: 0.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-24",
-        "num": "2.24",
-        "question": "6* 높이를입력받아다음과같은숫자피라미드를출력하는다음게 임( ? 을만들어보자먼 저숫자가출력되는규칙을잘찾아보라 e Cwwe.OOwS#systam32wcmd.eze 미라미드의높이를입력하세요: 7",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-25",
-        "num": "2.25",
-        "question": "57 1 누르십시오",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-27",
-        "num": "2.27",
-        "question": "중루프를사용한다바깥루프는세로를나타내고높이만큼반복하면된다 내부루프는한줄에서의위치를나타낸다한줄에서의출력은세부분으로나누어 야할것이다맨처음공백을적절히출력한다다음으로숫자가증가하는방향으로 출력하고마지막으로감소하는방향으로숫자를출력한다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-29",
-        "num": "2.29",
-        "question": "*시각을나타내는T me의추상자료형을다음과같이정의하였다문제 12참조) 이추상 자료형을클래스로구현해보라. 정의2 3TimeADT 데이터하나의시각시분초로나타내기위한변수들시는0~",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-30",
-        "num": "2.30",
-        "question": "분과초는0~59사이의정수 연산 • , , : •set(h,m,s): 시각을 시m분S초로초기화한다 hou (), econa): 각각시 ,분, 초를반환한다 m nute(),s • : •iSAM(): • : •isSame(t2): 시각이오전이면True그렇지않으면Fa se를반환한다 • : •difference(t2): 시각이2와같으면T ue아니면Fa se를반환한다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-2-31",
-        "num": "2.31",
-        "question": "와의차이를새로운시각에저장해반환한다 시각을화면에보기좋게출력한다 • : •display():",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "[구름 과제 2.16] 높이가 `height`인 숫자 피라미드에서 `i`번째 줄(1부터 시작)의 맨 앞쪽에 출력해야 하는 공백 묶음의 반복 횟수는?",
+        "options": [
+          "i번",
+          "height - i번",
+          "2 * i - 1번",
+          "height + i번"
+        ],
+        "answer": 2,
+        "explanation": "정답: ② `height - i번`\n피라미드의 아래쪽으로 내려갈수록(`i`가 1에서 `height`로 커질수록) 좌측 여백은 한 칸씩 줄어들어야 중앙 정렬이 되므로 `range(height - i)`만큼 공백을 출력합니다."
       }
     ]
   },
@@ -28624,259 +32507,162 @@ var DS_QUIZ_DATA = [
     "question_count": 25,
     "questions": [
       {
-        "id": "ds-3-1",
+        "id": "ch03_q1",
         "num": "3.1",
-        "question": "다음중리스트의활용으로적절하지않은것은? 인편집기",
+        "type": "choice",
+        "question": "다음 중 리스트(List) 자료구조의 활용 분야로 적절하지 않은 것은?",
         "options": [
-          "계획표만들기",
-          "라",
-          "다항식의표현",
-          "미로탐색"
+          "라인 편집기(Line Editor)의 텍스트 줄 관리",
+          "다항식(Polynomial)의 항 표현",
+          "집합(Set)의 구현",
+          "함수 호출 시 시스템 복귀 주소의 후입선출(LIFO) 관리"
         ],
         "answer": 4,
-        "explanation": "미로 탐색(DFS/BFS)은 지나온 경로를 역추적하거나 방문 순서를 관리해야 하므로 스택(Stack) 또는 큐(Queue)가 핵심 자료구조입니다.",
-        "type": "choice"
+        "explanation": "정답: ④\n함수 호출 시 복귀 주소(활성 레코드)를 후입선출(LIFO) 방식으로 저장하고 복구하는 것은 리스트가 아니라 스택(Stack)의 고유 응용 분야입니다."
       },
       {
-        "id": "ds-3-2",
+        "id": "ch03_q2",
         "num": "3.2",
-        "question": "다음중리스트 st 가집합(set 과다른점이아닌것 은? 다 한항 목의중복을허용한다",
+        "type": "choice",
+        "question": "다음 중 리스트(List)가 집합(Set)과 구별되는 특징으로 옳은 것은?",
         "options": [
-          "항목들사이에순서가있",
-          "항목들은위치를갖는다",
-          "항목들을서로비교할수있다",
-          "동일"
+          "원소들 사이에 순서(위치 인덱스)가 없으며 중복을 허용하지 않는다.",
+          "원소들 사이에 순서(Pos)가 존재하며 동일한 항목의 중복을 허용한다.",
+          "합집합, 교집합, 차집합 연산만을 기본 연산으로 제공한다.",
+          "원소의 개수가 항상 고정되어 변하지 않는다."
         ],
-        "answer": 3,
-        "explanation": "항목들을 서로 비교하는 연산은 리스트와 집합(Set) 모두 가능하므로 차이점이 아닙니다. 순서와 중복 허용 여부가 본질적 차이점입니다.",
-        "type": "choice"
+        "answer": 2,
+        "explanation": "정답: ②\n집합(Set)은 원소 간 순서가 없고 중복을 허용하지 않지만, 리스트(List)는 원소들이 나열된 선형 순서(인덱스 위치)를 가지며 동일한 값의 중복 저장을 허용합니다."
       },
       {
-        "id": "ds-3-3",
+        "id": "ch03_q3",
         "num": "3.3",
-        "question": "자료구조를클래스로구현하는방법에대한설명중잘못된것은? ①추상자료형의데이터와연산을하나로묶어관 리할수있다 용할수있 다",
+        "type": "choice",
+        "question": "자료구조를 절차적 함수 대신 객체지향 클래스(Class)로 구현하는 방법에 대한 설명 중 잘못된 것은?",
         "options": [
-          "데이터와연산은각각클래스의멤버변수와멤버함수에대응된다",
-          "여러개의객체를마음대로만들어사",
-          "일반함수로구현하는방법에비해속도가빠르다"
+          "추상 자료형의 데이터(멤버 변수)와 연산(메서드)을 하나로 묶어 캡슐화할 수 있다.",
+          "하나의 프로그램 안에서 여러 개의 독립된 리스트나 스택 객체를 동시에 생성해 사용할 수 있다.",
+          "상속(Inheritance)을 통해 기존 자료구조를 확장하기 용이하다.",
+          "전역 변수를 사용하는 절차적 방식보다 프로그램에 하나의 객체만 만들 수 있어 재사용성이 떨어진다."
         ],
         "answer": 4,
-        "explanation": "클래스 구현이 일반 함수 구현보다 실행 속도가 더 빠른 것은 아닙니다.",
-        "type": "choice"
+        "explanation": "정답: ④\n클래스로 자료구조를 구현하면 전역 변수 충돌 없이 원하는 만큼 여러 개의 인스턴스(객체)를 생성할 수 있어 코드 재사용성과 유지보수성이 비약적으로 향상됩니다."
       },
       {
-        "id": "ds-3-4",
+        "id": "ch03_q4",
         "num": "3.4",
-        "question": "배열로자료구조리스트를구현할때많 은항목들의이동이필요한연산은?",
+        "type": "choice",
+        "question": "배열 구조(ArrayList)로 자료구조 리스트를 구현할 때 많은 항목들의 연속적인 자리 이동이 필요한 연산은?",
         "options": [
-          "리스트크기계산",
-          "리스트초기화",
-          "화면출력연산",
-          "삽입연산"
+          "insert(pos, e) 및 delete(pos) 연산",
+          "getEntry(pos) 연산",
+          "isEmpty() 연산",
+          "size() 연산"
         ],
         "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
+        "explanation": "정답: ①\n배열 기반 리스트에서 임의의 위치 `pos`에 원소를 삽입(`insert`)하거나 삭제(`delete`)할 때는 연속된 메모리 공간을 유지하기 위해 뒤쪽 원소들을 한 칸씩 뒤로 밀거나 앞으로 당기는 이동 연산이 필요하므로 O(n)이 소요됩니다."
       },
       {
-        "id": "ds-3-5",
+        "id": "ch03_q5",
         "num": "3.5",
-        "question": "다음중배 열구조로자료구조리 할때시간복잡도가가장낮 스트를구현",
+        "type": "choice",
+        "question": "다음 중 배열 구조로 구현한 리스트에서 시간 복잡도가 O(1)로 가장 낮은 연산은?",
         "options": [
-          "지정한위치에새로운항목을삽입하는연산",
-          "지정한위치의항목을삭제하는연산",
-          "어떤항목을찾는연산",
-          "지정한위치의항목을다른항목으로교체하는연산"
+          "getEntry(pos) — pos 위치의 요소 참조",
+          "insert(0, item) — 맨 앞에 요소 삽입",
+          "delete(0) — 맨 앞 요소 삭제",
+          "find(item) — 특정 값의 위치 탐색"
         ],
         "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
+        "explanation": "정답: ①\n배열은 인덱스를 통한 임의 접근(Random Access)을 지원하므로 `getEntry(pos)`(`array[pos]`)는 데이터 크기 n과 무관하게 단 한 번의 주소 계산으로 수행되는 O(1) 연산입니다. 반면 `insert(0, item)`, `delete(0)`, `find(item)`은 모두 O(n)입니다."
       },
       {
-        "id": "ds-3-6",
+        "id": "ch03_q6",
         "num": "3.6",
-        "question": "파이썬리스트의nsertO와a ppend )연산에대한시간복잡도로가장정확한것은? (m) 대부분의경우 (1) 로올바르게복제(새로운리스 트",
+        "type": "choice",
+        "question": "파이썬 내장 리스트(동적 배열)의 `insert(0, x)`와 `append(x)` 연산에 대한 시간 복잡도 설명으로 가장 정확한 것은?",
         "options": [
-          "0(1) 0(1"
+          "둘 다 항상 O(1)이다.",
+          "insert(0, x)는 O(n)이고, append(x)는 대부분의 경우(분할상환) O(1)이다.",
+          "insert(0, x)는 O(1)이고, append(x)는 항상 O(n)이다.",
+          "둘 다 항상 O(n²)이다."
         ],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": 2,
+        "explanation": "정답: ②\n`insert(0, x)`는 맨 앞에 넣기 위해 n개 원소를 모두 뒤로 밀어야 하므로 항상 O(n)입니다. 반면 `append(x)`는 배열 맨 끝 빈자리에 바로 넣으므로 용량 재할당이 일어나지 않는 대부분의 경우 O(1)(분할상환 상수 시간)에 수행됩니다."
       },
       {
-        "id": "ds-3-7",
+        "id": "ch03_q7",
         "num": "3.7",
-        "question": "파이썬리스트A = 2, 3 4, 51가있 을때이것을B 객체가만들어져야함)하는문장은?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-8",
-        "num": "3.8",
-        "question": "= 2B=copy(A) 4 = 4B=list(A) B =A 1B=A 3 ]",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-9",
-        "num": "3.9",
-        "question": "다음중정렬되지않은리스트로집합을구현할경우연산의시간복잡도가가장높은연 산은? ①어떤원소가집합에포함되어있는지를검사하는연산",
+        "type": "choice",
+        "question": "파이썬 리스트 `A = [1, 2, 3, 4, 5]`가 있을 때, A와 동일한 원소를 갖지만 메모리에 독립된 새로운 리스트 객체 B를 복제(Clone)하는 문장은?",
         "options": [
-          "어떤원소를집합에삽입하는연산",
-          "집합에서어떤원소를삭제하는연산",
-          "두집합이같은집합인지를검사하는연산"
+          "B = A",
+          "B = list(A)",
+          "B == A",
+          "B = len(A)"
+        ],
+        "answer": 2,
+        "explanation": "정답: ②\n`B = A`는 새로운 리스트를 만들지 않고 동일한 리스트 객체의 참조(별명)만 복사합니다. 독립된 새로운 리스트 객체를 복제하려면 `B = list(A)`, `B = A[:]`, 또는 `B = A.copy()`를 사용해야 합니다."
+      },
+      {
+        "id": "ch03_q8",
+        "num": "3.8",
+        "type": "choice",
+        "question": "정렬되지 않은 배열 리스트로 집합(ArraySet)을 구현할 경우(원소 수 n), 다음 중 시간 복잡도가 O(n²)으로 가장 높은 연산은?",
+        "options": [
+          "교집합 intersect(setB) 연산",
+          "원소 포함 여부 contains(e) 연산",
+          "원소 삽입 insert(e) 연산",
+          "집합 크기 size() 연산"
         ],
         "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
+        "explanation": "정답: ①\n`size()`는 O(1), `contains(e)`와 `insert(e)`(중복 검사 포함)는 O(n)이지만, 합집합(`union`), 교집합(`intersect`), 차집합(`difference`)은 집합 A의 각 원소(n개)마다 집합 B에 포함되어 있는지 `contains` 선형 탐색(O(n))을 수행하므로 O(n²)이 걸립니다."
       },
       {
-        "id": "ds-3-10",
+        "id": "ch03_q9",
+        "num": "3.9",
+        "type": "short",
+        "question": "공백 상태의 리스트 `L = []`에 대해 다음 연산을 순서대로 수행했을 때 리스트의 최종 내용을 적으시오.\n(1) `insert(0, 10) → insert(0, 30) → insert(1, 20) → insert(size(), 50) → insert(2, 40)`\n(2) 위 (1)의 결과에 이어서 `insert(1, 60) → replace(2, 70) → delete(2)`를 수행한 결과",
+        "options": [],
+        "answer": "(1) [30, 20, 40, 10, 50]\n(2) [30, 60, 40, 10, 50]",
+        "explanation": "단계별 상태 추적:\n[(1)번 추적]\n• `insert(0, 10)` → `[10]`\n• `insert(0, 30)` → `[30, 10]`\n• `insert(1, 20)` → `[30, 20, 10]`\n• `insert(size(), 50)` (`insert(3, 50)`) → `[30, 20, 10, 50]`\n• `insert(2, 40)` → `[30, 20, 40, 10, 50]`\n\n[(2)번 추적]\n• `insert(1, 60)` → `[30, 60, 20, 40, 10, 50]`\n• `replace(2, 70)` (인덱스 2의 20을 70으로 교체) → `[30, 60, 70, 40, 10, 50]`\n• `delete(2)` (인덱스 2의 70 삭제) → `[30, 60, 40, 10, 50]`"
+      },
+      {
+        "id": "ch03_q10",
         "num": "3.10",
-        "question": "다음문장에서빈칸 을채 워라 배열구조로구현된리스트에서는리스트의 쪽에항목을삽입하는것이시간 적으로더효율적이다. 사용자정의클래스의객체들에+ 등의표준연산자들을적용할수있도록하는 _이라한다 기능을",
+        "type": "short",
+        "question": "오름차순으로 정렬된 두 개의 리스트 A와 B(각 크기 n, m)를 입력받아, 병합된 결과 리스트 C도 오름차순 정렬 상태를 유지하도록 합병하는 함수 `merge(A, B)`의 핵심 알고리즘과 시간 복잡도를 쓰시오.",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "시간 복잡도: O(n + m) / 두 포인터 i=0, j=0을 두고 A[i]와 B[j] 중 작은 값을 C에 넣으며 전진",
+        "explanation": "모범 코드:\n```python\ndef merge(A, B):\n    C = []\n    i, j = 0, 0\n    while i < len(A) and j < len(B):\n        if A[i] <= B[j]:\n            C.append(A[i]); i += 1\n        else:\n            C.append(B[j]); j += 1\n    if i < len(A): C.extend(A[i:])\n    if j < len(B): C.extend(B[j:])\n    return C\n```\n각 원소를 최대 한 번씩만 비교하므로 시간 복잡도는 O(n + m)입니다."
       },
       {
-        "id": "ds-3-11",
+        "id": "ch03_q11",
         "num": "3.11",
-        "question": "공백상태의리스트가있다. 다음물음에답하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "크기가 $n$인 배열 리스트(ArrayList)에서 인덱스 `pos` 위치에 새로운 원소를 삽입(`insert(pos, e)`)할 때, 뒤로 한 칸씩 이동시켜야 하는 기존 원소의 개수는?",
+        "options": [
+          "pos개",
+          "n - pos개",
+          "n - 1개",
+          "1개"
+        ],
+        "answer": 2,
+        "explanation": "정답: ② `n - pos개`\n현재 원소가 `0`번부터 `n-1`번까지 $n$개 들어 있을 때, 인덱스 `pos` 자리에 새 원소를 넣으려면 `pos`번부터 `n-1`번까지의 원소 총 $(n - 1) - pos + 1 = n - pos$개를 뒤로 한 칸씩 밀어야 합니다."
       },
       {
-        "id": "ds-3-12",
+        "id": "ch03_q12",
         "num": "3.12",
-        "question": ". nser (1 2",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-13",
-        "num": "3.13",
-        "question": ". nse (2 40) (1)이리스트에 nse (0 1 e (0 3",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-14",
-        "num": "3.14",
-        "question": ") ns nse t(s ze0,5",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-15",
-        "num": "3.15",
-        "question": ")다음연산을순서대로처리한후의리스트내용을적어라 (2 추가로 nsert(1, 6",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-16",
-        "num": "3.16",
-        "question": "), ep ace(2, 7",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-17",
-        "num": "3.17",
-        "question": "),d e ete(2) 연산을순서대로처리한결과를적 어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-18",
-        "num": "3.18",
-        "question": "리스트의항목중에서가장큰것을찾아인덱스를반환하는findMax0연산을A mrayLi s 클래스코드3.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-19",
-        "num": "3.19",
-        "question": "의멤버함수로구현하라.만약리스트가공백상태이면 을반환하라. 3.12리스트에서가장작은항목과큰항목을모두찾아인덱스를한꺼번에반환하는 f ndM nMax0 연산을ArrayL st의멤버함수로구현하라두값의반환을위해튜플을사 용할수있는데만약리스트가공백상태이면 -1,-1)을반환한다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-20",
-        "num": "3.20",
-        "question": "파이썬으로쉽 게배우는자료구조",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-21",
-        "num": "3.21",
-        "question": "* 오름차순으로항목들이정렬된두개의리스트A와B를받아이들을병합한새로운리스 트C를구하는코드를작성하라.단병합된리스트도정렬되어있어야한다예를들어 =0 3, 4) B=D 3 6,이 라면C 는 , 2 3 3 4, 6,기이되어야한다.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-22",
-        "num": "3.22",
-        "question": "*Ar ray Set클래스(코드3",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-23",
-        "num": "3.23",
-        "question": ")를다음과같이수정하라 (1)차집합을구하는A d ffe ence(B)문장대신에A B를이용할수있도록 연산자 중복함수를추가하라연산자중복 은2 11절을참고하는데이를위한연산자중복 함수는 u (se f rhs)이다. (2)두집합A와B가있을때 =B 인경우에도A는B의부분집합이된다A가 의 부분집합이지만A와B가같지않은경우A는B의진부분집합p ope subset)이 P ope Subse O 0 연 산을A raySet클래스(코드3 6)의멤버함수로추가하라만약A가B의진부분 집합이라면A s 다어떤집합이다른집합의진부분집합인지를검사하는s P operSubse of( B)는T ue를반환해야한다 3 15** 수학과과학에서는다항식( Do ynom a)이매우중요하게사용되는데다음과같이추상 자료형으로나타낼수있다 정의3.3:P olynomialADT 데이터하나이 상의항 적표현각항은a 2 로표시되는데a 는계수이고 으로이루어진수학 는미지수z의차수임 연산 • : •degree(): 다항식의차수를반환한다 •e va uate(sca ar) 미지수에s ca a 를넣어계산한결과를반환한다 • : •add(rhs): 현재다항식과다항식hs를더한새로운다항식을만들어반환한다 • . •subtract(rhs). 현 재다항식에서다항식rhs 를뺀새로운다항식을만들어반환한다 • : •multiply(rhs): 현재다항식과다항식 hs를곱한새로운다항식을만들어반환한다 • : •display): 현재다항식을화면에보기좋게출력한다 이러한다항식을클래스로구현하려고한 다먼저,다항식을표현하기위해리스트를이용할 수있는데계수들을리스트에순서대로저장하는것이다. 이때,리스트로는파이썬의리스 트를사 용하 자리스트에계수를저장하 는방법에는다음과같이두가지가있다 Mx)=10x+0x'+Ox?+Ox?'+6x+3X° # 다항 식p(x)의리스트표현 방법1 #다항식p(x 의리스트표현방법2 =[ 3] coef=[10,0,0,0,6,3] =[ ] ］ ][1] ](2] ](3] ][4] ][S] ［e",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-24",
-        "num": "3.24",
-        "question": "배열 리스트를 이용하여 다항식(Polynomial) 클래스를 구현하라. 두 다항식의 덧셈 연산 add(poly)와 미지수 x에 특정 값을 대입하여 값을 계산하는 eval(x) 연산의 원리를 설명하시오.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "다항식 계수(coefficient)를 배열 인덱스로 매핑하여 add() 호출 시 차수별 덧셈을 수행하고, eval(x)는 호너의 법칙(Horner's rule) 또는 거듭제곱을 순회 계산하여 결과를 도출합니다.",
-        "type": "short"
-      },
-      {
-        "id": "ds-3-25",
-        "num": "3.25",
-        "question": "3 + 2.0x*3+ 0 * -1.0x*2*",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "파이썬 클래스에서 두 집합 객체 `setA`와 `setB`의 차집합을 `setA.difference(setB)` 대신 `setA - setB` 연산자 기호로 호출할 수 있도록 정의하는 특수 메서드(연산자 중복) 이름은?",
+        "options": [
+          "__add__(self, setB)",
+          "__sub__(self, setB)",
+          "__eq__(self, setB)",
+          "__str__(self)"
+        ],
+        "answer": 2,
+        "explanation": "정답: ② `__sub__(self, setB)`\n파이썬 연산자 오버로딩에서 `-` 연산자는 `__sub__`, `+`는 `__add__`, `==`는 `__eq__`, 문자열 변환은 `__str__` 특수 메서드로 구현합니다."
       }
     ]
   },
@@ -28888,206 +32674,142 @@ var DS_QUIZ_DATA = [
     "question_count": 24,
     "questions": [
       {
-        "id": "ds-4-2",
-        "num": "4.2",
-        "question": "스택에서사용되는정보의입출력방법은무엇인가? ILIFO 2 O 2FIFO 3 O 3FILO ALILO",
-        "options": [],
+        "id": "ch04_q1",
+        "num": "4.1",
+        "type": "choice",
+        "question": "스택(Stack)에서 사용되는 정보의 입출력 방법은 무엇인가?",
+        "options": [
+          "LIFO (Last-In First-Out)",
+          "FIFO (First-In First-Out)",
+          "LILO (Last-In Last-Out)",
+          "Random Access (임의 접근)"
+        ],
         "answer": 1,
-        "explanation": "스택은 LIFO 방식으로 입출력이 진행됩니다.",
-        "type": "short"
+        "explanation": "정답: ①\n스택은 가장 마지막에 삽입된 데이터가 가장 먼저 삭제되는 후입선출(LIFO: Last-In First-Out, 또는 FILO: First-In Last-Out) 구조입니다."
       },
       {
-        "id": "ds-4-3",
-        "num": "4.3",
-        "question": "스택(Stack 의응용분야로거리가먼것은?",
+        "id": "ch04_q2",
+        "num": "4.2",
+        "type": "choice",
+        "question": "스택(Stack)의 응용 분야로 거리가 먼 것은?",
         "options": [
-          "수식계산및수식표기법",
-          "미로찾기",
-          "운영체제의작업스케줄링",
-          "서브루틴의복귀번지저장"
+          "수식 계산 및 중위→후위 수식 표기법 변환",
+          "미로 찾기 (깊이 우선 탐색 DFS / 백트래킹)",
+          "운영체제의 선착순 작업 스케줄링 및 프린터 스풀링",
+          "함수(서브루틴) 호출 시 복귀 번지 및 활성 레코드 저장"
         ],
         "answer": 3,
-        "explanation": "운영체제의 작업 스케줄링(CPU 스케줄링)은 먼저 도착한 작업을 먼저 처리하는 큐(Queue, FIFO) 구조를 기반으로 합니다.",
-        "type": "choice"
+        "explanation": "정답: ③\n운영체제의 선착순 작업 스케줄링이나 프린터 출력 대기열(버퍼)은 먼저 요청된 작업을 먼저 처리해야 하므로 선입선출(FIFO) 자료구조인 큐(Queue)를 사용합니다."
       },
       {
-        "id": "ds-4-4",
+        "id": "ch04_q3",
+        "num": "4.3",
+        "type": "choice",
+        "question": "입력 순서가 A, B, C, D로 정해진 자료를 스택에 넣었다가(push) 꺼낼(pop) 때, 가능한 출력 순서의 결과가 아닌 것은? (단, 입력 자료의 일부를 저장하고 바로 꺼낼 수도 있다.)",
+        "options": [
+          "A, B, C, D",
+          "A, B, D, C",
+          "B, C, D, A",
+          "D, B, C, A"
+        ],
+        "answer": 4,
+        "explanation": "정답: ④ `D, B, C, A`\n맨 처음에 D가 출력되려면 A, B, C, D가 모두 순서대로 스택에 push된 상태여야 합니다. 그 상태에서 D를 pop하고 나면 스택 상단(top)에는 C가 있고 그 아래에 B가 있으므로, C를 꺼내기 전에 B가 먼저 출력(`D, B, C, A`)되는 것은 절대 불가능합니다(유일하게 가능한 순서는 `D, C, B, A`)."
+      },
+      {
+        "id": "ch04_q4",
         "num": "4.4",
-        "question": "다음중스택에대한설명을모두골라라 개포인터를갖고있 다 작한다 배",
-        "options": [
-          "입출력이한쪽끝으로만제한된리스트이다",
-          "함수호출시복귀주소를저장하는데사용된다"
-        ],
-        "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
+        "type": "short",
+        "question": "공백 상태의 스택에 총 25번의 `push` 연산과 10번의 `pop` 연산이 실행되었는데, 이 중 3번의 `pop` 연산은 공백 상태(언더플로 오류 상황)에서 수행되어 무시되었다. 현재 스택에 남아 있는 항목 수는 몇 개인가?",
+        "options": [],
+        "answer": "18개",
+        "explanation": "정답: 18개\n전체 10번의 `pop` 중 3번은 스택이 비어 있을 때 호출되어 실제 원소가 삭제되지 않았으므로, 실제로 원소를 꺼낸 유효 `pop` 횟수는 10 - 3 = 7회입니다. 따라서 현재 스택의 항목 수는 25(push) - 7(유효 pop) = 18개입니다."
       },
       {
-        "id": "ds-4-5",
+        "id": "ch04_q5",
         "num": "4.5",
-        "question": "순서가A B C D로정해진입력자료를스택에입력하였다가출력할때가능한출력순 서의결과가아닌것은?단스택에는입력자료의일부를저장하고꺼낼수도있다예를 들어A를저장하고바로A를꺼낼수있다.A,B를모두저장하고B를먼저꺼내고A를 꺼낼수도있다그러나자료의입력순서는반드시지켜져야한다 C @ D @A,B,C.D C BA,B,D.C ®B.C,D.A op 연산이실행되었는데이중에3번",
+        "type": "short",
+        "question": "고정 크기 `capacity`인 배열(ArrayStack)로 구현한 스택에서 (1) 공백 상태 조건, (2) 포화 상태 조건, (3) 삽입(`push`)과 삭제(`pop`) 연산의 시간 복잡도를 쓰시오.",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "(1) 공백: top == -1, (2) 포화: top == capacity - 1, (3) 시간 복잡도: push O(1), pop O(1)",
+        "explanation": "배열 스택에서 `top`의 초기값은 -1입니다. 원소가 하나도 없으면 `top == -1`(공백), 배열 끝까지 차면 `top == capacity - 1`(포화)이며, `push`와 `pop`은 원소 이동 없이 `top` 인덱스만 1 증감시키므로 둘 다 O(1)입니다."
       },
       {
-        "id": "ds-4-6",
+        "id": "ch04_q6",
         "num": "4.6",
-        "question": "번의p ush연산과10번의p",
+        "type": "short",
+        "question": "다음과 같이 스택을 사용하는 프로그램이 하는 일은 무엇이며, `n = 6`일 때의 출력 결과는 무엇인가?\n```python\ns = ArrayStack(100)\nn = 6\nwhile n > 0:\n    s.push(n % 2)\n    n = n // 2\nwhile not s.isEmpty():\n    print(s.pop(), end='')\n```",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "하는 일: 양의 정수 n을 2진수로 변환하여 출력한다. / n = 6일 때 출력: 110 / n = 4096일 때 출력: 1000000000000 (1 뒤에 0이 12개)",
+        "explanation": "n을 2로 나눈 나머지를 차례로 스택에 push한 뒤 역순(LIFO)으로 pop하여 출력하므로 십진수를 이진수(Binary)로 변환하는 알고리즘입니다. n=6이면 6%2=0, 3%2=1, 1%2=1이 push되어 pop 순서는 `110`이 됩니다."
       },
       {
-        "id": "ds-4-7",
+        "id": "ch04_q7",
         "num": "4.7",
-        "question": "공백상태의스택에총 은공백상태(언더플로오류상황)였다현재스택의항목수는몇개일까",
+        "type": "short",
+        "question": "다음 두 코드 (1)과 (2)의 실행이 끝난 후 스택 `values`에 바닥(Bottom)부터 상단(Top)까지 남아 있는 내용을 순서대로 적으시오.\n```python\n# (1)\nvalues = ArrayStack(20)\nfor i in range(10):\n    if i % 3 == 0:\n        values.push(i)\n\n# (2)\nvalues = ArrayStack(20)\nfor i in range(20):\n    if i % 3 == 0:\n        values.push(i)\n    elif i % 4 == 0:\n        values.pop()\n```",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "(1) [0, 3, 6, 9] (top=9)\n(2) [0, 9, 15, 18] (top=18)",
+        "explanation": "단계별 추적:\n• (1) i = 0..9 중 3의 배수인 0, 3, 6, 9가 차례로 push되어 `[0, 3, 6, 9]`가 남습니다.\n• (2) i = 0..19 동안 (`elif`이므로 12처럼 3과 4의 공배수는 `i%3==0`에서 push됨!):\n  - i=0: push(0) → `[0]`\n  - i=3: push(3) → `[0, 3]`\n  - i=4: pop() → `[0]` (3 삭제)\n  - i=6: push(6) → `[0, 6]`\n  - i=8: pop() → `[0]` (6 삭제)\n  - i=9: push(9) → `[0, 9]`\n  - i=12: 12%3==0 참이므로 push(12)! → `[0, 9, 12]`\n  - i=15: push(15) → `[0, 9, 12, 15]`\n  - i=16: pop() → `[0, 9, 12]` (15 삭제)\n  - i=18: push(18) → `[0, 9, 12, 18]`\n  (주의: 만약 16 다음에 18이 들어오면 최종 스택은 `[0, 9, 12, 18]`입니다! i=12에서 `elif` 때문에 pop이 아니라 push(12)가 실행되는 것이 핵심 함정입니다!)"
       },
       {
-        "id": "ds-4-8",
+        "id": "ch04_q8",
         "num": "4.8",
-        "question": "배열구조(파이썬 의리 로구현한스택에 서공백상태와포화상태를설명하라 스트)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-9",
-        "num": "4.9",
-        "question": "4 2절에서구현한스택에 서삽입연산 간복잡도를설명하 과삭제연산의시 라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-10",
-        "num": "4.10",
-        "question": "다음과같이스택을사용하는프로그램이하는일은무엇인가? s=) s=stack() n=6 n=4096 e > : whilen>0: %) s.push(n%2) n n =n / 2 n=n//2 e : whilenots.isEmpty(): )print(s.pop())",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-11",
-        "num": "4.11",
-        "question": "다음코드의연산결과스택에남아있 는내용을순서대로적어라 s =) values=Stack) s =) values=Stack) r i n e ) : foriinrange10): r i n e ) : foriinrange20): f = : if1%3==0: f % = : if1%3==0: )values.push(i) )values.push(i) f 4 = 0: elif1%4==0: )values.pop()",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-12",
-        "num": "4.12",
-        "question": "후위표기수식의특징이아닌것은? 으면서바로수식을계산할수있다",
+        "type": "choice",
+        "question": "후위 표기(Postfix) 수식의 특징이 아닌 것은?",
         "options": [
-          "사람들이익숙한표기방식이다",
-          "우선순위가이미수식에포함되어있다",
-          "괄호를사용하지않는다",
-          "읽"
+          "일상생활에서 사람들이 가장 익숙하게 사용하는 표기 방식이다.",
+          "연산자의 우선순위가 이미 수식의 순서에 반영되어 있다.",
+          "괄호를 사용하지 않고도 연산 순서를 명확히 표현할 수 있다.",
+          "수식을 왼쪽에서 오른쪽으로 한 번 읽으면서 스택으로 바로 계산할 수 있다."
         ],
         "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
+        "explanation": "정답: ①\n사람들이 일상에서 익숙하게 사용하는 표기법은 연산자가 피연산자 사이에 오는 중위 표기법(Infix)이며, 후위 표기법(Postfix)은 컴파일러와 컴퓨터가 괄호 없이 스택으로 빠르게 계산하기 위해 사용하는 표기법입니다."
       },
       {
-        "id": "ds-4-13",
-        "num": "4.13",
-        "question": "다음의후위표기수식을스택을이용해계산하려고한다('는지수함수연산자). 연산이 처리되어야하는시점의스택내용을바르게나타낸것은? 단상단원소부터순서대로나 열한것이다 2733^ 23 @@3,3,27,27 ДД3,27",
+        "id": "ch04_q9",
+        "num": "4.9",
+        "type": "short",
+        "question": "다음 중위 표기식(Infix)을 후위 표기식(Postfix)과 전위 표기식(Prefix)으로 각각 변환하시오.\n(1) `(A / B) * C`\n(2) `A + (B * C) - D / E`\n(3) `(X + Y) - (W * Z) / V`",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "[후위식(Postfix)] (1) A B / C *, (2) A B C * + D E / -, (3) X Y + W Z * V / -\n[전위식(Prefix)] (1) * / A B C, (2) - + A * B C / D E, (3) - + X Y / * W Z V",
+        "explanation": "• (1) `(A / B) * C` → 후위식: `A B / C *`, 전위식: `* / A B C`\n• (2) `A + (B * C) - (D / E)` → 후위식: `A B C * + D E / -`, 전위식: `- + A * B C / D E`\n• (3) `(X + Y) - ((W * Z) / V)` → 후위식: `X Y + W Z * V / -`, 전위식: `- + X Y / * W Z V`"
       },
       {
-        "id": "ds-4-14",
-        "num": "4.14",
-        "question": "괄호검사프로그램에서다음과같은수식이주어졌을경 우알고리즘을추적해서각단계 에서의스택의내용을그려라 b(c d) e PTER4 스택",
+        "id": "ch04_q10",
+        "num": "4.10",
+        "type": "short",
+        "question": "다음 후위 표기식(Postfix) `A B * C - D +`에 대하여:\n(1) 첫 번째로 수행되는 연산은 무엇인가?\n(2) 두 번째로 수행되는 연산은 무엇인가?\n(3) 이를 중위 표기식(Infix)으로 변환하면?",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "(1) A * B, (2) (A * B) - C, (3) A * B - C + D",
+        "explanation": "후위 표기식을 왼쪽부터 읽을 때 가장 먼저 만나는 연산자는 `*`(피연산자 A, B), 두 번째는 `-`(피연산자 A*B와 C), 세 번째는 `+`입니다."
       },
       {
-        "id": "ds-4-16",
-        "num": "4.16",
-        "question": "다음과같은중위식( nf x) 표현을후위식 postf x 으로변환하라 *C (1)(A/B)*C A + - + (3)(X+Y)-(W*Z)/V W + +",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "id": "ch04_q11",
+        "num": "4.11",
+        "type": "choice",
+        "question": "[구름 과제 4.18] 괄호 검사 알고리즘에서 수식 `a * (b + [c - d) + e]`를 검사할 때 위반되는 조건과 에러 코드는?",
+        "options": [
+          "조건 1 위반 (여는 괄호 없이 닫는 괄호 등장 — 에러 2)",
+          "조건 2 위반 (같은 타입의 괄호 쌍 불일치: '[' 와 ')' — 에러 3)",
+          "조건 3 위반 (수식 종료 후 스택에 여는 괄호 잔여 — 에러 1)",
+          "정상 수식이다 (에러 0)"
+        ],
+        "answer": 2,
+        "explanation": "정답: ②\n스택에 `'('`, `'['`가 차례로 들어간 상태에서 닫는 소괄호 `')'`를 만났을 때, 스택에서 꺼낸 여는 괄호 `'['`와 종류가 다르므로 조건 2(괄호 쌍 일치 조건) 위반(에러 코드 3)으로 즉시 실패합니다."
       },
       {
-        "id": "ds-4-17",
-        "num": "4.17",
-        "question": "위문제의중위식표현을전위식(pref x)으로변환하라 s x) 표현을중위식(infix 으로변환하라.",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-18",
-        "num": "4.18",
-        "question": "5다음과같은후위식( Po + (1)ABC-D*+ ) + A / + ) Y Z +B - - +C",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-19",
-        "num": "4.19",
-        "question": "다음은어떤수식의후위표기이다물음에답하라 A B E (1) 첫번째수행되는연산은무엇인가? (2) 두번째로수행되는연산은무엇인가? (3) 세번째로수행되는연산은무엇인가?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-20",
-        "num": "4.20",
-        "question": "* 회문(p a ndrom 구•문등을의미한다예를들면 eye \" e)이란앞뒤어 느쪽에서읽어도같은말• e ca 등이다. 여기서물 madam, m Adam' \"rac 론구두점이나스페이스대소 문 자등은무시하여야한다스택을이용하여주어진문자열이회문인지아닌지를결정하는 프로그램을스택을이용해작성하라 (힌트입력문자열의모든문자를스택에삽입한다 음스택에서문자들을다시꺼내면 서입력문자열의문자와하나씩맞추어보는방법이가능하다만약한문자라 도맞지않 으면회문이아니다이때주의할점은만약문자가스페이스거나구 두점이면스택에삽입하지말아야한다는것이다 그리고대소문자를처리하기 위하여문자들을비교하기전에모든문자를대문자나소문자로변경하는것이 편리할것이다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-21",
-        "num": "4.21",
-        "question": "8* 4 3절의괄호검사프로그램을다음과같이확장하라 (1)소스파일을읽어괄호를검사하는프로그램을완성하라임의의파이썬소스코드 (.py 를입력하면괄호검사가되도록하라 (2) 괄호매칭이실패하면조건1~3 중에서어떤조건을위반했는지를출력할수있도 k Bracke s0함수가에러코드를반환하도록하면 될것이다. 에러가없으면0을반환하도록하라 록소스코드를수정하라chec (3) 괄호매칭이실패하면실패한위치를에러코드와함께반환할수있도록수정하라 실패한위치는라인수문자수로나타낼수있을것이다따라서에러가발생하면 (에러코드라인수문자수)를반환하면될것이다 k Brackets",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-22",
-        "num": "4.22",
-        "question": "* 4 3절의코 드4 4가포함된소 스파 일( Ch04) py)에대해괄 Chec 호검사를해 보 라. 정상적인코드로보이지만괄호검사가실패할것이다. 원인이무엇일까? 문자열을나 타내는따옴표'또 는 )를처리하지않았기때문이다,예를들어,4행이나7행에서따옴 표내의괄호는문법에따른것이아니라단순한문자이므로괄호검사에서제외되어야 하는데, 코드에서는이런처리를하지않았다. 이러한파일에서도괄호닫기검사가성공 할수있도록함수를수정하라. 이를위해다음을구현해야한다 (1)문자열내의괄호들은모두무시하여야한 다 (2 주석문내의괄호들도모두무시하여야한 다 % 4 4절의코드를수정하여사용자로부터직접중위표기수식을입력받아이를처리하여 .",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-4-23",
-        "num": "4.23",
-        "question": "4 결과를출력하는프로그램을작성하라. 단입력처리의간소화를위해수식의연산자 와피연산자는모두공백으로분리하여입력한다고가정하자입력과실행예는다음과 같 다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "id": "ch04_q12",
+        "num": "4.12",
+        "type": "choice",
+        "question": "[구름 과제 4.20] 후위 표기 수식 `8 2 / 3 - 3 2 * +`를 스택을 이용해 계산할 때 최종 결과값은?",
+        "options": [
+          "5.0",
+          "7.0",
+          "9.0",
+          "11.0"
+        ],
+        "answer": 2,
+        "explanation": "정답: ② `7.0`\n1) `8 2 /` → 8 / 2 = 4.0\n2) `4.0 3 -` → 4.0 - 3 = 1.0\n3) `3 2 *` → 3 * 2 = 6.0\n4) `1.0 6.0 +` → 1.0 + 6.0 = 7.0"
       }
     ]
   },
@@ -29099,301 +32821,142 @@ var DS_QUIZ_DATA = [
     "question_count": 32,
     "questions": [
       {
-        "id": "ds-5-1",
+        "id": "ch05_q1",
         "num": "5.1",
-        "question": "다음중큐에대한설명이아닌것은 배 열구조와연 결된구 조로구현이가능하다.",
+        "type": "choice",
+        "question": "다음 중 큐(Queue)에 대한 설명이 아닌 것은?",
         "options": [
-          "입력과출력이각각후단과전단으로제한된다",
-          "함수호출시복귀주소를저장하기위해사용된다",
-          "F FO(F st- nF rst"
+          "입력이 후단(rear)으로, 출력이 전단(front)으로 각각 제한된다.",
+          "함수 호출 시 복귀 주소를 저장하기 위해 사용된다.",
+          "FIFO(First-In First-Out, 선입선출) 원칙으로 동작한다.",
+          "배열 구조(원형 큐)와 연결된 구조로 모두 구현이 가능하다."
         ],
         "answer": 2,
-        "explanation": "함수 호출 시 복귀 주소를 저장하는 것은 활성화 레코드(Call Stack)이므로 스택의 역할입니다. 큐는 FIFO 구조입니다.",
-        "type": "choice"
+        "explanation": "정답: ②\n함수 호출 시 복귀 주소를 저장하는 시스템 메모리는 후입선출(LIFO) 구조인 스택(Stack)을 사용합니다."
       },
       {
-        "id": "ds-5-2",
+        "id": "ch05_q2",
         "num": "5.2",
-        "question": "다음중자료구조에서큐(Queue 를활용하는분야로거리가먼것은? 다몇개의스택이필요할까?리스트와같은다른자료",
+        "type": "choice",
+        "question": "다음 중 자료구조에서 큐(Queue)를 활용하는 분야로 거리가 먼 것은?",
         "options": [
-          "이진트리의레벨순회",
-          "그래프의탐색에서너비우선탐색",
-          "기수정렬",
-          "집합의구현"
+          "이진 트리의 레벨 순회 (Level-order traversal)",
+          "그래프의 너비 우선 탐색 (BFS: Breadth-First Search)",
+          "기수 정렬 (Radix Sort)의 버킷(Bucket)",
+          "재귀 함수의 시스템 호출 스택 및 수식의 괄호 검사"
         ],
         "answer": 4,
-        "explanation": "집합(Set)의 구현은 해시 테이블이나 배열/트리를 주로 활용하며, 순서 큐와는 거리가 멂니다.",
-        "type": "choice"
+        "explanation": "정답: ④\n이진 트리의 레벨 순회, 그래프의 너비 우선 탐색(BFS), 기수 정렬(Radix sort), 버퍼/스풀링은 모두 큐(Queue)의 대표적인 응용이며, 재귀 호출과 괄호 검사는 스택을 사용합니다."
       },
       {
-        "id": "ds-5-3",
+        "id": "ch05_q3",
         "num": "5.3",
-        "question": "스택을이용해서큐를구현할수있 구조는없다고가정하라",
+        "type": "short",
+        "question": "[구름 과제 5.20 연계] 스택만을 이용해서 선입선출(FIFO) 큐를 구현하고자 한다. 리스트와 같은 다른 자료구조가 없다고 가정할 때 최소 몇 개의 스택이 필요한가?",
         "options": [],
-        "answer": 2,
-        "explanation": "스택 2개를 이용하면 큐(FIFO)를 완벽하게 구현할 수 있습니다. (하나의 스택에 push하고 다른 스택에서 pop하여 순서를 뒤집음).",
-        "type": "short"
+        "answer": "2개 (입력용 스택 S1과 출력용 스택 S2)",
+        "explanation": "정답: 2개\n데이터를 넣을 때(enqueue)는 S1에 push하고, 꺼낼 때(dequeue)는 S2가 비어 있으면 S1의 모든 원소를 pop하여 S2에 push한 뒤 S2에서 pop하면 두 번 역순(LIFO × LIFO = FIFO)이 되어 큐와 완벽히 동일하게 동작합니다."
       },
       {
-        "id": "ds-5-5",
+        "id": "ch05_q4",
+        "num": "5.4",
+        "type": "short",
+        "question": "배열의 크기 `capacity`가 12인 원형 큐에서 현재 `front`가 7이고 `rear`가 2일 때, 이 원형 큐에 들어 있는 데이터의 개수는 몇 개인가? (단, `front`와 `rear`의 초기값은 0이다.)",
+        "options": [],
+        "answer": "7개",
+        "explanation": "정답: 7개\n원형 큐의 요소 개수 공식은 `(rear - front + capacity) % capacity`입니다.\n따라서 `(2 - 7 + 12) % 12 = 7 % 12 = 7개`입니다. (실제 데이터가 들어 있는 인덱스는 8, 9, 10, 11, 0, 1, 2로 총 7칸입니다.)"
+      },
+      {
+        "id": "ch05_q5",
         "num": "5.5",
-        "question": "원형큐의ront 와 ea 의값이각 일때이원형큐가가지고있는데이터의개수 는 각7과2 의초기값은0이다!) 와 ear c ty는 2이고 ont ? 단배열의크기capa",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "배열 크기가 `capacity`인 원형 큐(CircularQueue)에서 (A) 공백 상태(isEmpty)를 검사하는 조건과 (B) 포화 상태(isFull)를 검사하는 조건을 바르게 짝지은 것은?",
+        "options": [
+          "(A) front == -1 / (B) rear == capacity - 1",
+          "(A) front == rear / (B) front == (rear + 1) % capacity",
+          "(A) front == (rear + 1) % capacity / (B) front == rear",
+          "(A) front == 0 / (B) rear == capacity"
+        ],
+        "answer": 2,
+        "explanation": "정답: ②\n원형 큐에서는 공백과 포화를 구분하기 위해 한 자리를 비워둡니다. 따라서 `front == rear`이면 공백 상태(isEmpty)이고, `rear`가 한 칸 앞으로 전진했을 때 `front`와 같아지는 `front == (rear + 1) % capacity`이면 포화 상태(isFull)입니다."
       },
       {
-        "id": "ds-5-6",
+        "id": "ch05_q6",
         "num": "5.6",
-        "question": "다음중원형큐에서공백상태를검사할때사용하는조건은 ? 단,Capac ty는원형큐를 위한배열의크기이다.",
+        "type": "short",
+        "question": "크기가 5(`capacity = 5`)인 공백 상태의 원형 큐(`front = 0, rear = 0`)에 다음 연산들이 순서대로 실행될 때 각 단계의 `front`, `rear` 값과 배열의 내용을 적으시오.\n`enqueue('A') → enqueue('B') → enqueue('C') → dequeue() → enqueue('D') → enqueue('E')`",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "최종 front = 1, rear = 0 / 배열 상태: [0:'E', 1:비어있음(전단 기준점), 2:'B', 3:'C', 4:'D'] (포화 상태!)",
+        "explanation": "단계별 추적 (capacity = 5, 초기 front = 0, rear = 0):\n1) `enqueue('A')`: rear = (0+1)%5 = 1, array[1] = 'A' (front=0, rear=1)\n2) `enqueue('B')`: rear = 2, array[2] = 'B' (front=0, rear=2)\n3) `enqueue('C')`: rear = 3, array[3] = 'C' (front=0, rear=3)\n4) `dequeue()`: front = (0+1)%5 = 1, array[1]('A') 반환 (front=1, rear=3)\n5) `enqueue('D')`: rear = (3+1)%5 = 4, array[4] = 'D' (front=1, rear=4)\n6) `enqueue('E')`: rear = (4+1)%5 = 0, array[0] = 'E' (front=1, rear=0)\n→ 이때 `(rear + 1) % 5 == (0 + 1) % 5 == 1 == front`이므로 원형 큐는 포화(Full) 상태가 됩니다!"
       },
       {
-        "id": "ds-5-7",
+        "id": "ch05_q7",
         "num": "5.7",
-        "question": "d r = 0 r 2front==(capacity-1)andrear==(capacity-1)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "원형 큐(CircularQueue)에서 항목을 삽입(`enqueue`)하고 삭제(`dequeue`)하는 연산의 시간 복잡도는?",
+        "options": [
+          "O(1)",
+          "O(log₂ n)",
+          "O(n)",
+          "O(n²)"
+        ],
+        "answer": 1,
+        "explanation": "정답: ① `O(1)`\n원형 큐에서는 원소들을 한 칸씩 이동시킬 필요 없이 `rear = (rear + 1) % capacity` 또는 `front = (front + 1) % capacity` 산술 연산 한 번으로 삽입과 삭제가 이루어지므로 항상 O(1)입니다."
       },
       {
-        "id": "ds-5-8",
+        "id": "ch05_q8",
         "num": "5.8",
-        "question": "t = r 3front==rear t = ) % *front==(rear+1)%capacity",
+        "type": "short",
+        "question": "다음 코드의 연산 결과 큐 `values`에 전단(front)부터 후단(rear)까지 남아 있는 내용을 순서대로 적으시오.\n```python\nvalues = CircularQueue(20)\nfor i in range(20):\n    if i % 3 == 0:\n        values.enqueue(i)\n    elif i % 4 == 0:\n        values.dequeue()\n```",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "[9, 12, 15, 18] (전단=9, 후단=18)",
+        "explanation": "4장 연습문제와 동일한 루프이지만 스택(LIFO)이 아니라 큐(FIFO)이므로 가장 먼저 들어간 원소(0, 3, 6)가 먼저 삭제됩니다!\n• enqueue되는 값(3의 배수): 0, 3, 6, 9, 12, 15, 18 (총 7개)\n• dequeue가 호출되는 시점(3의 배수가 아닌 4의 배수): i = 4, 8, 16 (총 3회 삭제)\n• 따라서 맨 앞에 들어갔던 0, 3, 6 세 개가 앞에서부터 빠져나가고 `[9, 12, 15, 18]`이 남습니다!"
       },
       {
-        "id": "ds-5-9",
+        "id": "ch05_q9",
         "num": "5.9",
-        "question": "위문제에서원형큐의포화상태를검사할때사용하는조건은",
+        "type": "short",
+        "question": "원형 덱(CircularDeque)의 연산들(`addFront, addRear, deleteFront, deleteRear, getFront, getRear`) 중에서:\n(1) `front` 또는 `rear`가 1 증가하여 시계 방향으로 회전(`+ 1`)하는 연산들을 모두 고르시오.\n(2) `front` 또는 `rear`가 1 감소하여 반시계 방향으로 회전(`- 1`)하는 연산들을 모두 고르시오.",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "(1) 시계 방향(+1): addRear(x), deleteFront()\n(2) 반시계 방향(-1): addFront(x), deleteRear() (※ getRear는 참조만 할 때 (rear-1+cap)%cap 위치 조회)",
+        "explanation": "원형 큐와 동일한 방향인 후단 삽입(`addRear` = `enqueue`)과 전단 삭제(`deleteFront` = `dequeue`)는 인덱스를 1 증가시키는 시계 방향 회전을 하고, 그 반대 연산인 전단 삽입(`addFront`)과 후단 삭제(`deleteRear`)는 인덱스를 1 감소시키는 반시계 방향 회전 `(idx - 1 + capacity) % capacity`를 수행합니다."
       },
       {
-        "id": "ds-5-10",
+        "id": "ch05_q10",
         "num": "5.10",
-        "question": "그림과같은원형큐에서다음의연산을차례로수행한다고하자각단계가수행될때큐 의상태를그려라현재ron 는0이고ea 는2라고하자 )(0) )(1) ) ] (2)(3] ][4]",
+        "type": "short",
+        "question": "덱 `D`에 숫자 `[1, 2, 3, 4, 5, 6, 7, 8]`이 순서대로 저장되어 있다. 공백 상태의 큐 `Q`(또는 스택 `S`) 하나만을 보조로 사용하여 덱 `D`의 내용을 역순인 `[8, 7, 6, 5, 4, 3, 2, 1]`로 바꾸는 방법을 설명하시오.",
         "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": "• 큐 Q 사용 시: D에서 deleteRear()(또는 deleteFront())로 꺼내 Q에 enqueue한 뒤, Q에서 dequeue하여 D에 addRear()(또는 addFront())로 넣는다.\n• 스택 S 사용 시: D에서 deleteFront()로 모두 꺼내 S.push()한 뒤, S.pop()하여 D.addRear()로 넣는다.",
+        "explanation": "덱(Deque)은 양쪽 끝 입출력이 모두 가능하므로:\n1) 보조 큐 Q를 쓸 때: `while not D.isEmpty(): Q.enqueue(D.deleteFront())` 후 `while not Q.isEmpty(): D.addFront(Q.dequeue())`를 수행하면 전단으로 역순 삽입되어 `[8, 7, 6, 5, 4, 3, 2, 1]`이 됩니다.\n2) 보조 스택 S를 쓸 때: `while not D.isEmpty(): S.push(D.deleteFront())` 후 `while not S.isEmpty(): D.addRear(S.pop())`을 수행하면 스택의 LIFO 성질로 역순이 됩니다."
       },
       {
-        "id": "ds-5-11",
+        "id": "ch05_q11",
         "num": "5.11",
-        "question": ")A 추가 ( (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "type": "choice",
+        "question": "우선순위 큐(Priority Queue)에 대한 설명으로 거리가 먼 것은?",
+        "options": [
+          "들어온 순서와 상관없이 우선순위가 가장 높은 항목이 먼저 출력된다.",
+          "정렬되지 않은 배열, 정렬된 배열, 연결 리스트, 힙(Heap) 등으로 구현할 수 있다.",
+          "운영체제의 작업 스케줄링이나 네트워크 트래픽 제어에 널리 활용된다.",
+          "항상 먼저 들어온 데이터가 먼저 나가는 엄격한 선형 FIFO 구조이다."
+        ],
+        "answer": 4,
+        "explanation": "정답: ④\n우선순위 큐는 입력된 시간 순서가 아니라 각 요소가 가진 '우선순위(키 값)'에 의해 출력 순서가 결정되므로 일반적인 선형 FIFO 구조로 볼 수 없습니다."
       },
       {
-        "id": "ds-5-12",
+        "id": "ch05_q12",
         "num": "5.12",
-        "question": ")D추가 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-13",
-        "num": "5.13",
-        "question": ") 삭제 (3)삭제",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-14",
-        "num": "5.14",
-        "question": ") 추가",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-15",
-        "num": "5.15",
-        "question": "크기가5인공백상태의원형큐에다음연산들이순서대로실행되었다각단계에서의원 형큐의내용(배열의내용과 ront ont와Tea 는 모두0이라고가정하라 와 ea 의값)을나타내라단맨처음에r enqueue(1),enqueue(2),enqueue(3),dequeue,enqueue(4)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-16",
-        "num": "5.16",
-        "question": "원형큐에항목들을삽입하고삭제하는연산은시간복잡도가어떻게되는가?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-17",
-        "num": "5.17",
-        "question": "(1) O(log,n) )O(n) O(n2)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-18",
-        "num": "5.18",
-        "question": "다음코드의연산결과큐에남아있는내용을순서대로적어라 s =) values=Queue() s =) values=Queue() r i n ( ) : foriinrange(20): r : foriinrange(20): f 3 = 0 : if1%3==0: f = : if1%3=0: ( i ) values.enqueue(i) f 4 = 0: elif1%4==0: e ) values.enquee1) )values.dequeue()",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-19",
-        "num": "5.19",
-        "question": "덱에대하여올바른설명을모두골라라 입된순 서와상관없이우선순위가높 은항 목이먼저출력된다.",
+        "type": "choice",
+        "question": "[구름 과제 5.23] 정렬된 배열(오름차순)을 이용하여 우선순위 큐(Priority Queue, 값이 클수록 우선순위가 높음)를 구현할 때, 삽입(`enqueue`)과 삭제(`dequeue`)의 시간 복잡도는?",
         "options": [
-          "양쪽끝에서추가와삭제가가능하다",
-          "배열로구현될수없다",
-          "선형자료구조이다"
+          "삽입 O(1), 삭제 O(n)",
+          "삽입 O(n), 삭제 O(1)",
+          "삽입 O(1), 삭제 O(1)",
+          "삽입 O(n²), 삭제 O(n)"
         ],
-        "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
-      },
-      {
-        "id": "ds-5-20",
-        "num": "5.20",
-        "question": "다음은원형덱의연산들이다 ronty ear가증가되어인덱스를시계방향으로회전시켜야 하는연산들을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-21",
-        "num": "5.21",
-        "question": "addFront(x) •deleteRear0 @deleteFront)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-22",
-        "num": "5.22",
-        "question": "DisEmpty0 5getFrontO 2isFull0 )addRear(x)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-23",
-        "num": "5.23",
-        "question": "getRear0",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-24",
-        "num": "5.24",
-        "question": "위문제에서인덱스가감소되어반대방향(반시계방향으로회전시켜야하는연산들을모 두골라라 5 14원형덱에서ront를시계방향과반시계방향으로회전시킬수있는방법을유사코 드(또는 파이썬코 드로적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-25",
-        "num": "5.25",
-        "question": "덱D에숫자 1 2 3 4 5 6 7 8 가순서대로저장되어있다공백상태의큐인Q가있을때덱 의내용을 8 7 6 54 3 2 1) 으로바꾸는코드를작 성하라. 단D와0이외의다른변수 는 사용할수없다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-26",
-        "num": "5.26",
-        "question": "위의문제에서이번에는큐가아니라스택S를사용하여동일한결과가나타나도록코드를 수정하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-27",
-        "num": "5.27",
-        "question": "우선순위큐에대한설명으로거리가먼것은?",
-        "options": [
-          "우선순위의개념을큐에도입한자료구조",
-          "선형자료구조",
-          "입력순서와상관없이우선순위가높은데이터가먼저출력",
-          "가장일반적인큐"
-        ],
-        "answer": 1,
-        "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
-        "type": "choice"
-      },
-      {
-        "id": "ds-5-28",
-        "num": "5.28",
-        "question": "우선순위큐를선형자료구조로볼수없는이유를설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-29",
-        "num": "5.29",
-        "question": "*스택이나큐를직접구현할필요없이파이썬의큐모듈을이용해미로탐색프로 그램을 구현할수있다5 3절의코드를수정하여파이썬의큐모듈을이용한깊이우선탐색과너 비우선탐색함수를구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-30",
-        "num": "5.30",
-        "question": "*2개의스택을사용하여큐를구현할수있 을까?가능하다입력이들어오면스택#l에넣 는다. 출력요청이들어보면스택#2에서요소를꺼낸다스택#2가비어있을때는스택 # 의모든요소를꺼내서스택#2에넣는다프로그램으로작성해보자 5 21*피보나치수열을효과적으로계 산하기위하여큐를이용할수있 다만일피보나치수열 을순환에의하여계산하게되면경우에따라서는많은순환함수의호출에의해비효율 O 와F(1)의값 이들어가있다.다음으로큐에 적일수있다이를개선하기위하여큐를사용하는데큐에는처음에는F( (1 은참조(peek)하여F(2 를계산하고, 이것을다 O 는꺼내고F 서 시큐에넣는다피보나치수열은다음과같이정의되는데큐를이용하여피보 나치수열을계산하는프로그램을작성하라 F(0)=0,F(1)=1 (n) F(n 1 F( 2",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-31",
-        "num": "5.31",
-        "question": "*회문 pal ndrome)이란앞뒤어느쪽에서읽어도같은말•구 문등을의미한다예를들 면 eye\"\"madam,\"radar\" 등이다여기서물론구두점이나스페이스대소문자등은무 시하여야한다. 덱을이용하여주어진문자열이회문인지아닌지를결정하는프로그램을 작성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-5-32",
-        "num": "5.32",
-        "question": "* 5.6절을참고하여정렬된배열을이용한우선순위큐를구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
+        "answer": 2,
+        "explanation": "정답: ② `삽입 O(n), 삭제 O(1)`\n오름차순으로 정렬된 상태를 유지하려면 새 원소를 삽입(`enqueue`)할 때 뒤에서부터 큰 원소들을 한 칸씩 밀며 제자리를 찾아야 하므로 O(n)이 걸리지만, 삭제(`dequeue`)할 때는 배열 맨 끝(`size - 1`)에 있는 최댓값을 자리 이동 없이 즉시 꺼내므로 O(1)입니다."
       }
     ]
   },
@@ -29481,215 +33044,6 @@ var DS_QUIZ_DATA = [
         "answer": 1,
         "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
         "type": "choice"
-      },
-      {
-        "id": "ds-6-7",
-        "num": "6.7",
-        "question": "다음과같은연결리스트에아래와같은코드를실행한다고하자실행이끝난후에포인 터p가가리키는노드는어떤노드인가? a k datalink • e •None tlist tp=list e k = : whilep.link!=None: ••• p =k p=p.link",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-8",
-        "num": "6.8",
-        "question": "연결리스트 nked st)의 p eNode\"노드와그다음노드사이에새로운newNode\"노드 를삽입하려고한다.빈칸에들어갈문장으로옳 은것은? e preNode adata kLink e newNode .•.. = newNode=Node(N,None) k =e preNode.link=newNode",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-9",
-        "num": "6.9",
-        "question": "k = e 1newNode.link=preNode k = 2)newNode.link=preNode.link 33newNode.link.link=preNode 4 e = 4newNode=preNode.link •덱은삽입과삭제가양끝에서임의로수행되는자료구조이다다음그림과같이단순연결 리스트로덱을구현한다고할때O(1) 시간내에수행할수없는연산은 s 는 각각덱의첫번째원소와마지막원소를가리킨다 ? 단f r 와 a st tfirst tlast t. 연산: 덱의첫번째원소로삽입 addri zs dd as 연산데의마지막원소로삽입 d",
-        "options": [
-          "de e\neLas 연산덕의마지막원소를삭제"
-        ],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-10",
-        "num": "6.10",
-        "question": "다음은연 결리스트를역순으로변환하는함수이다빈칸에들어가야하는코드를적으시 오. 아래그림을참고하라 eNone eg en 을 en en-1, 로변 환 f ) : defreverse(head): #p는역순으로만들리스트 p =d p=head # 아는역순으로만들노드 q=e q=None e p = L : whilep!=NULL: 은역순으로된리스트. 를차례로따라간다. 은9,q 는p r = 9 q =p P = P=p.link #q의링크방향을바꾼다. # 9는역순으로된리스트의헤드포인터 n q returnq",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-11",
-        "num": "6.11",
-        "question": "연결리스트에서어떤노드를삭제하려고한다만 약삭제할노드를알고있다면삭제연 산의시간복잡도는어떻게되는가?리스트를단순연결구조로구현한경우와이중연결 구조로구현한경우에대해각각시간복잡도와이유를설명하라 ead가아니라 a 을",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-12",
-        "num": "6.12",
-        "question": "연 결된큐를원형연결구조로구현할때큐클래스의데이터멤버로h 사용하는이유를설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-13",
-        "num": "6.13",
-        "question": "연결리스트클래스 nkedL st(코드6 5)에모든요소를순서대로화면에출력하는 pr ntFo wa d0연산을추가하라 5)에모든요소를역순으로화면에출력하는",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-14",
-        "num": "6.14",
-        "question": "3*연결리스트클래스L nkedL st 코드6 pr ntReverse0연산을추가하라단순환을이용해야한 다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-15",
-        "num": "6.15",
-        "question": "연결리스트클래스L nkedL 5)에리스트의맨끝에새로운요소를추가하는 append0연산을추가하라 st(코드6",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-16",
-        "num": "6.16",
-        "question": "* 연결리스트클래스L nkedL st(코드6",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-17",
-        "num": "6.17",
-        "question": ") 에mergeO 연산을구현하라연결리스트A와 B가있을때,A mer 를추가하는연산이다연산결과 B)는연결리스트A의맨뒤에B ge( A의길이는늘어나고B의길이는0이되도록하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-18",
-        "num": "6.18",
-        "question": "* 회문 pal ndrome)이란앞뒤어느쪽에서읽어도같은말•구문등을의미한다예를들 면eye \"madam, \"radar등이다.여기서물론구두점이나스페이스대소문자등 은무 시하여야한 다이번장에서학습한연결된스택을이용하여주어진문자열이회문인지 아닌지를결정하는프로그램을작성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-19",
-        "num": "6.19",
-        "question": "다음그림과같이단순연결리스트를이용한연결된큐클래스를구현하라데이터멤버 로는전단을가리키는ront와후단을가리키는 ea 를사용한다삽입은후단을통해 삭제는전단을통해이루어지도록하라 tfront 삭제 rnear",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-20",
-        "num": "6.20",
-        "question": "를이중연결구조로다시구현하라노드는 6.5절의DNode클래스를사용하면된다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-21",
-        "num": "6.21",
-        "question": "연결리스트클래스LinkedList(코드6",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-22",
-        "num": "6.22",
-        "question": "** * 0z10 +6과같 은다항식을생각해보 자차수가1",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-23",
-        "num": "6.23",
-        "question": "으로매우큰데비해계수가0이 개뿐이다이와같이대부분항의계수가0인다항식을희소다항식 (S 아닌항은2 로희소다항식을표현하면어떻게될까?메모리의낭비가심할것이다예를들어 0210+6에서는1 01개의항 의계수를저장하기위한공간중에서실제로2개만사 용 되고나머지는모두0으로채워진다. 낭비를줄이기위해다른방법을사용할수있 다 든계수를저장하는것이아니라계수가0이아닌항의정보만을계수지 수)의형식으로저장하는것이다. 예를들어1 다항식의모",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-24",
-        "num": "6.24",
-        "question": "z10 +6 은 1",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-25",
-        "num": "6.25",
-        "question": ",1 00),",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-26",
-        "num": "6.26",
-        "question": ",0)으로표시하 고 0z5+ +3",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-27",
-        "num": "6.27",
-        "question": ", 5 ),",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-28",
-        "num": "6.28",
-        "question": ",0 으로나타내는것이다희 소다항식처리를",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-6-29",
-        "num": "6.29",
-        "question": ",1 ), 은1 위한Spa sepo y 클래스를구현하라. 단, 다항식을표현하기위해6 3절에서구현한연 결리스트클래 스L nkedList를상속하여사용하라유효한하나의항을표현하기위해 다음과같은클래스를이용하라 #다항식의항을나타내는클래스 s m : classTerm: definit__(self,expo,coef): #항의지수 o =o self.expo=expo =f self.coef=coef # 항의계수",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   },
@@ -29789,168 +33143,6 @@ var DS_QUIZ_DATA = [
         "answer": 1,
         "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
         "type": "choice"
-      },
-      {
-        "id": "ds-7-8",
-        "num": "7.8",
-        "question": "다음은항목을오름차순으로정렬하는삽입정렬함수이다빈칸을채워라 ) definsertion_sort(A): = ) n=lenA) r i n ) : foriinrange(1): y =l key=A[il ゴニ ュ〡1 e 0 d whilej>=0and j = 1 j-=1 +] =y A[j+1]=key",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-9",
-        "num": "7.9",
-        "question": "다음의정렬기법을이용하여정수배열을오름차순으로정렬하라각단계에서의배열의 내용을나타내어라 (1) 선택정렬 (2 삽입정렬 (3) 버블정렬",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-10",
-        "num": "7.10",
-        "question": "삽입정렬이안정성을만족하는이유를설명해보라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-11",
-        "num": "7.11",
-        "question": "삽입정렬을위한최선의입력과최악의입력을시간복잡도를이용해설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-12",
-        "num": "7.12",
-        "question": "13 키값28을가지고아래의리스트를탐색할때다음의탐색방법에따른탐색과정을그리 고탐색시에필요한비교연산횟수를구하여라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-13",
-        "num": "7.13",
-        "question": "1 2 3 4 5 6 7 8 9 0 11 212 313 414 15 | 2 | s | 6 | 0 0 | 8 | 8 | 8 | 1 | 8 | 5 | 8 | [•|1|12|1s|16|10|20|28|28|28|20|31|38|35|28|401 (1 순차탐색 2 이진탐색 3 보간탐색",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-14",
-        "num": "7.14",
-        "question": "크기가11인해 시테 이블을가정하자.해 시함 수로는다음을사용한다 = h(k)=kmod11 입력자료가다음과같은순서로입력된다고하면아래의각경우에대하여해시테이블의 내용을그려라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-15",
-        "num": "7.15",
-        "question": "12,44,13,88,23,94,11,39,20,16,5 (1 충돌을선형조사법을사용하여처리한다 (2) 층돌을이차조사법을사용하여처리한다 (3)충돌을다음과같은이증해시법을사용하여처리한다 - K'(k)=7-(jmod7) 4) 충돌을체인법을사용하여처리한다 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-16",
-        "num": "7.16",
-        "question": "선 형조사법에서삭제연산에서발생할수있는문제와해 결방법을설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-17",
-        "num": "7.17",
-        "question": "선형조사법에서탐색이종료(성공또는실패되는모든상황을설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-18",
-        "num": "7.18",
-        "question": "7* * 6 3절의연결된리스트클래스L nkedList에정렬연 산Sor 를추가하라정렬알고리즘 으로는7.2절의버블정렬을이용하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-20",
-        "num": "7.20",
-        "question": "정렬된리스트로집합을구현하는경우원소의포함여부를검사하는c onta ns0 연산을 보다효율적으로처리할수있다. 코",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-21",
-        "num": "7.21",
-        "question": "의Array Set의원소들이7.3절과같이오름차순 으로정렬되어있다고가정하고개선된c 드3. onta ns0 연산을구현해보라이진탐색을사 용할수있을것이다 리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-23",
-        "num": "7.23",
-        "question": "2이진트리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-24",
-        "num": "7.24",
-        "question": "3이진트리의연산",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-25",
-        "num": "7.25",
-        "question": "이진트리응용모스코드결정트리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-27",
-        "num": "7.27",
-        "question": "힙의응용:허프만코드",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-7-28",
-        "num": "7.28",
-        "question": "8. 학습목표 트리의개념과용어들을이해한다 • 이진트리의표현방법을이해한다. 이진트리의다양한순회방법과연산들을이해한다 힙의동작원리와효율성을이해한다 •배열구조를이용한힘의구현방법을이해한다 이진트리와힘을문제해결에활용할수있다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   },
@@ -29977,51 +33169,6 @@ var DS_QUIZ_DATA = [
         "options": [],
         "answer": 3,
         "explanation": "이진 트리 순회 중 중위 순회(Inorder)는 왼쪽 서브트리 -> 루트 -> 오른쪽 서브트리 순서로 방문합니다.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-3",
-        "num": "8.3",
-        "question": ")D의형제노드 (5)B의자식노드",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-4",
-        "num": "8.4",
-        "question": ") 의자손노드 ( ( 7)K 의조상노드: (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-5",
-        "num": "8.5",
-        "question": ") 의레벨",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-6",
-        "num": "8.6",
-        "question": ") 의차수: (10 트리의높이: (11) 트리의차수 (12)이트리는이진트리인가?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-7",
-        "num": "8.7",
-        "question": "다음과같은구조의노드를이용해위문제의일반트리를표현해보라화살표가없는링 크는None을가리킨다고가정한다 adata오 > 다음형제노 드 첫번째자식노드",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
         "type": "short"
       },
       {
@@ -30053,35 +33200,6 @@ var DS_QUIZ_DATA = [
         "type": "choice"
       },
       {
-        "id": "ds-8-10",
-        "num": "8.10",
-        "question": "다음트리를배열표현법과링크표현법으로각각나타내라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-11",
-        "num": "8.11",
-        "question": "다음트리에대한중위순회결과는? A3DBECFA EADBAECE",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-12",
-        "num": "8.12",
-        "question": "문제8 5의트리를전위순회로운행할경우다섯번째로탐색되는노드은? I C 3 E",
-        "options": [
-          "D"
-        ],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-8-13",
         "num": "8.13",
         "question": "같은수의노드가저장되는경우가 장높이가작아지는트리는?",
@@ -30096,60 +33214,6 @@ var DS_QUIZ_DATA = [
         "type": "choice"
       },
       {
-        "id": "ds-8-14",
-        "num": "8.14",
-        "question": "다음의이진트리에대하여다음질문에답하라 (1) 이트리를1차원배열로표현하라 (2)이트리를전위순회한결과를써라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-15",
-        "num": "8.15",
-        "question": ") 이트리를후위순회한결과를써라 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-16",
-        "num": "8.16",
-        "question": "이트리를중의순회한결과를써라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-17",
-        "num": "8.17",
-        "question": ") 이트리를레벨순회한결과를써 라 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-18",
-        "num": "8.18",
-        "question": "다음과같은함수가아래에표시된이진트리의루트노드에대해호출된다고하자함수가반 환하는값은무엇인가? 단,max( a b)는a와b 중에더큰값을반환하는함수라고가정한다 f ) : defmystery(p): f = e : ifp==None: n 0 return0 t = L d t = L elifp.left==NULLandp.right==NULL: n a returnp.data e : else: returnmax(mystery(p.left),mystery(p.right))",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-19",
-        "num": "8.19",
-        "question": "다음중힘을이용한정렬이특히유용하게사용될수있는경우는? ①데이터100개중에서가장큰5개만뽑고자할때 ②비교적데이터의개수가적을때 ③정렬의대상이되는레코드의크기가클때 ④데이터가역순으로정렬되어있을때",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-8-20",
         "num": "8.20",
         "question": "최소힙에서가장작은데이터가있는노드는 마지막노드 중간노드",
@@ -30160,87 +33224,6 @@ var DS_QUIZ_DATA = [
         "answer": 1,
         "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
         "type": "choice"
-      },
-      {
-        "id": "ds-8-21",
-        "num": "8.21",
-        "question": "최소힘을구현한배열의내용이다음과같을때해당하는힙트리를그려라단,인덱스 은사용하지않았다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-22",
-        "num": "8.22",
-        "question": "5 6 7 8 lalil",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-23",
-        "num": "8.23",
-        "question": "위문제에서삭제연산을한번수행한후의배열의내용을적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-24",
-        "num": "8.24",
-        "question": "문제8 13의힘에서데이터 을삽입한후의배열의내용을적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-25",
-        "num": "8.25",
-        "question": "다음의최소힙트리에서답하라 (1) 2를삽입하였을경우, 힙트리를재구성하는 과 정을보여라 (2) 삭제연산이한번이루어진다음에힘을재",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-26",
-        "num": "8.26",
-        "question": "6 구 성하는과정을보여라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-27",
-        "num": "8.27",
-        "question": "515 020",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-28",
-        "num": "8.28",
-        "question": "다음과같은숫자가순서대로주어졌을때다음물음에답하시오 10,40,30,5,12,6,15,9,60",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-8-29",
-        "num": "8.29",
-        "question": ")위의숫자들을순차적으로읽어서최대힙 . 트리를구 성하라.공백트리에서부터 최 대힙트리가만들어지는과정을보여라 (2 구성된최대힙트리가저장된배열의내용을표시하라 (3 구성된최대힙트리에서최댓값을제거한다음재정비하는과정을설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   },
@@ -30293,179 +33276,6 @@ var DS_QUIZ_DATA = [
         "type": "choice"
       },
       {
-        "id": "ds-9-4",
-        "num": "9.4",
-        "question": "~9 7) ※다음과같은이진탐색트리가주어졌다물음에답하라(",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-7",
-        "num": "9.7",
-        "question": "이트리에7을추가하면트리는어떻게될까? 그림으로그려라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-8",
-        "num": "9.8",
-        "question": "이트리에서4를탐색할때거치는노드들을순서대로나열하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-9",
-        "num": "9.9",
-        "question": "이트리에서노드9를삭제하면트리는어떻게될까? 드 을삭제하면트리는어떻게될까?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-10",
-        "num": "9.10",
-        "question": "이트리에서노 음과같은순서로노드들이추가된다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-11",
-        "num": "9.11",
-        "question": "공백상태인이진탐색트리에다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-12",
-        "num": "9.12",
-        "question": "8, 9,4 0 5 7 43,49,31 생성되는이진탐색트리를그려라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-13",
-        "num": "9.13",
-        "question": "위문제에서생성되는이진탐색트리를다음의방법으로순회하였을때방문하는노드를 순서대로적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-14",
-        "num": "9.14",
-        "question": "전위순회 ( (",
-        "options": [
-          "중위순회"
-        ],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-15",
-        "num": "9.15",
-        "question": ")후위순회 (4 레벨순회",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-16",
-        "num": "9.16",
-        "question": "이진탐색트리에서어느단말노드를삭제하려고한다삭제가끝나면트리의루트노드가 변경되는상황은언제발생하나?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-17",
-        "num": "9.17",
-        "question": "이진탐색트리에서자식이하나인어느노드를삭제하려고한다삭제가끝나면루트노드 가변경되는상황은언제발생하나",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-18",
-        "num": "9.18",
-        "question": "다 음데이터를순서대로이진탐색트리에입력했을때단말노드의개수는?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-19",
-        "num": "9.19",
-        "question": ",22, 5, 3 2 4 2 0 11, 4",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-20",
-        "num": "9.20",
-        "question": "배열에정렬된값이들어있는경우에이진탐색이라는효과적인탐색기법을사용할수있 다이진탐색을이용한탐색과이진탐색트리를이용한탐색의장단점을설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-21",
-        "num": "9.21",
-        "question": "다음데이터들이어떤순서로이진탐색트리에입력되었을경우가장균형잡힌트리가되 는가?여러가지답이가능하다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-22",
-        "num": "9.22",
-        "question": "10,5,6,13,15,8,14,7,12,4",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-23",
-        "num": "9.23",
-        "question": "위문제의데이터가어떤순서로입력되었을경우에가장불균형한이진탐색트리가되 는가?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-24",
-        "num": "9.24",
-        "question": "다 음중AVL 트리에대한설명으로옳지않 은것은?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-9-25",
         "num": "9.25",
         "question": "9 1 m 을보장한다 선최악시간복잡도로O og 색연 산과삽 입연산에서균형이깨 질수있다",
@@ -30478,141 +33288,6 @@ var DS_QUIZ_DATA = [
         "answer": 1,
         "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
         "type": "choice"
-      },
-      {
-        "id": "ds-9-26",
-        "num": "9.26",
-        "question": "17다음중탐색트리의균형화기법이아닌것 은? ①AVL트리 ③2-3트리 ③Red-Black 트리④포화이진트리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-27",
-        "num": "9.27",
-        "question": "킷값이각각6, 7,2,8, 9 1, 5 4 3인레코드가순서대로공백AVL트리에입력된다고할 때가장먼저균형이깨지는입력은?",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-29",
-        "num": "9.29",
-        "question": "균형이진탐색트리에서다음연산의시간복잡도설명하라 (1) 임의의킷값의노드탐색연산 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-30",
-        "num": "9.30",
-        "question": ")노드삽입연산 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-31",
-        "num": "9.31",
-        "question": ")노드삭제연산 (4) 트리의최솟값이나최댓값을가진노드탐색연산",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-32",
-        "num": "9.32",
-        "question": ")트리의노 드수계 산",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-33",
-        "num": "9.33",
-        "question": "단말노드의수계산 ( (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-34",
-        "num": "9.34",
-        "question": "트리의높이계산",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-35",
-        "num": "9.35",
-        "question": "20* 공백상태인AVL 트리에다음과같은순서로노드들이추가된다생성되는AVL 트리를 그려라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-36",
-        "num": "9.36",
-        "question": "1,2,3,4,5,6,7,8,9",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-37",
-        "num": "9.37",
-        "question": "21*이진탐색트리에서최대키와최소키를가 진노드를탐색하는함수를순환구조를이용 하여구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-38",
-        "num": "9.38",
-        "question": "* 반복구조를이용해이 진탐색트리 의삽입연산을구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-39",
-        "num": "9.39",
-        "question": "*숫자들이들어있는이진탐색트리를중위순회하면정렬된숫자가얻어진다이를이용하 수를작성하여보라. 배열에들 어있는 여다음배열에들어있는숫자들을정렬시키는함 숫자들을이진탐색트리에추가한후에트리를중위순회하면서숫자들을출력한다단 숫자들은중복되지않는다고가정하자",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-40",
-        "num": "9.40",
-        "question": "8 2 010 323",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-9-44",
-        "num": "9.44",
-        "question": "24**이진탐색트리를사용하여우선순위큐를구현할수도있다이진탐색트리를이용하여우 선순위큐를구현하고삽입삭제,탐 색연산의시간복잡도를설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   },
@@ -30636,33 +33311,6 @@ var DS_QUIZ_DATA = [
         "type": "choice"
       },
       {
-        "id": "ds-10-2",
-        "num": "10.2",
-        "question": "다음의그래프의부분그래프를3개그려보라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-4",
-        "num": "10.4",
-        "question": "0 3다음의무방향그래프를인접행렬과인접리스트로각각표현하라 ここ 1(V1 2V2 4V4",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-6",
-        "num": "10.6",
-        "question": "다음의방향그래프를인접행렬과인접리스트로각각표현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-10-7",
         "num": "10.7",
         "question": "그래프의깊이우선탐색에대한설명으로옳지않은것 은 다 다 그래프의임의의노드에서깊이우선탐색을시작할수있다",
@@ -30674,114 +33322,6 @@ var DS_QUIZ_DATA = [
         "answer": 1,
         "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
         "type": "choice"
-      },
-      {
-        "id": "ds-10-8",
-        "num": "10.8",
-        "question": "다음그래프를정점S에서출발하여깊이우선탐색을하는경우의방문순서를표시하라 B",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-9",
-        "num": "10.9",
-        "question": "위문제의그래프를정점S에서출발하여너비우선탐색을하는경우의방문순서를표시 하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-10",
-        "num": "10.10",
-        "question": "다음은어떤그래프를인접리스트로표현한것이다이그래프를정점A에서부터깊이우 은것은? 단링크가 인것은None을의미한다 선탐색할때정점이방문되는순서로옳 정점C 정점D 정점E 정점 정점G IA-B→C→D→F→G→E 2A—D→C→B-F→E-G",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-11",
-        "num": "10.11",
-        "question": "다음의그래프가인접행렬로표현되어있다고가정하고, 정점3에서출발하여깊이우선탐 색을한경우의방문순서를적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-12",
-        "num": "10.12",
-        "question": "위문제에서정점3에서출발하여너비우선탐색을한경우의방문순서를적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-14",
-        "num": "10.14",
-        "question": "다음의그래프에 서가능한신장트리를두개구해보라각신 장트리의간선의가중치 를 모두더해보라 F 저 다음의그래프에대하여위상정렬을수행해보라. m",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-15",
-        "num": "10.15",
-        "question": "11 010 *10,13* 인접리스트로표현된그래프에대한깊이우선탐색함수를구현하라알고리즘은코드 10 1을참고하고인접리스트로는파이썬리스트큐로는파이썬의q ueue모듈의Queue 클래스를사용하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-16",
-        "num": "10.16",
-        "question": "14 인접행렬로표현된그래프에대한너비 우선탐색으로구 현된코드1 우선탐색함수를구현하라. 너비",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-17",
-        "num": "10.17",
-        "question": "을참고하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-18",
-        "num": "10.18",
-        "question": "의연결성분검사에서는너비우선탐색이사용되었다. 깊이우선탐색을이용하 여연결성분검사알고리즘을다시구성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-20",
-        "num": "10.20",
-        "question": "코드 0 10을참고하여너비우선탐색을이용해신장트리를구하는함수를구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-10-21",
-        "num": "10.21",
-        "question": "177 연결된그래프의간선들중에서그간선을제거하면연결이끊어지는간선 4,0 을브 라 지(br dge 라고한다주어진그래프에서브리지를찾아모두출력하는함수를작성하라 와 C F)를찾아야한다 예를들어다음의그래프에서는두개의브리지 B C) m",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   },
@@ -30799,195 +33339,6 @@ var DS_QUIZ_DATA = [
         "options": [],
         "answer": "정답 및 상세 풀이 확인",
         "explanation": "Kruskal 알고리즘은 간선의 가중치 오름차순으로 정렬한 뒤 사이클을 형성하지 않는 간선들을 순서대로 V-1개 선택합니다.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-2",
-        "num": "11.2",
-        "question": "50 010",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-3",
-        "num": "11.3",
-        "question": "515 020 ,35, E 515",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-4",
-        "num": "11.4",
-        "question": "다음의방향그래프를인접행렬과인접리스트로각각표현하라 545",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-5",
-        "num": "11.5",
-        "question": "50 010 A B | 0 10|20 515 0 20 535 0 30 D E 515",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-6",
-        "num": "11.6",
-        "question": "3 아래의네트워크에대하여Kruska 의M ST알고리즘을이용해서최소비용신장트리가구 성되는과정을보여라 B C",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-7",
-        "num": "11.7",
-        "question": "m) D E 2 r m의MST알고리즘을이용해서최소비용신장트리가구 성되는과정을보여라(정점A부터시작할것",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-8",
-        "num": "11.8",
-        "question": "위의문제의그래프에대하여P",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-9",
-        "num": "11.9",
-        "question": "다 음가중그래프에서최소비용신장트리를얻기위하여노드A에서시작하여Pr m알 고리즘을적용할때신장트리의최소비용과세번째로선택된간선을순서대로나열 한 것은? •12,(B,E) 213,(B,E) 312,(D,E) *13,(D,E)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-11",
-        "num": "11.11",
-        "question": "6 위 의문제의그래프에 ST 알 소비 용신 고리즘을이용해서최 장트리를구 ka 의M rus 서K 할 때선택되는간선을순서대로나열하라 r m의최소비용 신장트리의시간복잡도로옳은것을골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-12",
-        "num": "11.12",
-        "question": "가중치그래프의정점의수를 간선의수를 라하 uska 과P 자다음K •O(n\"),O(nte) 3Olelog,e),Oln') *Ole'),O(nlogzn)",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-13",
-        "num": "11.13",
-        "question": "음수가중치를가진가중치그래프에서K uska 의MST알고리즘을이용해서최소비용신 장트리를구할수있을지를설명하라 r m의MST 알고리즘을이용해서최소비용신장 트리를구할수있을지를설",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-14",
-        "num": "11.14",
-        "question": "음수가 중치를가진가 중치그래프에서P 명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-15",
-        "num": "11.15",
-        "question": "1. 10다음그래프에서정점S부터E까지의최단거리를계산해보자D kstra알고리즘을사용 한다. 각단계에서d st 배열의내용을적어라 110y2 해화 도좋음 ㄱ 515 010",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-17",
-        "num": "11.17",
-        "question": "1. 11음수가중치를가진가중치그래프에서가장작은가중치를찾고이값이양수가되도록 충분히큰양 수를모든간선의가중치에더한후D kstra알고리즘을사용한다면최단 거 리경로를구할수있을까?안된다면그이유를설명하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-18",
-        "num": "11.18",
-        "question": "절의인접리스트에서의모든간선출력함수에서그래프의간선들이중복되어출",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-19",
-        "num": "11.19",
-        "question": "1 12 1 력되지않으려면어떻게할까?출력함수를수정해보라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-20",
-        "num": "11.20",
-        "question": "1 13 1 ST의가중치합을",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-21",
-        "num": "11.21",
-        "question": "절의Kruska 의최 소비용신장트리코드를수 정하여구해진M 출력하라 1 14 11 3절의Kirusk a 의최 은간선을뽑 기위 장작 장트리코드에서는가중치가가 소비용신 해간선을가중치의오름차순으로정렬하였다이코드를힘을사용하는방법으로수 정하라힘을사용한다면가중치가작은간선을뽑아야하기때문에최소힙을사용해 eapg 모듈을사용해도좋다 야한다. 파이썬의h",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-22",
-        "num": "11.22",
-        "question": "1 15 11 3절의Pr m의최소비용신장트리코드를수정하여구해진MST의가중치합을출력 하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-23",
-        "num": "11.23",
-        "question": "1 1 6** 1 3절의Kruska 의최소비용신장트리알고리즘을이용하여최대비용신장트리 (maximumspanning ree)를구하는프로그램을구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-11-24",
-        "num": "11.24",
-        "question": "1 1 7*** 1 4절의F oyd- Wa rsha 알고리즘은최단경로길이만을구한다이코드를수정하 여최단경로경로자체를구할수있도록하라힌트이를위해다음노드를가리킬 Next 배 ex uly 의초깃값은 가되 열(2차원을사용할수있다. 만약정점u와 사이에간선이있으면N oyd알고리즘의 f 조건문( 고그렇지않으면 로초기화한다.F k 를거치는경로가더가까우면)안에서Next ex k로갱신해야한 E Gi 를N 다이것 은 와 사이에서중간노드K를거치는더가까운경로를찾은것을말한다 raska 용차순정설. Pri 럽어:깊이 행린어리스트 mm 가중치제일작은나 넓니오신탐색 agkam 시작그 로는 구분? Hoyd 모 김 선담색 든정석들의최단거리",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
         "type": "short"
       }
     ]
@@ -31009,134 +33360,6 @@ var DS_QUIZ_DATA = [
         "type": "short"
       },
       {
-        "id": "ds-12-2",
-        "num": "12.2",
-        "question": "삽입정렬 ⑥힙정렬 (1 (1)선택정렬 • (",
-        "options": [
-          "버블정렬"
-        ],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-3",
-        "num": "12.3",
-        "question": ")퀵정렬 (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-4",
-        "num": "12.4",
-        "question": ")병합정렬 ( (",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-5",
-        "num": "12.5",
-        "question": ")기수정렬",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-7",
-        "num": "12.7",
-        "question": "입력데이터의구성과상관없이자료의이동횟수가결정되는정렬알고리즘을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-8",
-        "num": "12.8",
-        "question": "2거의정렬이되어있는데이터에대해좋은성능을보이는정렬알고리즘을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-9",
-        "num": "12.9",
-        "question": "연속적인분할과병합을이용하는효율적인알고리즘이지만임 시배열이필요한정렬알고 리즘을골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-11",
-        "num": "12.11",
-        "question": "피벗을이용하는대표적인효율적인정렬알고리즘들을골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-12",
-        "num": "12.12",
-        "question": "항목의비교를사용하지않고분배를이용해정렬하는방법들을골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-14",
-        "num": "12.14",
-        "question": "최악의경우에도시간복잡도가0(21082 인정렬방법을모두골라라 )",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-15",
-        "num": "12.15",
-        "question": "7평균적인시간복잡도가0(n2) 인정렬알고리즘을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-16",
-        "num": "12.16",
-        "question": "8 최악의경우시간복잡도가명확히O(n2) 인정렬알고리즘을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-17",
-        "num": "12.17",
-        "question": "9 0(m 082m 이라는정렬의이론적인하한선을깰수있는정렬방법들을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-18",
-        "num": "12.18",
-        "question": "삽입정렬과관련이있는정렬방법들을모두골라라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
         "id": "ds-12-19",
         "num": "12.19",
         "question": "비교를이용한정렬알고리즘에대한다음설명중에서틀린것은? 어 떤비교기반정렬알고리즘도비교할때위치를사용하면안정적(s ab e 으로만 들 수있 다",
@@ -31148,150 +33371,6 @@ var DS_QUIZ_DATA = [
         "answer": 1,
         "explanation": "교재 핵심 개념 및 강의 슬라이드를 참고하여 정답을 확인하세요.",
         "type": "choice"
-      },
-      {
-        "id": "ds-12-20",
-        "num": "12.20",
-        "question": "다음의입력배열을셸정렬이용하여오름차순으로정렬하려고한다. 각단계에서의간격 (gap)과배열의내용을적어라. 단, 간격은배열크기의절반으로시작한다. 또한간격이짝 수이면1을더해홀수로만들어사용하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-21",
-        "num": "12.21",
-        "question": "6 3 8 7 5",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-22",
-        "num": "12.22",
-        "question": "셸정렬의삽입정렬의어떤특성을이용하는가? 삽입정렬이효율적인경우와비효율적인 경우의입력에대한예를들고설명하라 121 4다음의정수배열을힙정렬을사용하여오름차순으로정렬하려고한다단,힙정렬은추 가적인배열을사용하지않는제자리정렬로구현한다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-23",
-        "num": "12.23",
-        "question": "49 92 55 38 2¼72 53 최대힙이만들어지는과정을트리를이용해나타내라또한최대힘에서의배열의내용을 적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-24",
-        "num": "12.24",
-        "question": "위문제에 서최대에 서배열 을정렬하는과정을트리를이용해나타내고최종배열",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-25",
-        "num": "12.25",
-        "question": "21 의 내용을적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-26",
-        "num": "12.26",
-        "question": "다음의정 다. 각단계에서의 배열의내용을나타내어라 수배열을병합정렬을사용하여오름차순으로정렬하려 고한",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-27",
-        "num": "12.27",
-        "question": "49 92 5 5|138 82 1 72 53",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-28",
-        "num": "12.28",
-        "question": "17 7다음의정 수배열을퀵정렬을사용하여오름차순으로정렬하려고한다각단계에서의배 열의내용을나타내어라단,배열의첫번째요소를피벗으로선택한다 171 9 49 292 555 8 38 282 272 353",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-29",
-        "num": "12.29",
-        "question": "다음의정수배열을퀵정렬을사용하여오름차순으로정렬하려고한 다왼쪽중간오른 쪽가운데중간값 med ano 121 f hree)을피벗으로사용하는경우정렬의각단계에서의배열 의내용을적어라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-30",
-        "num": "12.30",
-        "question": "1 5 6 8",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-31",
-        "num": "12.31",
-        "question": "2 19*어떤배열이오름차순으로정렬되어있는지를검사하여정렬되어있으면True를아니면 F a se를반환하는함수를구현하라버블정렬함수의일부를사용하면될것이다",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-32",
-        "num": "12.32",
-        "question": "* 2 4절의병합정렬을순환이아니라반복을이용하여다시구현하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-33",
-        "num": "12.33",
-        "question": "*입력리스트가영어문자열로이루어져있다이리스트를카운팅정렬을이용해정렬하 는코드를작성하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-35",
-        "num": "12.35",
-        "question": "22*10자리이하의정수로이루어진입력리스트가있다이리스트를다음과같이정렬하는 코드를작성하라 (1) 6개의버켓을이용하는기수정렬로정렬하라 (2) 0개의버켓을이용하는기수정렬로정렬하라 (3)2개의버켓을이용하는기수정렬로정렬하라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
-      },
-      {
-        "id": "ds-12-36",
-        "num": "12.36",
-        "question": "23 나만의하이브리드정렬알고리즘을구현해보 자다음그림과같이입력리스트가주 어지면이를크기가32인부분리스트(또는u D)들로분할하고각부분리스트를선 택정렬을이용해정렬한다각부분리스트가모두정렬되면다음으로병합정렬 의병합(mer 분리스트를병합한다병합이이루어질때마다부 분배열의크기는두배가된다이과정은전체가하나의배열로합해질때까지진행 된다 e) 과정을이 용해부 g 입력배열 Run들로분할 삽입정렬 각Run을삽입 정렬로정렬 e / merge/ e / merge/ emerge emerge 정렬된부분배열을 계속병합 e merge 최종정렬된배열 (1) 이러한정렬알고리즘을구현해보라삽입정렬은7장의함수를수정해사용하 고병합과정은 2 4절의병합정렬의me ge 함수를이용할수있 다 (3) 이알고리즘의시간복잡도를분석해보 라",
-        "options": [],
-        "answer": "정답 확인",
-        "explanation": "강의 실습 코드 및 교재 이론을 바탕으로 알고리즘을 분석하세요.",
-        "type": "short"
       }
     ]
   }

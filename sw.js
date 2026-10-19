@@ -1,4 +1,4 @@
-const CACHE_NAME = 'studium-v20261018-v5-clean';
+const CACHE_NAME = 'studium-v20261019-v7-cbt-record';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
