@@ -743,6 +743,79 @@
       });
     }
 
+    // ==========================================
+    // CLOUDFLARE D1 DATABASE SYNC FOR CBT LOGS
+    // ==========================================
+    const STUDIUM_API_URL = (location.hostname.includes('sungjang.pages.dev') || location.hostname === 'localhost' || location.hostname === '127.0.0.1')
+      ? '/api/studium'
+      : 'https://sungjang.pages.dev/api/studium';
+
+    async function syncCbtFromD1() {
+      try {
+        const res = await fetch(STUDIUM_API_URL, { cache: 'no-store' });
+        if (!res.ok) return;
+        const data = await res.json();
+        if (data && Array.isArray(data.cbt) && data.cbt.length > 0) {
+          let updated = false;
+          data.cbt.forEach(log => {
+            const qId = log.question_id;
+            if (!qId) return;
+            const logTime = log.created_at || 0;
+            const existing = quizResults[qId];
+            if (!existing || (existing.timestamp && logTime > existing.timestamp)) {
+              quizResults[qId] = {
+                selected: parseInt(log.selected_answer, 10) || log.selected_answer,
+                isCorrect: !!log.is_correct,
+                timestamp: logTime,
+                fromDb: true
+              };
+              updated = true;
+            }
+          });
+          if (updated) {
+            try {
+              localStorage.setItem('studium_quiz_results', JSON.stringify(quizResults));
+            } catch (e) {}
+            updateScoreBar();
+            const examScreen = document.getElementById('screen-exam');
+            if (examScreen && examScreen.classList.contains('active')) {
+              renderExamContent();
+            }
+          }
+        }
+      } catch (e) {
+        console.warn('D1 CBT sync error:', e);
+      }
+    }
+
+    async function saveCbtToD1(qId, selectedNum, isCorrect, chapterKey) {
+      try {
+        await fetch(STUDIUM_API_URL, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            type: 'cbt',
+            chapter: chapterKey || currentExamTab,
+            question_id: qId,
+            is_correct: isCorrect,
+            selected_answer: String(selectedNum)
+          })
+        });
+      } catch (e) {
+        console.warn('Failed to save CBT to D1:', e);
+      }
+    }
+
+    async function deleteCbtFromD1(categoryKey) {
+      try {
+        await fetch(`${STUDIUM_API_URL}?chapter=${encodeURIComponent(categoryKey)}`, {
+          method: 'DELETE'
+        });
+      } catch (e) {
+        console.warn('Failed to delete CBT from D1:', e);
+      }
+    }
+
     function updateScoreBar() {
       const bar = document.getElementById('cbt-score-bar');
       if (!bar) return;
@@ -1291,7 +1364,7 @@
         }
       }
 
-      // Persist grading record
+      // Persist grading record to LocalStorage
       quizResults[qId] = {
         selected: selectedNum,
         correct: correctNum,
@@ -1301,6 +1374,9 @@
       try {
         localStorage.setItem('studium_quiz_results', JSON.stringify(quizResults));
       } catch (e) {}
+
+      // Persist grading record to Cloudflare D1 Database
+      saveCbtToD1(qId, selectedNum, isCorrect, currentExamTab);
 
       updateScoreBar();
 
@@ -1332,6 +1408,9 @@
       try {
         localStorage.setItem('studium_quiz_results', JSON.stringify(quizResults));
       } catch (e) {}
+
+      // Delete from Cloudflare D1 Database
+      deleteCbtFromD1(categoryKey);
 
       if (categoryKey === 'ds_quiz') {
         selectDsChapter(dsCurrentCh);
@@ -2249,4 +2328,5 @@
       updateSettingUI();
       initDsQuiz();
       updateEngProgressBadge();
+      syncCbtFromD1();
     });
