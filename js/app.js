@@ -338,10 +338,13 @@
                 <span>In-Class Essay 25문장 영작 훈련 →</span>
               </div>
               <div class="course-quiz-pill" onclick="selectBook('pathways3'); switchTab('reader')">
-                <span>10/13 출제족보 & Unit 1·3·5 정독 →</span>
+                <span>10/13 중간 족보 & Unit 1·3·5 정독 →</span>
+              </div>
+              <div class="course-quiz-pill" style="border-color:#059669; color:#059669; font-weight:700;" onclick="openBillyFinalPreview(5)">
+                <span>🌟 [기말 예습] 공식범위(Unit 6·7·9 전수 6개 지문) 정독 →</span>
               </div>
               <div class="course-quiz-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">
-                <span>필수 78단어(60어휘+확장18) 카드 →</span>
+                <span>필수 107단어(기말 타깃 29단어 확장 완료) 카드 →</span>
               </div>
             </div>
           `;
@@ -352,10 +355,13 @@
                 <span>김나나 교수님 6대 유형 + 연어·격식동사 36문항 →</span>
               </div>
               <div class="course-quiz-pill" onclick="selectBook('prism3'); switchTab('reader')">
-                <span>10/14 출제족보 & Prism 3 4개 지문 정독 →</span>
+                <span>10/14 출제족보 & Prism 3 중간 4개 지문 정독 →</span>
+              </div>
+              <div class="course-quiz-pill" style="border-color:#10b981; color:#10b981;" onclick="selectBook('prism3'); currentSectionId = 5; renderSectionSelector(); renderSentences(); switchTab('reader')">
+                <span>[기말 예습] Unit 7 & Unit 8 원문 전수 정독 (6개 섹션) →</span>
               </div>
               <div class="course-quiz-pill" onclick="filterVocab('prism3'); switchTab('vocab')">
-                <span>Unit 5·6 핵심 어휘·연어 54카드 →</span>
+                <span>Unit 5~8 핵심 어휘·연어 82카드 →</span>
               </div>
             </div>
           `;
@@ -392,6 +398,18 @@
         `;
         list.appendChild(row);
       });
+    }
+
+    function openBillyFinalPreview(secId) {
+      selectBook('pathways3');
+      currentSectionId = (typeof secId === 'number') ? secId : 5;
+      renderSectionSelector();
+      renderSentences();
+      switchTab('reader');
+      try {
+        const activeBtn = document.querySelector('#section-selector .num-btn.active');
+        if (activeBtn) activeBtn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+      } catch (e) {}
     }
 
     // Reader

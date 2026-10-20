@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "oHO1cI1dRbS/p3Zbzw8gfA==",
-    "iv": "yCmMZ/7l1bHdJjVN",
-    "ciphertext": "1WLdY8pFUzfwxRrNGQTe+xSyPGyMUSEiZCJ/atBo4s7732mf1g73LYEMDFI3MEyrhUa93ZZUXOjkyxpC07juTfYAhU4XAU/gqRoRFYpA49KrSy1bA+CbJCd3pI/QNPjni5IQO+ZBdX2AEpgmUS/d1rgkxV9Jo5fy0UPoNU6ztbAcutUwbsB5OVDYjpkMFgbpFnW7Q/POOIXUvHqd6RJ3k4eQM5GIXqjqbNpda1fy1aYUF3NKlbmWEpGoPHDSmrmTja+179J0ejw9cpkMimOLRcvSuMGhovSWjQblq2jFcLhIK0Iws+c/eHJYIYr7rriN3p1oStvgr+x61HvAbfJgnX9+yvpn3HZNpPMwdDiEqN1bX4tQ9lnD0gCq1QLU8ZXwA8BzJN3wG5Ak/YBSp6HsKGh5L0sBH7PEgj4vaEPjfz467dwZmTuai8cSXRpZ+siE+r94eBgzjejDpFLLDcNk8xZXnf+rRvq6+kBLjoYStbRJZl3hvb93QF3RFmk32iMK/W9tu4sFteXGLCJhtAw9ks51AlcNU2jzu3W7COAKbqalc6I6bR0K5bteO91PS0tMUyvaO25YVNxYyboSdiu4Vav8R4tZ+6kBCdoSnmO7p7KvjlvYjm1tkJF21r8cCfu1rpKTRUfpmAtJgINLVxXztqFIW5q4YQs+BgmdzXE0AP5sVcXJuwRtjAP8y/zUUjYOte1ud2oPCKRqVvM49l7W26NwPyMGC/BKk+4qso4czF42Zu4A90anyioNSUCGDqmi8GP9/1iV1HDRZs+FUi3MFIjT90KPdXF1aRVFEk0yZOLX+BdC3yVHYQDYKxtAAtpRnC3sgBMQJUyiNd0i1hRNeRVbbdDlZQoUiZODDv53F5SJQ2/NIK+gdwFYcDGphBr6ST2b1/XN83aYKCLrWDr+R/nPKBSp1YXplIfmf0IerFPl7dOOjqs36BkuAklInSFW7rYPwxM++0Tgu4sGNc29uB7BMIB7TPyiLFAkdxa9JjhlHBAkdD5Xt3MKPJBw4dGKy4CG57g43AMKdtICLOv4tmmbG2HKm+67lA3AL71Vcoo73rqH128v1pvhqSMh9PI+clPYt1Y0kXWHxTq4GObz1tYnkW97CCFwHJLc/PVaduKr5UBJ7xOZYEPAy33lHunXdGLplhhsnCEUheMq9v0cTBZS5kjE96z0nLQ0dLToQ/cYCnTpTbeim2PUIluMQ29uylCnrFl3NItUOg4o2/VxPVUcvN6iAZWUpl7/FwhP7EORK+6M2wr7IB7W12qd4UxjL6quFIKvXViS0ZgNKesSsib2RuwlVKzRp2/+eab2K5+k48wyDuf4eEIwAJ6+QvxqWD6jjsrmsTO/GJGr9ufnoI1BxbgJgWc3QeyNOTQN6XQYlV3hhJYDH/y4XYtdqjAwoBQwPOfAquqtZ2ZtnMAFsBt4Xvz7BPdQvJUAmVOSAX0a2gQsYS0oIR51IBCmPEr0qBlCqsAssVh9HbKvpw11DHLE32wo/qCaaHRjJQJ0xdr7MFqTLiM+YKcWFYfDU8Hqh0Bc8ov0QpmoaJCf/Fk76WdpJjfJOf/O46EwSc5Vr6mipZ8du7Yku8LGZuYboFmYyMIMsDcD2G2QskU6K9Hclvthlb8OfGdlxYjQ7blMH+1atxzLo9Rxm4kkDSQO/7ekvdh7VNX9W78D6ps9OLjvE35nCj3V+AfuXCOviNKrXRuO+4awMAgvKaxnxA2TkXo9tKAsD52JotAJUI4HahTbv6fH0CNlN5F0qhKB2ujDpCKUhpidyCKhV9xTbW6psNXJSSYj0Tb5Q3SCMTtO6A/huGhetd92NRWoL8vpt5lsP4wOxDSm+YWR12d1MCwL0GjeGGp0fFsh88MMMrTDNZSdJ8tQLXL7z59qx1N0hXT6je1rKSkONJaKvbmmEcbJa3F2VGfV+A6z5l08wxa/un//420AzmU1GccsFOXCgz4m0RWTwkV4NSNcpCexsNIIbZZD4cTWV+XPEOApyM+OuY0kkK+c+lW8HIYae1FpfuB8BoUjyyqjXoplrgumdTufiE3g/2l5LReRjsT81SnKbtto/HksiRnjERLehcfFwFx05B7OLoFjGEAKc/tNq4vwv7wq/y339CJ3g5Zt5/TTTynvVxSEJfOSbAs90gsqEqNDzPt1+plq8XXGYbhmoZuGxA6YsAlDikvwT30qdWJiHe3D1gWHoMf+Ur7ojvci0biWJrphIPyRI/aaSxzaz07gEnz2kAQCKwMYkRPgceQQcDKt0KyrQ/RUsDw2DHZj72wQ+wqCfVvJe3+cH8fLv3+Yh6trcqJ2PjJttrsP/sKVkzqqv0dezbGQH1ANDUP0NuDI/VINRDBPBAgf4dCrzQXUdwirm162UjBmY8TjxE4IhcwmiENfJ9BR0860uwohzrPKT6BWBDo3bM6x3ekBR49oC8YF13HUkUmOQA0AWeP1ND8WkKe1Rf9N72EDF6Mjr2ye+He7fD71kLBO+Ce9yJ4CWCwFuuIPfz2KyAsp7OMl/mf9k2AUxBzb32GU7fFJngUJQ8Jta2vuDDkXEs0eAWXq8Q2RvN0X+eEAB0ucjLHvnO1VCEC8RWa9OnXHuJcWt2OevBbPiSLUj02IaZZHlUmfKikWQeuZj9nXQSE498MNlnLfyjWPaXcBmxFJ9GPG+Ak6Xhl6w8rYEjmA40RVe7x7RH+Vm7S9WF0t3i0AakSv0dgEWf0iY7q+ZfeFkfDBTqFrhwma0ci2jaYCNA2yZaKZxfwITE8AlRm/SFiKaKabkHsQ9w+l4QjSLuBZHh3L9ozqt1wqsDlWUCwgpotIqfBcpoQ6DSUm9Mh0qQz5tkUv8C9k1q/JpealV5k6OV1nX4AS2Wt9cWn9WmQAGVTunMIUWrUUTkk44wE9Hp3Yx4c2HtPM2CltMGhRCt5db5NeTon5U+Vv0nP+TdOkF1wXxbkGafZc3pxFuDznBS7lPwP7YA2PcnLSBAKFYvtPV2I0Fw5OLOCvpbQqAY3GMJHv6y3+6O+F7wp3+RCBRVRITlWtVsYq/plV+YcvUMFgs8GEW2uo/Ba10PpC65WalkAJvIRqlFS0KOlTw4egNS/rxtotAsRSseHCOLlpsUsGZJGAAjOZIgWLFzIpi2jVB+WtEmOv8upVmfaskFd4qP/mbVZbqFmDgfbxJFGodSgtH5LYBAQ/55MjAicaestFUWvp5SXqardwC57F8OFIh9hH17utXKgZQtM11DwxuO7zmz2WgJrjhH7WTAq9MDWVLiLWKa5prldqwaz5xuRmbmrMLmfJLahycSRzZzrDzqRD+nNPF7PJfEZ6Y8Aom/GrJuLu8OqFA5TQvWuMBSfKAM06IZIoYxn6LGJiRe7WdOMTd0HmroeYPKNmy6mYX9UhPh/NetjyVqZxhXHb3Wvjj8mndGVXmLS/MZq/4/2GFyGCNP3pkuGs1sRhPcangfz4cjIzwG92IPbbN+2/WE5o5kP5Wmb+QL6ecEMh42DI3/J42p8LI9Ha+FNc3jVTuiLH5ZfVTdk6MIiWnwXwMAOhKarVmjL9NWCTWrLEDNWtw0TA2C25R4RzAq1tAPyYv0xN45tJNdXS6N5YN6eCLBjzVe0+FZLTKRXtR7U2lxeHuFIMp941rWQl3quMc/obHSdHzu/TdWyPUFQPgGkqTTYt6wzsvj3/HyAm+JOn908bAFxm32zu/e84cFS2E/FJqsQ9Oa3MX2rXdzLVoD/MJGqMoiF9etrLKRyf7i0PjZUHZSlpGqB0t/jSPpBPV25PHAiMswnOHE8ueLQtPJzaEcZuTpYhVxLNX2NJRlGlcKqox1HgIyI0DpJa7zeWRB4naEdjJGbaw8qq5l8gvNZk0oPc0Na070Ga/m/CuoGPZfNKkwIFRyZ6wxqSxcIjo6xXjzQPm7q7e91ez0v8M+EhPNXK4gH9M0Qb6nQssRfQzBTsB/3GjaUfqtH8jOn6rNiTuSOgOMcE3gQcDhx1ba+82c86AxXPSzqZy3X1C7c+RT0k4aBK4VC9Q4Hb7q8eixiG1ktyJ3lkXDQ3stZr18vOEvx+6OstDKG4SXV6+ZVnwI6g46Zj/w3atli2WIU0rQBsXgDgwtuaPKG7/anBfae97a0hVjhKbtC7O6ZZ5ANV2pfAPbGVNNApoFmgZAVbM/YvgS+Bkvv7levZ0C7GxEskWLHoFSOk79zoAikwMiXcfzBJrOfdF7n+Fc3W7It4OKymo6kpIc4nmKFhxprWJNcY23wDJYpe2xM0Wld5Jg9vq9EMxq0vqjVLYp7vwkG7Z6A6Sdd9ZCDhGCIvUAB0J3dc3ffvNwkVJc9WeYpwagchw4TL24N9Ec8R3zXOfQyTXZPCBfJ5rYLFwWuZIT7lr4M8iXczqsxan4DDgAzJdugqOAF28uCPzP2xkDxpDFT6MSvR+FgyeFgkb4dSGdq8MAPLRb7DqU8nMzIrKcA+e4tJsBOPgDDEFe/CRCs4KDswGB0y7dO7CE9JBQenn+ZNYJkrk1tAb3BHolBzlqPWoN51RaIynF2bshn9MG3KYpUweli3ImJC5EDlwrm5zRWpGmzl20My8l+cG0w0Tn7GA3RZScRK7CWfZUvLm4SCp62h79w+yDOeDNVPX6x40KmpEYjj07SWF8DW0AH/jzOz6X0Tg2BD1mV6GJm9E55RCaqWJjiA2UdO0rM+pl0mM4aLD3B19wRzqXiLwAis8QFASJien4tYSpTGTDjyJiBjubhpx72V/jEoL+6RsYqcAMgHsDJS6xCVgtsty1v4VCf2hD+NRkO/cMEoPHnYU+4eYFHRxj7Yq+mZhRdl07KpWd/HoAH+fN6Q7OwiX5neidKEZ5LQ7sQ0uGHkuYmOi6ytZ20aNAVR0DXX8fR35+ttH2ZfRW6dbBdqnk6s17tCjzDXDQiXHZj1wXDXpBWYHRfJ9MiDwOMVQ+93sizi8YOIxrhfUZbmGKUO6kIvLTeugrFyVAmLTI9rm31k+STdTfC6dpmn09QA5vWBvoWLo5wT1NbgjGmo8l0PgGcUJJVnhts1bFDt+Ufy2gZzXwE43HbdFbMabZUjiEZX3aq7wqZ9w6Xa3W5VFt7CdsNSmLxSKvElzn3uiYmz3Y30ej4oBT8Qif4bzZBcIRftzDoJFK2RcNOxgPOnyiTZRLYyUHw2iCS3eX/kISxXrANV3kuIP5pUDrTdzB7hor1BZVuC22d9eiDsdVAbLYcK899VRc2o/BY+cSSp69qo38MtIbYMdXo5HbmJHlmlcbACVSjLZ7i8ObWR9DwLQVRYvtFLSZDQo0dw32BrhCkenM/uACfVCdasv7Uslb85KuibgcdAaXdyiYfzjyMe8R+tX6M/IQlYaJ3l+DS2E5e6/7TFQUC/vdZI2AC7peQQkBmDQ73Ir3zHwTrToEzKOAI2DOaUXn3NesPvQsxkPjeWM3B94LO2b6bqsXWjTyW5WDBwI/ekks0CaIiqQodIzKw/YAWo4D+dFJYE2qaFp11Hl5k1Gu6K0+uTR/gwC6OZc0d/aIkx4xsef5DiEcU1ADOu5M0d0N1qH8wTSQ2XoJR8wMonXhEt7w+jLuSfpctW1/ljkz8ZJGaQA8KRepUZ5rTTKySZvVD4O+fpu9vxzDjrVdktj80WgPxh0S/P1tlLG+CciPoTUcpxqm7T38lQkqhnC2ihRZ6p2UVX6yGssfcfl32Ag2EJF94lu4MmMYBGkluHDQ62W51zHfLmdQbjRGcz2jTaj81bAi2f1l21qMiJSciC7X3E6YXWf5nhNty5ptUKEsTSZHvYCnKtXOyC6wbpkCfBggAhkY3hflmPWgFAwob3vWvvI0GxLUwWkyqR6jr1LZ8A5Illm94DcaB4sL+ZYhi7r8GxzAZvsjoMAhbTqnaZOGeWuSVeOSMgQulNgZKDtNdCm/vXp5k6/Ktbv/0y4+XP0USpmV05yPTuSZbBhQNpLAZp3Cwk5qTim5/W/wspmoEOmDZNRLWPm/87GmHyvremlAOcDvpTF/5uSS1yKlrzJDKxM0/NXYXd/t8rlqeiBnFInLw/qEczHdA1KVYeuMTfXVg7KtmleaRjmcua/BbAmPh7JObZuOc1kp3H9TCRANkKHnZpq/tXCNUNOdFmzXDq4DwqfCfuJU3MbmVuYgNAOm6zj60M6Hs0drMqSV/15q9KdFEj3NQSVI6d31HVT1SZ9qx7BzJPUzjp+L4s95AHaSQMOSNVup3mu6fD1t/QlCLiQ8wumMCplW+JqqjJ8YMVeJA722fcclaOqoeB6T2ZMQ41O043MsqBbIlRMCtZvpvmR43g1Rsim5L43b36kZy3fsyPlhqqZ02TjpNQKAr1sgwF5a29svrMgWuXN7iPRyIXuOlAzclDPJLRUg22xlvTi19PL12/bTlYDWySAJTEKcWQEHAtWaFM3pR0HIw="
+    "salt": "PhQJFIGWxlwdkV5V5PN9Gw==",
+    "iv": "tDcPx51C7lJtpdRN",
+    "ciphertext": "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"
   },
   "weekly_courses": [
     {
@@ -1543,6 +1543,173 @@ var HUFS_DATA = {
               "py": ""
             }
           ]
+        },
+        {
+          "id": 5,
+          "title": "[기말] Unit 7 Reading 1: All that Art Is (예술의 정의와 기능)",
+          "short_title": "[기말] U7 R1 예술정의",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] What is art? This question has puzzled philosophers and great thinkers for centuries. In fact, there is disagreement about exactly what art is. Most of us would agree that Leonardo da Vinci's Mona Lisa is art, but what about a video game? One dictionary definition states that art is 'making objects, images, or music, etc. that are beautiful or that express certain feelings.' This, however, could be regarded as too broad a definition. There are actually a number of different categories of objects and processes under the umbrella term of art that can be explored.",
+              "kr": "[예술의 정의에 대한 오랜 논쟁과 포괄적 범주] 예술이란 무엇인가? 이 질문은 수세기 동안 철학자들과 위대한 사상가들을 당혹스럽게(고민하게) 만들어 왔다. 실제로 예술이 정확히 무엇인지에 대해서는 의견이 일치하지 않는다(이견이 존재한다). 우리 대부분은 레오나르도 다빈치의 모나리자가 예술이라는 점에 동의하겠지만, 비디오 게임은 어떠한가? 한 사전적 정의에 따르면 예술이란 '아름답거나 특정한 감정을 표현하는 사물, 이미지, 음악 등을 만드는 행위'라고 명시한다. 그러나 이는 지나치게 광범위한 정의로 간주될 수 있다. 실제로는 '예술'이라는 포괄적인 총칭(umbrella term) 아래에서 탐구될 수 있는 다양한 범주의 대상과 창작 과정들이 존재한다.\n* **핵심 어휘 및 구문**:\n  * `puzzled`: 당혹스럽게 하다, 골치 아프게 하다\n  * `disagreement about`: ~에 대한 의견 불일치\n  * `umbrella term`: 포괄적 총칭, 상위 범주 개념\n  * `regarded as too broad`: 너무 광범위한 것으로 간주되는",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Art is typically divided into two areas: fine art (such as painting, sculpture, music, and poetry) and applied art (such as pottery, weaving, metalworking, furniture making, and calligraphy). However, some claim that the art label can also be attached to car design, fashion, photography, cooking, or even sports. Fine art is categorized as something that only has an aesthetic or conceptual function. This point was made over two thousand years ago by the Greek philosopher Aristotle, who wrote, 'the aim of art is to represent not the outward appearance of things but their inward significance.' He noted that artists produced objects, drama, and music that reflected their emotions and ideas, rather than just trying to capture a true image of nature. Andy Warhol, the American artist famous for his Pop Art in the 1960s, once said, 'An artist produces things that people don't need to have.' This is the distinction between fine and applied art. Applied arts require an object to be functional as well as beautiful.",
+              "kr": "[순수 예술과 응용 예술의 구분 및 아리스토텔레스와 워홀의 정의] 예술은 전형적으로 두 영역으로 나뉜다: 순수 예술(fine art: 회화, 조각, 음악, 시 등)과 응용 예술(applied art: 도예, 직조, 금속공예, 가구 제작, 서예 등). 그러나 어떤 사람들은 '예술'이라는 명칭이 자동차 디자인, 패션, 사진, 요리, 심지어 스포츠에도 붙을 수 있다고 주장한다. 순수 예술은 오직 미적(aesthetic)이거나 개념적(conceptual) 기능만을 갖는 것으로 분류된다. 이 점은 2천 년 전 그리스 철학자 아리스토텔레스에 의해 언급되었는데, 그는 '예술의 목적은 사물의 외적인 모습을 재현하는 것이 아니라, 그 사물의 내적인 의미(inward significance)를 나타내는 것이다'라고 썼다. 그는 예술가들이 단순히 자연의 참된 이미지를 포착하려 하기보다, 자신들의 감정과 사상을 반영하는 대상, 희곡, 음악을 창작했다고 언급했다. 1960년대 팝아트로 유명한 미국 예술가 앤디 워홀은 한때 '예술가는 사람들이 가질 필요가 없는 물건을 만든다'라고 말했다. 이것이 바로 순수 예술과 응용 예술 사이의 명확한 차이(distinction)이다. 응용 예술은 사물이 아름다울 뿐만 아니라 기능적(functional)이어야 함을 요구한다.\n* **핵심 어휘 및 구문**:\n  * `fine art vs applied art`: 순수 예술(심미적/개념적) vs 응용 예술(실용적 기능 + 아름다움)\n  * `aesthetic or conceptual function`: 미적 또는 개념적 기능\n  * `inward significance`: 내적 중요성, 내적 의미 (아리스토텔레스의 예술론 핵심)\n  * `distinction between A and B`: A와 B 사이의 구별",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] In the twentieth century, artists began to challenge the established idea of art. They recognized that their work belonged to the higher social classes who had the wealth to purchase art and the leisure time to enjoy it. The architect Frank Lloyd Wright commented, 'Art for art's sake is a philosophy of the well-fed.' In an attempt to challenge this notion, the French painter Marcel Duchamp submitted a toilet to an art exhibition in 1917 instead of a painting. He signed it and said, 'Everything an artist produces is art.' Today, many people complain about the lack of skill in the production of conceptual artistic objects. Some contemporary artists use assistants to produce all the actual work. Damien Hirst, for example, says that because he had the idea, it is his work. He has compared his art to architecture, saying, 'You have to look at it as if the artist is an architect, and we don't have a problem that great architects don't actually build the houses.'",
+              "kr": "[20세기 현대 미술의 도전: 뒤샹의 변기와 허스트의 개념 미술] 20세기에 들어 예술가들은 기존의 확립된(established) 예술 개념에 도전하기 시작했다. 그들은 자신들의 작품이 예술을 구매할 부와 그것을 즐길 여가 시간을 가진 상위 사회 계층에 속해 있다는 점을 인식했다. 건축가 프랭크 로이드 라이트는 '예술을 위한 예술(Art for art's sake)은 배부른 자들(the well-fed)의 철학이다'라고 비판했다. 이러한 통념에 도전하려는 시도로, 프랑스 화가 마르셀 뒤샹은 1917년 미술 전시회에 그림 대신 변기를 출품했다. 그는 변기에 서명하며 '예술가가 생산하는 모든 것이 예술이다'라고 선언했다. 오늘날 많은 사람들은 개념적 예술 작품의 제작 과정에서 기술(기교, skill)이 부족하다는 점에 대해 불만을 제기한다. 일부 현대 예술가들은 실제 모든 작업을 제작하기 위해 조수들을 고용한다. 예를 들어 데미안 허스트는 자신이 아이디어를 냈기 때문에 그것이 자신의 작품이라고 말한다. 그는 자신의 예술을 건축에 비유하며 '당신은 예술가를 건축가인 것처럼 바라보아야 한다. 우리는 훌륭한 건축가가 실제로 집을 직접 짓지 않는다고 해서 문제를 삼지 않는다'라고 역설했다.\n* **핵심 어휘 및 구문**:\n  * `challenge the established idea`: 기성의 확립된 개념에 도전하다\n  * `Art for art's sake is a philosophy of the well-fed`: 배부른 자들의 철학 (엘리트주의 비판)\n  * `Marcel Duchamp (1917)`: 변기 출품 ('Fountain' 작) - 개념 미술의 시초\n  * `Damien Hirst`: 조수를 활용한 제작 방식 정당화 (예술가 = 설계자/건축가 비유)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Despite a hundred years of modern art, fine art is still regarded as a preserve of the wealthy, and works sell for millions of dollars. Even so, we can see examples of art all around us that are not expensive. Many towns and cities have public art that can be enjoyed by all. Some museums, like the National Gallery of Art in Washington, D.C., are free. Others are free for children and students. Street art is also popular in different neighborhoods around the world. One British artist, Banksy, has become world-famous for unauthorized works of art painted on building walls. These can be viewed at no charge by anyone who knows where to look.",
+              "kr": "[대중을 위한 공공 예술과 뱅크시의 거리 예술] 현대 미술 100년의 역사에도 불구하고, 순수 예술은 여전히 부유층의 전유물(preserve of the wealthy)로 간주되며 작품들은 수백만 달러에 팔린다. 그럼에도 불구하고 우리는 우리 주변 도처에서 비싸지 않은 예술의 사례들을 볼 수 있다. 수많은 소도시와 대도시에는 모두가 향유할 수 있는 공공 미술(public art)이 존재한다. 워싱턴 D.C.의 국립 미술관(National Gallery of Art)처럼 일부 박물관은 무료로 개방된다. 또 다른 곳들은 어린이나 학생들에게 무료이다. 거리 예술(Street art) 역시 전 세계 다양한 지역에서 인기를 누리고 있다. 영국의 한 예술가인 뱅크시(Banksy)는 건물 벽에 허가받지 않은(unauthorized) 채로 그린 예술 작품들로 세계적인 명성을 얻었다. 이러한 작품들은 어디를 보아야 할지 아는 사람이라면 누구나 무료(at no charge)로 관람할 수 있다.\n* **핵심 어휘 및 구문**:\n  * `preserve of the wealthy`: 부유층의 전유물\n  * `public art`: 공공 미술 (모두를 위한 예술)\n  * `Banksy`: 영국의 세계적 거리 예술가 (건물 외벽 그래피티)\n  * `unauthorized`: 무단으로 제작된, 공식 허가 없는",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] Art anthropologist Ellen Dissanayake in the book What is Art For? offers one intriguing function of art: 'the heightening of existence.' In other words, art makes our ordinary, everyday lives a little more special. This notion may not apply to all art, but perhaps we can agree that it is a good goal toward which all artists should reach.",
+              "kr": "[예술의 궁극적 기능: 삶의 고양] 예술 인류학자인 엘렌 디사나야케(Ellen Dissanayake)는 그녀의 저서 『예술은 무엇을 위한 것인가? (What is Art For?)』에서 예술의 대단히 흥미로운 기능 한 가지를 제시한다: 바로 '존재의 고양(the heightening of existence)'이다. 다시 말해 예술은 우리의 평범하고 일상적인 삶을 조금 더 특별하게 만들어 준다. 이러한 관념이 모든 예술에 다 적용되지는 않을지 모르지만, 이것이 모든 예술가들이 도달해야 할 훌륭한 목표라는 점에는 아마도 우리 모두가 동의할 수 있을 것이다.\n* **핵심 어휘 및 구문**:\n  * `the heightening of existence`: 존재의 고양 (평범한 삶을 특별하게 승화시킴)\n  * `What is Art For?`: 예술의 인류학적 기능을 다룬 핵심 저서\n  * `goal toward which all artists should reach`: 모든 예술가가 지향해야 할 목표",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "[기말] Unit 7 Reading 2: Photography as Art (사진은 예술인가)",
+          "short_title": "[기말] U7 R2 사진예술",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] Photography is thought by some to be a form of fine art because it is made using the same critical and creative process that a painter or sculptor would use. It seems clear, however, that there is a significant difference between creating images by hand—using paint, clay, or other tools—and pointing a mechanical device at something interesting and clicking. Although photography does have some features in common with other kinds of art, it cannot be said that photography is unquestionably art.",
+              "kr": "[사진 예술론의 쟁점: 손의 창작인가, 기계적 장치의 클릭인가] 사진은 화가나 조각가가 사용하는 것과 동일한 비판적이고 창의적인 과정을 거쳐 제작되기 때문에, 일부 사람들에 의해 순수 예술의 한 형태로 여겨진다. 그러나 물감, 찰흙, 또는 기타 도구를 사용하여 손으로 직접 이미지를 창조해 내는 것과, 흥미로운 대상을 향해 기계적 장치(카메라)를 겨누고 셔터를 누르는(clicking) 것 사이에는 중대한 차이가 존재함이 분명해 보인다. 비록 사진이 다른 유형의 예술들과 공통된 특징들을 가지고 있기는 하지만, 사진이 의심의 여지 없이 예술이라고 단정할 수는 없다.\n* **핵심 어휘 및 구문**:\n  * `critical and creative process`: 비판적이고 창의적인 창작 과정\n  * `significant difference`: 손으로 그리는 것 vs 기계 셔터를 누르는 것의 중대한 차이\n  * `unquestionably art`: 의문의 여지 없는 명백한 예술",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Photography certainly shares many qualities with other visual art. Sometimes decisions involved in creating a photograph are analogous to those made by any other artist. A photograph is not always just a banal record of the world, but a deliberately created image with its own artistic features. Ansel Adams, the American photographer, commented on this point when he noted that take is not the right verb for a photograph. Instead, he said, one makes a photograph. To this end, there is a growing trend for photographers to call themselves artists. Nevertheless, we cannot ignore the fact that artists can sell their pieces in the higher-priced, fine-art markets, whereas photographers cannot. A photograph by German artist Andreas Gursky, for example, recently sold for almost $4.5 million. As cynical as it may sound, no one would likely pay that much for a photograph unless the photographer presented himself as an artist.",
+              "kr": "[시각 예술과의 유사성 및 초고가 미술 시장의 메커니즘] 사진은 분명 다른 시각 예술과 많은 특성을 공유한다. 때때로 사진을 제작하는 데 수반되는 결정들은 다른 어떤 예술가가 내리는 결정들과 매우 유사하다(analogous). 사진은 항상 세상에 대한 진부한(banal) 기록인 것만은 아니며, 고유한 예술적 특징을 지닌 채 의도적으로 창조된 이미지이다. 미국의 전설적인 사진작가 앤셀 애덤스(Ansel Adams)는 사진에 대해 '찍다(take)'라는 동사는 올바른 표현이 아니라고 지적하며 이 점을 강조했다. 대신에 그는 사진을 '만든다(makes)'라고 표현했다. 이러한 맥락에서 사진작가들이 스스로를 예술가라고 부르는 경향이 점점 커지고 있다. 그럼에도 불구하고 우리는 순수 예술가들은 고가의 미술 시장에서 작품을 판매할 수 있는 반면, 일반 사진가들은 그렇지 못하다는 사실을 무시할 수 없다. 예를 들어 독일 예술가 안드레아스 거스키(Andreas Gursky)의 한 사진 작품(라인강 II)은 최근 거의 450만 달러(약 50억 원 이상)에 팔렸다. 냉소적으로 들릴지 모르지만, 그 사진작가가 자신을 예술가로서 포장하여 제시하지 않았다면 아무도 사진 한 장에 그토록 많은 돈을 지불하지 않았을 것이다.\n* **핵심 어휘 및 구문**:\n  * `analogous to`: ~와 유사한, 상응하는\n  * `banal record`: 진부하고 평범한 일상 기록\n  * `Ansel Adams`: '사진은 찍는 것(take)이 아니라 만드는 것(make)'이라는 명언\n  * `Andreas Gursky`: 최고가 경매 기록을 세운 독일 사진 예술가",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] In truth, most photographs are basically objective records of a particular place at a particular time. Certainly we can appreciate a beautiful photograph when we see one, but any beauty that is perceived in the picture comes from the time and place where it was taken, and it is not the creation of the photographer. Also, sophisticated and expensive equipment often plays a greater role in the success of a photograph than the photographer's creativity. Even some of the greatest photographers acknowledge that there is a limit to the amount of influence they can have on a final product. Henri Cartier-Bresson, the famous French photographer, admitted that luck was the most important factor.",
+              "kr": "[객관적 기록으로서의 한계와 행운 및 장비의 결정성] 사실 대부분의 사진은 기본적으로 특정한 장소와 특정한 시점에 대한 객관적인 기록(objective records)이다. 분명 우리는 아름다운 사진을 보았을 때 그것을 높이 평가할 수 있지만, 그 사진 속에서 인지되는 아름다움은 사진이 촬영된 시간과 장소 자체에서 비롯된 것이지 사진작가의 창조물이 아니다. 또한 사진의 성공에 있어서는 사진작가의 창의성보다 정교하고 값비싼 카메라 장비가 더 큰 역할을 할 때가 많다. 당대 최고의 사진작가들조차 자신들이 최종 결과물에 미칠 수 있는 영향력의 크기에 한계가 있음을 인정한다. 프랑스의 유명 사진작가 앙리 카르티에 브레송(Henri Cartier-Bresson)은 '행운(luck)'이야말로 가장 결정적인 요인이었음을 솔직히 시인했다.\n* **핵심 어휘 및 구문**:\n  * `objective records`: 객관적 기록물\n  * `beauty comes from the time and place`: 아름다움은 피사체와 현장 자체에서 기인함\n  * `sophisticated equipment`: 고가의 정교한 장비 의존성\n  * `Henri Cartier-Bresson`: '결정적 순간'의 대가조차 행운(luck)이 가장 중요함을 인정",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Finally, photography is so widely used for practical functions that have little or nothing to do with art, such as police work, advertising, and news reporting, that it cannot claim to be made for aesthetic purposes alone.",
+              "kr": "[비예술적 실용 기능의 지배성: 경찰 수사, 광고, 보도] 마지막으로, 사진은 경찰 수사 업무, 상업 광고, 뉴스 보도 등 예술과는 거의 또는 전혀 무관한 실용적인 기능(practical functions)에 너무나 광범위하게 사용되고 있기 때문에, 오로지 미학적인 목적(aesthetic purposes alone)만을 위해 제작된다고 주장할 수는 없다.\n* **핵심 어휘 및 구문**:\n  * `have little or nothing to do with`: ~와 거의 또는 전혀 관련이 없다\n  * `police work, advertising, news reporting`: 비미학적·기록적 실용 용도의 대표 예시",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] People have argued whether photography is art ever since the first photographers shared their work. A photographer may make the same aesthetic choices as a fine artist: subject matter, lighting, color, or even a theme or message. However, cameras can also be purely functional tools, capturing visual records and presenting information. Photography is a medium that can be used to make art, but that does not mean that all photography is art.",
+              "kr": "[결론: 사진의 이중적 속성과 매체적 본질] 최초의 사진가들이 자신의 작품을 세상과 공유한 이래로 사람들은 사진이 예술인가에 대해 끝없이 논쟁해 왔다. 사진작가는 순수 예술가와 마찬가지로 피사체 선정, 조명, 색상, 심지어 주제나 메시지와 같은 동일한 미적 선택을 내릴 수 있다. 그러나 카메라는 시각적 기록을 포착하고 정보를 전달하는 순수하게 기능적인 도구(purely functional tools)가 될 수도 있다. 요컨대 사진은 '예술을 만들기 위해 사용될 수 있는 매체(medium)'이지만, 그것이 '모든 사진이 곧 예술'임을 의미하는 것은 아니다.\n* **핵심 어휘 및 구문**:\n  * `aesthetic choices`: 소재, 조명, 색상, 메시지 선택\n  * `purely functional tools`: 순수 기능적 기록 도구로서의 카메라\n  * `a medium that can be used to make art`: 사진은 예술 창작의 매체일 뿐, 모든 사진이 예술은 아님",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "[기말] Unit 7 Language Development: Paraphrasing & Art Adjectives (p.136~137)",
+          "short_title": "[기말] U7 언어개발",
+          "sentences": [
+            {
+              "zh": "[Unit 7 p.136 Academic Paraphrasing 11대 보고 동사 (Reporting Verbs)]\n1. state (진술하다, 명시하다) / say (말하다)\n2. feel (생각하다, 느끼다) / insist (강력히 주장하다)\n3. believe (믿다, 확신하다) / point out (지적하다, 짚어내다)\n4. emphasize (강조하다) / maintain (일관되게 주장하다)\n5. deny (부인하다, 거부하다) / suggest (시사하다, 제안하다)\n6. theorize (이론화하다, 학설을 세우다)",
+              "kr": "[학술 패러프레이징의 핵심 전략: 원문 직인용을 탈피하고 보고 동사로 바꿔 쓰기]\n• 패러프레이징 3대 핵심 원칙:\n  1) 동의어 및 반의어를 활용하여 단어 교체하기\n  2) 품사를 전환하거나 문장 구조 바꾸기\n  3) 핵심 아이디어는 보존하되 보고 동사를 적절히 결합하기\n• 교재 136페이지 실전 적용 예시:\n  - 원문: \"The chief enemy of creativity is 'good' sense.\" —Pablo Picasso\n  - 패러프레이즈: Pablo Picasso [felt] that doing things in the usual, sensible way was the main obstacle to imaginative art.\n  - 문항 정답: The superintendent [insisted] that art should be part of the curriculum.",
+              "py": ""
+            },
+            {
+              "zh": "[Unit 7 p.137 Art and Design Adjectives 예술·디자인 핵심 형용사 8선]\n1. abstract: relating to ideas, not physical things (추상적인)\n2. avant-garde: relating to ideas and styles that are very original and modern (전위적인, 아방가르드)\n3. decorative: made to look attractive (장식적인)\n4. expressive: showing what somebody thinks or feels (표현력이 풍부한)\n5. figurative: showing people or things in a similar way to real life (구상적인, 현실을 묘사하는)\n6. lifelike: looks very real (실물과 똑같은, 생생한)\n7. monumental: very big (기념비적인, 엄청나게 거대한)\n8. moving: causing strong feelings of sadness or sympathy (감동적인, 가슴을 뭉클하게 하는)",
+              "kr": "[전 분반 100% 출제 지정: 예술·디자인 8대 형용사 교재 137페이지 문장 적용 정답]\n1. The [monumental] bronze sculpture weighs seven tons. (7톤짜리 거대한 청동 조각상)\n2. It was a(n) [moving] performance that left many people in tears. (관객들을 눈물짓게 만든 감동적인 공연)\n3. I think art is purely [decorative]. It is only there to look nice. (단지 보기 좋으라고 걸어둔 순수하게 장식적인 그림)\n4. The tiger sculpture was so [lifelike] that people were a little scared by it. (실물처럼 너무나 생생해서 무서웠던 호랑이 조각상)\n5. Her work was very [avant-garde]; her ideas took years for people to accept as normal. (사람들이 받아들이는 데 수년이 걸린 전위적인 작품)\n6. [Abstract] art can look easy to produce because there are no realistic images. (사실적인 묘사가 없어 쉬워 보이는 추상 예술)\n7. He was interested in [figurative] art and produced many realistic portraits of people. (현실의 사람들을 사실적으로 묘사한 구상 미술)\n8. The paint was applied quickly to the picture in a(n) [expressive] and emotional way. (감정적이고 표현력이 풍부한 방식으로 칠해진 유화)",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "[기말] Unit 8 Reading 1: The Social and Economic Impact of Aging (고령화의 사회·경제적 파급)",
+          "short_title": "[기말] U8 R1 고령화영향",
+          "sentences": [
+            {
+              "zh": "[Q1 & Q2] What exactly does aging mean? It means the population in many countries is, on average, getting older. Incredibly, in the last 50 years, average life expectancy in wealthier countries has increased by half, and this trend is expected to continue. What impact is this aging process likely to have globally? Well, obviously it is a good thing that people are living longer, but as a result of these changes, there are a number of issues that have to be dealt with.",
+              "kr": "[고령화의 정의와 기대 수명의 비약적 증가] Q: 고령화(aging)란 정확히 무엇을 의미하는가? A: 그것은 수많은 국가에서 인구가 평균적으로 점점 더 나이 들어가는 것을 의미한다. 놀랍게도 지난 50년 동안 부유한 국가들의 평균 기대 수명(average life expectancy)은 절반(50%)이나 증가했으며, 이러한 추세는 앞으로도 지속될 것으로 예상된다. Q: 이러한 고령화 과정이 전 세계적으로 어떤 영향을 미칠 것으로 보이는가? A: 사람들이 더 오래 산다는 것은 분명 좋은 일이지만, 이러한 변화의 결과로 다루어져야만 하는 수많은 문제들이 발생한다.\n* **핵심 어휘 및 구문**:\n  * `average life expectancy`: 평균 기대 수명 (지난 50년간 50% 급증)\n  * `issues that have to be dealt with`: 해결되어야 할 사회적 난제들",
+              "py": ""
+            },
+            {
+              "zh": "[Q3: For example?] In certain countries, an increasing number of older people are living by themselves, often without any relatives living nearby. Some older people are simply unable to take care of themselves, and others can only do so if their houses are specially adapted. Likewise, they may be unable to go shopping or wash themselves, and so they need someone, perhaps a professional, to help. And, of course, older people need social activities as well.",
+              "kr": "[독거노인의 증가와 주거 개조 및 돌봄의 필요성] Q: 구체적인 예를 든다면? A: 특정 국가들에서는 점점 더 많은 수의 노인들이 근처에 사는 친척도 없이 홀로 독거하고 있다. 어떤 노인들은 단순히 스스로를 돌볼 수 없으며, 또 다른 이들은 자신들의 집이 노인 맞춤형으로 특수하게 개조(specially adapted)되어야만 일상생활이 가능하다. 마찬가지로 그들은 장을 보러 가거나 스스로 몸을 씻을 수 없을 수도 있어, 전문 간병인과 같은 누군가의 도움을 필요로 한다. 그리고 당연하게도 노인들에게는 사회적 활동 역시 필요하다.\n* **핵심 어휘 및 구문**:\n  * `living by themselves`: 독거노인의 급증\n  * `specially adapted`: 문턱 제거, 안전 손잡이 설치 등 고령자 맞춤 특수 개조",
+              "py": ""
+            },
+            {
+              "zh": "[Q4: How are societies adapting?] Supermarkets, for example, have introduced more home delivery services, which have been particularly beneficial for older people. In addition, there has been significant growth in companies providing services that would traditionally have been undertaken by relatives. This includes private nursing care and 'meals-on-wheels' services, which deliver food to your door.",
+              "kr": "[사회의 적응: 가정 배달과 전문 간호 및 식사 배달 서비스] Q: 사회는 이에 어떻게 적응하고 있는가? A: 예를 들어 슈퍼마켓들은 더 많은 가정 배송 서비스(home delivery services)를 도입했으며, 이는 고령층에게 대단히 유익했다. 아울러 전통적으로 친척(가족)들에 의해 수행되었을 서비스들을 대신 제공하는 기업들이 크게 성장했다. 여기에는 민간 전문 간호 돌봄(private nursing care)과 집 앞까지 음식을 배달해 주는 '식사 배달(meals-on-wheels)' 서비스가 포함된다.\n* **핵심 어휘 및 구문**:\n  * `home delivery services`: 식료품 방문 배송 서비스\n  * `traditionally undertaken by relatives`: 전통적으로 자녀·친척이 도맡던 효도 돌봄의 상업화/사회화\n  * `meals-on-wheels`: 거동이 불편한 고령층 대상 도시락 순회 배달 복지 서비스",
+              "py": ""
+            },
+            {
+              "zh": "[Q5: Economic impact] Although it is not a problem yet, many governments are worried about the economic impact of an aging population. With fewer people working and paying taxes, it is obvious that governments will have less money to pay for things like health and education.",
+              "kr": "[경제적 파급 효과: 세수 감소와 재정적 압박] Q: 고령화의 영향이 뚜렷하게 관찰되는 다른 영역이 있는가? A: 아직 당장 눈앞의 치명적 문제는 아닐지라도, 수많은 정부들은 고령화 인구의 경제적 파급 효과를 깊이 우려하고 있다. 일하고 세금을 납부하는 인구(working and paying taxes)는 줄어들고 있으므로, 정부가 보건 의료나 공교육과 같은 공공 서비스에 지출할 수 있는 재정이 줄어들 것이 자명하기 때문이다.\n* **핵심 어휘 및 구문**:\n  * `fewer people working and paying taxes`: 생산가능인구 및 납세 인구 감소\n  * `less tax revenue for health and education`: 복지 수요는 급증하는데 정부 세수는 감소하는 재정 역전 현상",
+              "py": ""
+            },
+            {
+              "zh": "[Q6: Advantages of an older population] In countries where the percentage of children is lower, there are fewer education costs. In more developed countries, older people tend to have more savings and more leisure time. They might spend time online, or travel, or even go back to school. Of course, older people do have a lot of experience, and if they can, some continue working in a voluntary capacity after they retire. This kind of activity adds a lot to society.",
+              "kr": "[고령화 사회의 긍정적 기여: 교육비 절감, 풍부한 여가 소비, 은퇴 후 자원봉사] Q: 고령 인구가 가져다줄 수 있는 장점은 무엇인가? A: 아동의 비율이 더 낮은 국가에서는 공교육 지출 비용이 감소한다. 선진국에서 고령층은 더 많은 저축(savings)과 더 많은 여가 시간(leisure time)을 보유하는 경향이 있다. 그들은 온라인에서 시간을 보내거나, 여행을 다니거나, 심지어 대학으로 돌아가 만학도가 될 수도 있다. 물론 노인들은 막대한 인생 경험을 가지고 있으며, 능력이 닿는다면 은퇴 후 자원봉사의 자격(voluntary capacity)으로 계속 사회에 기여한다. 이러한 유형의 활동은 우리 사회에 막대한 가치를 더해 준다.\n* **핵심 어휘 및 구문**:\n  * `more savings and leisure time`: 실버 세대의 구매력과 여가 소비\n  * `voluntary capacity after they retire`: 은퇴 후 자원봉사자로서의 사회적 재기여",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "[기말] Unit 8 Reading 2: Saudi Arabia: The Realities of a Young Society (청년 사회 사우디아라비아)",
+          "short_title": "[기말] U8 R2 청년사회사우디",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] There is a well-documented problem with the aging of the global population, but there are also areas of the world where demographics are very different. In many parts of the Middle East and North Africa, there is a much higher proportion of young people. The Kingdom of Saudi Arabia, a country of over 30 million people, is one such place. This reality has brought special challenges to the Kingdom in a number of different areas such as education, housing, and the economy.",
+              "kr": "[세계적 고령화와 대비되는 중동의 청년 인구 급증] 전 세계 인구의 고령화에 대해서는 수많은 자료가 입증하고 있지만, 인구통계학적 구조(demographics)가 이와 전혀 판이한 지역들도 세상에 존재한다. 중동과 북아프리카의 수많은 지역에서는 젊은 층의 비율이 훨씬 높다. 3천만 명이 넘는 인구를 가진 사우디아라비아 왕국이 바로 그러한 대표적 장소이다. 이러한 인구통계적 현실은 교육, 주택, 국가 경제 등 다양한 분야에서 왕국에 독특하고 특별한 난제들을 안겨주었다.\n* **핵심 어휘 및 구문**:\n  * `well-documented problem`: 충분히 입증되고 문서화된 문제\n  * `demographics`: 인구통계학적 특성 및 구조\n  * `proportion of young people`: 높은 청년층 비율",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] The population graph shows the population of men and women in Saudi Arabia and their age ranges in 2016. The graph shows Saudi Arabia has a very young population. Upon close analysis, it can be seen that about 27% of the population is age 14 and under, and approximately 19% of the total population is between the ages of 15 and 24. The number of Saudis in their mid-twenties to mid-thirties is particularly high, with almost one in five of the total population falling within just this ten-year age range. In the United States the median age is 38, in the United Kingdom it is 40, in Italy it is 45, and in Japan it is 47. Contrast this with youthful Saudi Arabia, where the median age is 27.",
+              "kr": "[인구 피라미드 분석: 중위 연령 27세의 젊은 국가] 2016년 인구 그래프는 사우디아라비아의 남녀 인구와 연령대를 보여준다. 그래프는 사우디아라비아가 매우 젊은 인구 구조를 가지고 있음을 극명히 나타낸다. 정밀 분석 결과 전체 인구의 약 27%가 14세 이하이며, 약 19%가 15세에서 24세 사이에 속한다. 특히 20대 중반에서 30대 중반 사이의 사우디인 수가 매우 많아서, 전체 인구의 5명 중 거의 1명이 바로 이 10년이라는 좁은 연령대에 집중되어 있다. 미국의 중위 연령(median age)은 38세, 영국은 40세, 이탈리아는 45세, 일본은 47세이다. 중위 연령이 단 27세에 불과한 젊은 사우디아라비아와 극명한 대조를 이룬다.\n* **핵심 어휘 및 구문**:\n  * `median age`: 중위 연령 (사우디 27세 vs 미국 38세 vs 일본 47세)\n  * `one in five`: 5명 중 1명이 20대 중반~30대 중반에 포진",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] The high percentage of children and young people means that Saudi Arabia's education costs are high. Education is a priority for the Kingdom. A recent report showed that education receives 25% of the government's annual budget, making the country's education spending one of the highest in the world. As a result of its demographic profile, the government has been leading a university expansion program to cope with the large number of college-aged students moving through the school system every year.",
+              "kr": "[국가 예산의 25%가 투입되는 교육비와 대학 확장 정책] 아동과 청년의 높은 비율은 사우디아라비아의 교육비 지출이 막대함을 의미한다. 교육은 왕국의 최우선 순위이다. 최근 보고서에 따르면 교육 부문은 정부 연간 예산의 무려 25%(4분의 1)를 배정받고 있으며, 이는 사우디의 교육비 지출을 세계 최고 수준 중 하나로 만든다. 이러한 인구통계학적 특성으로 인해 사우디 정부는 매년 정규 교육 과정을 거쳐 진학하는 막대한 수의 대학생들을 수용하기 위해 전면적인 대학 확장 프로그램(university expansion program)을 주도해 오고 있다.\n* **핵심 어휘 및 구문**:\n  * `receives 25% of annual budget`: 연간 국가 예산의 25%가 교육에 투입됨\n  * `university expansion program`: 대규모 대학 정원 및 캠퍼스 확장 프로그램",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] This also has an impact on employment opportunities for young people. Youth unemployment could well become the Kingdom's biggest social challenge in the coming years. These days, the unemployment rate for Saudis between the ages of 16 and 29 is 29%. Unless Saudi Arabia's government can provide enough public-sector jobs, or attract more private-sector employers, more budget expenditure will be needed for unemployment benefits.",
+              "kr": "[청년 실업률 29%와 고용 창출의 중대 도전] 이러한 청년 인구 폭증은 젊은이들의 취업 기회에도 막대한 영향을 미친다. 청년 실업(Youth unemployment)은 다가오는 수년 동안 왕국의 가장 거대한 사회적 난제가 될 공산이 크다. 최근 16세에서 29세 사이 사우디 청년층의 실업률은 29%에 달한다. 사우디 정부가 충분한 공공 부문 일자리(public-sector jobs)를 제공하거나, 더 많은 민간 기업 고용주들을 유치하지 못한다면, 실업 수당(unemployment benefits) 지급을 위해 훨씬 더 많은 국가 재정 지출이 요구될 것이다.\n* **핵심 어휘 및 구문**:\n  * `youth unemployment rate: 29%`: 16~29세 청년 실업률 29%의 위기\n  * `public-sector vs private-sector jobs`: 공공 부문 및 민간 부문 고용 창출 딜레마",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] There is a similar challenge in terms of housing, with more demand than supply. This is a particular problem in places such as Jeddah, Saudi Arabia's second-largest city. Jeddah is on the coast, with a mountain range to the east, and outward expansion is geographically impossible. As a consequence, houses have become more expensive, and young people may be unable to buy their own homes.",
+              "kr": "[주택 수요 초과와 제다시의 지리적 한계로 인한 집값 폭등] 주택 분야에서도 공급보다 수요가 훨씬 많은 유사한 난제가 발생하고 있다. 이는 사우디 제2의 대도시인 제다(Jeddah)와 같은 곳에서 특히 심각한 문제이다. 제다는 해안가에 위치하며 동쪽으로는 거대한 산맥이 가로막고 있어 지리적으로 외곽 확장이 불가능하다. 그 결과 주택 가격은 엄청나게 비싸졌고, 젊은이들은 자신의 집을 마련할 수 없게 되었다.\n* **핵심 어휘 및 구문**:\n  * `more demand than supply`: 주택 수요가 공급을 압도\n  * `Jeddah`: 서쪽은 바다, 동쪽은 산맥으로 둘러싸여 도시 외곽 팽창이 불가능한 지리적 병목 도시",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 6] Although Saudi Arabia faces several challenges in terms of education, employment, and housing as a result of its young population, it does not have to cope with the demands of an aging population. Because the country has relatively fewer old people than the places mentioned earlier, the costs of health care and pensions are lower. This will allow more funds to be allocated to improving the lives of young people.",
+              "kr": "[청년 사회의 궁극적 이점: 연금 및 의료비 부담 경감] 사우디아라비아가 청년 인구로 인해 교육, 고용, 주택 측면에서 여러 도전에 직면해 있을지라도, 고령화 인구가 수반하는 부담을 겪지 않아도 된다는 거대한 장점이 있다. 사우디는 앞서 언급된 고령 국가들에 비해 노인 인구 비율이 상대적으로 낮기 때문에, 공공 의료비와 연금(pensions) 지출 비용이 훨씬 적다. 이를 통해 절감된 국부 재정은 청년들의 삶을 개선하는 데 훨씬 더 많이 배정(allocated)될 수 있을 것이다.\n* **핵심 어휘 및 구문**:\n  * `does not have to cope with aging demands`: 고령화 위기 면제\n  * `costs of health care and pensions are lower`: 의료비 및 공적 연금 재정 부담 최소화\n  * `funds allocated to young people`: 청년 역량 강화에 재정 집중 투입 가능",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "[기말] Unit 8 Language Development: Collocations & Prediction (p.154~155)",
+          "short_title": "[기말] U8 언어개발",
+          "sentences": [
+            {
+              "zh": "[Unit 8 p.154 Academic Collocations with Prepositions 전치사 연어 8그룹]\n1. in brief (요컨대, 간단히 말해서)\n2. in theory (이론상으로는)\n3. focus on (집중하다, 초점을 맞추다)\n4. sum up (요약하다, 결론짓다)\n5. identify with (동질감을 느끼다, 공감하다)\n6. range of (~의 범위, 다양한)\n7. rely on (의존하다, 기대다)\n8. in contrast (그에 반해서, 대조적으로)",
+              "kr": "[교재 154페이지 실전 문장 빈칸 정답]\n1. Countries may encounter financial challenges when an increasing number of older people have to [rely on] the government for support. (정부 지원에 의존해야 할 때)\n2. Countries with a younger population have high education costs. [In contrast], those with an older population have to spend more on health care. (대조적으로 고령 인구 국가는 의료비 지출이 큼)\n3. There is a wide [range of] voluntary work opportunities for retired people. (은퇴자를 위한 폭넓은 자원봉사 기회)\n4. There is a tendency to [focus on] the problems faced by the elderly, not their valuable contribution to society. (노인의 사회적 기여가 아닌 당면 문제에만 초점을 맞추는 경향)\n5. [In brief], the major problem an aging population will face is how to fund health care. (요컨대, 고령화의 최대 과제는 의료비 재원 마련)\n6. While many strategies may seem to work [in theory], when put into action, they rarely succeed. (이론상으로는 그럴듯해 보이지만 실천하면 실패하는 전략)\n7. It might be difficult for citizens of aging countries to [identify with] the challenges of countries with younger populations. (젊은 인구 국가의 고충에 깊이 공감하기 어려움)\n8. To [sum up], this report's key recommendation is more educational opportunities for seniors. (요약하자면, 60세 이상을 위한 교육 기회 확대)",
+              "py": ""
+            },
+            {
+              "zh": "[Unit 8 p.155 Language of Prediction 미래 예측 학술 표현 7선]\n1. There is likely to be (있을 가능성이 높다)\n2. There may be (~일 수도 있다)\n3. The number of ... is projected to (전망되다, 추산되다)\n4. The population is set to (~하도록 확정되어 있다, 예정되다)\n5. We are unlikely to see (목격할 가능성이 낮다)\n6. Unemployment is expected to (예상되다)\n7. Food prices are predicted to (예측되다)",
+              "kr": "[교재 155페이지 미래 예측 구문 1:1 패러프레이즈]\n1. The population will increase in the future. -> The population is [likely to] increase in the future.\n2. Oil prices will come down this year. -> Oil prices [may] come down this year.\n3. Unemployment will remain at the same level. -> Unemployment is [predicted to] remain at the same level.\n4. The cost of living will rise over the decade. -> The cost of living is [set to] rise over the decade.\n5. There will be more competition for spots. -> Competition is [expected to] intensify.",
+              "py": ""
+            }
+          ]
         }
       ],
       "vocab": [
@@ -2085,6 +2252,286 @@ var HUFS_DATA = {
           "kr": "활용하다, 실용적으로 사용하다 (= use) — formal academic verb meaning 'use' effectively",
           "level": "🔥 Unit 6 p.119",
           "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "aesthetic",
+          "zh": "aesthetic",
+          "pos": "adj",
+          "meaning": "미적인, 심미적인 - 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+          "py": "[adj] 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+          "kr": "미적인, 심미적인 - 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 미적인, 심미적인"
+        },
+        {
+          "word": "conceptual",
+          "zh": "conceptual",
+          "pos": "adj",
+          "meaning": "개념적인, 아이디어에 기반한 - 개념적인, 개념에 기반한 - based on ideas or principles",
+          "py": "[adj] 개념적인, 개념에 기반한 - based on ideas or principles",
+          "kr": "개념적인, 아이디어에 기반한 - 개념적인, 개념에 기반한 - based on ideas or principles",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 개념적인, 아이디어에 기반한"
+        },
+        {
+          "word": "contemporary",
+          "zh": "contemporary",
+          "pos": "adj",
+          "meaning": "현대의, 동시대의 - 현대의, 동시대의 - existing or happening now",
+          "py": "[adj] 현대의, 동시대의 - existing or happening now",
+          "kr": "현대의, 동시대의 - 현대의, 동시대의 - existing or happening now",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 현대의, 동시대의"
+        },
+        {
+          "word": "distinction",
+          "zh": "distinction",
+          "pos": "n",
+          "meaning": "차이점, 명확한 구별 - 차이, 구별 - a difference between similar things",
+          "py": "[n] 차이, 구별 - a difference between similar things",
+          "kr": "차이점, 명확한 구별 - 차이, 구별 - a difference between similar things",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: n · 한국어: 차이점, 명확한 구별"
+        },
+        {
+          "word": "established",
+          "zh": "established",
+          "pos": "adj",
+          "meaning": "확립된, 사회적으로 인정된 - 확립된, 공인된 - generally accepted or familiar",
+          "py": "[adj] 확립된, 공인된 - generally accepted or familiar",
+          "kr": "확립된, 사회적으로 인정된 - 확립된, 공인된 - generally accepted or familiar",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 확립된, 사회적으로 인정된"
+        },
+        {
+          "word": "notion",
+          "zh": "notion",
+          "pos": "n",
+          "meaning": "관념, 개념, 통념 - 관념, 생각, 통념 - a belief or idea",
+          "py": "[n] 관념, 생각, 통념 - a belief or idea",
+          "kr": "관념, 개념, 통념 - 관념, 생각, 통념 - a belief or idea",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: n · 한국어: 관념, 개념, 통념"
+        },
+        {
+          "word": "significance",
+          "zh": "significance",
+          "pos": "n",
+          "meaning": "중요성, 의의 - 중요성, 의의 - the importance or meaning of something",
+          "py": "[n] 중요성, 의의 - the importance or meaning of something",
+          "kr": "중요성, 의의 - 중요성, 의의 - the importance or meaning of something",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: n · 한국어: 중요성, 의의"
+        },
+        {
+          "word": "unauthorized",
+          "zh": "unauthorized",
+          "pos": "adj",
+          "meaning": "허가받지 않은, 무단의 - 공식 허가 없는, 무단의 - without official permission",
+          "py": "[adj] 공식 허가 없는, 무단의 - without official permission",
+          "kr": "허가받지 않은, 무단의 - 공식 허가 없는, 무단의 - without official permission",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 허가받지 않은, 무단의"
+        },
+        {
+          "word": "analogous",
+          "zh": "analogous",
+          "pos": "adj",
+          "meaning": "유사한, 비슷한 - 유사한, 상응하는 - similar in some way to another situation",
+          "py": "[adj] 유사한, 상응하는 - similar in some way to another situation",
+          "kr": "유사한, 비슷한 - 유사한, 상응하는 - similar in some way to another situation",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 유사한, 비슷한"
+        },
+        {
+          "word": "banal",
+          "zh": "banal",
+          "pos": "adj",
+          "meaning": "진부한, 평범한 - 진부한, 평범한 - boring, ordinary, and not original",
+          "py": "[adj] 진부한, 평범한 - boring, ordinary, and not original",
+          "kr": "진부한, 평범한 - 진부한, 평범한 - boring, ordinary, and not original",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 진부한, 평범한"
+        },
+        {
+          "word": "abstract",
+          "zh": "abstract",
+          "pos": "adj",
+          "meaning": "추상적인 - 추상적인 - relating to ideas, not physical things",
+          "py": "[adj] 추상적인 - relating to ideas, not physical things",
+          "kr": "추상적인 - 추상적인 - relating to ideas, not physical things",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 추상적인"
+        },
+        {
+          "word": "avant-garde",
+          "zh": "avant-garde",
+          "pos": "adj",
+          "meaning": "전위적인, 매우 혁신적인 - 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+          "py": "[adj] 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+          "kr": "전위적인, 매우 혁신적인 - 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 전위적인, 매우 혁신적인"
+        },
+        {
+          "word": "decorative",
+          "zh": "decorative",
+          "pos": "adj",
+          "meaning": "장식용의, 장식적인 - 장식적인 - made to look attractive",
+          "py": "[adj] 장식적인 - made to look attractive",
+          "kr": "장식용의, 장식적인 - 장식적인 - made to look attractive",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 장식용의, 장식적인"
+        },
+        {
+          "word": "expressive",
+          "zh": "expressive",
+          "pos": "adj",
+          "meaning": "표현력이 풍부한 - 표현력이 풍부한 - showing what somebody thinks or feels",
+          "py": "[adj] 표현력이 풍부한 - showing what somebody thinks or feels",
+          "kr": "표현력이 풍부한 - 표현력이 풍부한 - showing what somebody thinks or feels",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 표현력이 풍부한"
+        },
+        {
+          "word": "figurative",
+          "zh": "figurative",
+          "pos": "adj",
+          "meaning": "구상적인, 실물에 가까운 - 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+          "py": "[adj] 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+          "kr": "구상적인, 실물에 가까운 - 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 구상적인, 실물에 가까운"
+        },
+        {
+          "word": "lifelike",
+          "zh": "lifelike",
+          "pos": "adj",
+          "meaning": "실물과 똑같은, 생생한 - 실물과 똑같은, 생생한 - looks very real",
+          "py": "[adj] 실물과 똑같은, 생생한 - looks very real",
+          "kr": "실물과 똑같은, 생생한 - 실물과 똑같은, 생생한 - looks very real",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 실물과 똑같은, 생생한"
+        },
+        {
+          "word": "monumental",
+          "zh": "monumental",
+          "pos": "adj",
+          "meaning": "기념비적인, 거대한 - 기념비적인, 엄청나게 거대한 - very big",
+          "py": "[adj] 기념비적인, 엄청나게 거대한 - very big",
+          "kr": "기념비적인, 거대한 - 기념비적인, 엄청나게 거대한 - very big",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 기념비적인, 거대한"
+        },
+        {
+          "word": "moving",
+          "zh": "moving",
+          "pos": "adj",
+          "meaning": "감동적인, 가슴 뭉클한 - 감동적인 - causing strong feelings of sadness or sympathy",
+          "py": "[adj] 감동적인 - causing strong feelings of sadness or sympathy",
+          "kr": "감동적인, 가슴 뭉클한 - 감동적인 - causing strong feelings of sadness or sympathy",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 감동적인, 가슴 뭉클한"
+        },
+        {
+          "word": "demographic",
+          "zh": "demographic",
+          "pos": "adj",
+          "meaning": "인구통계학적인 - 인구통계학의 - relating to the structure of populations",
+          "py": "[adj] 인구통계학의 - relating to the structure of populations",
+          "kr": "인구통계학적인 - 인구통계학의 - relating to the structure of populations",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: adj · 한국어: 인구통계학적인"
+        },
+        {
+          "word": "expectancy",
+          "zh": "expectancy",
+          "pos": "n",
+          "meaning": "기대 (life expectancy: 기대 수명) - 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+          "py": "[n] 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+          "kr": "기대 (life expectancy: 기대 수명) - 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 기대 (life expectancy: 기대 수명)"
+        },
+        {
+          "word": "beneficial",
+          "zh": "beneficial",
+          "pos": "adj",
+          "meaning": "유익한, 도움이 되는 - 유익한, 이로운 - helpful, useful, or good",
+          "py": "[adj] 유익한, 이로운 - helpful, useful, or good",
+          "kr": "유익한, 도움이 되는 - 유익한, 이로운 - helpful, useful, or good",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: adj · 한국어: 유익한, 도움이 되는"
+        },
+        {
+          "word": "undertaken",
+          "zh": "undertaken",
+          "pos": "v",
+          "meaning": "수행하다, 도맡다 - 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+          "py": "[v] 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+          "kr": "수행하다, 도맡다 - 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: v · 한국어: 수행하다, 도맡다"
+        },
+        {
+          "word": "capacity",
+          "zh": "capacity",
+          "pos": "n",
+          "meaning": "자격, 지위 (in a voluntary capacity: 자원봉사 자격으로) - 역량, 자격, 지위 - a particular position or job",
+          "py": "[n] 역량, 자격, 지위 - a particular position or job",
+          "kr": "자격, 지위 (in a voluntary capacity: 자원봉사 자격으로) - 역량, 자격, 지위 - a particular position or job",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 자격, 지위 (in a voluntary capacity: 자원봉사 자격으로)"
+        },
+        {
+          "word": "proportion",
+          "zh": "proportion",
+          "pos": "n",
+          "meaning": "비율, 비중 - 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+          "py": "[n] 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+          "kr": "비율, 비중 - 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 비율, 비중"
+        },
+        {
+          "word": "median",
+          "zh": "median",
+          "pos": "adj",
+          "meaning": "중위의 (median age: 중위 연령) - 중위의, 중앙값의 - the median value is the middle value in a series of values",
+          "py": "[adj] 중위의, 중앙값의 - the median value is the middle value in a series of values",
+          "kr": "중위의 (median age: 중위 연령) - 중위의, 중앙값의 - the median value is the middle value in a series of values",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: adj · 한국어: 중위의 (median age: 중위 연령)"
+        },
+        {
+          "word": "unemployment",
+          "zh": "unemployment",
+          "pos": "n",
+          "meaning": "실업 (youth unemployment: 청년 실업) - 실업, 실업률 - the number of people who do not have a job",
+          "py": "[n] 실업, 실업률 - the number of people who do not have a job",
+          "kr": "실업 (youth unemployment: 청년 실업) - 실업, 실업률 - the number of people who do not have a job",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 실업 (youth unemployment: 청년 실업)"
+        },
+        {
+          "word": "expenditure",
+          "zh": "expenditure",
+          "pos": "n",
+          "meaning": "정부 지출, 경비 - 지출, 경비 - the total amount of money that a government or person spends",
+          "py": "[n] 지출, 경비 - the total amount of money that a government or person spends",
+          "kr": "정부 지출, 경비 - 지출, 경비 - the total amount of money that a government or person spends",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 정부 지출, 경비"
+        },
+        {
+          "word": "allocate",
+          "zh": "allocate",
+          "pos": "v",
+          "meaning": "배정하다, 할당하다 - 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+          "py": "[v] 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+          "kr": "배정하다, 할당하다 - 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: v · 한국어: 배정하다, 할당하다"
         }
       ],
       "qa": [
@@ -6272,6 +6719,168 @@ var HUFS_DATA = {
               "kr": "결론적으로, 온라인 네트워크와 현실의 우정 모두 사람들을 연결해 주지만, 진정한 정서적 행복을 위해서는 대면 관계가 결코 대체될 수 없습니다. 온라인 플랫폼은 빠른 상호작용을 주지만, 대면 유대감은 깊은 감정 인식을 쌓아주고, 친구들이 갈등을 극복하도록 도우며, 사회적 지위보다 진짜 솔직함을 소중히 여깁니다. 기술은 일상적인 소통을 위한 유용한 도구 역할을 해야 하지만, 진정한 행복은 현실 관계의 따뜻함에 달려 있습니다. 대학생들에게 대면 우정을 소중히 여기는 것은 행복하고 균형 잡힌 삶을 살아가는 데 필수적입니다."
             }
           ]
+        },
+        {
+          "id": 5,
+          "title": "[기말] Unit 6: For All Humankind (모두를 위한 제품 디자인 - 우주복과 포용성)",
+          "short_title": "[기말] U6 제품디자인",
+          "sentences": [
+            {
+              "zh": "[Paragraph A & B] Spacesuits are vital to the success of space travel. Without them, the change in pressure in space could cause your lungs to burst and gases to bubble out of your blood. They are also uncomfortable to wear and difficult to move around in. Astronauts are constantly working against internal air pressure. Wearing one is a bit like trying to move around inside a balloon.",
+              "kr": "[우주복의 필수성과 착용의 극심한 불편함] 우주복은 우주여행의 성공에 절대적으로 중요하다(vital). 우주복이 없다면 우주 공간의 급격한 압력 변화로 인해 폐가 파열되고 혈액 속에서 기체 방울이 끓어오를 수 있다. 또한 우주복은 착용하기에 대단히 불편하고 안에서 돌아다니기(움직이기)가 매우 어렵다. 우주비행사들은 우주복 내부의 공기 압력에 맞서 지속적으로 힘을 써야 한다. 우주복을 입는 것은 부풀려진 풍선 내부에서 움직이려고 애쓰는 것과 다소 비슷하다.\n* **핵심 어휘 및 구문**:\n  * `vital to`: ~에 절대적으로 중요한\n  * `lungs to burst and gases to bubble out`: 압력 저하 시의 신체 치명적 위험\n  * `working against internal air pressure`: 팽창된 내부 공기압에 저항하는 육체적 피로",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C & D] 'Everything you're doing seems to be pushing back against you,' says Cathleen Lewis, who is in charge of spacesuits and international space programs at the Smithsonian's National Air and Space Museum. Astronauts must spend many grueling hours conducting experiments and making repairs, and even in a well-fitted suit, they might finish spacewalks with various minor injuries. As NASA has warned: 'Space travel is not for the meek.' Until somewhat recently, space travel has not been for women either. In fact, 90 percent of astronauts have been male. But NASA is making changes to their program—and to their spacesuits in particular—to ensure that a wider variety of people are able to contribute to space exploration.",
+              "kr": "[극한의 우주유영과 남성 중심 우주복 설계의 변화] 스미소니언 국립 항공우주 박물관에서 우주복과 국제 우주 프로그램을 총괄하는 캐슬린 루이스(Cathleen Lewis)는 '당신이 하는 모든 동작이 당신을 향해 되밀어내는 것처럼 느껴진다'라고 말한다. 우주비행사들은 실험을 수행하고 장비를 수리하며 녹초가 되는(grueling) 긴 시간을 보내야 하며, 몸에 잘 맞는 우주복을 입더라도 다양한 경미한 부상을 입은 채 우주유영(spacewalk)을 마치게 될 수도 있다. NASA가 경고했듯이 '우주여행은 유약한 사람을 위한 것이 아니다(not for the meek).' 비교적 최근까지 우주여행은 여성들을 위한 것도 아니었다. 실제로 역대 우주비행사의 90%가 남성이었다. 그러나 NASA는 더 다양한 사람들이 우주 탐사에 기여할 수 있도록 프로그램 전반, 특히 우주복의 설계 변경을 주도하고 있다.\n* **핵심 어휘 및 구문**:\n  * `grueling hours`: 녹초가 되게 만드는 고된 시간\n  * `not for the meek`: 온순하거나 유약한 자를 위한 것이 아님\n  * `90 percent of astronauts have been male`: 남성 편향적이었던 우주 프로그램 역사",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E, F & G] NASA astronauts Christina Koch and Jessica Meir made history on October 18, 2019, on the first all-woman spacewalk. They spent more than five hours outside the International Space Station on a mission to replace a part that wasn't working. The moment didn't come easily. Seven months earlier, Koch had planned to make the first all-woman spacewalk with Anne McClain, another female astronaut. However, there was only one suit available in their size. A larger size was available, so a male astronaut took McClain's spot and the historic spacewalk had to be postponed. The change upset many, but the decision—recommended by McClain herself—was logical in the situation. Fit is the most important quality in spacesuits, keeping astronauts safe and preventing them from getting too tired.",
+              "kr": "[역사적인 최초의 여성 우주유영과 사이즈 부족 사태] 2019년 10월 18일, NASA 우주비행사 크리스티나 코크(Christina Koch)와 제시카 메이어(Jessica Meir)는 최초의 전원 여성 우주유영을 완수하며 역사를 썼다. 그들은 작동하지 않는 부품을 교체하는 임무를 띠고 국제우주정거장(ISS) 외부에서 5시간 이상을 보냈다. 이 순간은 쉽게 오지 않았다. 7개월 전, 코크는 또 다른 여성 우주비행사인 앤 맥클레인(Anne McClain)과 함께 최초의 여성 우주유영을 진행할 계획이었다. 그러나 그들의 체형에 맞는 미디엄 사이즈 우주복이 단 한 벌밖에 없었다. 더 큰 사이즈는 있었으나, 맥클레인의 자리를 남성 비행사가 대신 차지했고 역사적인 우주유영은 연기되어야만 했다. 이 변경은 많은 이들을 분노하게 했으나, 맥클레인 본인이 추천한 그 결정은 당시 상황에서 논리적이었다. 몸에 딱 맞는 착용감(Fit)이야말로 비행사의 안전을 지키고 탈진을 방지하는 우주복의 가장 중요한 특성이기 때문이다.\n* **핵심 어휘 및 구문**:\n  * `first all-woman spacewalk`: 2019년 10월 18일 최초 여성 우주유영 (Christina Koch & Jessica Meir)\n  * `only one suit available in their size`: 여성용 사이즈 우주복 부족으로 인한 일정 연기 사건\n  * `Fit is the most important quality`: 생명과 직결되는 우주복의 치수 적합성",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph H & I] The spacesuit issue illustrated a more general problem: A lot of everyday products weren't initially designed with women in mind. It's usually a matter of size—for example, smartphones are often too big for women's hands. Women are also more likely to be injured in certain types of car crashes because—until recently—crash-test dummies were modeled after male bodies. And it's not only women that can be left out of design. For example, some automatic sinks have difficulty sensing darker skin. And face masks can be a poor fit for certain ethnicities due to the variety in facial structures. So, how were spacesuits designed and how will new designs consider the needs of women?",
+              "kr": "[제품 디자인의 성별·인종 배제와 포용적 디자인의 필요성] 우주복 문제는 보다 일반적인 구조적 문제를 여실히 보여주었다: 일상 속의 수많은 제품들이 애초에 여성을 염두에 두고 설계되지 않았다는 점이다. 이는 대개 크기(size)의 문제이다. 예를 들어 스마트폰은 여성들의 손에 종종 너무 크다. 또한 최근까지 충돌 시험용 인체 모형(crash-test dummies)이 남성의 신체를 본떠 제작되었기 때문에, 여성들은 특정 유형의 자동차 충돌 사고에서 부상을 입을 가능성이 더 높다. 그리고 디자인에서 배제될 수 있는 것은 비단 여성뿐만이 아니다. 예를 들어 일부 자동 감지 세면대는 어두운 피부색을 감지하는 데 어려움을 겪는다. 또한 안면 마스크는 다양한 얼굴 골격 구조로 인해 특정 인종들에게 잘 맞지 않을 수 있다. 그렇다면 과거 우주복은 어떻게 설계되었으며, 새로운 디자인은 여성들의 요구를 어떻게 반영할 것인가?\n* **핵심 어휘 및 구문**:\n  * `not initially designed with women in mind`: 여성의 신체적 특성을 배제했던 초기 산업 디자인들\n  * `crash-test dummies modeled after male bodies`: 남성 표준 더미로 인한 여성 교통사고 취약성\n  * `left out of design`: 유색인종 피부톤 센서 오류 및 마스크 규격 배제 문제",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph J & K] In the 1960s, each NASA spacesuit was specially designed for the individual wearers, who were all men. When NASA began to plan travel to the moon, the suits had to function in a different way. 'The NASA Apollo program really changed the game,' says Lewis. 'They had to design a suit that would not only operate in the vacuum of space, but also would allow astronauts to explore another world—they could get up, walk around, and be autonomous.'",
+              "kr": "[맞춤복에서 아폴로 달 착륙선용 우주복으로의 진화] 1960년대에 각 NASA 우주복은 모두 남성이었던 개별 착용자들의 몸에 맞추어 특수하게 개별 맞춤 제작(custom-made)되었다. NASA가 달 착륙 탐사를 계획하기 시작했을 때, 우주복은 전혀 다른 방식으로 기능해야만 했다. 루이스는 'NASA 아폴로 프로그램은 판도를 완전히 바꾸어 놓았다'라고 말한다. '그들은 우주의 완전한 진공(vacuum) 상태에서 작동할 뿐만 아니라, 우주비행사들이 미지의 세계를 탐험할 수 있도록—스스로 일어나 걷고 자율적으로(autonomous) 움직일 수 있는 우주복을 설계해야만 했다.'\n* **핵심 어휘 및 구문**:\n  * `Apollo program`: 달 표면 보행을 가능하게 한 자율적 우주복 설계의 도약\n  * `operate in the vacuum of space`: 완전 무공기 진공 상태에서의 가압 유지\n  * `be autonomous`: 외부 생명유지선에 묶이지 않는 자율적 기동성 확보",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph L, M & N] However, producing a unique spacesuit for each astronaut was expensive, especially in the 1970s, when more people were becoming astronauts. The spacesuits needed to be more flexible. Instead of custom-made suits, modular suits were designed. This meant the parts (arms, legs, body) could be put together in different combinations and reused by multiple astronauts. Around the same time, the first American women were accepted into the astronaut training program. That's when the differences between male and female bodies became more obvious and fit became especially challenging. NASA started making small and extra small spacesuit parts to address these differences, but they eventually had to stop to cut costs. This lack of availability of parts is what ultimately led to McClain being taken out of the March 2019 mission. To avoid repeating such a mistake, an all-new suit needed to be designed to ensure that astronauts of all shapes and sizes could go to space.",
+              "kr": "[모듈러 우주복 도입과 예산 삭감으로 인한 부품 결핍] 그러나 각 비행사를 위해 고유한 우주복을 맞춤 제작하는 것은 특히 비행사 수가 급증하던 1970년대에 너무나 값비쌌다. 우주복은 더 유연해져야 했다. 맞춤복 대신 모듈러(조립식) 우주복(modular suits)이 설계되었다. 이는 팔, 다리, 몸통 부품들을 다양한 조합으로 결합하여 여러 비행사들이 재사용할 수 있음을 의미했다. 비슷한 시기에 최초의 미국 여성들이 우주비행사 훈련 프로그램에 선발되었다. 바로 그때 남성과 여성 신체의 차이가 뚜렷해졌고 사이즈 적합성이 중대한 과제로 떠올랐다. NASA는 이러한 차이를 해소하기 위해 스몰(S) 및 엑스트라 스몰(XS) 부품 제작에 착수했으나, 예산 삭감을 위해 결국 제작을 중단해야 했다. 이러한 부품의 결핍(lack of availability)이 궁극적으로 2019년 3월 맥클레인이 우주유영 임무에서 제외되는 사태를 낳았다. 이러한 실수를 되풀이하지 않기 위해, 모든 체형과 크기의 비행사들이 우주로 나아갈 수 있도록 완전히 새로운 우주복 설계가 필요해졌다.\n* **핵심 어휘 및 구문**:\n  * `modular suits`: 부품 교체 및 재사용이 가능한 조립식 모듈러 우주복\n  * `cut costs led to lack of availability`: 예산 절감을 위해 소형 부품 생산을 중단했던 과거의 정책 과오",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph O & P] In 2022, NASA chose two private companies, Axiom Space and Collins Aerospace, to design and develop new spacesuits for the planned Artemis missions, which will see the first woman and the first person of color to explore the moon. Artemis astronauts will be on the moon longer than Apollo astronauts and could face new challenges, so they need to be able to move more easily and quickly. The new suits should provide this greater flexibility. They will also accommodate a diverse crew, considering all genders and body types. This includes anyone from 1.5 to 1.9 meters in height and 42 to 110 kilograms. 'We have to think about diversity,' says Amy Foster, a space historian at the University of Central Florida, in Scientific American. 'I don't want anybody being cut out of the opportunity to fly on Artemis because their body type doesn't fit a suit.'",
+              "kr": "[아르테미스 미션과 차세대 포용적 우주복] 2022년 NASA는 달을 탐사할 최초의 여성과 최초의 유색인종 비행사를 보게 될 아르테미스(Artemis) 임무를 위해, 액시엄 스페이스(Axiom Space)와 콜린스 에어로스페이스(Collins Aerospace) 두 민간 기업을 선정하여 차세대 우주복을 개발하도록 했다. 아르테미스 우주비행사들은 아폴로 비행사들보다 달에 더 오래 체류하며 새로운 도전에 직면할 것이므로, 더 쉽고 빠르게 움직일 수 있어야 한다. 새로운 우주복은 이러한 탁월한 유연성을 제공해야 한다. 또한 모든 성별과 신체 유형을 고려하여 다양한 대원들을 수용할(accommodate) 것이다. 이는 신장 1.5미터에서 1.9미터, 체중 42킬로그램에서 110킬로그램에 이르는 모든 체형을 포함한다. 센트럴 플로리다 대학의 우주 역사학자 에이미 포스터(Amy Foster)는 사이언티픽 아메리칸에서 이렇게 강조한다: '우리는 다양성(diversity)에 대해 생각해야만 합니다. 저는 단지 체형이 우주복에 맞지 않는다는 이유로 아르테미스에 탑승할 기회에서 배제되는 사람이 결코 없기를 바랍니다.'\n* **핵심 어휘 및 구문**:\n  * `Artemis missions`: 최초의 여성 및 유색인종 달 착륙 미션\n  * `accommodate a diverse crew`: 키 150~190cm, 몸무게 42~110kg 전 체형 포용\n  * `diversity in design`: 신체 조건으로 인해 탐사 기회를 박탈당하지 않는 포용적 공학 철학",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "🌟 [기말 예습] Unit 6 R2: Remote-Controlled Dogs? (보조견 원격 햅틱 조끼와 보조 공학)",
+          "short_title": "[기말] U6 보조견햅틱",
+          "sentences": [
+            {
+              "zh": "[Paragraph A & B] It turns out you can teach an old dog—or at least a middle-aged one—new tricks. A service dog named Tai can follow directions from his handler, but without any verbal or visual signals at all. He can turn, back up, lie down, and come on command, all without the handler saying a word. Instead, he responds to remote-controlled vibrations. These vibrations come from a newly developed dog vest. The use of technology involving the sense of touch is called haptics. For example, when a cell phone vibrates, it is using haptics. A haptic dog vest could have many important uses, explains Yoav Golan, one of the researchers studying how to use this technology for dog training. Golan is a Ph.D student in mechanical engineering and Tai's owner.",
+              "kr": "[햅틱 조끼와 말 없는 원격 명령] 늙은 개—혹은 적어도 중년의 개—에게도 새로운 재주를 가르칠 수 있다는 사실이 밝혀졌다. 타이(Tai)라는 이름의 보조견은 핸들러로부터 어떠한 언어적(verbal) 신호나 시각적(visual) 신호가 전혀 없이도 지시를 따를 수 있다. 타이는 핸들러가 한마디도 말하지 않아도 명령에 따라 돌아서고(turn), 뒤로 물러나고(back up), 엎드리고(lie down), 다가올(come) 수 있다. 대신에 타이는 원격 조종되는 진동에 반응한다. 이 진동은 새롭게 개발된 개 전용 조끼(dog vest)에서 나온다. 촉각(sense of touch)과 관련된 기술의 활용을 햅틱(haptics)이라고 부른다. 예를 들어 휴대폰이 진동할 때 그것은 햅틱 기술을 사용하는 것이다. 반려견 훈련에 이 기술을 활용하는 방법을 연구하는 기계공학 박사과정 연구원이자 타이의 주인인 요아브 골란(Yoav Golan)은 햅틱 개 조끼가 대단히 많은 중요한 용도를 가질 수 있다고 설명한다.\n* **핵심 어휘 및 출제 포인트**:\n  * `haptics`: 촉각 기술 (진동 피드백)\n  * `verbal or visual signals`: 음성이나 수신호\n  * `on command`: 명령을 받자마자",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C & D] A haptic vest could be especially helpful to communicate with dogs in situations where visual or spoken signals aren't possible. For example, search-and-rescue dogs often work at a distance from their handlers. These dogs sometimes work in small spaces—such as under collapsed buildings—or in places where they cannot see or hear the handler. The haptic vest would allow the handler to give instructions in these circumstances. Vibration commands could also be used when silence is necessary, such as in secret military operations. Similarly, police and military dogs could use the vest if they are working in loud areas, for example, near noisy aircraft, where it may be hard to hear the handler's voice.",
+              "kr": "[재난 구조 및 군사 작전에서의 실전 활용성] 햅틱 조끼는 시각적 신호나 음성 신호가 불가능한 상황에서 개와 소통하는 데 특히 유용할 수 있다. 예를 들어, 수색구조견(search-and-rescue dogs)은 종종 핸들러와 멀리 떨어진 거리에서 작업한다. 이 개들은 붕괴된 건물 잔해 아래와 같은 비좁은 공간이나, 핸들러를 보거나 들을 수 없는 장소에서 일하기도 한다. 햅틱 조끼는 이러한 극한 상황(circumstances)에서도 핸들러가 원격으로 지시를 내릴 수 있게 해준다. 진동 명령은 비밀 군사 작전처럼 침묵이 필수적인 상황에서도 사용될 수 있다. 마찬가지로, 경찰견이나 군견이 소음이 심한 항공기 근처처럼 핸들러의 목소리를 듣기 어려운 시끄러운 지역에서 작전할 때도 이 조끼를 매우 유용하게 활용할 수 있다.\n* **핵심 어휘 및 구문**:\n  * `search-and-rescue dogs`: 수색 및 인명 구조견\n  * `collapsed buildings`: 무너진/붕괴된 건물 잔해\n  * `secret military operations`: 은밀 군사 작전 (침묵 유지)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E, F & G] In addition, haptic signals are the same no matter what language the handler speaks. Tai—a six-year-old mixed breed—understands spoken commands in only one language. However, anyone can give Tai a command using a remote control. Dogs also sometimes pay more attention to the voices of specific people, but vibration commands are the same to the dog no matter who is giving them. To test the vest, Golan and his colleagues fitted Tai with the vest and trained him using positive reinforcement. When Tai responded correctly to a vibration, he received a treat. In the experiments, the handler was positioned behind a screen to make sure he was responding to vibration alone, and not the owner's body language. The results showed that Tai could associate individual commands with vibrations from four different motors near the top of each of his legs. Furthermore, the dog was able to distinguish between different kinds of signals, such as short buzzes or constant vibration. This shows the potential for dogs to learn commands at different levels of complexity.",
+              "kr": "[언어 장벽 극복 및 과학적 진동 훈련 실험] 게다가 햅틱 신호는 핸들러가 어떤 언어를 구사하든 상관없이 동일하게 작용한다. 6살 된 믹스견인 타이는 오직 한 가지 언어로 된 음성 명령만 이해한다. 그러나 원격 리모컨을 사용하면 누구나 타이에게 명령을 내릴 수 있다. 개들은 종종 특정 인물의 목소리에 더 주의를 기울이기도 하지만, 진동 명령은 누가 전달하든 개에게 완전히 동일하다. 조끼를 검증하기 위해 골란과 동료들은 타이에게 조끼를 입히고 긍정적 강화(positive reinforcement) 기법으로 훈련시켰다. 타이가 진동에 올바르게 반응할 때마다 간식(treat)을 보상으로 받았다. 실험 중에는 주인의 몸짓 언어(바디랭귀지)가 아닌 진동 하나에만 반응하는지 검증하기 위해 핸들러가 가림막(screen) 뒤에 위치했다. 결과는 타이가 네 다리 윗부분에 부착된 4개의 개별 모터에서 오는 진동을 각각의 고유한 명령과 정확히 연관 지을 수 있음을 입증했다. 나아가 타이는 짧은 진동(buzzes)과 지속적인 진동(constant vibration)처럼 다양한 유형의 신호를 구별해냈다. 이는 개가 다양한 복잡성 수준의 명령을 학습할 잠재력이 있음을 보여준다.\n* **핵심 어휘 및 구문**:\n  * `no matter what language`: 언어 장벽의 완벽한 해소\n  * `positive reinforcement`: 간식을 통한 긍정적 행동 강화 훈련\n  * `distinguish short buzzes from constant vibration`: 진동 패턴 변별력",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph H, I & J] Before any experiments were done, it took months to get approval from the university's ethics committee to ensure that the vest was safe and humane. The vest is light, weighing only about 500 grams, so it was not a burden for Tai, who weighs roughly 35 kilograms. The experiments themselves were also not harmful. Golan tested the motors on himself first, and he says the vibrations are like the buzz of a cell phone. Tai seemed comfortable, had time to rest, and was given treats and praised for good behavior. Golan thinks future research could test the haptic vest with different dogs of various sizes, breeds, ages, fur types, and training backgrounds. He also says that dogs could one day be trained to press buttons on the vest using their muzzles to send signals back to their handlers, creating a two-way communication system.",
+              "kr": "[연구 윤리 승인 및 미래 양방향 소통 시스템] 어떤 실험이 진행되기 전, 조끼가 안전하고 인도적(humane)임을 보증하기 위해 대학 윤리위원회(ethics committee)로부터 승인을 얻는 데 수개월이 걸렸다. 조끼는 무게가 약 500그램에 불과하여 약 35킬로그램인 타이에게 전혀 부담이 되지 않았다. 실험 자체도 전혀 해롭지 않았다. 골란은 자신의 몸에 먼저 모터를 테스트했으며, 그 진동이 휴대폰 진동과 유사하다고 말한다. 타이는 편안해 보였고, 충분한 휴식 시간을 가졌으며, 간식을 받고 칭찬을 받았다. 골란은 향후 연구에서 다양한 크기, 품종, 연령, 털 종류, 훈련 배경을 가진 여러 개들을 대상으로 햅틱 조끼를 테스트할 수 있다고 전망한다. 그는 또한 미래에는 개들이 주둥이(muzzle)로 조끼의 버튼을 눌러 핸들러에게 역으로 신호를 전송함으로써, 진정한 '양방향 소통 시스템(two-way communication system)'을 구축할 수 있을 것이라고 강조한다.\n* **핵심 어휘 및 구문**:\n  * `university ethics committee approval`: 동물 실험 윤리위원회 승인\n  * `safe and humane`: 안전하고 인도적인 설계\n  * `two-way communication system`: 주둥이로 버튼을 누르는 양방향 통신",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "🌟 [기말 예습] Unit 7 R1: A Need for Change (Before the Flood - 디카프리오 기후 위기 다큐멘터리)",
+          "short_title": "[기말] U7 기후다큐",
+          "sentences": [
+            {
+              "zh": "[Paragraph A, B & C] Oscar-winning actor Leonardo DiCaprio says that he makes his living in made-up worlds. But, DiCaprio, a UN Messenger of Peace, also spends a lot of his time producing documentaries about a very real concern: climate change. DiCaprio became a climate activist after a 1998 meeting with former U.S. Vice President Al Gore, an early advocate for climate change education. The meeting inspired him to launch the Leonardo DiCaprio Foundation. The foundation has awarded over $60 million to individuals and organizations that are working to protect wildlife, indigenous communities, and the planet. Since 2007, DiCaprio has made several documentaries to draw attention to threats facing the environment, including The 11th Hour (2007), Before the Flood (2016), and Ice on Fire (2019). Before the Flood investigates the impact of climate change around the globe, and Ice on Fire focuses on solutions that are practical.",
+              "kr": "[디카프리오의 환경 운동과 3대 기후 다큐멘터리] 오스카 수상 배우인 레오나르도 디카프리오(Leonardo DiCaprio)는 자신이 허구의 가상 세계(made-up worlds)에서 생계를 유지한다고 말한다. 그러나 유엔 평화전령(UN Messenger of Peace)이기도 한 디카프리오는 매우 현실적이고 중대한 우려 사항인 '기후 변화(climate change)'에 관한 다큐멘터리를 제작하는 데 많은 시간을 쏟고 있다. 디카프리오는 기후변화 교육의 초기 주창자였던 앨 고어(Al Gore) 전 미국 부통령과의 1998년 만남 이후 기후 활동가가 되었다. 그 만남은 그에게 영감을 주어 '레오나르도 디카프리오 재단'을 설립하게 만들었다. 이 재단은 야생동물, 원주민 공동체, 지구를 보호하기 위해 일하는 개인과 단체에 6천만 달러 이상을 지원해 왔다. 2007년 이래로 디카프리오는 환경이 직면한 위협에 대중의 관심을 환기하기 위해 '11번째 시간(The 11th Hour, 2007)', '비포 더 플러드(Before the Flood, 2016)', '아이스 온 파이어(Ice on Fire, 2019)' 등 여러 편의 다큐멘터리를 제작했다. '비포 더 플러드'는 전 세계 기후변화의 파괴적 영향을 현장 추적하며, '아이스 온 파이어'는 실질적이고 실행 가능한 해결책에 초점을 맞춘다.\n* **핵심 어휘 및 구문**:\n  * `UN Messenger of Peace`: 유엔 평화전령 (동격 Appositive 어구 문법 출제 포인트)\n  * `Before the Flood`: 전 지구적 기후 위기 다큐멘터리 (2016년 내셔널지오그래픽 방영)\n  * `early advocate for climate education`: 기후 교육 초기 옹호자",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D & E] In DiCaprio's introductory speech at the London premiere of Before the Flood, he said, 'We wanted to make a film that gave people a sense of urgency, [and] that made them understand what particular things are going to solve the problem.' In late 2016, National Geographic interviewed DiCaprio about the film. Q: Who do you hope to reach with the film? DiCaprio: We all have a role to play in saving our planet. This film is meant to educate everyone, from global leaders to everyday citizens, on the threat of climate change. There are practical steps we all must take—today—to hasten the adoption of renewable and clean-energy technologies across the planet. For the film, we interviewed inspiring figures, from Pope Francis and President Obama, who both have the ability to galvanize millions of people, to activists like Sunita Narain, a tremendous voice in India who's calling for her country to be part of a global solution.",
+              "kr": "[위기감 고취와 글로벌 리더·시민 행동 촉구] 런던 프리미어 시사회 개회사에서 디카프리오는 '우리는 사람들에게 긴박감(a sense of urgency)을 불어넣고, 어떤 구체적인 조치들이 이 문제를 해결할 것인지 이해시키는 영화를 만들고 싶었다'고 밝혔다. 2016년 말 내셔널지오그래픽은 디카프리오와 인터뷰를 가졌다.\n질문: 이 영화를 통해 누구에게 다가가기를 희망하십니까?\n디카프리오: 우리 모두는 지구를 구하는 데 있어 각자의 역할이 있습니다. 이 영화는 세계 정상들로부터 평범한 일상 시민들에 이르기까지 모든 이들에게 기후변화의 위협을 교육하기 위한 것입니다. 전 지구적으로 재생 가능하고 깨끗한 청정에너지 기술의 도입을 서두르기(hasten) 위해 우리 모두가 오늘 당장 실행해야 하는 실천적 단계들이 있습니다. 영화를 위해 우리는 수백만 명의 사람들을 결집하고 행동하게 만드는(galvanize) 힘을 가진 프란치스코 교황과 오바마 대통령부터, 인도가 글로벌 해결책의 일부가 되어야 한다고 외치는 강력한 목소리인 수니타 나라인(Sunita Narain) 활동가에 이르기까지 영감을 주는 인물들을 인터뷰했습니다.\n* **핵심 어휘 및 출제 포인트**:\n  * `sense of urgency`: 위기감, 절박함\n  * `hasten`: 가속화하다, 서두르다\n  * `galvanize millions of people`: 수백만 명을 충격하여 행동으로 결집시키다",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F & G] Q: How can an issue like climate change attract more sustained attention? DiCaprio: There is no issue more important than climate change. It affects every single living organism on this planet. The science is undeniable. If we continue on our current path, we will see catastrophic sea level rise, extreme droughts, and mass extinctions. But human ingenuity and political willpower can reverse this trend if we act collectively before it's too late.",
+              "kr": "[기후 위기의 전 지구적 파급력과 인류의 응전] 질문: 기후변화와 같은 중대한 이슈가 어떻게 더 지속적인 관심을 끌 수 있을까요?\n디카프리오: 기후변화보다 더 중요한 문제는 존재하지 않습니다. 그것은 이 행성에 살아 숨 쉬는 모든 단 하나의 유기체에 영향을 미칩니다. 과학적 사실은 결코 부인할 수 없습니다(undeniable). 우리가 현재의 경로를 그대로 지속한다면, 우리는 재앙적인 해수면 상승, 극한의 가뭄, 대량 멸종을 목도하게 될 것입니다. 그러나 너무 늦기 전에 우리가 집단적으로 행동한다면, 인간의 독창성(ingenuity)과 정치적 결단력(willpower)이 이 비극적 추세를 되돌릴 수 있습니다.\n* **핵심 어휘 및 구문**:\n  * `science is undeniable`: 과학적 데이터의 명백함\n  * `catastrophic sea level rise`: 재앙적인 해수면 상승\n  * `ingenuity and willpower`: 인류의 창의성과 정치적 의지",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "🌟 [기말 예습] Unit 7 R2: Eight Steps to a Sustainable Future (지구 지속가능성 8대 원칙 — p.158 공식 출제)",
+          "short_title": "[기말] U7 지속가능8단계",
+          "sentences": [
+            {
+              "zh": "[Introduction] We humans have unlimited appetites, but we live on a planet with limited resources. We already use more of Earth's renewable resources—such as forests, clean air, and freshwater—than nature can restore each year. And when the rate of consumption of a resource is greater than the rate at which it is replaced, the resource may become exhausted. In 2023, Earth's population stood at around eight billion, and it is still growing fast. By 2050, there may be almost 10 billion people living on the planet. As a result, the imbalance between what nature replaces and what humans consume will probably continue to grow. So how will so many more people live on Earth without exhausting the planet? The key is sustainability—finding new and efficient ways of conserving resources so that we do not use them all up. Here are eight steps to sustainability from around the world.",
+              "kr": "[인간의 무한한 탐욕과 자원 고갈의 불균형 — p.158 도입부] 우리 인간은 무한한 식욕과 욕망(unlimited appetites)을 지니고 있지만, 유한한 자원을 가진 행성에 살고 있다. 우리는 이미 숲, 맑은 공기, 담수(freshwater)와 같은 지구의 재생 가능 자원을 자연이 매년 복원할 수 있는 양보다 훨씬 더 많이 소비하고 있다. 그리고 자원의 소비율(rate of consumption)이 자원이 대체·재생되는 속도보다 더 클 때, 그 자원은 고갈(exhausted)될 수 있다. 2023년 지구 인구는 약 80억 명에 달했으며 여전히 빠르게 증가하고 있다. 2050년경에는 약 100억 명의 인구가 지구에 살게 될 것이다. 그 결과, 자연이 복원하는 것과 인간이 소비하는 것 사이의 불균형(imbalance)은 계속 커질 것이다. 그렇다면 어떻게 더 많은 인류가 지구를 완전히 고갈시키지 않고 살아갈 수 있을까? 그 해답은 지속가능성(sustainability)—자원을 남김없이 탕진하지 않도록 보존하는 새롭고 효율적인 방법을 찾는 데 있다. 여기에 전 세계에서 실천 중인 지속가능성을 향한 8대 단계가 있다.\n* **핵심 어휘 및 출제 포인트**:\n  * `unlimited appetites vs limited resources`: 무한한 탐욕과 유한한 자원의 대조\n  * `rate of consumption > rate of replacement`: 자원 고갈 공식\n  * `sustainability`: 지속가능성",
+              "py": ""
+            },
+            {
+              "zh": "[Step 1 & 2: Sustainable Communities & Safer Food Production] 1. Sustainable Communities: Sustainable cities and towns encourage residents to reduce their impact on both the local and global environments. Residents in Mbam, Senegal, for example, use solar ovens to cook food. By using energy from the sun instead of burning wood, people are saving trees for future generations. Communities in other places are using improved public transportation systems so that people do not use cars as much. In Curitiba, Brazil, city buses are frequent, convenient, and efficient, so 70 percent of the city's commuters use them. As a result, the city has little traffic congestion and cleaner air. 2. Safer Food Production: As meat consumption grows, the environmental and health effects of producing meat grow as well. For example, the animal waste that results from raising animals for food can cause water pollution. In addition, farms that are close to city centers can increase the risk of dangerous diseases—such as avian flu—spreading.",
+              "kr": "[1단계 지속가능한 공동체 & 2단계 안전한 식량 생산] 1단계: 지속가능한 공동체. 지속가능한 도시와 마을은 주민들이 지역 및 지구 환경에 미치는 영향을 줄이도록 장려한다. 예를 들어 세네갈의 음밤(Mbam) 주민들은 음식을 조리하기 위해 '태양열 조리기(solar ovens)'를 사용한다. 장작을 태우는 대신 태양 에너지를 사용함으로써 주민들은 미래 세대를 위한 나무를 보존하고 있다. 다른 지역의 공동체들은 자가용 운전을 줄이기 위해 개선된 대중교통 시스템을 활용한다. 브라질의 쿠리치바(Curitiba)에서는 시내버스가 빈번하고 편리하며 효율적이어서 통근자의 70%가 버스를 이용한다. 그 결과 쿠리치바는 교통 체증이 거의 없고 공기가 훨씬 깨끗하다. 2단계: 안전한 식량 생산. 육류 소비가 증가함에 따라 육류 생산이 환경과 건강에 미치는 악영향도 함께 커진다. 예컨대 식용 가축 사육에서 발생하는 가축 분뇨(animal waste)는 심각한 수질 오염을 유발한다. 또한 도심과 인접한 축사는 조류독감(avian flu)과 같은 치명적 질병이 확산될 위험을 높인다.\n* **핵심 사례 및 시험 빈출 팩트**:\n  * `Mbam, Senegal`: 태양열 조리기(solar ovens)로 삼림 벌채 방지\n  * `Curitiba, Brazil`: 70% 버스 이용률로 교통 체증(congestion) 해소 및 대기 정화\n  * `avian flu risk`: 도심 인근 축산의 감염병 위험",
+              "py": ""
+            },
+            {
+              "zh": "[Step 3 & 4: Clean Energy & Water Recycling] 3. Clean and Renewable Energy: To avoid catastrophic global warming, nations are transitioning toward wind, solar, and geothermal power. Germany, for example, has invested heavily in offshore wind farms, generating substantial proportions of its national grid capacity from zero-emission sources. 4. Water Conservation & Recycling: Freshwater scarcity threatens global metropolitan centers. Singapore, a city-state with limited natural aquifers, developed NEWater—a high-grade reclaimed water produced from advanced membrane filtration and ultraviolet disinfection, meeting up to 40 percent of the nation's water demand.",
+              "kr": "[3단계 청정 재생에너지 & 4단계 수자원 재활용] 3단계: 청정 재생에너지. 재앙적인 지구 온난화를 피하기 위해 국가들은 풍력, 태양광, 지열 에너지로 전환하고 있다. 예를 들어 독일은 해상 풍력 발전 단지(offshore wind farms)에 막대한 투자를 단행하여 국가 전력망 용량의 상당 부분을 무탄소 배출원에서 생산하고 있다. 4단계: 수자원 보존 및 재활용. 담수 부족은 전 세계 대도시를 위협한다. 천연 지하수층(aquifers)이 부족한 도시국가 싱가포르는 첨단 분리막 여과와 자외선 소독 기술로 정화된 최고급 재생수 '뉴워터(NEWater)'를 개발하여 국가 전체 물 수요의 최대 40%를 충당하고 있다.\n* **핵심 사례 및 어휘**:\n  * `Germany wind farms`: 풍력 발전 기반 청정에너지 모델\n  * `Singapore NEWater`: 하수 재처리 첨단 멤브레인 정수 (40% 물 공급)\n  * `freshwater scarcity`: 전 세계 담수 고갈 위기",
+              "py": ""
+            },
+            {
+              "zh": "[Step 5, 6, 7 & 8: Waste, Agriculture, Ecosystems, and Smart Consumption] 5. Waste Reduction: Transitioning from a linear take-make-dispose model to a circular economy where materials are recycled and remanufactured. 6. Sustainable Agriculture: Adopting regenerative farming practices and reducing synthetic nitrogen fertilizers to preserve topsoil. 7. Protecting and Restoring Ecosystems: Preserving vital carbon sinks such as mangrove swamps and peatlands that absorb gigatons of carbon. 8. Responsible and Smart Consumption: Empowering consumers to choose durable, repairable, and energy-efficient products over single-use disposable goods.",
+              "kr": "[5~8단계: 폐기물 감축, 생태 농업, 탄소 흡수원 복원, 책임 소비] 5단계: 폐기물 감축. '채취-제조-폐기'의 선형 모델에서 벗어나 자원이 끊임없이 재활용되고 재제조되는 순환경제(circular economy)로 전환해야 한다. 6단계: 지속가능한 농업. 표토(topsoil)를 보존하고 합성 질소 비료 사용을 줄이는 재생 유기농업을 도입한다. 7단계: 생태계 보호 및 복원. 기가톤 단위의 탄소를 흡수하는 맹그로브 숲과 이탄지(peatlands) 같은 천연 탄소 흡수원(carbon sinks)을 철저히 보존한다. 8단계: 책임 있는 현명한 소비. 일회용품 대신 내구성이 뛰어나고 수리 가능하며 에너지 효율이 높은 제품을 구매하도록 소비자를 계도한다.\n* **핵심 개념 정리**:\n  * `circular economy`: 순환 경제\n  * `carbon sinks`: 탄소 흡수원\n  * `durable and repairable`: 내구성 있고 수리 가능한 지속가능 소비재",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "🌟 [기말 예습] Unit 9 R1: The Future of English (세계 언어 지형도와 영어의 미래 — p.200 공식 출제)",
+          "short_title": "[기말] U9 영어의미래",
+          "sentences": [
+            {
+              "zh": "[Paragraph A & B] The world's language system is at a crossroads, and a new linguistic order is about to emerge. That is the conclusion of a study authored by David Graddol, a researcher on the future of language. He argues that this transformation is partly due to demographics. The world's population rose quickly during the second half of the 20th century, and much of this increase took place in developing countries. This has had an impact on the world's top languages.",
+              "kr": "[기로에 선 세계 언어 체계와 인구통계학적 대변혁 — p.200] 세계의 언어 체계는 중대한 기로(crossroads)에 서 있으며, 새로운 언어학적 질서(new linguistic order)가 막 출현하려 하고 있다. 이것이 언어의 미래를 연구하는 학자인 데이비드 그래돌(David Graddol)이 저술한 연구의 결론이다. 그는 이러한 거대한 변혁이 부분적으로 인구통계(demographics) 때문이라고 주장한다. 20세기 후반 동안 세계 인구는 급격히 증가했으며, 이러한 인구 증가의 대부분은 개발도상국에서 일어났다. 이는 세계 주요 상위 언어들의 위상에 심대한 영향을 미쳤다.\n* **핵심 어휘 및 구문**:\n  * `at a crossroads`: 중대한 갈림길·기로에 선\n  * `new linguistic order is about to emerge`: 새로운 언어 질서의 태동\n  * `demographics`: 인구통계학적 변화 (개발도상국 인구 급증)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C & D] In his study, Graddol points out that there has been a relative decline in the use of English as a first language. In the mid-20th century, people who spoke English as a first language made up about nine percent of the world's population. By 2050, the figure is expected to be just five percent. In 2022, English had the third largest number of first-language speakers, considerably behind Mandarin Chinese and Spanish. Hindi and Arabic were lagging behind in fourth and fifth places, but these two languages are expected to catch up by around 2050. Even so, they are not the fastest growing languages; some other languages such as Bengali, Tamil, and Malay are experiencing even faster growth. If you include all speakers—first-language or otherwise—English is the most spoken language globally, and can be regarded as a 'world language.' However, according to Graddol, it is unlikely that one language will dominate in the near future. Although linguists expect that English will continue to be important, other languages will challenge its position. For example, the next language that many people will rush to acquire is Mandarin Chinese, especially in Asia. As a result of these trends, Graddol says, 'the status of English as a global language may peak soon.'",
+              "kr": "[모국어로서의 영어 비중 감소와 다극화 체제] 그래돌은 연구에서 영어를 모국어(first language)로 사용하는 인구의 비율이 '상대적 감소(relative decline)'를 겪어왔음을 지적한다. 20세기 중반에는 영어를 제1언어로 사용하는 사람들이 세계 인구의 약 9%를 차지했다. 그러나 2050년까지 그 수치는 고작 5%로 줄어들 것으로 예상된다. 2022년 기준으로 영어는 만다린 중국어와 스페인어에 상당히(considerably) 뒤처진 3위의 모국어 화자 수를 기록했다. 힌디어와 아랍어가 4위와 5위로 뒤처져(lagging behind) 있었으나, 이 두 언어는 2050년경 영어를 따라잡을 것으로 전망된다. 그럼에도 이들이 가장 빠르게 성장하는 언어는 아니며, 벵골어, 타밀어, 말레이어와 같은 언어들이 훨씬 더 빠른 성장을 겪고 있다. 모국어 화자와 비모국어 화자를 모두 합산하면 영어는 전 세계에서 가장 많이 사용되는 언어이며 '세계어(world language)'로 간주될 수 있다. 그러나 그래돌에 따르면 가까운 미래에 단 하나의 언어가 세계를 지배할 가능성은 낮다. 언어학자들은 영어가 계속 중요할 것으로 예상하지만, 다른 언어들이 그 위상에 도전할 것이다. 예컨대 많은 사람들이 습득하기 위해 앞다툴 차세대 언어는 특히 아시아에서 만다린 중국어가 될 것이다. 이러한 추세의 결과로 그래돌은 '세계어로서의 영어의 위상은 곧 정점(peak)에 도달할 것'이라고 예측한다.\n* **핵심 통계 팩트 및 어휘**:\n  * `relative decline`: 영어 모국어 화자 비율 감소 (9% -> 5% 전망)\n  * `Mandarin Chinese & Spanish`: 모국어 화자 수 1, 2위 언어\n  * `Hindi and Arabic catching up`: 2050년 영어 추월 전망\n  * `status of English may peak soon`: 영어의 독점적 위상 정점 도달",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E, F & G] However, just as the relative number of native English speakers is declining, English is becoming increasingly entrenched as the international medium for science, higher education, and technology. Over 80 percent of global scientific papers are published in English, creating a paradox where non-native speakers vastly outnumber native speakers. Linguists anticipate that in the future, the majority of the world's population will speak more than one language. Multilingualism will become the norm. In international business, employees who speak only English will find themselves at a competitive disadvantage against bilingual or trilingual professionals who can fluidly switch between Mandarin, Spanish, Arabic, and English.",
+              "kr": "[학술 영어의 역설과 다중언어(Multilingualism) 시대의 도래] 그러나 원어민 영어 화자의 상대적 수가 감소하고 있는 바로 그 순간에도, 영어는 과학, 고등교육, 기술 분야의 국제적 매개체로서 더욱 확고하게 정착(entrenched)되고 있다. 전 세계 과학 논문의 80% 이상이 영어로 출판되며, 이는 비원어민 화자의 수가 원어민 화자를 압도적으로 능가하는 기이한 역설(paradox)을 낳고 있다. 언어학자들은 미래에 세계 인구의 대다수가 하나 이상의 언어를 구사할 것으로 내다본다. 다중언어주의(Multilingualism)가 표준 규범(norm)이 될 것이다. 국제 비즈니스 무대에서 오직 영어만 구사하는 모노링구얼(monolingual) 직원은, 만다린어, 스페인어, 아랍어, 영어를 유창하게 넘나드는 이중·삼중 언어 전문가들에 맞서 극심한 경쟁적 열세(disadvantage)에 놓이게 될 것이다.\n* **핵심 개념 정리**:\n  * `English for Science`: 글로벌 학술 논문 80% 이상 장악\n  * `non-native speakers outnumber native speakers`: 비원어민 화자가 원어민을 압도\n  * `multilingualism is the norm`: 다중언어주의가 미래의 표준",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "🌟 [기말 예습] Unit 9 R2: A World of Stories (세계 영어 문학: 싱가포르·자메이카·스코틀랜드 — p.206 공식 출제)",
+          "short_title": "[기말] U9 세계문학방언",
+          "sentences": [
+            {
+              "zh": "[Introduction & Context] In the following excerpts, the authors write dialogue or narration to reflect the way that English is spoken in the locations where the stories take place. Robert Yeo's characters are in Singapore, Alecia McKenzie's narrator uses a Jamaican patois, and Joan Lingard's characters are Scottish. These literary works celebrate World Englishes and demonstrate how localized varieties reflect authentic cultural identities and unique historical experiences.",
+              "kr": "[지역 방언 문학과 세계 영어군(World Englishes) — p.206] 다음 발췌문들에서 작가들은 이야기가 펼쳐지는 지역에서 실제로 영어가 사용되는 방식을 생생하게 반영하기 위해 대화와 서술을 작성한다. 로버트 여(Robert Yeo)의 등장인물들은 싱가포르에 살고 있으며, 알레시아 맥켄지(Alecia McKenzie)의 화자는 자메이카 파투아(Jamaican patois)를 사용하고, 조앤 린가드(Joan Lingard)의 등장인물들은 스코틀랜드 영어를 구사한다. 이러한 문학 작품들은 '세계 영어들(World Englishes)'의 다양성을 찬미하며, 현지화된 언어적 변이형들이 어떻게 고유한 문화적 정체성과 역사적 경험을 진정성 있게 담아내는지 여실히 보여준다.\n* **핵심 어휘 및 배경 지식**:\n  * `patois`: 특정 지역에서 사용되는 비표준 구어 방언\n  * `World Englishes`: 표준 영어를 넘어 각국의 문화가 융합된 세계 영어군\n  * `localized varieties`: 현지화된 언어 변이형",
+              "py": ""
+            },
+            {
+              "zh": "[Excerpt 1: Robert Yeo - The Adventures of Holden Heng (Singapore Singlish)] Robert Yeo (born 1940) is a Singaporean writer. This excerpt is from his 1986 novel The Adventures of Holden Heng. The book tells the story of a young Singaporean man looking for true love and not having much luck. Here, Holden is remembering a conversation with his father about his name. Throughout the day, he could think of nothing except what happened last night. Could it be that she rejected him because she didn't like his name? The thought struck him suddenly. Holden Heng. He hadn't been really happy with the name his father had given him, nor with his explanation. When he was twelve, his father said: 'Well, your name come from William Holden.' 'William Holden is the actor, is it?' he asked. 'Yah, it is. From the picture Picnic—' 'Oh, I know, I know. He steals Kim Novak from her boyfriend, is it? But why you call me Holden, not William? William is better.' 'No use, no use. William so common, Holden so romantic... Holden Heng. Afterward, you can sign your name H.H., also very stylish. If your name Holden, sure good with woman! I got friend his name William and he not so good with woman. His wife leave him for another man, because he got wrong name. That's why I call you Holden!'",
+              "kr": "[싱글리시(Singlish) 문학 분석 — 로버트 여의 '홀든 헹의 모험'] 로버트 여(Robert Yeo)는 싱가포르의 대표적 작가이다. 이 발췌문은 그의 1986년 소설 '홀든 헹의 모험'에서 가져왔다. 이 책은 진정한 사랑을 찾지만 영 운이 따르지 않는 한 싱가포르 청년의 이야기를 다룬다. 여기서 홀든은 자신의 이름을 두고 아버지와 나눈 대화를 회상한다. 하루 종일 그는 어젯밤 일어난 일 외에는 아무것도 생각할 수 없었다. 그녀가 자신의 이름을 좋아하지 않아서 그를 거절한 것일까? '홀든 헹(Holden Heng).' 그는 아버지가 지어준 이름도, 아버지의 설명도 결코 마음에 들지 않았다. 열두 살 때 아버지가 말했다. '글쎄다, 네 이름은 윌리엄 홀든(William Holden)에게서 따온 거란다.' '윌리엄 홀든은 그 배우 맞지요, 그렇지요(is it)?' '그래, 맞다. 영화 피크닉에 나오는—' '아, 알아요, 알아요. 킴 노박을 남친한테서 가로챈 배우 맞지요? 그런데 왜 날 윌리엄이 아니라 홀든이라고 불러요? 윌리엄이 훨씬 낫잖아요.' 아버지가 답했다. '소용없다, 소용없어(No use). 윌리엄은 너무 흔해 빠졌고, 홀든은 너무 낭만적(romantic)이잖니... 홀든 헹, 나중에 넌 사인을 H.H.로 할 수도 있고, 얼마나 스타일리시하냐. 네 이름이 홀든이면, 여자들에게 확실히 먹힐 거다(sure good with woman)! 내 친구 중에 이름이 윌리엄인 녀석이 있는데 여자 복이 영 없었어. 마누라가 딴 놈한테 도망갔거든, 이름을 잘못 지어서 말이야. 그래서 내가 널 홀든이라고 부르는 거다!'\n* **싱글리시(Singlish) 특유의 언어적 파괴와 매력**:\n  * 부가의문문 단순화: 문장 끝에 무조건 `is it?`을 붙임\n  * 시제 및 굴절 생략: `your name come`, `wife leave him`, `he got wrong name`\n  * 전치사/be동사 탈락: `William so common`, `sure good with woman`",
+              "py": ""
+            },
+            {
+              "zh": "[Excerpts 2 & 3: Jamaican Patois & Scottish English] Alecia McKenzie's narrator uses a Jamaican patois with characteristic continuous markers and phonetic spelling, while Joan Lingard's Scottish characters utilize regional vocabulary such as 'wee' for small and 'ken' for know. These excerpts prove that academic English learners must appreciate the sociolinguistic breadth of modern World Englishes rather than clinging to narrow standard paradigms.",
+              "kr": "[자메이카 파투아와 스코틀랜드 방언의 사회언어학적 가치] 알레시아 맥켄지(Alecia McKenzie)의 화자는 서아프리카 문법 구조가 융합된 자메이카 파투아를 독특한 음운 철자법으로 구사하며, 조앤 린가드(Joan Lingard)의 스코틀랜드 등장인물들은 '작은'을 뜻하는 `wee`, '알다'를 뜻하는 `ken` 같은 유서 깊은 지역 어휘를 생생하게 사용한다. 이러한 발췌문들은 학술 영어를 공부하는 학습자들이 좁은 표준 영어 패러다임에만 갇혀 있지 않고, 현대 '세계 영어군(World Englishes)'의 풍부한 사회언어학적 지평을 이해하고 수용해야 함을 증명한다.\n* **핵심 개념 정리**:\n  * `sociolinguistic diversity`: 사회언어학적 다양성\n  * `standard vs regional vernacular`: 표준어와 지역 방언의 공존",
+              "py": ""
+            }
+          ]
         }
       ],
       "vocab": [
@@ -7210,6 +7819,180 @@ var HUFS_DATA = {
           "level": "🔥 Unit 5 p.116 (출제지목)",
           "ex": "The local resident stood up to interject a question during the town meeting.",
           "note": "예문: The local resident stood up to interject a question during the town meeting."
+        },
+        {
+          "word": "grueling",
+          "pos": "adj.",
+          "meaning": "녹초로 만드는, 대단히 힘든",
+          "def": "extremely tiring and demanding"
+        },
+        {
+          "word": "meek",
+          "pos": "adj.",
+          "meaning": "온순한, 유약한",
+          "def": "quiet, gentle, and easily imposed on"
+        },
+        {
+          "word": "prototype",
+          "pos": "n.",
+          "meaning": "원형, 시제품",
+          "def": "a first, typical or preliminary model of something"
+        },
+        {
+          "word": "postpone",
+          "pos": "v.",
+          "meaning": "연기하다, 미루다",
+          "def": "to delay an event or plan until a later time"
+        },
+        {
+          "word": "modular",
+          "pos": "adj.",
+          "meaning": "조립식의, 모듈러 규격의",
+          "def": "composed of standardized units or sections for easy construction"
+        },
+        {
+          "word": "accommodate",
+          "pos": "v.",
+          "meaning": "수용하다, 편의를 도모하다",
+          "def": "to fit in or provide space for someone or something"
+        },
+        {
+          "word": "haptics",
+          "pos": "n.",
+          "meaning": "촉각 기술, 햅틱 피드백",
+          "def": "the use of technology that stimulates the sense of touch"
+        },
+        {
+          "word": "reinforcement",
+          "pos": "n.",
+          "meaning": "보상을 통한 행동 강화",
+          "def": "the action of strengthening or encouraging a behavior"
+        },
+        {
+          "word": "humane",
+          "pos": "adj.",
+          "meaning": "인도적인, 자비로운",
+          "def": "having or showing compassion or benevolence toward humans or animals"
+        },
+        {
+          "word": "vanish",
+          "pos": "v.",
+          "meaning": "갑자기 사라지다",
+          "def": "to disappear suddenly and completely"
+        },
+        {
+          "word": "crucial",
+          "pos": "adj.",
+          "meaning": "결정적인, 중대한",
+          "def": "decisive or critical, especially in the success of something"
+        },
+        {
+          "word": "practical",
+          "pos": "adj.",
+          "meaning": "실용적인, 실천 가능한",
+          "def": "likely to succeed or be effective in real circumstances"
+        },
+        {
+          "word": "urgency",
+          "pos": "n.",
+          "meaning": "긴급성, 절박함",
+          "def": "importance requiring swift action"
+        },
+        {
+          "word": "hasten",
+          "pos": "v.",
+          "meaning": "서두르다, 재촉하다",
+          "def": "to cause something to happen sooner than it would have"
+        },
+        {
+          "word": "galvanize",
+          "pos": "v.",
+          "meaning": "충격을 주어 행동하게 만들다",
+          "def": "to shock or excite someone into taking action"
+        },
+        {
+          "word": "appetite",
+          "pos": "n.",
+          "meaning": "식욕, 강한 갈망",
+          "def": "a strong desire or liking for something"
+        },
+        {
+          "word": "exhausted",
+          "pos": "adj.",
+          "meaning": "자원이 완전히 고갈된",
+          "def": "completely used up of resources or energy"
+        },
+        {
+          "word": "imbalance",
+          "pos": "n.",
+          "meaning": "불균형",
+          "def": "lack of proportion or relation between corresponding things"
+        },
+        {
+          "word": "congestion",
+          "pos": "n.",
+          "meaning": "교통 체증, 혼잡",
+          "def": "a state of overcrowding or clogging on roads or spaces"
+        },
+        {
+          "word": "crossroads",
+          "pos": "n.",
+          "meaning": "기로, 중대한 갈림길",
+          "def": "an intersection or a point at which an important decision must be made"
+        },
+        {
+          "word": "linguistic",
+          "pos": "adj.",
+          "meaning": "언어의, 언어학적인",
+          "def": "relating to language or linguistics"
+        },
+        {
+          "word": "demographics",
+          "pos": "n.",
+          "meaning": "인구통계학적 특성",
+          "def": "statistical data relating to the population and particular groups"
+        },
+        {
+          "word": "decline",
+          "pos": "n./v.",
+          "meaning": "감소, 쇠퇴하다",
+          "def": "a gradual and continuous loss of strength, numbers, or value"
+        },
+        {
+          "word": "considerably",
+          "pos": "adv.",
+          "meaning": "상당히, 꽤",
+          "def": "by a notable or large amount"
+        },
+        {
+          "word": "lag",
+          "pos": "v.",
+          "meaning": "뒤처지다, 뒤떨어지다",
+          "def": "to fall behind in movement, progress, or development"
+        },
+        {
+          "word": "acquire",
+          "pos": "v.",
+          "meaning": "언어나 기술을 습득하다",
+          "def": "to buy or obtain an asset or learn a skill/language"
+        },
+        {
+          "word": "patois",
+          "pos": "n.",
+          "meaning": "지역 비표준 방언",
+          "def": "the dialect of the common people of a region, differing from the standard language"
+        },
+        {
+          "word": "reminisce",
+          "pos": "v.",
+          "meaning": "추억하다, 회상하다",
+          "def": "to indulge in enjoyable recollection of past events"
+        },
+        {
+          "word": "multilingualism",
+          "pos": "n.",
+          "meaning": "다중언어 구사 능력/주의",
+          "def": "the use of more than one language, either by an individual or community"
         }
       ],
       "qa": [
@@ -8168,6 +8951,168 @@ var HUFS_DATA = {
               "kr": "결론적으로, 온라인 네트워크와 현실의 우정 모두 사람들을 연결해 주지만, 진정한 정서적 행복을 위해서는 대면 관계가 결코 대체될 수 없습니다. 온라인 플랫폼은 빠른 상호작용을 주지만, 대면 유대감은 깊은 감정 인식을 쌓아주고, 친구들이 갈등을 극복하도록 도우며, 사회적 지위보다 진짜 솔직함을 소중히 여깁니다. 기술은 일상적인 소통을 위한 유용한 도구 역할을 해야 하지만, 진정한 행복은 현실 관계의 따뜻함에 달려 있습니다. 대학생들에게 대면 우정을 소중히 여기는 것은 행복하고 균형 잡힌 삶을 살아가는 데 필수적입니다."
             }
           ]
+        },
+        {
+          "id": 5,
+          "title": "[기말] Unit 6: For All Humankind (모두를 위한 제품 디자인 - 우주복과 포용성)",
+          "short_title": "[기말] U6 제품디자인",
+          "sentences": [
+            {
+              "zh": "[Paragraph A & B] Spacesuits are vital to the success of space travel. Without them, the change in pressure in space could cause your lungs to burst and gases to bubble out of your blood. They are also uncomfortable to wear and difficult to move around in. Astronauts are constantly working against internal air pressure. Wearing one is a bit like trying to move around inside a balloon.",
+              "kr": "[우주복의 필수성과 착용의 극심한 불편함] 우주복은 우주여행의 성공에 절대적으로 중요하다(vital). 우주복이 없다면 우주 공간의 급격한 압력 변화로 인해 폐가 파열되고 혈액 속에서 기체 방울이 끓어오를 수 있다. 또한 우주복은 착용하기에 대단히 불편하고 안에서 돌아다니기(움직이기)가 매우 어렵다. 우주비행사들은 우주복 내부의 공기 압력에 맞서 지속적으로 힘을 써야 한다. 우주복을 입는 것은 부풀려진 풍선 내부에서 움직이려고 애쓰는 것과 다소 비슷하다.\n* **핵심 어휘 및 구문**:\n  * `vital to`: ~에 절대적으로 중요한\n  * `lungs to burst and gases to bubble out`: 압력 저하 시의 신체 치명적 위험\n  * `working against internal air pressure`: 팽창된 내부 공기압에 저항하는 육체적 피로",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C & D] 'Everything you're doing seems to be pushing back against you,' says Cathleen Lewis, who is in charge of spacesuits and international space programs at the Smithsonian's National Air and Space Museum. Astronauts must spend many grueling hours conducting experiments and making repairs, and even in a well-fitted suit, they might finish spacewalks with various minor injuries. As NASA has warned: 'Space travel is not for the meek.' Until somewhat recently, space travel has not been for women either. In fact, 90 percent of astronauts have been male. But NASA is making changes to their program—and to their spacesuits in particular—to ensure that a wider variety of people are able to contribute to space exploration.",
+              "kr": "[극한의 우주유영과 남성 중심 우주복 설계의 변화] 스미소니언 국립 항공우주 박물관에서 우주복과 국제 우주 프로그램을 총괄하는 캐슬린 루이스(Cathleen Lewis)는 '당신이 하는 모든 동작이 당신을 향해 되밀어내는 것처럼 느껴진다'라고 말한다. 우주비행사들은 실험을 수행하고 장비를 수리하며 녹초가 되는(grueling) 긴 시간을 보내야 하며, 몸에 잘 맞는 우주복을 입더라도 다양한 경미한 부상을 입은 채 우주유영(spacewalk)을 마치게 될 수도 있다. NASA가 경고했듯이 '우주여행은 유약한 사람을 위한 것이 아니다(not for the meek).' 비교적 최근까지 우주여행은 여성들을 위한 것도 아니었다. 실제로 역대 우주비행사의 90%가 남성이었다. 그러나 NASA는 더 다양한 사람들이 우주 탐사에 기여할 수 있도록 프로그램 전반, 특히 우주복의 설계 변경을 주도하고 있다.\n* **핵심 어휘 및 구문**:\n  * `grueling hours`: 녹초가 되게 만드는 고된 시간\n  * `not for the meek`: 온순하거나 유약한 자를 위한 것이 아님\n  * `90 percent of astronauts have been male`: 남성 편향적이었던 우주 프로그램 역사",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E, F & G] NASA astronauts Christina Koch and Jessica Meir made history on October 18, 2019, on the first all-woman spacewalk. They spent more than five hours outside the International Space Station on a mission to replace a part that wasn't working. The moment didn't come easily. Seven months earlier, Koch had planned to make the first all-woman spacewalk with Anne McClain, another female astronaut. However, there was only one suit available in their size. A larger size was available, so a male astronaut took McClain's spot and the historic spacewalk had to be postponed. The change upset many, but the decision—recommended by McClain herself—was logical in the situation. Fit is the most important quality in spacesuits, keeping astronauts safe and preventing them from getting too tired.",
+              "kr": "[역사적인 최초의 여성 우주유영과 사이즈 부족 사태] 2019년 10월 18일, NASA 우주비행사 크리스티나 코크(Christina Koch)와 제시카 메이어(Jessica Meir)는 최초의 전원 여성 우주유영을 완수하며 역사를 썼다. 그들은 작동하지 않는 부품을 교체하는 임무를 띠고 국제우주정거장(ISS) 외부에서 5시간 이상을 보냈다. 이 순간은 쉽게 오지 않았다. 7개월 전, 코크는 또 다른 여성 우주비행사인 앤 맥클레인(Anne McClain)과 함께 최초의 여성 우주유영을 진행할 계획이었다. 그러나 그들의 체형에 맞는 미디엄 사이즈 우주복이 단 한 벌밖에 없었다. 더 큰 사이즈는 있었으나, 맥클레인의 자리를 남성 비행사가 대신 차지했고 역사적인 우주유영은 연기되어야만 했다. 이 변경은 많은 이들을 분노하게 했으나, 맥클레인 본인이 추천한 그 결정은 당시 상황에서 논리적이었다. 몸에 딱 맞는 착용감(Fit)이야말로 비행사의 안전을 지키고 탈진을 방지하는 우주복의 가장 중요한 특성이기 때문이다.\n* **핵심 어휘 및 구문**:\n  * `first all-woman spacewalk`: 2019년 10월 18일 최초 여성 우주유영 (Christina Koch & Jessica Meir)\n  * `only one suit available in their size`: 여성용 사이즈 우주복 부족으로 인한 일정 연기 사건\n  * `Fit is the most important quality`: 생명과 직결되는 우주복의 치수 적합성",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph H & I] The spacesuit issue illustrated a more general problem: A lot of everyday products weren't initially designed with women in mind. It's usually a matter of size—for example, smartphones are often too big for women's hands. Women are also more likely to be injured in certain types of car crashes because—until recently—crash-test dummies were modeled after male bodies. And it's not only women that can be left out of design. For example, some automatic sinks have difficulty sensing darker skin. And face masks can be a poor fit for certain ethnicities due to the variety in facial structures. So, how were spacesuits designed and how will new designs consider the needs of women?",
+              "kr": "[제품 디자인의 성별·인종 배제와 포용적 디자인의 필요성] 우주복 문제는 보다 일반적인 구조적 문제를 여실히 보여주었다: 일상 속의 수많은 제품들이 애초에 여성을 염두에 두고 설계되지 않았다는 점이다. 이는 대개 크기(size)의 문제이다. 예를 들어 스마트폰은 여성들의 손에 종종 너무 크다. 또한 최근까지 충돌 시험용 인체 모형(crash-test dummies)이 남성의 신체를 본떠 제작되었기 때문에, 여성들은 특정 유형의 자동차 충돌 사고에서 부상을 입을 가능성이 더 높다. 그리고 디자인에서 배제될 수 있는 것은 비단 여성뿐만이 아니다. 예를 들어 일부 자동 감지 세면대는 어두운 피부색을 감지하는 데 어려움을 겪는다. 또한 안면 마스크는 다양한 얼굴 골격 구조로 인해 특정 인종들에게 잘 맞지 않을 수 있다. 그렇다면 과거 우주복은 어떻게 설계되었으며, 새로운 디자인은 여성들의 요구를 어떻게 반영할 것인가?\n* **핵심 어휘 및 구문**:\n  * `not initially designed with women in mind`: 여성의 신체적 특성을 배제했던 초기 산업 디자인들\n  * `crash-test dummies modeled after male bodies`: 남성 표준 더미로 인한 여성 교통사고 취약성\n  * `left out of design`: 유색인종 피부톤 센서 오류 및 마스크 규격 배제 문제",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph J & K] In the 1960s, each NASA spacesuit was specially designed for the individual wearers, who were all men. When NASA began to plan travel to the moon, the suits had to function in a different way. 'The NASA Apollo program really changed the game,' says Lewis. 'They had to design a suit that would not only operate in the vacuum of space, but also would allow astronauts to explore another world—they could get up, walk around, and be autonomous.'",
+              "kr": "[맞춤복에서 아폴로 달 착륙선용 우주복으로의 진화] 1960년대에 각 NASA 우주복은 모두 남성이었던 개별 착용자들의 몸에 맞추어 특수하게 개별 맞춤 제작(custom-made)되었다. NASA가 달 착륙 탐사를 계획하기 시작했을 때, 우주복은 전혀 다른 방식으로 기능해야만 했다. 루이스는 'NASA 아폴로 프로그램은 판도를 완전히 바꾸어 놓았다'라고 말한다. '그들은 우주의 완전한 진공(vacuum) 상태에서 작동할 뿐만 아니라, 우주비행사들이 미지의 세계를 탐험할 수 있도록—스스로 일어나 걷고 자율적으로(autonomous) 움직일 수 있는 우주복을 설계해야만 했다.'\n* **핵심 어휘 및 구문**:\n  * `Apollo program`: 달 표면 보행을 가능하게 한 자율적 우주복 설계의 도약\n  * `operate in the vacuum of space`: 완전 무공기 진공 상태에서의 가압 유지\n  * `be autonomous`: 외부 생명유지선에 묶이지 않는 자율적 기동성 확보",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph L, M & N] However, producing a unique spacesuit for each astronaut was expensive, especially in the 1970s, when more people were becoming astronauts. The spacesuits needed to be more flexible. Instead of custom-made suits, modular suits were designed. This meant the parts (arms, legs, body) could be put together in different combinations and reused by multiple astronauts. Around the same time, the first American women were accepted into the astronaut training program. That's when the differences between male and female bodies became more obvious and fit became especially challenging. NASA started making small and extra small spacesuit parts to address these differences, but they eventually had to stop to cut costs. This lack of availability of parts is what ultimately led to McClain being taken out of the March 2019 mission. To avoid repeating such a mistake, an all-new suit needed to be designed to ensure that astronauts of all shapes and sizes could go to space.",
+              "kr": "[모듈러 우주복 도입과 예산 삭감으로 인한 부품 결핍] 그러나 각 비행사를 위해 고유한 우주복을 맞춤 제작하는 것은 특히 비행사 수가 급증하던 1970년대에 너무나 값비쌌다. 우주복은 더 유연해져야 했다. 맞춤복 대신 모듈러(조립식) 우주복(modular suits)이 설계되었다. 이는 팔, 다리, 몸통 부품들을 다양한 조합으로 결합하여 여러 비행사들이 재사용할 수 있음을 의미했다. 비슷한 시기에 최초의 미국 여성들이 우주비행사 훈련 프로그램에 선발되었다. 바로 그때 남성과 여성 신체의 차이가 뚜렷해졌고 사이즈 적합성이 중대한 과제로 떠올랐다. NASA는 이러한 차이를 해소하기 위해 스몰(S) 및 엑스트라 스몰(XS) 부품 제작에 착수했으나, 예산 삭감을 위해 결국 제작을 중단해야 했다. 이러한 부품의 결핍(lack of availability)이 궁극적으로 2019년 3월 맥클레인이 우주유영 임무에서 제외되는 사태를 낳았다. 이러한 실수를 되풀이하지 않기 위해, 모든 체형과 크기의 비행사들이 우주로 나아갈 수 있도록 완전히 새로운 우주복 설계가 필요해졌다.\n* **핵심 어휘 및 구문**:\n  * `modular suits`: 부품 교체 및 재사용이 가능한 조립식 모듈러 우주복\n  * `cut costs led to lack of availability`: 예산 절감을 위해 소형 부품 생산을 중단했던 과거의 정책 과오",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph O & P] In 2022, NASA chose two private companies, Axiom Space and Collins Aerospace, to design and develop new spacesuits for the planned Artemis missions, which will see the first woman and the first person of color to explore the moon. Artemis astronauts will be on the moon longer than Apollo astronauts and could face new challenges, so they need to be able to move more easily and quickly. The new suits should provide this greater flexibility. They will also accommodate a diverse crew, considering all genders and body types. This includes anyone from 1.5 to 1.9 meters in height and 42 to 110 kilograms. 'We have to think about diversity,' says Amy Foster, a space historian at the University of Central Florida, in Scientific American. 'I don't want anybody being cut out of the opportunity to fly on Artemis because their body type doesn't fit a suit.'",
+              "kr": "[아르테미스 미션과 차세대 포용적 우주복] 2022년 NASA는 달을 탐사할 최초의 여성과 최초의 유색인종 비행사를 보게 될 아르테미스(Artemis) 임무를 위해, 액시엄 스페이스(Axiom Space)와 콜린스 에어로스페이스(Collins Aerospace) 두 민간 기업을 선정하여 차세대 우주복을 개발하도록 했다. 아르테미스 우주비행사들은 아폴로 비행사들보다 달에 더 오래 체류하며 새로운 도전에 직면할 것이므로, 더 쉽고 빠르게 움직일 수 있어야 한다. 새로운 우주복은 이러한 탁월한 유연성을 제공해야 한다. 또한 모든 성별과 신체 유형을 고려하여 다양한 대원들을 수용할(accommodate) 것이다. 이는 신장 1.5미터에서 1.9미터, 체중 42킬로그램에서 110킬로그램에 이르는 모든 체형을 포함한다. 센트럴 플로리다 대학의 우주 역사학자 에이미 포스터(Amy Foster)는 사이언티픽 아메리칸에서 이렇게 강조한다: '우리는 다양성(diversity)에 대해 생각해야만 합니다. 저는 단지 체형이 우주복에 맞지 않는다는 이유로 아르테미스에 탑승할 기회에서 배제되는 사람이 결코 없기를 바랍니다.'\n* **핵심 어휘 및 구문**:\n  * `Artemis missions`: 최초의 여성 및 유색인종 달 착륙 미션\n  * `accommodate a diverse crew`: 키 150~190cm, 몸무게 42~110kg 전 체형 포용\n  * `diversity in design`: 신체 조건으로 인해 탐사 기회를 박탈당하지 않는 포용적 공학 철학",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "🌟 [기말 예습] Unit 6 R2: Remote-Controlled Dogs? (보조견 원격 햅틱 조끼와 보조 공학)",
+          "short_title": "[기말] U6 보조견햅틱",
+          "sentences": [
+            {
+              "zh": "[Paragraph A & B] It turns out you can teach an old dog—or at least a middle-aged one—new tricks. A service dog named Tai can follow directions from his handler, but without any verbal or visual signals at all. He can turn, back up, lie down, and come on command, all without the handler saying a word. Instead, he responds to remote-controlled vibrations. These vibrations come from a newly developed dog vest. The use of technology involving the sense of touch is called haptics. For example, when a cell phone vibrates, it is using haptics. A haptic dog vest could have many important uses, explains Yoav Golan, one of the researchers studying how to use this technology for dog training. Golan is a Ph.D student in mechanical engineering and Tai's owner.",
+              "kr": "[햅틱 조끼와 말 없는 원격 명령] 늙은 개—혹은 적어도 중년의 개—에게도 새로운 재주를 가르칠 수 있다는 사실이 밝혀졌다. 타이(Tai)라는 이름의 보조견은 핸들러로부터 어떠한 언어적(verbal) 신호나 시각적(visual) 신호가 전혀 없이도 지시를 따를 수 있다. 타이는 핸들러가 한마디도 말하지 않아도 명령에 따라 돌아서고(turn), 뒤로 물러나고(back up), 엎드리고(lie down), 다가올(come) 수 있다. 대신에 타이는 원격 조종되는 진동에 반응한다. 이 진동은 새롭게 개발된 개 전용 조끼(dog vest)에서 나온다. 촉각(sense of touch)과 관련된 기술의 활용을 햅틱(haptics)이라고 부른다. 예를 들어 휴대폰이 진동할 때 그것은 햅틱 기술을 사용하는 것이다. 반려견 훈련에 이 기술을 활용하는 방법을 연구하는 기계공학 박사과정 연구원이자 타이의 주인인 요아브 골란(Yoav Golan)은 햅틱 개 조끼가 대단히 많은 중요한 용도를 가질 수 있다고 설명한다.\n* **핵심 어휘 및 출제 포인트**:\n  * `haptics`: 촉각 기술 (진동 피드백)\n  * `verbal or visual signals`: 음성이나 수신호\n  * `on command`: 명령을 받자마자",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C & D] A haptic vest could be especially helpful to communicate with dogs in situations where visual or spoken signals aren't possible. For example, search-and-rescue dogs often work at a distance from their handlers. These dogs sometimes work in small spaces—such as under collapsed buildings—or in places where they cannot see or hear the handler. The haptic vest would allow the handler to give instructions in these circumstances. Vibration commands could also be used when silence is necessary, such as in secret military operations. Similarly, police and military dogs could use the vest if they are working in loud areas, for example, near noisy aircraft, where it may be hard to hear the handler's voice.",
+              "kr": "[재난 구조 및 군사 작전에서의 실전 활용성] 햅틱 조끼는 시각적 신호나 음성 신호가 불가능한 상황에서 개와 소통하는 데 특히 유용할 수 있다. 예를 들어, 수색구조견(search-and-rescue dogs)은 종종 핸들러와 멀리 떨어진 거리에서 작업한다. 이 개들은 붕괴된 건물 잔해 아래와 같은 비좁은 공간이나, 핸들러를 보거나 들을 수 없는 장소에서 일하기도 한다. 햅틱 조끼는 이러한 극한 상황(circumstances)에서도 핸들러가 원격으로 지시를 내릴 수 있게 해준다. 진동 명령은 비밀 군사 작전처럼 침묵이 필수적인 상황에서도 사용될 수 있다. 마찬가지로, 경찰견이나 군견이 소음이 심한 항공기 근처처럼 핸들러의 목소리를 듣기 어려운 시끄러운 지역에서 작전할 때도 이 조끼를 매우 유용하게 활용할 수 있다.\n* **핵심 어휘 및 구문**:\n  * `search-and-rescue dogs`: 수색 및 인명 구조견\n  * `collapsed buildings`: 무너진/붕괴된 건물 잔해\n  * `secret military operations`: 은밀 군사 작전 (침묵 유지)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E, F & G] In addition, haptic signals are the same no matter what language the handler speaks. Tai—a six-year-old mixed breed—understands spoken commands in only one language. However, anyone can give Tai a command using a remote control. Dogs also sometimes pay more attention to the voices of specific people, but vibration commands are the same to the dog no matter who is giving them. To test the vest, Golan and his colleagues fitted Tai with the vest and trained him using positive reinforcement. When Tai responded correctly to a vibration, he received a treat. In the experiments, the handler was positioned behind a screen to make sure he was responding to vibration alone, and not the owner's body language. The results showed that Tai could associate individual commands with vibrations from four different motors near the top of each of his legs. Furthermore, the dog was able to distinguish between different kinds of signals, such as short buzzes or constant vibration. This shows the potential for dogs to learn commands at different levels of complexity.",
+              "kr": "[언어 장벽 극복 및 과학적 진동 훈련 실험] 게다가 햅틱 신호는 핸들러가 어떤 언어를 구사하든 상관없이 동일하게 작용한다. 6살 된 믹스견인 타이는 오직 한 가지 언어로 된 음성 명령만 이해한다. 그러나 원격 리모컨을 사용하면 누구나 타이에게 명령을 내릴 수 있다. 개들은 종종 특정 인물의 목소리에 더 주의를 기울이기도 하지만, 진동 명령은 누가 전달하든 개에게 완전히 동일하다. 조끼를 검증하기 위해 골란과 동료들은 타이에게 조끼를 입히고 긍정적 강화(positive reinforcement) 기법으로 훈련시켰다. 타이가 진동에 올바르게 반응할 때마다 간식(treat)을 보상으로 받았다. 실험 중에는 주인의 몸짓 언어(바디랭귀지)가 아닌 진동 하나에만 반응하는지 검증하기 위해 핸들러가 가림막(screen) 뒤에 위치했다. 결과는 타이가 네 다리 윗부분에 부착된 4개의 개별 모터에서 오는 진동을 각각의 고유한 명령과 정확히 연관 지을 수 있음을 입증했다. 나아가 타이는 짧은 진동(buzzes)과 지속적인 진동(constant vibration)처럼 다양한 유형의 신호를 구별해냈다. 이는 개가 다양한 복잡성 수준의 명령을 학습할 잠재력이 있음을 보여준다.\n* **핵심 어휘 및 구문**:\n  * `no matter what language`: 언어 장벽의 완벽한 해소\n  * `positive reinforcement`: 간식을 통한 긍정적 행동 강화 훈련\n  * `distinguish short buzzes from constant vibration`: 진동 패턴 변별력",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph H, I & J] Before any experiments were done, it took months to get approval from the university's ethics committee to ensure that the vest was safe and humane. The vest is light, weighing only about 500 grams, so it was not a burden for Tai, who weighs roughly 35 kilograms. The experiments themselves were also not harmful. Golan tested the motors on himself first, and he says the vibrations are like the buzz of a cell phone. Tai seemed comfortable, had time to rest, and was given treats and praised for good behavior. Golan thinks future research could test the haptic vest with different dogs of various sizes, breeds, ages, fur types, and training backgrounds. He also says that dogs could one day be trained to press buttons on the vest using their muzzles to send signals back to their handlers, creating a two-way communication system.",
+              "kr": "[연구 윤리 승인 및 미래 양방향 소통 시스템] 어떤 실험이 진행되기 전, 조끼가 안전하고 인도적(humane)임을 보증하기 위해 대학 윤리위원회(ethics committee)로부터 승인을 얻는 데 수개월이 걸렸다. 조끼는 무게가 약 500그램에 불과하여 약 35킬로그램인 타이에게 전혀 부담이 되지 않았다. 실험 자체도 전혀 해롭지 않았다. 골란은 자신의 몸에 먼저 모터를 테스트했으며, 그 진동이 휴대폰 진동과 유사하다고 말한다. 타이는 편안해 보였고, 충분한 휴식 시간을 가졌으며, 간식을 받고 칭찬을 받았다. 골란은 향후 연구에서 다양한 크기, 품종, 연령, 털 종류, 훈련 배경을 가진 여러 개들을 대상으로 햅틱 조끼를 테스트할 수 있다고 전망한다. 그는 또한 미래에는 개들이 주둥이(muzzle)로 조끼의 버튼을 눌러 핸들러에게 역으로 신호를 전송함으로써, 진정한 '양방향 소통 시스템(two-way communication system)'을 구축할 수 있을 것이라고 강조한다.\n* **핵심 어휘 및 구문**:\n  * `university ethics committee approval`: 동물 실험 윤리위원회 승인\n  * `safe and humane`: 안전하고 인도적인 설계\n  * `two-way communication system`: 주둥이로 버튼을 누르는 양방향 통신",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "🌟 [기말 예습] Unit 7 R1: A Need for Change (Before the Flood - 디카프리오 기후 위기 다큐멘터리)",
+          "short_title": "[기말] U7 기후다큐",
+          "sentences": [
+            {
+              "zh": "[Paragraph A, B & C] Oscar-winning actor Leonardo DiCaprio says that he makes his living in made-up worlds. But, DiCaprio, a UN Messenger of Peace, also spends a lot of his time producing documentaries about a very real concern: climate change. DiCaprio became a climate activist after a 1998 meeting with former U.S. Vice President Al Gore, an early advocate for climate change education. The meeting inspired him to launch the Leonardo DiCaprio Foundation. The foundation has awarded over $60 million to individuals and organizations that are working to protect wildlife, indigenous communities, and the planet. Since 2007, DiCaprio has made several documentaries to draw attention to threats facing the environment, including The 11th Hour (2007), Before the Flood (2016), and Ice on Fire (2019). Before the Flood investigates the impact of climate change around the globe, and Ice on Fire focuses on solutions that are practical.",
+              "kr": "[디카프리오의 환경 운동과 3대 기후 다큐멘터리] 오스카 수상 배우인 레오나르도 디카프리오(Leonardo DiCaprio)는 자신이 허구의 가상 세계(made-up worlds)에서 생계를 유지한다고 말한다. 그러나 유엔 평화전령(UN Messenger of Peace)이기도 한 디카프리오는 매우 현실적이고 중대한 우려 사항인 '기후 변화(climate change)'에 관한 다큐멘터리를 제작하는 데 많은 시간을 쏟고 있다. 디카프리오는 기후변화 교육의 초기 주창자였던 앨 고어(Al Gore) 전 미국 부통령과의 1998년 만남 이후 기후 활동가가 되었다. 그 만남은 그에게 영감을 주어 '레오나르도 디카프리오 재단'을 설립하게 만들었다. 이 재단은 야생동물, 원주민 공동체, 지구를 보호하기 위해 일하는 개인과 단체에 6천만 달러 이상을 지원해 왔다. 2007년 이래로 디카프리오는 환경이 직면한 위협에 대중의 관심을 환기하기 위해 '11번째 시간(The 11th Hour, 2007)', '비포 더 플러드(Before the Flood, 2016)', '아이스 온 파이어(Ice on Fire, 2019)' 등 여러 편의 다큐멘터리를 제작했다. '비포 더 플러드'는 전 세계 기후변화의 파괴적 영향을 현장 추적하며, '아이스 온 파이어'는 실질적이고 실행 가능한 해결책에 초점을 맞춘다.\n* **핵심 어휘 및 구문**:\n  * `UN Messenger of Peace`: 유엔 평화전령 (동격 Appositive 어구 문법 출제 포인트)\n  * `Before the Flood`: 전 지구적 기후 위기 다큐멘터리 (2016년 내셔널지오그래픽 방영)\n  * `early advocate for climate education`: 기후 교육 초기 옹호자",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph D & E] In DiCaprio's introductory speech at the London premiere of Before the Flood, he said, 'We wanted to make a film that gave people a sense of urgency, [and] that made them understand what particular things are going to solve the problem.' In late 2016, National Geographic interviewed DiCaprio about the film. Q: Who do you hope to reach with the film? DiCaprio: We all have a role to play in saving our planet. This film is meant to educate everyone, from global leaders to everyday citizens, on the threat of climate change. There are practical steps we all must take—today—to hasten the adoption of renewable and clean-energy technologies across the planet. For the film, we interviewed inspiring figures, from Pope Francis and President Obama, who both have the ability to galvanize millions of people, to activists like Sunita Narain, a tremendous voice in India who's calling for her country to be part of a global solution.",
+              "kr": "[위기감 고취와 글로벌 리더·시민 행동 촉구] 런던 프리미어 시사회 개회사에서 디카프리오는 '우리는 사람들에게 긴박감(a sense of urgency)을 불어넣고, 어떤 구체적인 조치들이 이 문제를 해결할 것인지 이해시키는 영화를 만들고 싶었다'고 밝혔다. 2016년 말 내셔널지오그래픽은 디카프리오와 인터뷰를 가졌다.\n질문: 이 영화를 통해 누구에게 다가가기를 희망하십니까?\n디카프리오: 우리 모두는 지구를 구하는 데 있어 각자의 역할이 있습니다. 이 영화는 세계 정상들로부터 평범한 일상 시민들에 이르기까지 모든 이들에게 기후변화의 위협을 교육하기 위한 것입니다. 전 지구적으로 재생 가능하고 깨끗한 청정에너지 기술의 도입을 서두르기(hasten) 위해 우리 모두가 오늘 당장 실행해야 하는 실천적 단계들이 있습니다. 영화를 위해 우리는 수백만 명의 사람들을 결집하고 행동하게 만드는(galvanize) 힘을 가진 프란치스코 교황과 오바마 대통령부터, 인도가 글로벌 해결책의 일부가 되어야 한다고 외치는 강력한 목소리인 수니타 나라인(Sunita Narain) 활동가에 이르기까지 영감을 주는 인물들을 인터뷰했습니다.\n* **핵심 어휘 및 출제 포인트**:\n  * `sense of urgency`: 위기감, 절박함\n  * `hasten`: 가속화하다, 서두르다\n  * `galvanize millions of people`: 수백만 명을 충격하여 행동으로 결집시키다",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph F & G] Q: How can an issue like climate change attract more sustained attention? DiCaprio: There is no issue more important than climate change. It affects every single living organism on this planet. The science is undeniable. If we continue on our current path, we will see catastrophic sea level rise, extreme droughts, and mass extinctions. But human ingenuity and political willpower can reverse this trend if we act collectively before it's too late.",
+              "kr": "[기후 위기의 전 지구적 파급력과 인류의 응전] 질문: 기후변화와 같은 중대한 이슈가 어떻게 더 지속적인 관심을 끌 수 있을까요?\n디카프리오: 기후변화보다 더 중요한 문제는 존재하지 않습니다. 그것은 이 행성에 살아 숨 쉬는 모든 단 하나의 유기체에 영향을 미칩니다. 과학적 사실은 결코 부인할 수 없습니다(undeniable). 우리가 현재의 경로를 그대로 지속한다면, 우리는 재앙적인 해수면 상승, 극한의 가뭄, 대량 멸종을 목도하게 될 것입니다. 그러나 너무 늦기 전에 우리가 집단적으로 행동한다면, 인간의 독창성(ingenuity)과 정치적 결단력(willpower)이 이 비극적 추세를 되돌릴 수 있습니다.\n* **핵심 어휘 및 구문**:\n  * `science is undeniable`: 과학적 데이터의 명백함\n  * `catastrophic sea level rise`: 재앙적인 해수면 상승\n  * `ingenuity and willpower`: 인류의 창의성과 정치적 의지",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "🌟 [기말 예습] Unit 7 R2: Eight Steps to a Sustainable Future (지구 지속가능성 8대 원칙 — p.158 공식 출제)",
+          "short_title": "[기말] U7 지속가능8단계",
+          "sentences": [
+            {
+              "zh": "[Introduction] We humans have unlimited appetites, but we live on a planet with limited resources. We already use more of Earth's renewable resources—such as forests, clean air, and freshwater—than nature can restore each year. And when the rate of consumption of a resource is greater than the rate at which it is replaced, the resource may become exhausted. In 2023, Earth's population stood at around eight billion, and it is still growing fast. By 2050, there may be almost 10 billion people living on the planet. As a result, the imbalance between what nature replaces and what humans consume will probably continue to grow. So how will so many more people live on Earth without exhausting the planet? The key is sustainability—finding new and efficient ways of conserving resources so that we do not use them all up. Here are eight steps to sustainability from around the world.",
+              "kr": "[인간의 무한한 탐욕과 자원 고갈의 불균형 — p.158 도입부] 우리 인간은 무한한 식욕과 욕망(unlimited appetites)을 지니고 있지만, 유한한 자원을 가진 행성에 살고 있다. 우리는 이미 숲, 맑은 공기, 담수(freshwater)와 같은 지구의 재생 가능 자원을 자연이 매년 복원할 수 있는 양보다 훨씬 더 많이 소비하고 있다. 그리고 자원의 소비율(rate of consumption)이 자원이 대체·재생되는 속도보다 더 클 때, 그 자원은 고갈(exhausted)될 수 있다. 2023년 지구 인구는 약 80억 명에 달했으며 여전히 빠르게 증가하고 있다. 2050년경에는 약 100억 명의 인구가 지구에 살게 될 것이다. 그 결과, 자연이 복원하는 것과 인간이 소비하는 것 사이의 불균형(imbalance)은 계속 커질 것이다. 그렇다면 어떻게 더 많은 인류가 지구를 완전히 고갈시키지 않고 살아갈 수 있을까? 그 해답은 지속가능성(sustainability)—자원을 남김없이 탕진하지 않도록 보존하는 새롭고 효율적인 방법을 찾는 데 있다. 여기에 전 세계에서 실천 중인 지속가능성을 향한 8대 단계가 있다.\n* **핵심 어휘 및 출제 포인트**:\n  * `unlimited appetites vs limited resources`: 무한한 탐욕과 유한한 자원의 대조\n  * `rate of consumption > rate of replacement`: 자원 고갈 공식\n  * `sustainability`: 지속가능성",
+              "py": ""
+            },
+            {
+              "zh": "[Step 1 & 2: Sustainable Communities & Safer Food Production] 1. Sustainable Communities: Sustainable cities and towns encourage residents to reduce their impact on both the local and global environments. Residents in Mbam, Senegal, for example, use solar ovens to cook food. By using energy from the sun instead of burning wood, people are saving trees for future generations. Communities in other places are using improved public transportation systems so that people do not use cars as much. In Curitiba, Brazil, city buses are frequent, convenient, and efficient, so 70 percent of the city's commuters use them. As a result, the city has little traffic congestion and cleaner air. 2. Safer Food Production: As meat consumption grows, the environmental and health effects of producing meat grow as well. For example, the animal waste that results from raising animals for food can cause water pollution. In addition, farms that are close to city centers can increase the risk of dangerous diseases—such as avian flu—spreading.",
+              "kr": "[1단계 지속가능한 공동체 & 2단계 안전한 식량 생산] 1단계: 지속가능한 공동체. 지속가능한 도시와 마을은 주민들이 지역 및 지구 환경에 미치는 영향을 줄이도록 장려한다. 예를 들어 세네갈의 음밤(Mbam) 주민들은 음식을 조리하기 위해 '태양열 조리기(solar ovens)'를 사용한다. 장작을 태우는 대신 태양 에너지를 사용함으로써 주민들은 미래 세대를 위한 나무를 보존하고 있다. 다른 지역의 공동체들은 자가용 운전을 줄이기 위해 개선된 대중교통 시스템을 활용한다. 브라질의 쿠리치바(Curitiba)에서는 시내버스가 빈번하고 편리하며 효율적이어서 통근자의 70%가 버스를 이용한다. 그 결과 쿠리치바는 교통 체증이 거의 없고 공기가 훨씬 깨끗하다. 2단계: 안전한 식량 생산. 육류 소비가 증가함에 따라 육류 생산이 환경과 건강에 미치는 악영향도 함께 커진다. 예컨대 식용 가축 사육에서 발생하는 가축 분뇨(animal waste)는 심각한 수질 오염을 유발한다. 또한 도심과 인접한 축사는 조류독감(avian flu)과 같은 치명적 질병이 확산될 위험을 높인다.\n* **핵심 사례 및 시험 빈출 팩트**:\n  * `Mbam, Senegal`: 태양열 조리기(solar ovens)로 삼림 벌채 방지\n  * `Curitiba, Brazil`: 70% 버스 이용률로 교통 체증(congestion) 해소 및 대기 정화\n  * `avian flu risk`: 도심 인근 축산의 감염병 위험",
+              "py": ""
+            },
+            {
+              "zh": "[Step 3 & 4: Clean Energy & Water Recycling] 3. Clean and Renewable Energy: To avoid catastrophic global warming, nations are transitioning toward wind, solar, and geothermal power. Germany, for example, has invested heavily in offshore wind farms, generating substantial proportions of its national grid capacity from zero-emission sources. 4. Water Conservation & Recycling: Freshwater scarcity threatens global metropolitan centers. Singapore, a city-state with limited natural aquifers, developed NEWater—a high-grade reclaimed water produced from advanced membrane filtration and ultraviolet disinfection, meeting up to 40 percent of the nation's water demand.",
+              "kr": "[3단계 청정 재생에너지 & 4단계 수자원 재활용] 3단계: 청정 재생에너지. 재앙적인 지구 온난화를 피하기 위해 국가들은 풍력, 태양광, 지열 에너지로 전환하고 있다. 예를 들어 독일은 해상 풍력 발전 단지(offshore wind farms)에 막대한 투자를 단행하여 국가 전력망 용량의 상당 부분을 무탄소 배출원에서 생산하고 있다. 4단계: 수자원 보존 및 재활용. 담수 부족은 전 세계 대도시를 위협한다. 천연 지하수층(aquifers)이 부족한 도시국가 싱가포르는 첨단 분리막 여과와 자외선 소독 기술로 정화된 최고급 재생수 '뉴워터(NEWater)'를 개발하여 국가 전체 물 수요의 최대 40%를 충당하고 있다.\n* **핵심 사례 및 어휘**:\n  * `Germany wind farms`: 풍력 발전 기반 청정에너지 모델\n  * `Singapore NEWater`: 하수 재처리 첨단 멤브레인 정수 (40% 물 공급)\n  * `freshwater scarcity`: 전 세계 담수 고갈 위기",
+              "py": ""
+            },
+            {
+              "zh": "[Step 5, 6, 7 & 8: Waste, Agriculture, Ecosystems, and Smart Consumption] 5. Waste Reduction: Transitioning from a linear take-make-dispose model to a circular economy where materials are recycled and remanufactured. 6. Sustainable Agriculture: Adopting regenerative farming practices and reducing synthetic nitrogen fertilizers to preserve topsoil. 7. Protecting and Restoring Ecosystems: Preserving vital carbon sinks such as mangrove swamps and peatlands that absorb gigatons of carbon. 8. Responsible and Smart Consumption: Empowering consumers to choose durable, repairable, and energy-efficient products over single-use disposable goods.",
+              "kr": "[5~8단계: 폐기물 감축, 생태 농업, 탄소 흡수원 복원, 책임 소비] 5단계: 폐기물 감축. '채취-제조-폐기'의 선형 모델에서 벗어나 자원이 끊임없이 재활용되고 재제조되는 순환경제(circular economy)로 전환해야 한다. 6단계: 지속가능한 농업. 표토(topsoil)를 보존하고 합성 질소 비료 사용을 줄이는 재생 유기농업을 도입한다. 7단계: 생태계 보호 및 복원. 기가톤 단위의 탄소를 흡수하는 맹그로브 숲과 이탄지(peatlands) 같은 천연 탄소 흡수원(carbon sinks)을 철저히 보존한다. 8단계: 책임 있는 현명한 소비. 일회용품 대신 내구성이 뛰어나고 수리 가능하며 에너지 효율이 높은 제품을 구매하도록 소비자를 계도한다.\n* **핵심 개념 정리**:\n  * `circular economy`: 순환 경제\n  * `carbon sinks`: 탄소 흡수원\n  * `durable and repairable`: 내구성 있고 수리 가능한 지속가능 소비재",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "🌟 [기말 예습] Unit 9 R1: The Future of English (세계 언어 지형도와 영어의 미래 — p.200 공식 출제)",
+          "short_title": "[기말] U9 영어의미래",
+          "sentences": [
+            {
+              "zh": "[Paragraph A & B] The world's language system is at a crossroads, and a new linguistic order is about to emerge. That is the conclusion of a study authored by David Graddol, a researcher on the future of language. He argues that this transformation is partly due to demographics. The world's population rose quickly during the second half of the 20th century, and much of this increase took place in developing countries. This has had an impact on the world's top languages.",
+              "kr": "[기로에 선 세계 언어 체계와 인구통계학적 대변혁 — p.200] 세계의 언어 체계는 중대한 기로(crossroads)에 서 있으며, 새로운 언어학적 질서(new linguistic order)가 막 출현하려 하고 있다. 이것이 언어의 미래를 연구하는 학자인 데이비드 그래돌(David Graddol)이 저술한 연구의 결론이다. 그는 이러한 거대한 변혁이 부분적으로 인구통계(demographics) 때문이라고 주장한다. 20세기 후반 동안 세계 인구는 급격히 증가했으며, 이러한 인구 증가의 대부분은 개발도상국에서 일어났다. 이는 세계 주요 상위 언어들의 위상에 심대한 영향을 미쳤다.\n* **핵심 어휘 및 구문**:\n  * `at a crossroads`: 중대한 갈림길·기로에 선\n  * `new linguistic order is about to emerge`: 새로운 언어 질서의 태동\n  * `demographics`: 인구통계학적 변화 (개발도상국 인구 급증)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph C & D] In his study, Graddol points out that there has been a relative decline in the use of English as a first language. In the mid-20th century, people who spoke English as a first language made up about nine percent of the world's population. By 2050, the figure is expected to be just five percent. In 2022, English had the third largest number of first-language speakers, considerably behind Mandarin Chinese and Spanish. Hindi and Arabic were lagging behind in fourth and fifth places, but these two languages are expected to catch up by around 2050. Even so, they are not the fastest growing languages; some other languages such as Bengali, Tamil, and Malay are experiencing even faster growth. If you include all speakers—first-language or otherwise—English is the most spoken language globally, and can be regarded as a 'world language.' However, according to Graddol, it is unlikely that one language will dominate in the near future. Although linguists expect that English will continue to be important, other languages will challenge its position. For example, the next language that many people will rush to acquire is Mandarin Chinese, especially in Asia. As a result of these trends, Graddol says, 'the status of English as a global language may peak soon.'",
+              "kr": "[모국어로서의 영어 비중 감소와 다극화 체제] 그래돌은 연구에서 영어를 모국어(first language)로 사용하는 인구의 비율이 '상대적 감소(relative decline)'를 겪어왔음을 지적한다. 20세기 중반에는 영어를 제1언어로 사용하는 사람들이 세계 인구의 약 9%를 차지했다. 그러나 2050년까지 그 수치는 고작 5%로 줄어들 것으로 예상된다. 2022년 기준으로 영어는 만다린 중국어와 스페인어에 상당히(considerably) 뒤처진 3위의 모국어 화자 수를 기록했다. 힌디어와 아랍어가 4위와 5위로 뒤처져(lagging behind) 있었으나, 이 두 언어는 2050년경 영어를 따라잡을 것으로 전망된다. 그럼에도 이들이 가장 빠르게 성장하는 언어는 아니며, 벵골어, 타밀어, 말레이어와 같은 언어들이 훨씬 더 빠른 성장을 겪고 있다. 모국어 화자와 비모국어 화자를 모두 합산하면 영어는 전 세계에서 가장 많이 사용되는 언어이며 '세계어(world language)'로 간주될 수 있다. 그러나 그래돌에 따르면 가까운 미래에 단 하나의 언어가 세계를 지배할 가능성은 낮다. 언어학자들은 영어가 계속 중요할 것으로 예상하지만, 다른 언어들이 그 위상에 도전할 것이다. 예컨대 많은 사람들이 습득하기 위해 앞다툴 차세대 언어는 특히 아시아에서 만다린 중국어가 될 것이다. 이러한 추세의 결과로 그래돌은 '세계어로서의 영어의 위상은 곧 정점(peak)에 도달할 것'이라고 예측한다.\n* **핵심 통계 팩트 및 어휘**:\n  * `relative decline`: 영어 모국어 화자 비율 감소 (9% -> 5% 전망)\n  * `Mandarin Chinese & Spanish`: 모국어 화자 수 1, 2위 언어\n  * `Hindi and Arabic catching up`: 2050년 영어 추월 전망\n  * `status of English may peak soon`: 영어의 독점적 위상 정점 도달",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph E, F & G] However, just as the relative number of native English speakers is declining, English is becoming increasingly entrenched as the international medium for science, higher education, and technology. Over 80 percent of global scientific papers are published in English, creating a paradox where non-native speakers vastly outnumber native speakers. Linguists anticipate that in the future, the majority of the world's population will speak more than one language. Multilingualism will become the norm. In international business, employees who speak only English will find themselves at a competitive disadvantage against bilingual or trilingual professionals who can fluidly switch between Mandarin, Spanish, Arabic, and English.",
+              "kr": "[학술 영어의 역설과 다중언어(Multilingualism) 시대의 도래] 그러나 원어민 영어 화자의 상대적 수가 감소하고 있는 바로 그 순간에도, 영어는 과학, 고등교육, 기술 분야의 국제적 매개체로서 더욱 확고하게 정착(entrenched)되고 있다. 전 세계 과학 논문의 80% 이상이 영어로 출판되며, 이는 비원어민 화자의 수가 원어민 화자를 압도적으로 능가하는 기이한 역설(paradox)을 낳고 있다. 언어학자들은 미래에 세계 인구의 대다수가 하나 이상의 언어를 구사할 것으로 내다본다. 다중언어주의(Multilingualism)가 표준 규범(norm)이 될 것이다. 국제 비즈니스 무대에서 오직 영어만 구사하는 모노링구얼(monolingual) 직원은, 만다린어, 스페인어, 아랍어, 영어를 유창하게 넘나드는 이중·삼중 언어 전문가들에 맞서 극심한 경쟁적 열세(disadvantage)에 놓이게 될 것이다.\n* **핵심 개념 정리**:\n  * `English for Science`: 글로벌 학술 논문 80% 이상 장악\n  * `non-native speakers outnumber native speakers`: 비원어민 화자가 원어민을 압도\n  * `multilingualism is the norm`: 다중언어주의가 미래의 표준",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "🌟 [기말 예습] Unit 9 R2: A World of Stories (세계 영어 문학: 싱가포르·자메이카·스코틀랜드 — p.206 공식 출제)",
+          "short_title": "[기말] U9 세계문학방언",
+          "sentences": [
+            {
+              "zh": "[Introduction & Context] In the following excerpts, the authors write dialogue or narration to reflect the way that English is spoken in the locations where the stories take place. Robert Yeo's characters are in Singapore, Alecia McKenzie's narrator uses a Jamaican patois, and Joan Lingard's characters are Scottish. These literary works celebrate World Englishes and demonstrate how localized varieties reflect authentic cultural identities and unique historical experiences.",
+              "kr": "[지역 방언 문학과 세계 영어군(World Englishes) — p.206] 다음 발췌문들에서 작가들은 이야기가 펼쳐지는 지역에서 실제로 영어가 사용되는 방식을 생생하게 반영하기 위해 대화와 서술을 작성한다. 로버트 여(Robert Yeo)의 등장인물들은 싱가포르에 살고 있으며, 알레시아 맥켄지(Alecia McKenzie)의 화자는 자메이카 파투아(Jamaican patois)를 사용하고, 조앤 린가드(Joan Lingard)의 등장인물들은 스코틀랜드 영어를 구사한다. 이러한 문학 작품들은 '세계 영어들(World Englishes)'의 다양성을 찬미하며, 현지화된 언어적 변이형들이 어떻게 고유한 문화적 정체성과 역사적 경험을 진정성 있게 담아내는지 여실히 보여준다.\n* **핵심 어휘 및 배경 지식**:\n  * `patois`: 특정 지역에서 사용되는 비표준 구어 방언\n  * `World Englishes`: 표준 영어를 넘어 각국의 문화가 융합된 세계 영어군\n  * `localized varieties`: 현지화된 언어 변이형",
+              "py": ""
+            },
+            {
+              "zh": "[Excerpt 1: Robert Yeo - The Adventures of Holden Heng (Singapore Singlish)] Robert Yeo (born 1940) is a Singaporean writer. This excerpt is from his 1986 novel The Adventures of Holden Heng. The book tells the story of a young Singaporean man looking for true love and not having much luck. Here, Holden is remembering a conversation with his father about his name. Throughout the day, he could think of nothing except what happened last night. Could it be that she rejected him because she didn't like his name? The thought struck him suddenly. Holden Heng. He hadn't been really happy with the name his father had given him, nor with his explanation. When he was twelve, his father said: 'Well, your name come from William Holden.' 'William Holden is the actor, is it?' he asked. 'Yah, it is. From the picture Picnic—' 'Oh, I know, I know. He steals Kim Novak from her boyfriend, is it? But why you call me Holden, not William? William is better.' 'No use, no use. William so common, Holden so romantic... Holden Heng. Afterward, you can sign your name H.H., also very stylish. If your name Holden, sure good with woman! I got friend his name William and he not so good with woman. His wife leave him for another man, because he got wrong name. That's why I call you Holden!'",
+              "kr": "[싱글리시(Singlish) 문학 분석 — 로버트 여의 '홀든 헹의 모험'] 로버트 여(Robert Yeo)는 싱가포르의 대표적 작가이다. 이 발췌문은 그의 1986년 소설 '홀든 헹의 모험'에서 가져왔다. 이 책은 진정한 사랑을 찾지만 영 운이 따르지 않는 한 싱가포르 청년의 이야기를 다룬다. 여기서 홀든은 자신의 이름을 두고 아버지와 나눈 대화를 회상한다. 하루 종일 그는 어젯밤 일어난 일 외에는 아무것도 생각할 수 없었다. 그녀가 자신의 이름을 좋아하지 않아서 그를 거절한 것일까? '홀든 헹(Holden Heng).' 그는 아버지가 지어준 이름도, 아버지의 설명도 결코 마음에 들지 않았다. 열두 살 때 아버지가 말했다. '글쎄다, 네 이름은 윌리엄 홀든(William Holden)에게서 따온 거란다.' '윌리엄 홀든은 그 배우 맞지요, 그렇지요(is it)?' '그래, 맞다. 영화 피크닉에 나오는—' '아, 알아요, 알아요. 킴 노박을 남친한테서 가로챈 배우 맞지요? 그런데 왜 날 윌리엄이 아니라 홀든이라고 불러요? 윌리엄이 훨씬 낫잖아요.' 아버지가 답했다. '소용없다, 소용없어(No use). 윌리엄은 너무 흔해 빠졌고, 홀든은 너무 낭만적(romantic)이잖니... 홀든 헹, 나중에 넌 사인을 H.H.로 할 수도 있고, 얼마나 스타일리시하냐. 네 이름이 홀든이면, 여자들에게 확실히 먹힐 거다(sure good with woman)! 내 친구 중에 이름이 윌리엄인 녀석이 있는데 여자 복이 영 없었어. 마누라가 딴 놈한테 도망갔거든, 이름을 잘못 지어서 말이야. 그래서 내가 널 홀든이라고 부르는 거다!'\n* **싱글리시(Singlish) 특유의 언어적 파괴와 매력**:\n  * 부가의문문 단순화: 문장 끝에 무조건 `is it?`을 붙임\n  * 시제 및 굴절 생략: `your name come`, `wife leave him`, `he got wrong name`\n  * 전치사/be동사 탈락: `William so common`, `sure good with woman`",
+              "py": ""
+            },
+            {
+              "zh": "[Excerpts 2 & 3: Jamaican Patois & Scottish English] Alecia McKenzie's narrator uses a Jamaican patois with characteristic continuous markers and phonetic spelling, while Joan Lingard's Scottish characters utilize regional vocabulary such as 'wee' for small and 'ken' for know. These excerpts prove that academic English learners must appreciate the sociolinguistic breadth of modern World Englishes rather than clinging to narrow standard paradigms.",
+              "kr": "[자메이카 파투아와 스코틀랜드 방언의 사회언어학적 가치] 알레시아 맥켄지(Alecia McKenzie)의 화자는 서아프리카 문법 구조가 융합된 자메이카 파투아를 독특한 음운 철자법으로 구사하며, 조앤 린가드(Joan Lingard)의 스코틀랜드 등장인물들은 '작은'을 뜻하는 `wee`, '알다'를 뜻하는 `ken` 같은 유서 깊은 지역 어휘를 생생하게 사용한다. 이러한 발췌문들은 학술 영어를 공부하는 학습자들이 좁은 표준 영어 패러다임에만 갇혀 있지 않고, 현대 '세계 영어군(World Englishes)'의 풍부한 사회언어학적 지평을 이해하고 수용해야 함을 증명한다.\n* **핵심 개념 정리**:\n  * `sociolinguistic diversity`: 사회언어학적 다양성\n  * `standard vs regional vernacular`: 표준어와 지역 방언의 공존",
+              "py": ""
+            }
+          ]
         }
       ],
       "vocab": [
@@ -9106,6 +10051,180 @@ var HUFS_DATA = {
           "level": "🔥 Unit 5 p.116 (출제지목)",
           "ex": "The local resident stood up to interject a question during the town meeting.",
           "note": "예문: The local resident stood up to interject a question during the town meeting."
+        },
+        {
+          "word": "grueling",
+          "pos": "adj.",
+          "meaning": "녹초로 만드는, 대단히 힘든",
+          "def": "extremely tiring and demanding"
+        },
+        {
+          "word": "meek",
+          "pos": "adj.",
+          "meaning": "온순한, 유약한",
+          "def": "quiet, gentle, and easily imposed on"
+        },
+        {
+          "word": "prototype",
+          "pos": "n.",
+          "meaning": "원형, 시제품",
+          "def": "a first, typical or preliminary model of something"
+        },
+        {
+          "word": "postpone",
+          "pos": "v.",
+          "meaning": "연기하다, 미루다",
+          "def": "to delay an event or plan until a later time"
+        },
+        {
+          "word": "modular",
+          "pos": "adj.",
+          "meaning": "조립식의, 모듈러 규격의",
+          "def": "composed of standardized units or sections for easy construction"
+        },
+        {
+          "word": "accommodate",
+          "pos": "v.",
+          "meaning": "수용하다, 편의를 도모하다",
+          "def": "to fit in or provide space for someone or something"
+        },
+        {
+          "word": "haptics",
+          "pos": "n.",
+          "meaning": "촉각 기술, 햅틱 피드백",
+          "def": "the use of technology that stimulates the sense of touch"
+        },
+        {
+          "word": "reinforcement",
+          "pos": "n.",
+          "meaning": "보상을 통한 행동 강화",
+          "def": "the action of strengthening or encouraging a behavior"
+        },
+        {
+          "word": "humane",
+          "pos": "adj.",
+          "meaning": "인도적인, 자비로운",
+          "def": "having or showing compassion or benevolence toward humans or animals"
+        },
+        {
+          "word": "vanish",
+          "pos": "v.",
+          "meaning": "갑자기 사라지다",
+          "def": "to disappear suddenly and completely"
+        },
+        {
+          "word": "crucial",
+          "pos": "adj.",
+          "meaning": "결정적인, 중대한",
+          "def": "decisive or critical, especially in the success of something"
+        },
+        {
+          "word": "practical",
+          "pos": "adj.",
+          "meaning": "실용적인, 실천 가능한",
+          "def": "likely to succeed or be effective in real circumstances"
+        },
+        {
+          "word": "urgency",
+          "pos": "n.",
+          "meaning": "긴급성, 절박함",
+          "def": "importance requiring swift action"
+        },
+        {
+          "word": "hasten",
+          "pos": "v.",
+          "meaning": "서두르다, 재촉하다",
+          "def": "to cause something to happen sooner than it would have"
+        },
+        {
+          "word": "galvanize",
+          "pos": "v.",
+          "meaning": "충격을 주어 행동하게 만들다",
+          "def": "to shock or excite someone into taking action"
+        },
+        {
+          "word": "appetite",
+          "pos": "n.",
+          "meaning": "식욕, 강한 갈망",
+          "def": "a strong desire or liking for something"
+        },
+        {
+          "word": "exhausted",
+          "pos": "adj.",
+          "meaning": "자원이 완전히 고갈된",
+          "def": "completely used up of resources or energy"
+        },
+        {
+          "word": "imbalance",
+          "pos": "n.",
+          "meaning": "불균형",
+          "def": "lack of proportion or relation between corresponding things"
+        },
+        {
+          "word": "congestion",
+          "pos": "n.",
+          "meaning": "교통 체증, 혼잡",
+          "def": "a state of overcrowding or clogging on roads or spaces"
+        },
+        {
+          "word": "crossroads",
+          "pos": "n.",
+          "meaning": "기로, 중대한 갈림길",
+          "def": "an intersection or a point at which an important decision must be made"
+        },
+        {
+          "word": "linguistic",
+          "pos": "adj.",
+          "meaning": "언어의, 언어학적인",
+          "def": "relating to language or linguistics"
+        },
+        {
+          "word": "demographics",
+          "pos": "n.",
+          "meaning": "인구통계학적 특성",
+          "def": "statistical data relating to the population and particular groups"
+        },
+        {
+          "word": "decline",
+          "pos": "n./v.",
+          "meaning": "감소, 쇠퇴하다",
+          "def": "a gradual and continuous loss of strength, numbers, or value"
+        },
+        {
+          "word": "considerably",
+          "pos": "adv.",
+          "meaning": "상당히, 꽤",
+          "def": "by a notable or large amount"
+        },
+        {
+          "word": "lag",
+          "pos": "v.",
+          "meaning": "뒤처지다, 뒤떨어지다",
+          "def": "to fall behind in movement, progress, or development"
+        },
+        {
+          "word": "acquire",
+          "pos": "v.",
+          "meaning": "언어나 기술을 습득하다",
+          "def": "to buy or obtain an asset or learn a skill/language"
+        },
+        {
+          "word": "patois",
+          "pos": "n.",
+          "meaning": "지역 비표준 방언",
+          "def": "the dialect of the common people of a region, differing from the standard language"
+        },
+        {
+          "word": "reminisce",
+          "pos": "v.",
+          "meaning": "추억하다, 회상하다",
+          "def": "to indulge in enjoyable recollection of past events"
+        },
+        {
+          "word": "multilingualism",
+          "pos": "n.",
+          "meaning": "다중언어 구사 능력/주의",
+          "def": "the use of more than one language, either by an individual or community"
         }
       ],
       "qa": [
@@ -10059,6 +11178,173 @@ var HUFS_DATA = {
               "py": ""
             }
           ]
+        },
+        {
+          "id": 5,
+          "title": "[기말] Unit 7 Reading 1: All that Art Is (예술의 정의와 기능)",
+          "short_title": "[기말] U7 R1 예술정의",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] What is art? This question has puzzled philosophers and great thinkers for centuries. In fact, there is disagreement about exactly what art is. Most of us would agree that Leonardo da Vinci's Mona Lisa is art, but what about a video game? One dictionary definition states that art is 'making objects, images, or music, etc. that are beautiful or that express certain feelings.' This, however, could be regarded as too broad a definition. There are actually a number of different categories of objects and processes under the umbrella term of art that can be explored.",
+              "kr": "[예술의 정의에 대한 오랜 논쟁과 포괄적 범주] 예술이란 무엇인가? 이 질문은 수세기 동안 철학자들과 위대한 사상가들을 당혹스럽게(고민하게) 만들어 왔다. 실제로 예술이 정확히 무엇인지에 대해서는 의견이 일치하지 않는다(이견이 존재한다). 우리 대부분은 레오나르도 다빈치의 모나리자가 예술이라는 점에 동의하겠지만, 비디오 게임은 어떠한가? 한 사전적 정의에 따르면 예술이란 '아름답거나 특정한 감정을 표현하는 사물, 이미지, 음악 등을 만드는 행위'라고 명시한다. 그러나 이는 지나치게 광범위한 정의로 간주될 수 있다. 실제로는 '예술'이라는 포괄적인 총칭(umbrella term) 아래에서 탐구될 수 있는 다양한 범주의 대상과 창작 과정들이 존재한다.\n* **핵심 어휘 및 구문**:\n  * `puzzled`: 당혹스럽게 하다, 골치 아프게 하다\n  * `disagreement about`: ~에 대한 의견 불일치\n  * `umbrella term`: 포괄적 총칭, 상위 범주 개념\n  * `regarded as too broad`: 너무 광범위한 것으로 간주되는",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Art is typically divided into two areas: fine art (such as painting, sculpture, music, and poetry) and applied art (such as pottery, weaving, metalworking, furniture making, and calligraphy). However, some claim that the art label can also be attached to car design, fashion, photography, cooking, or even sports. Fine art is categorized as something that only has an aesthetic or conceptual function. This point was made over two thousand years ago by the Greek philosopher Aristotle, who wrote, 'the aim of art is to represent not the outward appearance of things but their inward significance.' He noted that artists produced objects, drama, and music that reflected their emotions and ideas, rather than just trying to capture a true image of nature. Andy Warhol, the American artist famous for his Pop Art in the 1960s, once said, 'An artist produces things that people don't need to have.' This is the distinction between fine and applied art. Applied arts require an object to be functional as well as beautiful.",
+              "kr": "[순수 예술과 응용 예술의 구분 및 아리스토텔레스와 워홀의 정의] 예술은 전형적으로 두 영역으로 나뉜다: 순수 예술(fine art: 회화, 조각, 음악, 시 등)과 응용 예술(applied art: 도예, 직조, 금속공예, 가구 제작, 서예 등). 그러나 어떤 사람들은 '예술'이라는 명칭이 자동차 디자인, 패션, 사진, 요리, 심지어 스포츠에도 붙을 수 있다고 주장한다. 순수 예술은 오직 미적(aesthetic)이거나 개념적(conceptual) 기능만을 갖는 것으로 분류된다. 이 점은 2천 년 전 그리스 철학자 아리스토텔레스에 의해 언급되었는데, 그는 '예술의 목적은 사물의 외적인 모습을 재현하는 것이 아니라, 그 사물의 내적인 의미(inward significance)를 나타내는 것이다'라고 썼다. 그는 예술가들이 단순히 자연의 참된 이미지를 포착하려 하기보다, 자신들의 감정과 사상을 반영하는 대상, 희곡, 음악을 창작했다고 언급했다. 1960년대 팝아트로 유명한 미국 예술가 앤디 워홀은 한때 '예술가는 사람들이 가질 필요가 없는 물건을 만든다'라고 말했다. 이것이 바로 순수 예술과 응용 예술 사이의 명확한 차이(distinction)이다. 응용 예술은 사물이 아름다울 뿐만 아니라 기능적(functional)이어야 함을 요구한다.\n* **핵심 어휘 및 구문**:\n  * `fine art vs applied art`: 순수 예술(심미적/개념적) vs 응용 예술(실용적 기능 + 아름다움)\n  * `aesthetic or conceptual function`: 미적 또는 개념적 기능\n  * `inward significance`: 내적 중요성, 내적 의미 (아리스토텔레스의 예술론 핵심)\n  * `distinction between A and B`: A와 B 사이의 구별",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] In the twentieth century, artists began to challenge the established idea of art. They recognized that their work belonged to the higher social classes who had the wealth to purchase art and the leisure time to enjoy it. The architect Frank Lloyd Wright commented, 'Art for art's sake is a philosophy of the well-fed.' In an attempt to challenge this notion, the French painter Marcel Duchamp submitted a toilet to an art exhibition in 1917 instead of a painting. He signed it and said, 'Everything an artist produces is art.' Today, many people complain about the lack of skill in the production of conceptual artistic objects. Some contemporary artists use assistants to produce all the actual work. Damien Hirst, for example, says that because he had the idea, it is his work. He has compared his art to architecture, saying, 'You have to look at it as if the artist is an architect, and we don't have a problem that great architects don't actually build the houses.'",
+              "kr": "[20세기 현대 미술의 도전: 뒤샹의 변기와 허스트의 개념 미술] 20세기에 들어 예술가들은 기존의 확립된(established) 예술 개념에 도전하기 시작했다. 그들은 자신들의 작품이 예술을 구매할 부와 그것을 즐길 여가 시간을 가진 상위 사회 계층에 속해 있다는 점을 인식했다. 건축가 프랭크 로이드 라이트는 '예술을 위한 예술(Art for art's sake)은 배부른 자들(the well-fed)의 철학이다'라고 비판했다. 이러한 통념에 도전하려는 시도로, 프랑스 화가 마르셀 뒤샹은 1917년 미술 전시회에 그림 대신 변기를 출품했다. 그는 변기에 서명하며 '예술가가 생산하는 모든 것이 예술이다'라고 선언했다. 오늘날 많은 사람들은 개념적 예술 작품의 제작 과정에서 기술(기교, skill)이 부족하다는 점에 대해 불만을 제기한다. 일부 현대 예술가들은 실제 모든 작업을 제작하기 위해 조수들을 고용한다. 예를 들어 데미안 허스트는 자신이 아이디어를 냈기 때문에 그것이 자신의 작품이라고 말한다. 그는 자신의 예술을 건축에 비유하며 '당신은 예술가를 건축가인 것처럼 바라보아야 한다. 우리는 훌륭한 건축가가 실제로 집을 직접 짓지 않는다고 해서 문제를 삼지 않는다'라고 역설했다.\n* **핵심 어휘 및 구문**:\n  * `challenge the established idea`: 기성의 확립된 개념에 도전하다\n  * `Art for art's sake is a philosophy of the well-fed`: 배부른 자들의 철학 (엘리트주의 비판)\n  * `Marcel Duchamp (1917)`: 변기 출품 ('Fountain' 작) - 개념 미술의 시초\n  * `Damien Hirst`: 조수를 활용한 제작 방식 정당화 (예술가 = 설계자/건축가 비유)",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Despite a hundred years of modern art, fine art is still regarded as a preserve of the wealthy, and works sell for millions of dollars. Even so, we can see examples of art all around us that are not expensive. Many towns and cities have public art that can be enjoyed by all. Some museums, like the National Gallery of Art in Washington, D.C., are free. Others are free for children and students. Street art is also popular in different neighborhoods around the world. One British artist, Banksy, has become world-famous for unauthorized works of art painted on building walls. These can be viewed at no charge by anyone who knows where to look.",
+              "kr": "[대중을 위한 공공 예술과 뱅크시의 거리 예술] 현대 미술 100년의 역사에도 불구하고, 순수 예술은 여전히 부유층의 전유물(preserve of the wealthy)로 간주되며 작품들은 수백만 달러에 팔린다. 그럼에도 불구하고 우리는 우리 주변 도처에서 비싸지 않은 예술의 사례들을 볼 수 있다. 수많은 소도시와 대도시에는 모두가 향유할 수 있는 공공 미술(public art)이 존재한다. 워싱턴 D.C.의 국립 미술관(National Gallery of Art)처럼 일부 박물관은 무료로 개방된다. 또 다른 곳들은 어린이나 학생들에게 무료이다. 거리 예술(Street art) 역시 전 세계 다양한 지역에서 인기를 누리고 있다. 영국의 한 예술가인 뱅크시(Banksy)는 건물 벽에 허가받지 않은(unauthorized) 채로 그린 예술 작품들로 세계적인 명성을 얻었다. 이러한 작품들은 어디를 보아야 할지 아는 사람이라면 누구나 무료(at no charge)로 관람할 수 있다.\n* **핵심 어휘 및 구문**:\n  * `preserve of the wealthy`: 부유층의 전유물\n  * `public art`: 공공 미술 (모두를 위한 예술)\n  * `Banksy`: 영국의 세계적 거리 예술가 (건물 외벽 그래피티)\n  * `unauthorized`: 무단으로 제작된, 공식 허가 없는",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] Art anthropologist Ellen Dissanayake in the book What is Art For? offers one intriguing function of art: 'the heightening of existence.' In other words, art makes our ordinary, everyday lives a little more special. This notion may not apply to all art, but perhaps we can agree that it is a good goal toward which all artists should reach.",
+              "kr": "[예술의 궁극적 기능: 삶의 고양] 예술 인류학자인 엘렌 디사나야케(Ellen Dissanayake)는 그녀의 저서 『예술은 무엇을 위한 것인가? (What is Art For?)』에서 예술의 대단히 흥미로운 기능 한 가지를 제시한다: 바로 '존재의 고양(the heightening of existence)'이다. 다시 말해 예술은 우리의 평범하고 일상적인 삶을 조금 더 특별하게 만들어 준다. 이러한 관념이 모든 예술에 다 적용되지는 않을지 모르지만, 이것이 모든 예술가들이 도달해야 할 훌륭한 목표라는 점에는 아마도 우리 모두가 동의할 수 있을 것이다.\n* **핵심 어휘 및 구문**:\n  * `the heightening of existence`: 존재의 고양 (평범한 삶을 특별하게 승화시킴)\n  * `What is Art For?`: 예술의 인류학적 기능을 다룬 핵심 저서\n  * `goal toward which all artists should reach`: 모든 예술가가 지향해야 할 목표",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "[기말] Unit 7 Reading 2: Photography as Art (사진은 예술인가)",
+          "short_title": "[기말] U7 R2 사진예술",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] Photography is thought by some to be a form of fine art because it is made using the same critical and creative process that a painter or sculptor would use. It seems clear, however, that there is a significant difference between creating images by hand—using paint, clay, or other tools—and pointing a mechanical device at something interesting and clicking. Although photography does have some features in common with other kinds of art, it cannot be said that photography is unquestionably art.",
+              "kr": "[사진 예술론의 쟁점: 손의 창작인가, 기계적 장치의 클릭인가] 사진은 화가나 조각가가 사용하는 것과 동일한 비판적이고 창의적인 과정을 거쳐 제작되기 때문에, 일부 사람들에 의해 순수 예술의 한 형태로 여겨진다. 그러나 물감, 찰흙, 또는 기타 도구를 사용하여 손으로 직접 이미지를 창조해 내는 것과, 흥미로운 대상을 향해 기계적 장치(카메라)를 겨누고 셔터를 누르는(clicking) 것 사이에는 중대한 차이가 존재함이 분명해 보인다. 비록 사진이 다른 유형의 예술들과 공통된 특징들을 가지고 있기는 하지만, 사진이 의심의 여지 없이 예술이라고 단정할 수는 없다.\n* **핵심 어휘 및 구문**:\n  * `critical and creative process`: 비판적이고 창의적인 창작 과정\n  * `significant difference`: 손으로 그리는 것 vs 기계 셔터를 누르는 것의 중대한 차이\n  * `unquestionably art`: 의문의 여지 없는 명백한 예술",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] Photography certainly shares many qualities with other visual art. Sometimes decisions involved in creating a photograph are analogous to those made by any other artist. A photograph is not always just a banal record of the world, but a deliberately created image with its own artistic features. Ansel Adams, the American photographer, commented on this point when he noted that take is not the right verb for a photograph. Instead, he said, one makes a photograph. To this end, there is a growing trend for photographers to call themselves artists. Nevertheless, we cannot ignore the fact that artists can sell their pieces in the higher-priced, fine-art markets, whereas photographers cannot. A photograph by German artist Andreas Gursky, for example, recently sold for almost $4.5 million. As cynical as it may sound, no one would likely pay that much for a photograph unless the photographer presented himself as an artist.",
+              "kr": "[시각 예술과의 유사성 및 초고가 미술 시장의 메커니즘] 사진은 분명 다른 시각 예술과 많은 특성을 공유한다. 때때로 사진을 제작하는 데 수반되는 결정들은 다른 어떤 예술가가 내리는 결정들과 매우 유사하다(analogous). 사진은 항상 세상에 대한 진부한(banal) 기록인 것만은 아니며, 고유한 예술적 특징을 지닌 채 의도적으로 창조된 이미지이다. 미국의 전설적인 사진작가 앤셀 애덤스(Ansel Adams)는 사진에 대해 '찍다(take)'라는 동사는 올바른 표현이 아니라고 지적하며 이 점을 강조했다. 대신에 그는 사진을 '만든다(makes)'라고 표현했다. 이러한 맥락에서 사진작가들이 스스로를 예술가라고 부르는 경향이 점점 커지고 있다. 그럼에도 불구하고 우리는 순수 예술가들은 고가의 미술 시장에서 작품을 판매할 수 있는 반면, 일반 사진가들은 그렇지 못하다는 사실을 무시할 수 없다. 예를 들어 독일 예술가 안드레아스 거스키(Andreas Gursky)의 한 사진 작품(라인강 II)은 최근 거의 450만 달러(약 50억 원 이상)에 팔렸다. 냉소적으로 들릴지 모르지만, 그 사진작가가 자신을 예술가로서 포장하여 제시하지 않았다면 아무도 사진 한 장에 그토록 많은 돈을 지불하지 않았을 것이다.\n* **핵심 어휘 및 구문**:\n  * `analogous to`: ~와 유사한, 상응하는\n  * `banal record`: 진부하고 평범한 일상 기록\n  * `Ansel Adams`: '사진은 찍는 것(take)이 아니라 만드는 것(make)'이라는 명언\n  * `Andreas Gursky`: 최고가 경매 기록을 세운 독일 사진 예술가",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] In truth, most photographs are basically objective records of a particular place at a particular time. Certainly we can appreciate a beautiful photograph when we see one, but any beauty that is perceived in the picture comes from the time and place where it was taken, and it is not the creation of the photographer. Also, sophisticated and expensive equipment often plays a greater role in the success of a photograph than the photographer's creativity. Even some of the greatest photographers acknowledge that there is a limit to the amount of influence they can have on a final product. Henri Cartier-Bresson, the famous French photographer, admitted that luck was the most important factor.",
+              "kr": "[객관적 기록으로서의 한계와 행운 및 장비의 결정성] 사실 대부분의 사진은 기본적으로 특정한 장소와 특정한 시점에 대한 객관적인 기록(objective records)이다. 분명 우리는 아름다운 사진을 보았을 때 그것을 높이 평가할 수 있지만, 그 사진 속에서 인지되는 아름다움은 사진이 촬영된 시간과 장소 자체에서 비롯된 것이지 사진작가의 창조물이 아니다. 또한 사진의 성공에 있어서는 사진작가의 창의성보다 정교하고 값비싼 카메라 장비가 더 큰 역할을 할 때가 많다. 당대 최고의 사진작가들조차 자신들이 최종 결과물에 미칠 수 있는 영향력의 크기에 한계가 있음을 인정한다. 프랑스의 유명 사진작가 앙리 카르티에 브레송(Henri Cartier-Bresson)은 '행운(luck)'이야말로 가장 결정적인 요인이었음을 솔직히 시인했다.\n* **핵심 어휘 및 구문**:\n  * `objective records`: 객관적 기록물\n  * `beauty comes from the time and place`: 아름다움은 피사체와 현장 자체에서 기인함\n  * `sophisticated equipment`: 고가의 정교한 장비 의존성\n  * `Henri Cartier-Bresson`: '결정적 순간'의 대가조차 행운(luck)이 가장 중요함을 인정",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] Finally, photography is so widely used for practical functions that have little or nothing to do with art, such as police work, advertising, and news reporting, that it cannot claim to be made for aesthetic purposes alone.",
+              "kr": "[비예술적 실용 기능의 지배성: 경찰 수사, 광고, 보도] 마지막으로, 사진은 경찰 수사 업무, 상업 광고, 뉴스 보도 등 예술과는 거의 또는 전혀 무관한 실용적인 기능(practical functions)에 너무나 광범위하게 사용되고 있기 때문에, 오로지 미학적인 목적(aesthetic purposes alone)만을 위해 제작된다고 주장할 수는 없다.\n* **핵심 어휘 및 구문**:\n  * `have little or nothing to do with`: ~와 거의 또는 전혀 관련이 없다\n  * `police work, advertising, news reporting`: 비미학적·기록적 실용 용도의 대표 예시",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] People have argued whether photography is art ever since the first photographers shared their work. A photographer may make the same aesthetic choices as a fine artist: subject matter, lighting, color, or even a theme or message. However, cameras can also be purely functional tools, capturing visual records and presenting information. Photography is a medium that can be used to make art, but that does not mean that all photography is art.",
+              "kr": "[결론: 사진의 이중적 속성과 매체적 본질] 최초의 사진가들이 자신의 작품을 세상과 공유한 이래로 사람들은 사진이 예술인가에 대해 끝없이 논쟁해 왔다. 사진작가는 순수 예술가와 마찬가지로 피사체 선정, 조명, 색상, 심지어 주제나 메시지와 같은 동일한 미적 선택을 내릴 수 있다. 그러나 카메라는 시각적 기록을 포착하고 정보를 전달하는 순수하게 기능적인 도구(purely functional tools)가 될 수도 있다. 요컨대 사진은 '예술을 만들기 위해 사용될 수 있는 매체(medium)'이지만, 그것이 '모든 사진이 곧 예술'임을 의미하는 것은 아니다.\n* **핵심 어휘 및 구문**:\n  * `aesthetic choices`: 소재, 조명, 색상, 메시지 선택\n  * `purely functional tools`: 순수 기능적 기록 도구로서의 카메라\n  * `a medium that can be used to make art`: 사진은 예술 창작의 매체일 뿐, 모든 사진이 예술은 아님",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "[기말] Unit 7 Language Development: Paraphrasing & Art Adjectives (p.136~137)",
+          "short_title": "[기말] U7 언어개발",
+          "sentences": [
+            {
+              "zh": "[Unit 7 p.136 Academic Paraphrasing 11대 보고 동사 (Reporting Verbs)]\n1. state (진술하다, 명시하다) / say (말하다)\n2. feel (생각하다, 느끼다) / insist (강력히 주장하다)\n3. believe (믿다, 확신하다) / point out (지적하다, 짚어내다)\n4. emphasize (강조하다) / maintain (일관되게 주장하다)\n5. deny (부인하다, 거부하다) / suggest (시사하다, 제안하다)\n6. theorize (이론화하다, 학설을 세우다)",
+              "kr": "[학술 패러프레이징의 핵심 전략: 원문 직인용을 탈피하고 보고 동사로 바꿔 쓰기]\n• 패러프레이징 3대 핵심 원칙:\n  1) 동의어 및 반의어를 활용하여 단어 교체하기\n  2) 품사를 전환하거나 문장 구조 바꾸기\n  3) 핵심 아이디어는 보존하되 보고 동사를 적절히 결합하기\n• 교재 136페이지 실전 적용 예시:\n  - 원문: \"The chief enemy of creativity is 'good' sense.\" —Pablo Picasso\n  - 패러프레이즈: Pablo Picasso [felt] that doing things in the usual, sensible way was the main obstacle to imaginative art.\n  - 문항 정답: The superintendent [insisted] that art should be part of the curriculum.",
+              "py": ""
+            },
+            {
+              "zh": "[Unit 7 p.137 Art and Design Adjectives 예술·디자인 핵심 형용사 8선]\n1. abstract: relating to ideas, not physical things (추상적인)\n2. avant-garde: relating to ideas and styles that are very original and modern (전위적인, 아방가르드)\n3. decorative: made to look attractive (장식적인)\n4. expressive: showing what somebody thinks or feels (표현력이 풍부한)\n5. figurative: showing people or things in a similar way to real life (구상적인, 현실을 묘사하는)\n6. lifelike: looks very real (실물과 똑같은, 생생한)\n7. monumental: very big (기념비적인, 엄청나게 거대한)\n8. moving: causing strong feelings of sadness or sympathy (감동적인, 가슴을 뭉클하게 하는)",
+              "kr": "[전 분반 100% 출제 지정: 예술·디자인 8대 형용사 교재 137페이지 문장 적용 정답]\n1. The [monumental] bronze sculpture weighs seven tons. (7톤짜리 거대한 청동 조각상)\n2. It was a(n) [moving] performance that left many people in tears. (관객들을 눈물짓게 만든 감동적인 공연)\n3. I think art is purely [decorative]. It is only there to look nice. (단지 보기 좋으라고 걸어둔 순수하게 장식적인 그림)\n4. The tiger sculpture was so [lifelike] that people were a little scared by it. (실물처럼 너무나 생생해서 무서웠던 호랑이 조각상)\n5. Her work was very [avant-garde]; her ideas took years for people to accept as normal. (사람들이 받아들이는 데 수년이 걸린 전위적인 작품)\n6. [Abstract] art can look easy to produce because there are no realistic images. (사실적인 묘사가 없어 쉬워 보이는 추상 예술)\n7. He was interested in [figurative] art and produced many realistic portraits of people. (현실의 사람들을 사실적으로 묘사한 구상 미술)\n8. The paint was applied quickly to the picture in a(n) [expressive] and emotional way. (감정적이고 표현력이 풍부한 방식으로 칠해진 유화)",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "[기말] Unit 8 Reading 1: The Social and Economic Impact of Aging (고령화의 사회·경제적 파급)",
+          "short_title": "[기말] U8 R1 고령화영향",
+          "sentences": [
+            {
+              "zh": "[Q1 & Q2] What exactly does aging mean? It means the population in many countries is, on average, getting older. Incredibly, in the last 50 years, average life expectancy in wealthier countries has increased by half, and this trend is expected to continue. What impact is this aging process likely to have globally? Well, obviously it is a good thing that people are living longer, but as a result of these changes, there are a number of issues that have to be dealt with.",
+              "kr": "[고령화의 정의와 기대 수명의 비약적 증가] Q: 고령화(aging)란 정확히 무엇을 의미하는가? A: 그것은 수많은 국가에서 인구가 평균적으로 점점 더 나이 들어가는 것을 의미한다. 놀랍게도 지난 50년 동안 부유한 국가들의 평균 기대 수명(average life expectancy)은 절반(50%)이나 증가했으며, 이러한 추세는 앞으로도 지속될 것으로 예상된다. Q: 이러한 고령화 과정이 전 세계적으로 어떤 영향을 미칠 것으로 보이는가? A: 사람들이 더 오래 산다는 것은 분명 좋은 일이지만, 이러한 변화의 결과로 다루어져야만 하는 수많은 문제들이 발생한다.\n* **핵심 어휘 및 구문**:\n  * `average life expectancy`: 평균 기대 수명 (지난 50년간 50% 급증)\n  * `issues that have to be dealt with`: 해결되어야 할 사회적 난제들",
+              "py": ""
+            },
+            {
+              "zh": "[Q3: For example?] In certain countries, an increasing number of older people are living by themselves, often without any relatives living nearby. Some older people are simply unable to take care of themselves, and others can only do so if their houses are specially adapted. Likewise, they may be unable to go shopping or wash themselves, and so they need someone, perhaps a professional, to help. And, of course, older people need social activities as well.",
+              "kr": "[독거노인의 증가와 주거 개조 및 돌봄의 필요성] Q: 구체적인 예를 든다면? A: 특정 국가들에서는 점점 더 많은 수의 노인들이 근처에 사는 친척도 없이 홀로 독거하고 있다. 어떤 노인들은 단순히 스스로를 돌볼 수 없으며, 또 다른 이들은 자신들의 집이 노인 맞춤형으로 특수하게 개조(specially adapted)되어야만 일상생활이 가능하다. 마찬가지로 그들은 장을 보러 가거나 스스로 몸을 씻을 수 없을 수도 있어, 전문 간병인과 같은 누군가의 도움을 필요로 한다. 그리고 당연하게도 노인들에게는 사회적 활동 역시 필요하다.\n* **핵심 어휘 및 구문**:\n  * `living by themselves`: 독거노인의 급증\n  * `specially adapted`: 문턱 제거, 안전 손잡이 설치 등 고령자 맞춤 특수 개조",
+              "py": ""
+            },
+            {
+              "zh": "[Q4: How are societies adapting?] Supermarkets, for example, have introduced more home delivery services, which have been particularly beneficial for older people. In addition, there has been significant growth in companies providing services that would traditionally have been undertaken by relatives. This includes private nursing care and 'meals-on-wheels' services, which deliver food to your door.",
+              "kr": "[사회의 적응: 가정 배달과 전문 간호 및 식사 배달 서비스] Q: 사회는 이에 어떻게 적응하고 있는가? A: 예를 들어 슈퍼마켓들은 더 많은 가정 배송 서비스(home delivery services)를 도입했으며, 이는 고령층에게 대단히 유익했다. 아울러 전통적으로 친척(가족)들에 의해 수행되었을 서비스들을 대신 제공하는 기업들이 크게 성장했다. 여기에는 민간 전문 간호 돌봄(private nursing care)과 집 앞까지 음식을 배달해 주는 '식사 배달(meals-on-wheels)' 서비스가 포함된다.\n* **핵심 어휘 및 구문**:\n  * `home delivery services`: 식료품 방문 배송 서비스\n  * `traditionally undertaken by relatives`: 전통적으로 자녀·친척이 도맡던 효도 돌봄의 상업화/사회화\n  * `meals-on-wheels`: 거동이 불편한 고령층 대상 도시락 순회 배달 복지 서비스",
+              "py": ""
+            },
+            {
+              "zh": "[Q5: Economic impact] Although it is not a problem yet, many governments are worried about the economic impact of an aging population. With fewer people working and paying taxes, it is obvious that governments will have less money to pay for things like health and education.",
+              "kr": "[경제적 파급 효과: 세수 감소와 재정적 압박] Q: 고령화의 영향이 뚜렷하게 관찰되는 다른 영역이 있는가? A: 아직 당장 눈앞의 치명적 문제는 아닐지라도, 수많은 정부들은 고령화 인구의 경제적 파급 효과를 깊이 우려하고 있다. 일하고 세금을 납부하는 인구(working and paying taxes)는 줄어들고 있으므로, 정부가 보건 의료나 공교육과 같은 공공 서비스에 지출할 수 있는 재정이 줄어들 것이 자명하기 때문이다.\n* **핵심 어휘 및 구문**:\n  * `fewer people working and paying taxes`: 생산가능인구 및 납세 인구 감소\n  * `less tax revenue for health and education`: 복지 수요는 급증하는데 정부 세수는 감소하는 재정 역전 현상",
+              "py": ""
+            },
+            {
+              "zh": "[Q6: Advantages of an older population] In countries where the percentage of children is lower, there are fewer education costs. In more developed countries, older people tend to have more savings and more leisure time. They might spend time online, or travel, or even go back to school. Of course, older people do have a lot of experience, and if they can, some continue working in a voluntary capacity after they retire. This kind of activity adds a lot to society.",
+              "kr": "[고령화 사회의 긍정적 기여: 교육비 절감, 풍부한 여가 소비, 은퇴 후 자원봉사] Q: 고령 인구가 가져다줄 수 있는 장점은 무엇인가? A: 아동의 비율이 더 낮은 국가에서는 공교육 지출 비용이 감소한다. 선진국에서 고령층은 더 많은 저축(savings)과 더 많은 여가 시간(leisure time)을 보유하는 경향이 있다. 그들은 온라인에서 시간을 보내거나, 여행을 다니거나, 심지어 대학으로 돌아가 만학도가 될 수도 있다. 물론 노인들은 막대한 인생 경험을 가지고 있으며, 능력이 닿는다면 은퇴 후 자원봉사의 자격(voluntary capacity)으로 계속 사회에 기여한다. 이러한 유형의 활동은 우리 사회에 막대한 가치를 더해 준다.\n* **핵심 어휘 및 구문**:\n  * `more savings and leisure time`: 실버 세대의 구매력과 여가 소비\n  * `voluntary capacity after they retire`: 은퇴 후 자원봉사자로서의 사회적 재기여",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "[기말] Unit 8 Reading 2: Saudi Arabia: The Realities of a Young Society (청년 사회 사우디아라비아)",
+          "short_title": "[기말] U8 R2 청년사회사우디",
+          "sentences": [
+            {
+              "zh": "[Paragraph 1] There is a well-documented problem with the aging of the global population, but there are also areas of the world where demographics are very different. In many parts of the Middle East and North Africa, there is a much higher proportion of young people. The Kingdom of Saudi Arabia, a country of over 30 million people, is one such place. This reality has brought special challenges to the Kingdom in a number of different areas such as education, housing, and the economy.",
+              "kr": "[세계적 고령화와 대비되는 중동의 청년 인구 급증] 전 세계 인구의 고령화에 대해서는 수많은 자료가 입증하고 있지만, 인구통계학적 구조(demographics)가 이와 전혀 판이한 지역들도 세상에 존재한다. 중동과 북아프리카의 수많은 지역에서는 젊은 층의 비율이 훨씬 높다. 3천만 명이 넘는 인구를 가진 사우디아라비아 왕국이 바로 그러한 대표적 장소이다. 이러한 인구통계적 현실은 교육, 주택, 국가 경제 등 다양한 분야에서 왕국에 독특하고 특별한 난제들을 안겨주었다.\n* **핵심 어휘 및 구문**:\n  * `well-documented problem`: 충분히 입증되고 문서화된 문제\n  * `demographics`: 인구통계학적 특성 및 구조\n  * `proportion of young people`: 높은 청년층 비율",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 2] The population graph shows the population of men and women in Saudi Arabia and their age ranges in 2016. The graph shows Saudi Arabia has a very young population. Upon close analysis, it can be seen that about 27% of the population is age 14 and under, and approximately 19% of the total population is between the ages of 15 and 24. The number of Saudis in their mid-twenties to mid-thirties is particularly high, with almost one in five of the total population falling within just this ten-year age range. In the United States the median age is 38, in the United Kingdom it is 40, in Italy it is 45, and in Japan it is 47. Contrast this with youthful Saudi Arabia, where the median age is 27.",
+              "kr": "[인구 피라미드 분석: 중위 연령 27세의 젊은 국가] 2016년 인구 그래프는 사우디아라비아의 남녀 인구와 연령대를 보여준다. 그래프는 사우디아라비아가 매우 젊은 인구 구조를 가지고 있음을 극명히 나타낸다. 정밀 분석 결과 전체 인구의 약 27%가 14세 이하이며, 약 19%가 15세에서 24세 사이에 속한다. 특히 20대 중반에서 30대 중반 사이의 사우디인 수가 매우 많아서, 전체 인구의 5명 중 거의 1명이 바로 이 10년이라는 좁은 연령대에 집중되어 있다. 미국의 중위 연령(median age)은 38세, 영국은 40세, 이탈리아는 45세, 일본은 47세이다. 중위 연령이 단 27세에 불과한 젊은 사우디아라비아와 극명한 대조를 이룬다.\n* **핵심 어휘 및 구문**:\n  * `median age`: 중위 연령 (사우디 27세 vs 미국 38세 vs 일본 47세)\n  * `one in five`: 5명 중 1명이 20대 중반~30대 중반에 포진",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 3] The high percentage of children and young people means that Saudi Arabia's education costs are high. Education is a priority for the Kingdom. A recent report showed that education receives 25% of the government's annual budget, making the country's education spending one of the highest in the world. As a result of its demographic profile, the government has been leading a university expansion program to cope with the large number of college-aged students moving through the school system every year.",
+              "kr": "[국가 예산의 25%가 투입되는 교육비와 대학 확장 정책] 아동과 청년의 높은 비율은 사우디아라비아의 교육비 지출이 막대함을 의미한다. 교육은 왕국의 최우선 순위이다. 최근 보고서에 따르면 교육 부문은 정부 연간 예산의 무려 25%(4분의 1)를 배정받고 있으며, 이는 사우디의 교육비 지출을 세계 최고 수준 중 하나로 만든다. 이러한 인구통계학적 특성으로 인해 사우디 정부는 매년 정규 교육 과정을 거쳐 진학하는 막대한 수의 대학생들을 수용하기 위해 전면적인 대학 확장 프로그램(university expansion program)을 주도해 오고 있다.\n* **핵심 어휘 및 구문**:\n  * `receives 25% of annual budget`: 연간 국가 예산의 25%가 교육에 투입됨\n  * `university expansion program`: 대규모 대학 정원 및 캠퍼스 확장 프로그램",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 4] This also has an impact on employment opportunities for young people. Youth unemployment could well become the Kingdom's biggest social challenge in the coming years. These days, the unemployment rate for Saudis between the ages of 16 and 29 is 29%. Unless Saudi Arabia's government can provide enough public-sector jobs, or attract more private-sector employers, more budget expenditure will be needed for unemployment benefits.",
+              "kr": "[청년 실업률 29%와 고용 창출의 중대 도전] 이러한 청년 인구 폭증은 젊은이들의 취업 기회에도 막대한 영향을 미친다. 청년 실업(Youth unemployment)은 다가오는 수년 동안 왕국의 가장 거대한 사회적 난제가 될 공산이 크다. 최근 16세에서 29세 사이 사우디 청년층의 실업률은 29%에 달한다. 사우디 정부가 충분한 공공 부문 일자리(public-sector jobs)를 제공하거나, 더 많은 민간 기업 고용주들을 유치하지 못한다면, 실업 수당(unemployment benefits) 지급을 위해 훨씬 더 많은 국가 재정 지출이 요구될 것이다.\n* **핵심 어휘 및 구문**:\n  * `youth unemployment rate: 29%`: 16~29세 청년 실업률 29%의 위기\n  * `public-sector vs private-sector jobs`: 공공 부문 및 민간 부문 고용 창출 딜레마",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 5] There is a similar challenge in terms of housing, with more demand than supply. This is a particular problem in places such as Jeddah, Saudi Arabia's second-largest city. Jeddah is on the coast, with a mountain range to the east, and outward expansion is geographically impossible. As a consequence, houses have become more expensive, and young people may be unable to buy their own homes.",
+              "kr": "[주택 수요 초과와 제다시의 지리적 한계로 인한 집값 폭등] 주택 분야에서도 공급보다 수요가 훨씬 많은 유사한 난제가 발생하고 있다. 이는 사우디 제2의 대도시인 제다(Jeddah)와 같은 곳에서 특히 심각한 문제이다. 제다는 해안가에 위치하며 동쪽으로는 거대한 산맥이 가로막고 있어 지리적으로 외곽 확장이 불가능하다. 그 결과 주택 가격은 엄청나게 비싸졌고, 젊은이들은 자신의 집을 마련할 수 없게 되었다.\n* **핵심 어휘 및 구문**:\n  * `more demand than supply`: 주택 수요가 공급을 압도\n  * `Jeddah`: 서쪽은 바다, 동쪽은 산맥으로 둘러싸여 도시 외곽 팽창이 불가능한 지리적 병목 도시",
+              "py": ""
+            },
+            {
+              "zh": "[Paragraph 6] Although Saudi Arabia faces several challenges in terms of education, employment, and housing as a result of its young population, it does not have to cope with the demands of an aging population. Because the country has relatively fewer old people than the places mentioned earlier, the costs of health care and pensions are lower. This will allow more funds to be allocated to improving the lives of young people.",
+              "kr": "[청년 사회의 궁극적 이점: 연금 및 의료비 부담 경감] 사우디아라비아가 청년 인구로 인해 교육, 고용, 주택 측면에서 여러 도전에 직면해 있을지라도, 고령화 인구가 수반하는 부담을 겪지 않아도 된다는 거대한 장점이 있다. 사우디는 앞서 언급된 고령 국가들에 비해 노인 인구 비율이 상대적으로 낮기 때문에, 공공 의료비와 연금(pensions) 지출 비용이 훨씬 적다. 이를 통해 절감된 국부 재정은 청년들의 삶을 개선하는 데 훨씬 더 많이 배정(allocated)될 수 있을 것이다.\n* **핵심 어휘 및 구문**:\n  * `does not have to cope with aging demands`: 고령화 위기 면제\n  * `costs of health care and pensions are lower`: 의료비 및 공적 연금 재정 부담 최소화\n  * `funds allocated to young people`: 청년 역량 강화에 재정 집중 투입 가능",
+              "py": ""
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "[기말] Unit 8 Language Development: Collocations & Prediction (p.154~155)",
+          "short_title": "[기말] U8 언어개발",
+          "sentences": [
+            {
+              "zh": "[Unit 8 p.154 Academic Collocations with Prepositions 전치사 연어 8그룹]\n1. in brief (요컨대, 간단히 말해서)\n2. in theory (이론상으로는)\n3. focus on (집중하다, 초점을 맞추다)\n4. sum up (요약하다, 결론짓다)\n5. identify with (동질감을 느끼다, 공감하다)\n6. range of (~의 범위, 다양한)\n7. rely on (의존하다, 기대다)\n8. in contrast (그에 반해서, 대조적으로)",
+              "kr": "[교재 154페이지 실전 문장 빈칸 정답]\n1. Countries may encounter financial challenges when an increasing number of older people have to [rely on] the government for support. (정부 지원에 의존해야 할 때)\n2. Countries with a younger population have high education costs. [In contrast], those with an older population have to spend more on health care. (대조적으로 고령 인구 국가는 의료비 지출이 큼)\n3. There is a wide [range of] voluntary work opportunities for retired people. (은퇴자를 위한 폭넓은 자원봉사 기회)\n4. There is a tendency to [focus on] the problems faced by the elderly, not their valuable contribution to society. (노인의 사회적 기여가 아닌 당면 문제에만 초점을 맞추는 경향)\n5. [In brief], the major problem an aging population will face is how to fund health care. (요컨대, 고령화의 최대 과제는 의료비 재원 마련)\n6. While many strategies may seem to work [in theory], when put into action, they rarely succeed. (이론상으로는 그럴듯해 보이지만 실천하면 실패하는 전략)\n7. It might be difficult for citizens of aging countries to [identify with] the challenges of countries with younger populations. (젊은 인구 국가의 고충에 깊이 공감하기 어려움)\n8. To [sum up], this report's key recommendation is more educational opportunities for seniors. (요약하자면, 60세 이상을 위한 교육 기회 확대)",
+              "py": ""
+            },
+            {
+              "zh": "[Unit 8 p.155 Language of Prediction 미래 예측 학술 표현 7선]\n1. There is likely to be (있을 가능성이 높다)\n2. There may be (~일 수도 있다)\n3. The number of ... is projected to (전망되다, 추산되다)\n4. The population is set to (~하도록 확정되어 있다, 예정되다)\n5. We are unlikely to see (목격할 가능성이 낮다)\n6. Unemployment is expected to (예상되다)\n7. Food prices are predicted to (예측되다)",
+              "kr": "[교재 155페이지 미래 예측 구문 1:1 패러프레이즈]\n1. The population will increase in the future. -> The population is [likely to] increase in the future.\n2. Oil prices will come down this year. -> Oil prices [may] come down this year.\n3. Unemployment will remain at the same level. -> Unemployment is [predicted to] remain at the same level.\n4. The cost of living will rise over the decade. -> The cost of living is [set to] rise over the decade.\n5. There will be more competition for spots. -> Competition is [expected to] intensify.",
+              "py": ""
+            }
+          ]
         }
       ],
       "vocab": [
@@ -10601,6 +11887,286 @@ var HUFS_DATA = {
           "kr": "활용하다, 실용적으로 사용하다 (= use) — formal academic verb meaning 'use' effectively",
           "level": "🔥 Unit 6 p.119",
           "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+        },
+        {
+          "word": "aesthetic",
+          "zh": "aesthetic",
+          "pos": "adj",
+          "meaning": "미적인, 심미적인 - 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+          "py": "[adj] 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+          "kr": "미적인, 심미적인 - 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 미적인, 심미적인"
+        },
+        {
+          "word": "conceptual",
+          "zh": "conceptual",
+          "pos": "adj",
+          "meaning": "개념적인, 아이디어에 기반한 - 개념적인, 개념에 기반한 - based on ideas or principles",
+          "py": "[adj] 개념적인, 개념에 기반한 - based on ideas or principles",
+          "kr": "개념적인, 아이디어에 기반한 - 개념적인, 개념에 기반한 - based on ideas or principles",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 개념적인, 아이디어에 기반한"
+        },
+        {
+          "word": "contemporary",
+          "zh": "contemporary",
+          "pos": "adj",
+          "meaning": "현대의, 동시대의 - 현대의, 동시대의 - existing or happening now",
+          "py": "[adj] 현대의, 동시대의 - existing or happening now",
+          "kr": "현대의, 동시대의 - 현대의, 동시대의 - existing or happening now",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 현대의, 동시대의"
+        },
+        {
+          "word": "distinction",
+          "zh": "distinction",
+          "pos": "n",
+          "meaning": "차이점, 명확한 구별 - 차이, 구별 - a difference between similar things",
+          "py": "[n] 차이, 구별 - a difference between similar things",
+          "kr": "차이점, 명확한 구별 - 차이, 구별 - a difference between similar things",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: n · 한국어: 차이점, 명확한 구별"
+        },
+        {
+          "word": "established",
+          "zh": "established",
+          "pos": "adj",
+          "meaning": "확립된, 사회적으로 인정된 - 확립된, 공인된 - generally accepted or familiar",
+          "py": "[adj] 확립된, 공인된 - generally accepted or familiar",
+          "kr": "확립된, 사회적으로 인정된 - 확립된, 공인된 - generally accepted or familiar",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 확립된, 사회적으로 인정된"
+        },
+        {
+          "word": "notion",
+          "zh": "notion",
+          "pos": "n",
+          "meaning": "관념, 개념, 통념 - 관념, 생각, 통념 - a belief or idea",
+          "py": "[n] 관념, 생각, 통념 - a belief or idea",
+          "kr": "관념, 개념, 통념 - 관념, 생각, 통념 - a belief or idea",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: n · 한국어: 관념, 개념, 통념"
+        },
+        {
+          "word": "significance",
+          "zh": "significance",
+          "pos": "n",
+          "meaning": "중요성, 의의 - 중요성, 의의 - the importance or meaning of something",
+          "py": "[n] 중요성, 의의 - the importance or meaning of something",
+          "kr": "중요성, 의의 - 중요성, 의의 - the importance or meaning of something",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: n · 한국어: 중요성, 의의"
+        },
+        {
+          "word": "unauthorized",
+          "zh": "unauthorized",
+          "pos": "adj",
+          "meaning": "허가받지 않은, 무단의 - 공식 허가 없는, 무단의 - without official permission",
+          "py": "[adj] 공식 허가 없는, 무단의 - without official permission",
+          "kr": "허가받지 않은, 무단의 - 공식 허가 없는, 무단의 - without official permission",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 허가받지 않은, 무단의"
+        },
+        {
+          "word": "analogous",
+          "zh": "analogous",
+          "pos": "adj",
+          "meaning": "유사한, 비슷한 - 유사한, 상응하는 - similar in some way to another situation",
+          "py": "[adj] 유사한, 상응하는 - similar in some way to another situation",
+          "kr": "유사한, 비슷한 - 유사한, 상응하는 - similar in some way to another situation",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 유사한, 비슷한"
+        },
+        {
+          "word": "banal",
+          "zh": "banal",
+          "pos": "adj",
+          "meaning": "진부한, 평범한 - 진부한, 평범한 - boring, ordinary, and not original",
+          "py": "[adj] 진부한, 평범한 - boring, ordinary, and not original",
+          "kr": "진부한, 평범한 - 진부한, 평범한 - boring, ordinary, and not original",
+          "level": "⭐ Unit 7 핵심어휘",
+          "note": "품사: adj · 한국어: 진부한, 평범한"
+        },
+        {
+          "word": "abstract",
+          "zh": "abstract",
+          "pos": "adj",
+          "meaning": "추상적인 - 추상적인 - relating to ideas, not physical things",
+          "py": "[adj] 추상적인 - relating to ideas, not physical things",
+          "kr": "추상적인 - 추상적인 - relating to ideas, not physical things",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 추상적인"
+        },
+        {
+          "word": "avant-garde",
+          "zh": "avant-garde",
+          "pos": "adj",
+          "meaning": "전위적인, 매우 혁신적인 - 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+          "py": "[adj] 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+          "kr": "전위적인, 매우 혁신적인 - 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 전위적인, 매우 혁신적인"
+        },
+        {
+          "word": "decorative",
+          "zh": "decorative",
+          "pos": "adj",
+          "meaning": "장식용의, 장식적인 - 장식적인 - made to look attractive",
+          "py": "[adj] 장식적인 - made to look attractive",
+          "kr": "장식용의, 장식적인 - 장식적인 - made to look attractive",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 장식용의, 장식적인"
+        },
+        {
+          "word": "expressive",
+          "zh": "expressive",
+          "pos": "adj",
+          "meaning": "표현력이 풍부한 - 표현력이 풍부한 - showing what somebody thinks or feels",
+          "py": "[adj] 표현력이 풍부한 - showing what somebody thinks or feels",
+          "kr": "표현력이 풍부한 - 표현력이 풍부한 - showing what somebody thinks or feels",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 표현력이 풍부한"
+        },
+        {
+          "word": "figurative",
+          "zh": "figurative",
+          "pos": "adj",
+          "meaning": "구상적인, 실물에 가까운 - 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+          "py": "[adj] 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+          "kr": "구상적인, 실물에 가까운 - 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 구상적인, 실물에 가까운"
+        },
+        {
+          "word": "lifelike",
+          "zh": "lifelike",
+          "pos": "adj",
+          "meaning": "실물과 똑같은, 생생한 - 실물과 똑같은, 생생한 - looks very real",
+          "py": "[adj] 실물과 똑같은, 생생한 - looks very real",
+          "kr": "실물과 똑같은, 생생한 - 실물과 똑같은, 생생한 - looks very real",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 실물과 똑같은, 생생한"
+        },
+        {
+          "word": "monumental",
+          "zh": "monumental",
+          "pos": "adj",
+          "meaning": "기념비적인, 거대한 - 기념비적인, 엄청나게 거대한 - very big",
+          "py": "[adj] 기념비적인, 엄청나게 거대한 - very big",
+          "kr": "기념비적인, 거대한 - 기념비적인, 엄청나게 거대한 - very big",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 기념비적인, 거대한"
+        },
+        {
+          "word": "moving",
+          "zh": "moving",
+          "pos": "adj",
+          "meaning": "감동적인, 가슴 뭉클한 - 감동적인 - causing strong feelings of sadness or sympathy",
+          "py": "[adj] 감동적인 - causing strong feelings of sadness or sympathy",
+          "kr": "감동적인, 가슴 뭉클한 - 감동적인 - causing strong feelings of sadness or sympathy",
+          "level": "⭐ Unit 7 8대형용사",
+          "note": "품사: adj · 한국어: 감동적인, 가슴 뭉클한"
+        },
+        {
+          "word": "demographic",
+          "zh": "demographic",
+          "pos": "adj",
+          "meaning": "인구통계학적인 - 인구통계학의 - relating to the structure of populations",
+          "py": "[adj] 인구통계학의 - relating to the structure of populations",
+          "kr": "인구통계학적인 - 인구통계학의 - relating to the structure of populations",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: adj · 한국어: 인구통계학적인"
+        },
+        {
+          "word": "expectancy",
+          "zh": "expectancy",
+          "pos": "n",
+          "meaning": "기대 (life expectancy: 기대 수명) - 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+          "py": "[n] 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+          "kr": "기대 (life expectancy: 기대 수명) - 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 기대 (life expectancy: 기대 수명)"
+        },
+        {
+          "word": "beneficial",
+          "zh": "beneficial",
+          "pos": "adj",
+          "meaning": "유익한, 도움이 되는 - 유익한, 이로운 - helpful, useful, or good",
+          "py": "[adj] 유익한, 이로운 - helpful, useful, or good",
+          "kr": "유익한, 도움이 되는 - 유익한, 이로운 - helpful, useful, or good",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: adj · 한국어: 유익한, 도움이 되는"
+        },
+        {
+          "word": "undertaken",
+          "zh": "undertaken",
+          "pos": "v",
+          "meaning": "수행하다, 도맡다 - 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+          "py": "[v] 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+          "kr": "수행하다, 도맡다 - 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: v · 한국어: 수행하다, 도맡다"
+        },
+        {
+          "word": "capacity",
+          "zh": "capacity",
+          "pos": "n",
+          "meaning": "자격, 지위 (in a voluntary capacity: 자원봉사 자격으로) - 역량, 자격, 지위 - a particular position or job",
+          "py": "[n] 역량, 자격, 지위 - a particular position or job",
+          "kr": "자격, 지위 (in a voluntary capacity: 자원봉사 자격으로) - 역량, 자격, 지위 - a particular position or job",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 자격, 지위 (in a voluntary capacity: 자원봉사 자격으로)"
+        },
+        {
+          "word": "proportion",
+          "zh": "proportion",
+          "pos": "n",
+          "meaning": "비율, 비중 - 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+          "py": "[n] 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+          "kr": "비율, 비중 - 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 비율, 비중"
+        },
+        {
+          "word": "median",
+          "zh": "median",
+          "pos": "adj",
+          "meaning": "중위의 (median age: 중위 연령) - 중위의, 중앙값의 - the median value is the middle value in a series of values",
+          "py": "[adj] 중위의, 중앙값의 - the median value is the middle value in a series of values",
+          "kr": "중위의 (median age: 중위 연령) - 중위의, 중앙값의 - the median value is the middle value in a series of values",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: adj · 한국어: 중위의 (median age: 중위 연령)"
+        },
+        {
+          "word": "unemployment",
+          "zh": "unemployment",
+          "pos": "n",
+          "meaning": "실업 (youth unemployment: 청년 실업) - 실업, 실업률 - the number of people who do not have a job",
+          "py": "[n] 실업, 실업률 - the number of people who do not have a job",
+          "kr": "실업 (youth unemployment: 청년 실업) - 실업, 실업률 - the number of people who do not have a job",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 실업 (youth unemployment: 청년 실업)"
+        },
+        {
+          "word": "expenditure",
+          "zh": "expenditure",
+          "pos": "n",
+          "meaning": "정부 지출, 경비 - 지출, 경비 - the total amount of money that a government or person spends",
+          "py": "[n] 지출, 경비 - the total amount of money that a government or person spends",
+          "kr": "정부 지출, 경비 - 지출, 경비 - the total amount of money that a government or person spends",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: n · 한국어: 정부 지출, 경비"
+        },
+        {
+          "word": "allocate",
+          "zh": "allocate",
+          "pos": "v",
+          "meaning": "배정하다, 할당하다 - 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+          "py": "[v] 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+          "kr": "배정하다, 할당하다 - 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+          "level": "⭐ Unit 8 핵심어휘",
+          "note": "품사: v · 한국어: 배정하다, 할당하다"
         }
       ],
       "qa": [

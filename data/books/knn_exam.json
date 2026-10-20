@@ -168,6 +168,173 @@
           "py": ""
         }
       ]
+    },
+    {
+      "id": 5,
+      "title": "[기말] Unit 7 Reading 1: All that Art Is (예술의 정의와 기능)",
+      "short_title": "[기말] U7 R1 예술정의",
+      "sentences": [
+        {
+          "zh": "[Paragraph 1] What is art? This question has puzzled philosophers and great thinkers for centuries. In fact, there is disagreement about exactly what art is. Most of us would agree that Leonardo da Vinci's Mona Lisa is art, but what about a video game? One dictionary definition states that art is 'making objects, images, or music, etc. that are beautiful or that express certain feelings.' This, however, could be regarded as too broad a definition. There are actually a number of different categories of objects and processes under the umbrella term of art that can be explored.",
+          "kr": "[예술의 정의에 대한 오랜 논쟁과 포괄적 범주] 예술이란 무엇인가? 이 질문은 수세기 동안 철학자들과 위대한 사상가들을 당혹스럽게(고민하게) 만들어 왔다. 실제로 예술이 정확히 무엇인지에 대해서는 의견이 일치하지 않는다(이견이 존재한다). 우리 대부분은 레오나르도 다빈치의 모나리자가 예술이라는 점에 동의하겠지만, 비디오 게임은 어떠한가? 한 사전적 정의에 따르면 예술이란 '아름답거나 특정한 감정을 표현하는 사물, 이미지, 음악 등을 만드는 행위'라고 명시한다. 그러나 이는 지나치게 광범위한 정의로 간주될 수 있다. 실제로는 '예술'이라는 포괄적인 총칭(umbrella term) 아래에서 탐구될 수 있는 다양한 범주의 대상과 창작 과정들이 존재한다.\n* **핵심 어휘 및 구문**:\n  * `puzzled`: 당혹스럽게 하다, 골치 아프게 하다\n  * `disagreement about`: ~에 대한 의견 불일치\n  * `umbrella term`: 포괄적 총칭, 상위 범주 개념\n  * `regarded as too broad`: 너무 광범위한 것으로 간주되는",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 2] Art is typically divided into two areas: fine art (such as painting, sculpture, music, and poetry) and applied art (such as pottery, weaving, metalworking, furniture making, and calligraphy). However, some claim that the art label can also be attached to car design, fashion, photography, cooking, or even sports. Fine art is categorized as something that only has an aesthetic or conceptual function. This point was made over two thousand years ago by the Greek philosopher Aristotle, who wrote, 'the aim of art is to represent not the outward appearance of things but their inward significance.' He noted that artists produced objects, drama, and music that reflected their emotions and ideas, rather than just trying to capture a true image of nature. Andy Warhol, the American artist famous for his Pop Art in the 1960s, once said, 'An artist produces things that people don't need to have.' This is the distinction between fine and applied art. Applied arts require an object to be functional as well as beautiful.",
+          "kr": "[순수 예술과 응용 예술의 구분 및 아리스토텔레스와 워홀의 정의] 예술은 전형적으로 두 영역으로 나뉜다: 순수 예술(fine art: 회화, 조각, 음악, 시 등)과 응용 예술(applied art: 도예, 직조, 금속공예, 가구 제작, 서예 등). 그러나 어떤 사람들은 '예술'이라는 명칭이 자동차 디자인, 패션, 사진, 요리, 심지어 스포츠에도 붙을 수 있다고 주장한다. 순수 예술은 오직 미적(aesthetic)이거나 개념적(conceptual) 기능만을 갖는 것으로 분류된다. 이 점은 2천 년 전 그리스 철학자 아리스토텔레스에 의해 언급되었는데, 그는 '예술의 목적은 사물의 외적인 모습을 재현하는 것이 아니라, 그 사물의 내적인 의미(inward significance)를 나타내는 것이다'라고 썼다. 그는 예술가들이 단순히 자연의 참된 이미지를 포착하려 하기보다, 자신들의 감정과 사상을 반영하는 대상, 희곡, 음악을 창작했다고 언급했다. 1960년대 팝아트로 유명한 미국 예술가 앤디 워홀은 한때 '예술가는 사람들이 가질 필요가 없는 물건을 만든다'라고 말했다. 이것이 바로 순수 예술과 응용 예술 사이의 명확한 차이(distinction)이다. 응용 예술은 사물이 아름다울 뿐만 아니라 기능적(functional)이어야 함을 요구한다.\n* **핵심 어휘 및 구문**:\n  * `fine art vs applied art`: 순수 예술(심미적/개념적) vs 응용 예술(실용적 기능 + 아름다움)\n  * `aesthetic or conceptual function`: 미적 또는 개념적 기능\n  * `inward significance`: 내적 중요성, 내적 의미 (아리스토텔레스의 예술론 핵심)\n  * `distinction between A and B`: A와 B 사이의 구별",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 3] In the twentieth century, artists began to challenge the established idea of art. They recognized that their work belonged to the higher social classes who had the wealth to purchase art and the leisure time to enjoy it. The architect Frank Lloyd Wright commented, 'Art for art's sake is a philosophy of the well-fed.' In an attempt to challenge this notion, the French painter Marcel Duchamp submitted a toilet to an art exhibition in 1917 instead of a painting. He signed it and said, 'Everything an artist produces is art.' Today, many people complain about the lack of skill in the production of conceptual artistic objects. Some contemporary artists use assistants to produce all the actual work. Damien Hirst, for example, says that because he had the idea, it is his work. He has compared his art to architecture, saying, 'You have to look at it as if the artist is an architect, and we don't have a problem that great architects don't actually build the houses.'",
+          "kr": "[20세기 현대 미술의 도전: 뒤샹의 변기와 허스트의 개념 미술] 20세기에 들어 예술가들은 기존의 확립된(established) 예술 개념에 도전하기 시작했다. 그들은 자신들의 작품이 예술을 구매할 부와 그것을 즐길 여가 시간을 가진 상위 사회 계층에 속해 있다는 점을 인식했다. 건축가 프랭크 로이드 라이트는 '예술을 위한 예술(Art for art's sake)은 배부른 자들(the well-fed)의 철학이다'라고 비판했다. 이러한 통념에 도전하려는 시도로, 프랑스 화가 마르셀 뒤샹은 1917년 미술 전시회에 그림 대신 변기를 출품했다. 그는 변기에 서명하며 '예술가가 생산하는 모든 것이 예술이다'라고 선언했다. 오늘날 많은 사람들은 개념적 예술 작품의 제작 과정에서 기술(기교, skill)이 부족하다는 점에 대해 불만을 제기한다. 일부 현대 예술가들은 실제 모든 작업을 제작하기 위해 조수들을 고용한다. 예를 들어 데미안 허스트는 자신이 아이디어를 냈기 때문에 그것이 자신의 작품이라고 말한다. 그는 자신의 예술을 건축에 비유하며 '당신은 예술가를 건축가인 것처럼 바라보아야 한다. 우리는 훌륭한 건축가가 실제로 집을 직접 짓지 않는다고 해서 문제를 삼지 않는다'라고 역설했다.\n* **핵심 어휘 및 구문**:\n  * `challenge the established idea`: 기성의 확립된 개념에 도전하다\n  * `Art for art's sake is a philosophy of the well-fed`: 배부른 자들의 철학 (엘리트주의 비판)\n  * `Marcel Duchamp (1917)`: 변기 출품 ('Fountain' 작) - 개념 미술의 시초\n  * `Damien Hirst`: 조수를 활용한 제작 방식 정당화 (예술가 = 설계자/건축가 비유)",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 4] Despite a hundred years of modern art, fine art is still regarded as a preserve of the wealthy, and works sell for millions of dollars. Even so, we can see examples of art all around us that are not expensive. Many towns and cities have public art that can be enjoyed by all. Some museums, like the National Gallery of Art in Washington, D.C., are free. Others are free for children and students. Street art is also popular in different neighborhoods around the world. One British artist, Banksy, has become world-famous for unauthorized works of art painted on building walls. These can be viewed at no charge by anyone who knows where to look.",
+          "kr": "[대중을 위한 공공 예술과 뱅크시의 거리 예술] 현대 미술 100년의 역사에도 불구하고, 순수 예술은 여전히 부유층의 전유물(preserve of the wealthy)로 간주되며 작품들은 수백만 달러에 팔린다. 그럼에도 불구하고 우리는 우리 주변 도처에서 비싸지 않은 예술의 사례들을 볼 수 있다. 수많은 소도시와 대도시에는 모두가 향유할 수 있는 공공 미술(public art)이 존재한다. 워싱턴 D.C.의 국립 미술관(National Gallery of Art)처럼 일부 박물관은 무료로 개방된다. 또 다른 곳들은 어린이나 학생들에게 무료이다. 거리 예술(Street art) 역시 전 세계 다양한 지역에서 인기를 누리고 있다. 영국의 한 예술가인 뱅크시(Banksy)는 건물 벽에 허가받지 않은(unauthorized) 채로 그린 예술 작품들로 세계적인 명성을 얻었다. 이러한 작품들은 어디를 보아야 할지 아는 사람이라면 누구나 무료(at no charge)로 관람할 수 있다.\n* **핵심 어휘 및 구문**:\n  * `preserve of the wealthy`: 부유층의 전유물\n  * `public art`: 공공 미술 (모두를 위한 예술)\n  * `Banksy`: 영국의 세계적 거리 예술가 (건물 외벽 그래피티)\n  * `unauthorized`: 무단으로 제작된, 공식 허가 없는",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 5] Art anthropologist Ellen Dissanayake in the book What is Art For? offers one intriguing function of art: 'the heightening of existence.' In other words, art makes our ordinary, everyday lives a little more special. This notion may not apply to all art, but perhaps we can agree that it is a good goal toward which all artists should reach.",
+          "kr": "[예술의 궁극적 기능: 삶의 고양] 예술 인류학자인 엘렌 디사나야케(Ellen Dissanayake)는 그녀의 저서 『예술은 무엇을 위한 것인가? (What is Art For?)』에서 예술의 대단히 흥미로운 기능 한 가지를 제시한다: 바로 '존재의 고양(the heightening of existence)'이다. 다시 말해 예술은 우리의 평범하고 일상적인 삶을 조금 더 특별하게 만들어 준다. 이러한 관념이 모든 예술에 다 적용되지는 않을지 모르지만, 이것이 모든 예술가들이 도달해야 할 훌륭한 목표라는 점에는 아마도 우리 모두가 동의할 수 있을 것이다.\n* **핵심 어휘 및 구문**:\n  * `the heightening of existence`: 존재의 고양 (평범한 삶을 특별하게 승화시킴)\n  * `What is Art For?`: 예술의 인류학적 기능을 다룬 핵심 저서\n  * `goal toward which all artists should reach`: 모든 예술가가 지향해야 할 목표",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "[기말] Unit 7 Reading 2: Photography as Art (사진은 예술인가)",
+      "short_title": "[기말] U7 R2 사진예술",
+      "sentences": [
+        {
+          "zh": "[Paragraph 1] Photography is thought by some to be a form of fine art because it is made using the same critical and creative process that a painter or sculptor would use. It seems clear, however, that there is a significant difference between creating images by hand—using paint, clay, or other tools—and pointing a mechanical device at something interesting and clicking. Although photography does have some features in common with other kinds of art, it cannot be said that photography is unquestionably art.",
+          "kr": "[사진 예술론의 쟁점: 손의 창작인가, 기계적 장치의 클릭인가] 사진은 화가나 조각가가 사용하는 것과 동일한 비판적이고 창의적인 과정을 거쳐 제작되기 때문에, 일부 사람들에 의해 순수 예술의 한 형태로 여겨진다. 그러나 물감, 찰흙, 또는 기타 도구를 사용하여 손으로 직접 이미지를 창조해 내는 것과, 흥미로운 대상을 향해 기계적 장치(카메라)를 겨누고 셔터를 누르는(clicking) 것 사이에는 중대한 차이가 존재함이 분명해 보인다. 비록 사진이 다른 유형의 예술들과 공통된 특징들을 가지고 있기는 하지만, 사진이 의심의 여지 없이 예술이라고 단정할 수는 없다.\n* **핵심 어휘 및 구문**:\n  * `critical and creative process`: 비판적이고 창의적인 창작 과정\n  * `significant difference`: 손으로 그리는 것 vs 기계 셔터를 누르는 것의 중대한 차이\n  * `unquestionably art`: 의문의 여지 없는 명백한 예술",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 2] Photography certainly shares many qualities with other visual art. Sometimes decisions involved in creating a photograph are analogous to those made by any other artist. A photograph is not always just a banal record of the world, but a deliberately created image with its own artistic features. Ansel Adams, the American photographer, commented on this point when he noted that take is not the right verb for a photograph. Instead, he said, one makes a photograph. To this end, there is a growing trend for photographers to call themselves artists. Nevertheless, we cannot ignore the fact that artists can sell their pieces in the higher-priced, fine-art markets, whereas photographers cannot. A photograph by German artist Andreas Gursky, for example, recently sold for almost $4.5 million. As cynical as it may sound, no one would likely pay that much for a photograph unless the photographer presented himself as an artist.",
+          "kr": "[시각 예술과의 유사성 및 초고가 미술 시장의 메커니즘] 사진은 분명 다른 시각 예술과 많은 특성을 공유한다. 때때로 사진을 제작하는 데 수반되는 결정들은 다른 어떤 예술가가 내리는 결정들과 매우 유사하다(analogous). 사진은 항상 세상에 대한 진부한(banal) 기록인 것만은 아니며, 고유한 예술적 특징을 지닌 채 의도적으로 창조된 이미지이다. 미국의 전설적인 사진작가 앤셀 애덤스(Ansel Adams)는 사진에 대해 '찍다(take)'라는 동사는 올바른 표현이 아니라고 지적하며 이 점을 강조했다. 대신에 그는 사진을 '만든다(makes)'라고 표현했다. 이러한 맥락에서 사진작가들이 스스로를 예술가라고 부르는 경향이 점점 커지고 있다. 그럼에도 불구하고 우리는 순수 예술가들은 고가의 미술 시장에서 작품을 판매할 수 있는 반면, 일반 사진가들은 그렇지 못하다는 사실을 무시할 수 없다. 예를 들어 독일 예술가 안드레아스 거스키(Andreas Gursky)의 한 사진 작품(라인강 II)은 최근 거의 450만 달러(약 50억 원 이상)에 팔렸다. 냉소적으로 들릴지 모르지만, 그 사진작가가 자신을 예술가로서 포장하여 제시하지 않았다면 아무도 사진 한 장에 그토록 많은 돈을 지불하지 않았을 것이다.\n* **핵심 어휘 및 구문**:\n  * `analogous to`: ~와 유사한, 상응하는\n  * `banal record`: 진부하고 평범한 일상 기록\n  * `Ansel Adams`: '사진은 찍는 것(take)이 아니라 만드는 것(make)'이라는 명언\n  * `Andreas Gursky`: 최고가 경매 기록을 세운 독일 사진 예술가",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 3] In truth, most photographs are basically objective records of a particular place at a particular time. Certainly we can appreciate a beautiful photograph when we see one, but any beauty that is perceived in the picture comes from the time and place where it was taken, and it is not the creation of the photographer. Also, sophisticated and expensive equipment often plays a greater role in the success of a photograph than the photographer's creativity. Even some of the greatest photographers acknowledge that there is a limit to the amount of influence they can have on a final product. Henri Cartier-Bresson, the famous French photographer, admitted that luck was the most important factor.",
+          "kr": "[객관적 기록으로서의 한계와 행운 및 장비의 결정성] 사실 대부분의 사진은 기본적으로 특정한 장소와 특정한 시점에 대한 객관적인 기록(objective records)이다. 분명 우리는 아름다운 사진을 보았을 때 그것을 높이 평가할 수 있지만, 그 사진 속에서 인지되는 아름다움은 사진이 촬영된 시간과 장소 자체에서 비롯된 것이지 사진작가의 창조물이 아니다. 또한 사진의 성공에 있어서는 사진작가의 창의성보다 정교하고 값비싼 카메라 장비가 더 큰 역할을 할 때가 많다. 당대 최고의 사진작가들조차 자신들이 최종 결과물에 미칠 수 있는 영향력의 크기에 한계가 있음을 인정한다. 프랑스의 유명 사진작가 앙리 카르티에 브레송(Henri Cartier-Bresson)은 '행운(luck)'이야말로 가장 결정적인 요인이었음을 솔직히 시인했다.\n* **핵심 어휘 및 구문**:\n  * `objective records`: 객관적 기록물\n  * `beauty comes from the time and place`: 아름다움은 피사체와 현장 자체에서 기인함\n  * `sophisticated equipment`: 고가의 정교한 장비 의존성\n  * `Henri Cartier-Bresson`: '결정적 순간'의 대가조차 행운(luck)이 가장 중요함을 인정",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 4] Finally, photography is so widely used for practical functions that have little or nothing to do with art, such as police work, advertising, and news reporting, that it cannot claim to be made for aesthetic purposes alone.",
+          "kr": "[비예술적 실용 기능의 지배성: 경찰 수사, 광고, 보도] 마지막으로, 사진은 경찰 수사 업무, 상업 광고, 뉴스 보도 등 예술과는 거의 또는 전혀 무관한 실용적인 기능(practical functions)에 너무나 광범위하게 사용되고 있기 때문에, 오로지 미학적인 목적(aesthetic purposes alone)만을 위해 제작된다고 주장할 수는 없다.\n* **핵심 어휘 및 구문**:\n  * `have little or nothing to do with`: ~와 거의 또는 전혀 관련이 없다\n  * `police work, advertising, news reporting`: 비미학적·기록적 실용 용도의 대표 예시",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 5] People have argued whether photography is art ever since the first photographers shared their work. A photographer may make the same aesthetic choices as a fine artist: subject matter, lighting, color, or even a theme or message. However, cameras can also be purely functional tools, capturing visual records and presenting information. Photography is a medium that can be used to make art, but that does not mean that all photography is art.",
+          "kr": "[결론: 사진의 이중적 속성과 매체적 본질] 최초의 사진가들이 자신의 작품을 세상과 공유한 이래로 사람들은 사진이 예술인가에 대해 끝없이 논쟁해 왔다. 사진작가는 순수 예술가와 마찬가지로 피사체 선정, 조명, 색상, 심지어 주제나 메시지와 같은 동일한 미적 선택을 내릴 수 있다. 그러나 카메라는 시각적 기록을 포착하고 정보를 전달하는 순수하게 기능적인 도구(purely functional tools)가 될 수도 있다. 요컨대 사진은 '예술을 만들기 위해 사용될 수 있는 매체(medium)'이지만, 그것이 '모든 사진이 곧 예술'임을 의미하는 것은 아니다.\n* **핵심 어휘 및 구문**:\n  * `aesthetic choices`: 소재, 조명, 색상, 메시지 선택\n  * `purely functional tools`: 순수 기능적 기록 도구로서의 카메라\n  * `a medium that can be used to make art`: 사진은 예술 창작의 매체일 뿐, 모든 사진이 예술은 아님",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "[기말] Unit 7 Language Development: Paraphrasing & Art Adjectives (p.136~137)",
+      "short_title": "[기말] U7 언어개발",
+      "sentences": [
+        {
+          "zh": "[Unit 7 p.136 Academic Paraphrasing 11대 보고 동사 (Reporting Verbs)]\n1. state (진술하다, 명시하다) / say (말하다)\n2. feel (생각하다, 느끼다) / insist (강력히 주장하다)\n3. believe (믿다, 확신하다) / point out (지적하다, 짚어내다)\n4. emphasize (강조하다) / maintain (일관되게 주장하다)\n5. deny (부인하다, 거부하다) / suggest (시사하다, 제안하다)\n6. theorize (이론화하다, 학설을 세우다)",
+          "kr": "[학술 패러프레이징의 핵심 전략: 원문 직인용을 탈피하고 보고 동사로 바꿔 쓰기]\n• 패러프레이징 3대 핵심 원칙:\n  1) 동의어 및 반의어를 활용하여 단어 교체하기\n  2) 품사를 전환하거나 문장 구조 바꾸기\n  3) 핵심 아이디어는 보존하되 보고 동사를 적절히 결합하기\n• 교재 136페이지 실전 적용 예시:\n  - 원문: \"The chief enemy of creativity is 'good' sense.\" —Pablo Picasso\n  - 패러프레이즈: Pablo Picasso [felt] that doing things in the usual, sensible way was the main obstacle to imaginative art.\n  - 문항 정답: The superintendent [insisted] that art should be part of the curriculum.",
+          "py": ""
+        },
+        {
+          "zh": "[Unit 7 p.137 Art and Design Adjectives 예술·디자인 핵심 형용사 8선]\n1. abstract: relating to ideas, not physical things (추상적인)\n2. avant-garde: relating to ideas and styles that are very original and modern (전위적인, 아방가르드)\n3. decorative: made to look attractive (장식적인)\n4. expressive: showing what somebody thinks or feels (표현력이 풍부한)\n5. figurative: showing people or things in a similar way to real life (구상적인, 현실을 묘사하는)\n6. lifelike: looks very real (실물과 똑같은, 생생한)\n7. monumental: very big (기념비적인, 엄청나게 거대한)\n8. moving: causing strong feelings of sadness or sympathy (감동적인, 가슴을 뭉클하게 하는)",
+          "kr": "[전 분반 100% 출제 지정: 예술·디자인 8대 형용사 교재 137페이지 문장 적용 정답]\n1. The [monumental] bronze sculpture weighs seven tons. (7톤짜리 거대한 청동 조각상)\n2. It was a(n) [moving] performance that left many people in tears. (관객들을 눈물짓게 만든 감동적인 공연)\n3. I think art is purely [decorative]. It is only there to look nice. (단지 보기 좋으라고 걸어둔 순수하게 장식적인 그림)\n4. The tiger sculpture was so [lifelike] that people were a little scared by it. (실물처럼 너무나 생생해서 무서웠던 호랑이 조각상)\n5. Her work was very [avant-garde]; her ideas took years for people to accept as normal. (사람들이 받아들이는 데 수년이 걸린 전위적인 작품)\n6. [Abstract] art can look easy to produce because there are no realistic images. (사실적인 묘사가 없어 쉬워 보이는 추상 예술)\n7. He was interested in [figurative] art and produced many realistic portraits of people. (현실의 사람들을 사실적으로 묘사한 구상 미술)\n8. The paint was applied quickly to the picture in a(n) [expressive] and emotional way. (감정적이고 표현력이 풍부한 방식으로 칠해진 유화)",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "[기말] Unit 8 Reading 1: The Social and Economic Impact of Aging (고령화의 사회·경제적 파급)",
+      "short_title": "[기말] U8 R1 고령화영향",
+      "sentences": [
+        {
+          "zh": "[Q1 & Q2] What exactly does aging mean? It means the population in many countries is, on average, getting older. Incredibly, in the last 50 years, average life expectancy in wealthier countries has increased by half, and this trend is expected to continue. What impact is this aging process likely to have globally? Well, obviously it is a good thing that people are living longer, but as a result of these changes, there are a number of issues that have to be dealt with.",
+          "kr": "[고령화의 정의와 기대 수명의 비약적 증가] Q: 고령화(aging)란 정확히 무엇을 의미하는가? A: 그것은 수많은 국가에서 인구가 평균적으로 점점 더 나이 들어가는 것을 의미한다. 놀랍게도 지난 50년 동안 부유한 국가들의 평균 기대 수명(average life expectancy)은 절반(50%)이나 증가했으며, 이러한 추세는 앞으로도 지속될 것으로 예상된다. Q: 이러한 고령화 과정이 전 세계적으로 어떤 영향을 미칠 것으로 보이는가? A: 사람들이 더 오래 산다는 것은 분명 좋은 일이지만, 이러한 변화의 결과로 다루어져야만 하는 수많은 문제들이 발생한다.\n* **핵심 어휘 및 구문**:\n  * `average life expectancy`: 평균 기대 수명 (지난 50년간 50% 급증)\n  * `issues that have to be dealt with`: 해결되어야 할 사회적 난제들",
+          "py": ""
+        },
+        {
+          "zh": "[Q3: For example?] In certain countries, an increasing number of older people are living by themselves, often without any relatives living nearby. Some older people are simply unable to take care of themselves, and others can only do so if their houses are specially adapted. Likewise, they may be unable to go shopping or wash themselves, and so they need someone, perhaps a professional, to help. And, of course, older people need social activities as well.",
+          "kr": "[독거노인의 증가와 주거 개조 및 돌봄의 필요성] Q: 구체적인 예를 든다면? A: 특정 국가들에서는 점점 더 많은 수의 노인들이 근처에 사는 친척도 없이 홀로 독거하고 있다. 어떤 노인들은 단순히 스스로를 돌볼 수 없으며, 또 다른 이들은 자신들의 집이 노인 맞춤형으로 특수하게 개조(specially adapted)되어야만 일상생활이 가능하다. 마찬가지로 그들은 장을 보러 가거나 스스로 몸을 씻을 수 없을 수도 있어, 전문 간병인과 같은 누군가의 도움을 필요로 한다. 그리고 당연하게도 노인들에게는 사회적 활동 역시 필요하다.\n* **핵심 어휘 및 구문**:\n  * `living by themselves`: 독거노인의 급증\n  * `specially adapted`: 문턱 제거, 안전 손잡이 설치 등 고령자 맞춤 특수 개조",
+          "py": ""
+        },
+        {
+          "zh": "[Q4: How are societies adapting?] Supermarkets, for example, have introduced more home delivery services, which have been particularly beneficial for older people. In addition, there has been significant growth in companies providing services that would traditionally have been undertaken by relatives. This includes private nursing care and 'meals-on-wheels' services, which deliver food to your door.",
+          "kr": "[사회의 적응: 가정 배달과 전문 간호 및 식사 배달 서비스] Q: 사회는 이에 어떻게 적응하고 있는가? A: 예를 들어 슈퍼마켓들은 더 많은 가정 배송 서비스(home delivery services)를 도입했으며, 이는 고령층에게 대단히 유익했다. 아울러 전통적으로 친척(가족)들에 의해 수행되었을 서비스들을 대신 제공하는 기업들이 크게 성장했다. 여기에는 민간 전문 간호 돌봄(private nursing care)과 집 앞까지 음식을 배달해 주는 '식사 배달(meals-on-wheels)' 서비스가 포함된다.\n* **핵심 어휘 및 구문**:\n  * `home delivery services`: 식료품 방문 배송 서비스\n  * `traditionally undertaken by relatives`: 전통적으로 자녀·친척이 도맡던 효도 돌봄의 상업화/사회화\n  * `meals-on-wheels`: 거동이 불편한 고령층 대상 도시락 순회 배달 복지 서비스",
+          "py": ""
+        },
+        {
+          "zh": "[Q5: Economic impact] Although it is not a problem yet, many governments are worried about the economic impact of an aging population. With fewer people working and paying taxes, it is obvious that governments will have less money to pay for things like health and education.",
+          "kr": "[경제적 파급 효과: 세수 감소와 재정적 압박] Q: 고령화의 영향이 뚜렷하게 관찰되는 다른 영역이 있는가? A: 아직 당장 눈앞의 치명적 문제는 아닐지라도, 수많은 정부들은 고령화 인구의 경제적 파급 효과를 깊이 우려하고 있다. 일하고 세금을 납부하는 인구(working and paying taxes)는 줄어들고 있으므로, 정부가 보건 의료나 공교육과 같은 공공 서비스에 지출할 수 있는 재정이 줄어들 것이 자명하기 때문이다.\n* **핵심 어휘 및 구문**:\n  * `fewer people working and paying taxes`: 생산가능인구 및 납세 인구 감소\n  * `less tax revenue for health and education`: 복지 수요는 급증하는데 정부 세수는 감소하는 재정 역전 현상",
+          "py": ""
+        },
+        {
+          "zh": "[Q6: Advantages of an older population] In countries where the percentage of children is lower, there are fewer education costs. In more developed countries, older people tend to have more savings and more leisure time. They might spend time online, or travel, or even go back to school. Of course, older people do have a lot of experience, and if they can, some continue working in a voluntary capacity after they retire. This kind of activity adds a lot to society.",
+          "kr": "[고령화 사회의 긍정적 기여: 교육비 절감, 풍부한 여가 소비, 은퇴 후 자원봉사] Q: 고령 인구가 가져다줄 수 있는 장점은 무엇인가? A: 아동의 비율이 더 낮은 국가에서는 공교육 지출 비용이 감소한다. 선진국에서 고령층은 더 많은 저축(savings)과 더 많은 여가 시간(leisure time)을 보유하는 경향이 있다. 그들은 온라인에서 시간을 보내거나, 여행을 다니거나, 심지어 대학으로 돌아가 만학도가 될 수도 있다. 물론 노인들은 막대한 인생 경험을 가지고 있으며, 능력이 닿는다면 은퇴 후 자원봉사의 자격(voluntary capacity)으로 계속 사회에 기여한다. 이러한 유형의 활동은 우리 사회에 막대한 가치를 더해 준다.\n* **핵심 어휘 및 구문**:\n  * `more savings and leisure time`: 실버 세대의 구매력과 여가 소비\n  * `voluntary capacity after they retire`: 은퇴 후 자원봉사자로서의 사회적 재기여",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "[기말] Unit 8 Reading 2: Saudi Arabia: The Realities of a Young Society (청년 사회 사우디아라비아)",
+      "short_title": "[기말] U8 R2 청년사회사우디",
+      "sentences": [
+        {
+          "zh": "[Paragraph 1] There is a well-documented problem with the aging of the global population, but there are also areas of the world where demographics are very different. In many parts of the Middle East and North Africa, there is a much higher proportion of young people. The Kingdom of Saudi Arabia, a country of over 30 million people, is one such place. This reality has brought special challenges to the Kingdom in a number of different areas such as education, housing, and the economy.",
+          "kr": "[세계적 고령화와 대비되는 중동의 청년 인구 급증] 전 세계 인구의 고령화에 대해서는 수많은 자료가 입증하고 있지만, 인구통계학적 구조(demographics)가 이와 전혀 판이한 지역들도 세상에 존재한다. 중동과 북아프리카의 수많은 지역에서는 젊은 층의 비율이 훨씬 높다. 3천만 명이 넘는 인구를 가진 사우디아라비아 왕국이 바로 그러한 대표적 장소이다. 이러한 인구통계적 현실은 교육, 주택, 국가 경제 등 다양한 분야에서 왕국에 독특하고 특별한 난제들을 안겨주었다.\n* **핵심 어휘 및 구문**:\n  * `well-documented problem`: 충분히 입증되고 문서화된 문제\n  * `demographics`: 인구통계학적 특성 및 구조\n  * `proportion of young people`: 높은 청년층 비율",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 2] The population graph shows the population of men and women in Saudi Arabia and their age ranges in 2016. The graph shows Saudi Arabia has a very young population. Upon close analysis, it can be seen that about 27% of the population is age 14 and under, and approximately 19% of the total population is between the ages of 15 and 24. The number of Saudis in their mid-twenties to mid-thirties is particularly high, with almost one in five of the total population falling within just this ten-year age range. In the United States the median age is 38, in the United Kingdom it is 40, in Italy it is 45, and in Japan it is 47. Contrast this with youthful Saudi Arabia, where the median age is 27.",
+          "kr": "[인구 피라미드 분석: 중위 연령 27세의 젊은 국가] 2016년 인구 그래프는 사우디아라비아의 남녀 인구와 연령대를 보여준다. 그래프는 사우디아라비아가 매우 젊은 인구 구조를 가지고 있음을 극명히 나타낸다. 정밀 분석 결과 전체 인구의 약 27%가 14세 이하이며, 약 19%가 15세에서 24세 사이에 속한다. 특히 20대 중반에서 30대 중반 사이의 사우디인 수가 매우 많아서, 전체 인구의 5명 중 거의 1명이 바로 이 10년이라는 좁은 연령대에 집중되어 있다. 미국의 중위 연령(median age)은 38세, 영국은 40세, 이탈리아는 45세, 일본은 47세이다. 중위 연령이 단 27세에 불과한 젊은 사우디아라비아와 극명한 대조를 이룬다.\n* **핵심 어휘 및 구문**:\n  * `median age`: 중위 연령 (사우디 27세 vs 미국 38세 vs 일본 47세)\n  * `one in five`: 5명 중 1명이 20대 중반~30대 중반에 포진",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 3] The high percentage of children and young people means that Saudi Arabia's education costs are high. Education is a priority for the Kingdom. A recent report showed that education receives 25% of the government's annual budget, making the country's education spending one of the highest in the world. As a result of its demographic profile, the government has been leading a university expansion program to cope with the large number of college-aged students moving through the school system every year.",
+          "kr": "[국가 예산의 25%가 투입되는 교육비와 대학 확장 정책] 아동과 청년의 높은 비율은 사우디아라비아의 교육비 지출이 막대함을 의미한다. 교육은 왕국의 최우선 순위이다. 최근 보고서에 따르면 교육 부문은 정부 연간 예산의 무려 25%(4분의 1)를 배정받고 있으며, 이는 사우디의 교육비 지출을 세계 최고 수준 중 하나로 만든다. 이러한 인구통계학적 특성으로 인해 사우디 정부는 매년 정규 교육 과정을 거쳐 진학하는 막대한 수의 대학생들을 수용하기 위해 전면적인 대학 확장 프로그램(university expansion program)을 주도해 오고 있다.\n* **핵심 어휘 및 구문**:\n  * `receives 25% of annual budget`: 연간 국가 예산의 25%가 교육에 투입됨\n  * `university expansion program`: 대규모 대학 정원 및 캠퍼스 확장 프로그램",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 4] This also has an impact on employment opportunities for young people. Youth unemployment could well become the Kingdom's biggest social challenge in the coming years. These days, the unemployment rate for Saudis between the ages of 16 and 29 is 29%. Unless Saudi Arabia's government can provide enough public-sector jobs, or attract more private-sector employers, more budget expenditure will be needed for unemployment benefits.",
+          "kr": "[청년 실업률 29%와 고용 창출의 중대 도전] 이러한 청년 인구 폭증은 젊은이들의 취업 기회에도 막대한 영향을 미친다. 청년 실업(Youth unemployment)은 다가오는 수년 동안 왕국의 가장 거대한 사회적 난제가 될 공산이 크다. 최근 16세에서 29세 사이 사우디 청년층의 실업률은 29%에 달한다. 사우디 정부가 충분한 공공 부문 일자리(public-sector jobs)를 제공하거나, 더 많은 민간 기업 고용주들을 유치하지 못한다면, 실업 수당(unemployment benefits) 지급을 위해 훨씬 더 많은 국가 재정 지출이 요구될 것이다.\n* **핵심 어휘 및 구문**:\n  * `youth unemployment rate: 29%`: 16~29세 청년 실업률 29%의 위기\n  * `public-sector vs private-sector jobs`: 공공 부문 및 민간 부문 고용 창출 딜레마",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 5] There is a similar challenge in terms of housing, with more demand than supply. This is a particular problem in places such as Jeddah, Saudi Arabia's second-largest city. Jeddah is on the coast, with a mountain range to the east, and outward expansion is geographically impossible. As a consequence, houses have become more expensive, and young people may be unable to buy their own homes.",
+          "kr": "[주택 수요 초과와 제다시의 지리적 한계로 인한 집값 폭등] 주택 분야에서도 공급보다 수요가 훨씬 많은 유사한 난제가 발생하고 있다. 이는 사우디 제2의 대도시인 제다(Jeddah)와 같은 곳에서 특히 심각한 문제이다. 제다는 해안가에 위치하며 동쪽으로는 거대한 산맥이 가로막고 있어 지리적으로 외곽 확장이 불가능하다. 그 결과 주택 가격은 엄청나게 비싸졌고, 젊은이들은 자신의 집을 마련할 수 없게 되었다.\n* **핵심 어휘 및 구문**:\n  * `more demand than supply`: 주택 수요가 공급을 압도\n  * `Jeddah`: 서쪽은 바다, 동쪽은 산맥으로 둘러싸여 도시 외곽 팽창이 불가능한 지리적 병목 도시",
+          "py": ""
+        },
+        {
+          "zh": "[Paragraph 6] Although Saudi Arabia faces several challenges in terms of education, employment, and housing as a result of its young population, it does not have to cope with the demands of an aging population. Because the country has relatively fewer old people than the places mentioned earlier, the costs of health care and pensions are lower. This will allow more funds to be allocated to improving the lives of young people.",
+          "kr": "[청년 사회의 궁극적 이점: 연금 및 의료비 부담 경감] 사우디아라비아가 청년 인구로 인해 교육, 고용, 주택 측면에서 여러 도전에 직면해 있을지라도, 고령화 인구가 수반하는 부담을 겪지 않아도 된다는 거대한 장점이 있다. 사우디는 앞서 언급된 고령 국가들에 비해 노인 인구 비율이 상대적으로 낮기 때문에, 공공 의료비와 연금(pensions) 지출 비용이 훨씬 적다. 이를 통해 절감된 국부 재정은 청년들의 삶을 개선하는 데 훨씬 더 많이 배정(allocated)될 수 있을 것이다.\n* **핵심 어휘 및 구문**:\n  * `does not have to cope with aging demands`: 고령화 위기 면제\n  * `costs of health care and pensions are lower`: 의료비 및 공적 연금 재정 부담 최소화\n  * `funds allocated to young people`: 청년 역량 강화에 재정 집중 투입 가능",
+          "py": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "[기말] Unit 8 Language Development: Collocations & Prediction (p.154~155)",
+      "short_title": "[기말] U8 언어개발",
+      "sentences": [
+        {
+          "zh": "[Unit 8 p.154 Academic Collocations with Prepositions 전치사 연어 8그룹]\n1. in brief (요컨대, 간단히 말해서)\n2. in theory (이론상으로는)\n3. focus on (집중하다, 초점을 맞추다)\n4. sum up (요약하다, 결론짓다)\n5. identify with (동질감을 느끼다, 공감하다)\n6. range of (~의 범위, 다양한)\n7. rely on (의존하다, 기대다)\n8. in contrast (그에 반해서, 대조적으로)",
+          "kr": "[교재 154페이지 실전 문장 빈칸 정답]\n1. Countries may encounter financial challenges when an increasing number of older people have to [rely on] the government for support. (정부 지원에 의존해야 할 때)\n2. Countries with a younger population have high education costs. [In contrast], those with an older population have to spend more on health care. (대조적으로 고령 인구 국가는 의료비 지출이 큼)\n3. There is a wide [range of] voluntary work opportunities for retired people. (은퇴자를 위한 폭넓은 자원봉사 기회)\n4. There is a tendency to [focus on] the problems faced by the elderly, not their valuable contribution to society. (노인의 사회적 기여가 아닌 당면 문제에만 초점을 맞추는 경향)\n5. [In brief], the major problem an aging population will face is how to fund health care. (요컨대, 고령화의 최대 과제는 의료비 재원 마련)\n6. While many strategies may seem to work [in theory], when put into action, they rarely succeed. (이론상으로는 그럴듯해 보이지만 실천하면 실패하는 전략)\n7. It might be difficult for citizens of aging countries to [identify with] the challenges of countries with younger populations. (젊은 인구 국가의 고충에 깊이 공감하기 어려움)\n8. To [sum up], this report's key recommendation is more educational opportunities for seniors. (요약하자면, 60세 이상을 위한 교육 기회 확대)",
+          "py": ""
+        },
+        {
+          "zh": "[Unit 8 p.155 Language of Prediction 미래 예측 학술 표현 7선]\n1. There is likely to be (있을 가능성이 높다)\n2. There may be (~일 수도 있다)\n3. The number of ... is projected to (전망되다, 추산되다)\n4. The population is set to (~하도록 확정되어 있다, 예정되다)\n5. We are unlikely to see (목격할 가능성이 낮다)\n6. Unemployment is expected to (예상되다)\n7. Food prices are predicted to (예측되다)",
+          "kr": "[교재 155페이지 미래 예측 구문 1:1 패러프레이즈]\n1. The population will increase in the future. -> The population is [likely to] increase in the future.\n2. Oil prices will come down this year. -> Oil prices [may] come down this year.\n3. Unemployment will remain at the same level. -> Unemployment is [predicted to] remain at the same level.\n4. The cost of living will rise over the decade. -> The cost of living is [set to] rise over the decade.\n5. There will be more competition for spots. -> Competition is [expected to] intensify.",
+          "py": ""
+        }
+      ]
     }
   ],
   "vocab": [
@@ -710,6 +877,286 @@
       "kr": "활용하다, 실용적으로 사용하다 (= use) — formal academic verb meaning 'use' effectively",
       "level": "🔥 Unit 6 p.119",
       "note": "김나나 교수님 10/14 강의 출제 예고 (🔥 Unit 6 p.119)"
+    },
+    {
+      "word": "aesthetic",
+      "zh": "aesthetic",
+      "pos": "adj",
+      "meaning": "미적인, 심미적인 - 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+      "py": "[adj] 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+      "kr": "미적인, 심미적인 - 미적인, 심미적인 - relating to the enjoyment or study of beauty",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 미적인, 심미적인"
+    },
+    {
+      "word": "conceptual",
+      "zh": "conceptual",
+      "pos": "adj",
+      "meaning": "개념적인, 아이디어에 기반한 - 개념적인, 개념에 기반한 - based on ideas or principles",
+      "py": "[adj] 개념적인, 개념에 기반한 - based on ideas or principles",
+      "kr": "개념적인, 아이디어에 기반한 - 개념적인, 개념에 기반한 - based on ideas or principles",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 개념적인, 아이디어에 기반한"
+    },
+    {
+      "word": "contemporary",
+      "zh": "contemporary",
+      "pos": "adj",
+      "meaning": "현대의, 동시대의 - 현대의, 동시대의 - existing or happening now",
+      "py": "[adj] 현대의, 동시대의 - existing or happening now",
+      "kr": "현대의, 동시대의 - 현대의, 동시대의 - existing or happening now",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 현대의, 동시대의"
+    },
+    {
+      "word": "distinction",
+      "zh": "distinction",
+      "pos": "n",
+      "meaning": "차이점, 명확한 구별 - 차이, 구별 - a difference between similar things",
+      "py": "[n] 차이, 구별 - a difference between similar things",
+      "kr": "차이점, 명확한 구별 - 차이, 구별 - a difference between similar things",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: n · 한국어: 차이점, 명확한 구별"
+    },
+    {
+      "word": "established",
+      "zh": "established",
+      "pos": "adj",
+      "meaning": "확립된, 사회적으로 인정된 - 확립된, 공인된 - generally accepted or familiar",
+      "py": "[adj] 확립된, 공인된 - generally accepted or familiar",
+      "kr": "확립된, 사회적으로 인정된 - 확립된, 공인된 - generally accepted or familiar",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 확립된, 사회적으로 인정된"
+    },
+    {
+      "word": "notion",
+      "zh": "notion",
+      "pos": "n",
+      "meaning": "관념, 개념, 통념 - 관념, 생각, 통념 - a belief or idea",
+      "py": "[n] 관념, 생각, 통념 - a belief or idea",
+      "kr": "관념, 개념, 통념 - 관념, 생각, 통념 - a belief or idea",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: n · 한국어: 관념, 개념, 통념"
+    },
+    {
+      "word": "significance",
+      "zh": "significance",
+      "pos": "n",
+      "meaning": "중요성, 의의 - 중요성, 의의 - the importance or meaning of something",
+      "py": "[n] 중요성, 의의 - the importance or meaning of something",
+      "kr": "중요성, 의의 - 중요성, 의의 - the importance or meaning of something",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: n · 한국어: 중요성, 의의"
+    },
+    {
+      "word": "unauthorized",
+      "zh": "unauthorized",
+      "pos": "adj",
+      "meaning": "허가받지 않은, 무단의 - 공식 허가 없는, 무단의 - without official permission",
+      "py": "[adj] 공식 허가 없는, 무단의 - without official permission",
+      "kr": "허가받지 않은, 무단의 - 공식 허가 없는, 무단의 - without official permission",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 허가받지 않은, 무단의"
+    },
+    {
+      "word": "analogous",
+      "zh": "analogous",
+      "pos": "adj",
+      "meaning": "유사한, 비슷한 - 유사한, 상응하는 - similar in some way to another situation",
+      "py": "[adj] 유사한, 상응하는 - similar in some way to another situation",
+      "kr": "유사한, 비슷한 - 유사한, 상응하는 - similar in some way to another situation",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 유사한, 비슷한"
+    },
+    {
+      "word": "banal",
+      "zh": "banal",
+      "pos": "adj",
+      "meaning": "진부한, 평범한 - 진부한, 평범한 - boring, ordinary, and not original",
+      "py": "[adj] 진부한, 평범한 - boring, ordinary, and not original",
+      "kr": "진부한, 평범한 - 진부한, 평범한 - boring, ordinary, and not original",
+      "level": "⭐ Unit 7 핵심어휘",
+      "note": "품사: adj · 한국어: 진부한, 평범한"
+    },
+    {
+      "word": "abstract",
+      "zh": "abstract",
+      "pos": "adj",
+      "meaning": "추상적인 - 추상적인 - relating to ideas, not physical things",
+      "py": "[adj] 추상적인 - relating to ideas, not physical things",
+      "kr": "추상적인 - 추상적인 - relating to ideas, not physical things",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 추상적인"
+    },
+    {
+      "word": "avant-garde",
+      "zh": "avant-garde",
+      "pos": "adj",
+      "meaning": "전위적인, 매우 혁신적인 - 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+      "py": "[adj] 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+      "kr": "전위적인, 매우 혁신적인 - 전위적인, 아방가르드 - relating to ideas and styles that are very original and modern",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 전위적인, 매우 혁신적인"
+    },
+    {
+      "word": "decorative",
+      "zh": "decorative",
+      "pos": "adj",
+      "meaning": "장식용의, 장식적인 - 장식적인 - made to look attractive",
+      "py": "[adj] 장식적인 - made to look attractive",
+      "kr": "장식용의, 장식적인 - 장식적인 - made to look attractive",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 장식용의, 장식적인"
+    },
+    {
+      "word": "expressive",
+      "zh": "expressive",
+      "pos": "adj",
+      "meaning": "표현력이 풍부한 - 표현력이 풍부한 - showing what somebody thinks or feels",
+      "py": "[adj] 표현력이 풍부한 - showing what somebody thinks or feels",
+      "kr": "표현력이 풍부한 - 표현력이 풍부한 - showing what somebody thinks or feels",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 표현력이 풍부한"
+    },
+    {
+      "word": "figurative",
+      "zh": "figurative",
+      "pos": "adj",
+      "meaning": "구상적인, 실물에 가까운 - 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+      "py": "[adj] 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+      "kr": "구상적인, 실물에 가까운 - 구상적인, 실물을 묘사하는 - showing people or things in a similar way to real life",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 구상적인, 실물에 가까운"
+    },
+    {
+      "word": "lifelike",
+      "zh": "lifelike",
+      "pos": "adj",
+      "meaning": "실물과 똑같은, 생생한 - 실물과 똑같은, 생생한 - looks very real",
+      "py": "[adj] 실물과 똑같은, 생생한 - looks very real",
+      "kr": "실물과 똑같은, 생생한 - 실물과 똑같은, 생생한 - looks very real",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 실물과 똑같은, 생생한"
+    },
+    {
+      "word": "monumental",
+      "zh": "monumental",
+      "pos": "adj",
+      "meaning": "기념비적인, 거대한 - 기념비적인, 엄청나게 거대한 - very big",
+      "py": "[adj] 기념비적인, 엄청나게 거대한 - very big",
+      "kr": "기념비적인, 거대한 - 기념비적인, 엄청나게 거대한 - very big",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 기념비적인, 거대한"
+    },
+    {
+      "word": "moving",
+      "zh": "moving",
+      "pos": "adj",
+      "meaning": "감동적인, 가슴 뭉클한 - 감동적인 - causing strong feelings of sadness or sympathy",
+      "py": "[adj] 감동적인 - causing strong feelings of sadness or sympathy",
+      "kr": "감동적인, 가슴 뭉클한 - 감동적인 - causing strong feelings of sadness or sympathy",
+      "level": "⭐ Unit 7 8대형용사",
+      "note": "품사: adj · 한국어: 감동적인, 가슴 뭉클한"
+    },
+    {
+      "word": "demographic",
+      "zh": "demographic",
+      "pos": "adj",
+      "meaning": "인구통계학적인 - 인구통계학의 - relating to the structure of populations",
+      "py": "[adj] 인구통계학의 - relating to the structure of populations",
+      "kr": "인구통계학적인 - 인구통계학의 - relating to the structure of populations",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: adj · 한국어: 인구통계학적인"
+    },
+    {
+      "word": "expectancy",
+      "zh": "expectancy",
+      "pos": "n",
+      "meaning": "기대 (life expectancy: 기대 수명) - 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+      "py": "[n] 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+      "kr": "기대 (life expectancy: 기대 수명) - 기대, 수명 - the state of thinking or hoping that something, especially good, will happen",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: n · 한국어: 기대 (life expectancy: 기대 수명)"
+    },
+    {
+      "word": "beneficial",
+      "zh": "beneficial",
+      "pos": "adj",
+      "meaning": "유익한, 도움이 되는 - 유익한, 이로운 - helpful, useful, or good",
+      "py": "[adj] 유익한, 이로운 - helpful, useful, or good",
+      "kr": "유익한, 도움이 되는 - 유익한, 이로운 - helpful, useful, or good",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: adj · 한국어: 유익한, 도움이 되는"
+    },
+    {
+      "word": "undertaken",
+      "zh": "undertaken",
+      "pos": "v",
+      "meaning": "수행하다, 도맡다 - 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+      "py": "[v] 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+      "kr": "수행하다, 도맡다 - 떠맡다, 착수하다 - to do or begin to do something, especially something that will take a long time or be difficult",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: v · 한국어: 수행하다, 도맡다"
+    },
+    {
+      "word": "capacity",
+      "zh": "capacity",
+      "pos": "n",
+      "meaning": "자격, 지위 (in a voluntary capacity: 자원봉사 자격으로) - 역량, 자격, 지위 - a particular position or job",
+      "py": "[n] 역량, 자격, 지위 - a particular position or job",
+      "kr": "자격, 지위 (in a voluntary capacity: 자원봉사 자격으로) - 역량, 자격, 지위 - a particular position or job",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: n · 한국어: 자격, 지위 (in a voluntary capacity: 자원봉사 자격으로)"
+    },
+    {
+      "word": "proportion",
+      "zh": "proportion",
+      "pos": "n",
+      "meaning": "비율, 비중 - 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+      "py": "[n] 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+      "kr": "비율, 비중 - 비율, 비중 - the number or amount of a group or part of something when compared to the whole",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: n · 한국어: 비율, 비중"
+    },
+    {
+      "word": "median",
+      "zh": "median",
+      "pos": "adj",
+      "meaning": "중위의 (median age: 중위 연령) - 중위의, 중앙값의 - the median value is the middle value in a series of values",
+      "py": "[adj] 중위의, 중앙값의 - the median value is the middle value in a series of values",
+      "kr": "중위의 (median age: 중위 연령) - 중위의, 중앙값의 - the median value is the middle value in a series of values",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: adj · 한국어: 중위의 (median age: 중위 연령)"
+    },
+    {
+      "word": "unemployment",
+      "zh": "unemployment",
+      "pos": "n",
+      "meaning": "실업 (youth unemployment: 청년 실업) - 실업, 실업률 - the number of people who do not have a job",
+      "py": "[n] 실업, 실업률 - the number of people who do not have a job",
+      "kr": "실업 (youth unemployment: 청년 실업) - 실업, 실업률 - the number of people who do not have a job",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: n · 한국어: 실업 (youth unemployment: 청년 실업)"
+    },
+    {
+      "word": "expenditure",
+      "zh": "expenditure",
+      "pos": "n",
+      "meaning": "정부 지출, 경비 - 지출, 경비 - the total amount of money that a government or person spends",
+      "py": "[n] 지출, 경비 - the total amount of money that a government or person spends",
+      "kr": "정부 지출, 경비 - 지출, 경비 - the total amount of money that a government or person spends",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: n · 한국어: 정부 지출, 경비"
+    },
+    {
+      "word": "allocate",
+      "zh": "allocate",
+      "pos": "v",
+      "meaning": "배정하다, 할당하다 - 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+      "py": "[v] 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+      "kr": "배정하다, 할당하다 - 배정하다, 할당하다 - to give some time, money, space, etc. to be used for a particular purpose",
+      "level": "⭐ Unit 8 핵심어휘",
+      "note": "품사: v · 한국어: 배정하다, 할당하다"
     }
   ],
   "qa": [

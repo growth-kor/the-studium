@@ -107,7 +107,8 @@
               <span class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">CBT 60제</span>
               <span class="hub-pill" style="border-color: #2563eb; color: #2563eb; font-weight: 700;" onclick="selectExamTab('billy', 'writing'); switchTab('exam')">글쓰기론 15제</span>
               <span class="hub-pill" onclick="selectBook('pathways3'); switchTab('reader')">족보·지문</span>
-              <span class="hub-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">78단어</span>
+              <span class="hub-pill" style="border-color: #059669; color: #059669; font-weight: 700;" onclick="openBillyFinalPreview(5)">🌟 기말예습(U6·7·9)</span>
+              <span class="hub-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">107단어</span>
               <span class="hub-pill" onclick="openEngEssayScreen('schedule')">에세이</span>
             </div>
           </div>
@@ -115,8 +116,9 @@
             <div style="font-size: 0.78rem; font-weight: 700; margin-bottom: 5px;">대영2-김나나 (수4)</div>
             <div style="display: flex; gap: 4px; flex-wrap: wrap;">
               <span class="hub-pill" onclick="selectExamTab('knn'); switchTab('exam')">CBT 36제</span>
-              <span class="hub-pill" onclick="selectBook('prism3'); switchTab('reader')">족보·지문</span>
-              <span class="hub-pill" onclick="filterVocab('prism3'); switchTab('vocab')">54단어</span>
+              <span class="hub-pill" onclick="selectBook('prism3'); switchTab('reader')">중간 족보·지문</span>
+              <span class="hub-pill" style="border-color: #10b981; color: #10b981; font-weight: 700;" onclick="selectBook('prism3'); currentSectionId = 5; renderSectionSelector(); renderSentences(); switchTab('reader')">기말 예습(U7·8)</span>
+              <span class="hub-pill" onclick="filterVocab('prism3'); switchTab('vocab')">82단어</span>
             </div>
           </div>
           <div style="border: 1px solid var(--border); padding: 8px; background: var(--bg);">
