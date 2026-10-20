@@ -329,7 +329,10 @@
           pillsHtml = `
             <div style="display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 12px 0;">
               <div class="course-quiz-pill" onclick="selectExamTab('billy'); switchTab('exam')">
-                <span>Cengage + 10/13 강의 지목 45문항 CBT →</span>
+                <span>Cengage + 강의지목 + 글쓰기론 60문항 CBT →</span>
+              </div>
+              <div class="course-quiz-pill" style="border-color:#2563eb; background:#eff6ff;" onclick="selectExamTab('billy', 'writing'); switchTab('exam')">
+                <span style="color:#1d4ed8; font-weight:700;">★ 글쓰기 방법론(Writing Skills) 15제 풀기 →</span>
               </div>
               <div class="course-quiz-pill" onclick="openEngEssayScreen('schedule')">
                 <span>In-Class Essay 25문장 영작 훈련 →</span>
@@ -716,8 +719,15 @@
     }
 
     // Exam
-    function selectExamTab(key) {
+    let currentExamFilter = 'all';
+
+    function selectExamTab(key, filter) {
       currentExamTab = key;
+      if (filter) {
+        currentExamFilter = filter;
+      } else if (key !== 'billy' || currentExamFilter === 'writing') {
+        currentExamFilter = 'all';
+      }
       document.querySelectorAll('#exam-nav .sub-nav-item').forEach(el => {
         const isActive = el.getAttribute('onclick') && el.getAttribute('onclick').includes(key);
         el.classList.toggle('active', isActive);
@@ -1006,8 +1016,50 @@
         const qas = (HUFS_DATA.books.adv_comm && HUFS_DATA.books.adv_comm.qa) || [];
         renderCbtQuestionList(container, qas, '고급소통 Quiz 3 실전 모의고사 (Ch 5·6·7 25문항 전수)');
       } else if (currentExamTab === 'billy') {
-        const qas = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.qa) || [];
-        renderCbtQuestionList(container, qas, 'Pathways 3 Cengage + 10/13 빌리 교수님 강의 지목 실전 45문항');
+        const allQas = (HUFS_DATA.books.pathways3 && HUFS_DATA.books.pathways3.qa) || [];
+
+        // Filter bar for Billy's CBT
+        const filterBar = document.createElement('div');
+        filterBar.style.cssText = 'display:flex; gap:6px; flex-wrap:wrap; margin-bottom:14px; padding-bottom:10px; border-bottom:1px solid var(--border);';
+
+        const filters = [
+          { key: 'all', label: `전체 ${allQas.length}제` },
+          { key: 'cengage', label: 'Cengage 30제 (1~30)' },
+          { key: 'lecture', label: '10/13 강의지목 15제 (31~45)' },
+          { key: 'writing', label: '✍️ 글쓰기 방법론 15제 (46~60)' }
+        ];
+
+        filters.forEach(f => {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'hub-pill';
+          const isAct = currentExamFilter === f.key;
+          btn.style.cssText = isAct 
+            ? 'background:var(--accent); color:#fff; border-color:var(--accent); font-weight:700; cursor:pointer;' 
+            : 'background:var(--bg); color:var(--text); cursor:pointer;';
+          btn.innerText = f.label;
+          btn.onclick = () => {
+            currentExamFilter = f.key;
+            renderExamContent();
+          };
+          filterBar.appendChild(btn);
+        });
+        container.appendChild(filterBar);
+
+        let filteredQas = allQas;
+        let titleDesc = `Pathways 3 Cengage + 10/13 지목 + 글쓰기 방법론 실전 ${allQas.length}문항`;
+        if (currentExamFilter === 'cengage') {
+          filteredQas = allQas.filter(q => (q.num >= 1 && q.num <= 30) || (q.id && q.id.startsWith('billy-q')));
+          titleDesc = 'Pathways 3 Cengage Test Bank 30문항 (1~30)';
+        } else if (currentExamFilter === 'lecture') {
+          filteredQas = allQas.filter(q => q.num >= 31 && q.num <= 45);
+          titleDesc = '10/13 빌리 교수님 현장 강의 지목 실전문항 (31~45)';
+        } else if (currentExamFilter === 'writing') {
+          filteredQas = allQas.filter(q => q.num >= 46 && q.num <= 60);
+          titleDesc = '✍️ 빌리 교수님 에세이·글쓰기 방법론(Writing Skills) 필수 15문항 (46~60)';
+        }
+
+        renderCbtQuestionList(container, filteredQas, titleDesc);
       } else if (currentExamTab === 'knn') {
         const qas = (HUFS_DATA.books.prism3 && HUFS_DATA.books.prism3.qa) || (HUFS_DATA.books.knn_exam && HUFS_DATA.books.knn_exam.qa) || [];
         renderCbtQuestionList(container, qas, '대학영어 2 김나나 교수님 6대 출제 유형 + Language Development 36문항');

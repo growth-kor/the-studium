@@ -2,7 +2,7 @@
   {
     "id": "billy-q1",
     "num": 1,
-    "question": "A part or side of something.",
+    "question": "[Q1] A part or side of something.",
     "options": [
       "income",
       "aspect",
@@ -15,7 +15,7 @@
   {
     "id": "billy-q2",
     "num": 2,
-    "question": "Involving a lot of different parts; difficult to understand.",
+    "question": "[Q2] Involving a lot of different parts; difficult to understand.",
     "options": [
       "cognitive",
       "controversial",
@@ -28,7 +28,7 @@
   {
     "id": "billy-q3",
     "num": 3,
-    "question": "Able to continue in the long-term without damaging the environment.",
+    "question": "[Q3] Able to continue in the long-term without damaging the environment.",
     "options": [
       "renewable",
       "sustainable",
@@ -41,7 +41,7 @@
   {
     "id": "billy-q4",
     "num": 4,
-    "question": "To train someone to follow rules or codes of behavior.",
+    "question": "[Q4] To train someone to follow rules or codes of behavior.",
     "options": [
       "observe",
       "discipline",
@@ -54,7 +54,7 @@
   {
     "id": "billy-q5",
     "num": 5,
-    "question": "Having a large amount of something close together.",
+    "question": "[Q5] Having a large amount of something close together.",
     "options": [
       "urban",
       "occasional",
@@ -67,7 +67,7 @@
   {
     "id": "billy-q6",
     "num": 6,
-    "question": "A building or structure with historical or cultural significance.",
+    "question": "[Q6] A building or structure with historical or cultural significance.",
     "options": [
       "suburb",
       "landmark",
@@ -80,7 +80,7 @@
   {
     "id": "billy-q7",
     "num": 7,
-    "question": "Pain, either mental or physical.",
+    "question": "[Q7] Pain, either mental or physical.",
     "options": [
       "grief",
       "suffering",
@@ -93,7 +93,7 @@
   {
     "id": "billy-q8",
     "num": 8,
-    "question": "A way of working with another person, group, or organization.",
+    "question": "[Q8] A way of working with another person, group, or organization.",
     "options": [
       "partnership",
       "social structure",
@@ -106,7 +106,7 @@
   {
     "id": "billy-q9",
     "num": 9,
-    "question": "To notice something after looking closely.",
+    "question": "[Q9] To notice something after looking closely.",
     "options": [
       "treat",
       "observe",
@@ -119,7 +119,7 @@
   {
     "id": "billy-q10",
     "num": 10,
-    "question": "A state of ease or well-being.",
+    "question": "[Q10] A state of ease or well-being.",
     "options": [
       "comfort",
       "awareness",
@@ -132,7 +132,7 @@
   {
     "id": "billy-q11",
     "num": 11,
-    "question": "After being hit by three major storms in a month, the historic seaside village had to close its harbor ______ while engineers completed structural repairs.",
+    "question": "[Q11] After being hit by three major storms in a month, the historic seaside village had to close its harbor ______ while engineers completed structural repairs.",
     "options": [
       "repeatedly",
       "temporarily",
@@ -145,7 +145,7 @@
   {
     "id": "billy-q12",
     "num": 12,
-    "question": "The mayor emphasized that raising public ______ regarding recycling practices is a vital prerequisite for building a green city.",
+    "question": "[Q12] The mayor emphasized that raising public ______ regarding recycling practices is a vital prerequisite for building a green city.",
     "options": [
       "awareness",
       "concentration",
@@ -158,7 +158,7 @@
   {
     "id": "billy-q13",
     "num": 13,
-    "question": "When wild animals feel threatened, they often display unpredictable ______ that can put observers in danger.",
+    "question": "[Q13] When wild animals feel threatened, they often display unpredictable ______ that can put observers in danger.",
     "options": [
       "grief",
       "discipline",
@@ -171,7 +171,7 @@
   {
     "id": "billy-q14",
     "num": 14,
-    "question": "Developing nations often struggle with uncontrolled urban sprawl because major cities continue to ______ into nearby agricultural zones.",
+    "question": "[Q14] Developing nations often struggle with uncontrolled urban sprawl because major cities continue to ______ into nearby agricultural zones.",
     "options": [
       "spread out",
       "earn a living",
@@ -184,7 +184,7 @@
   {
     "id": "billy-q15",
     "num": 15,
-    "question": "In order to ______ the ancient temple from acid rain and tourist vandalism, the government installed protective glass barriers.",
+    "question": "[Q15] In order to ______ the ancient temple from acid rain and tourist vandalism, the government installed protective glass barriers.",
     "options": [
       "replace",
       "discipline",
@@ -301,7 +301,7 @@
   {
     "id": "billy-q24",
     "num": 24,
-    "question": "Look at the following statistical summary regarding world urban populations:\n> - Region A: 82% urban population, population growth rate +0.4% per year\n> - Region B: 43% urban population, population growth rate +2.8% per year\n> - Region C: 51% urban population, population growth rate +1.5% per year\n\nWhich statement is an accurate deduction from the data?",
+    "question": "* [AI 실전 모의 변형 자료]\n[Q24] Look at the following statistical summary regarding world urban populations:\n> - Region A: 82% urban population, population growth rate +0.4% per year\n> - Region B: 43% urban population, population growth rate +2.8% per year\n> - Region C: 51% urban population, population growth rate +1.5% per year\n\nWhich statement is an accurate deduction from the data?",
     "options": [
       "Region B is already more urbanized than Region A.",
       "Region A is highly urbanized, whereas Region B is currently less urbanized but experiencing much faster demographic growth.",
@@ -314,7 +314,7 @@
   {
     "id": "billy-q25",
     "num": 25,
-    "question": "In analyzing causes and effects, which transition word signals a cause rather than an effect?",
+    "question": "[Q25] In analyzing causes and effects, which transition word signals a cause rather than an effect?",
     "options": [
       "Therefore",
       "Consequently",
@@ -327,7 +327,7 @@
   {
     "id": "billy-q26",
     "num": 26,
-    "question": "Read the sentence: *\"Because overtourism degraded the stone masonry of the ancient citadel, authorities restricted daily admissions to 2,500 visitors.\"*  \nWhat is the direct effect in this sentence?",
+    "question": "[Q26] Read the sentence: *\"Because overtourism degraded the stone masonry of the ancient citadel, authorities restricted daily admissions to 2,500 visitors.\"*  \nWhat is the direct effect in this sentence?",
     "options": [
       "Stone masonry was built inside the citadel.",
       "Daily visitor admissions were restricted to 2,500.",
@@ -340,7 +340,7 @@
   {
     "id": "billy-q27",
     "num": 27,
-    "question": "Choose the grammatically correct sentence using the real conditional (`if..., then...`).",
+    "question": "[Q27] Choose the grammatically correct sentence using the real conditional (`if..., then...`).",
     "options": [
       "If tourists will visit sensitive ecological reserves, then they will damage rare flora.",
       "If tourists visit sensitive ecological reserves, then they will damage rare flora.",
@@ -353,7 +353,7 @@
   {
     "id": "billy-q28",
     "num": 28,
-    "question": "Which sentence correctly makes a comparison between two subjects?",
+    "question": "[Q28] Which sentence correctly makes a comparison between two subjects?",
     "options": [
       "Modern eco-lodges are much more sustainable that conventional high-rise hotels.",
       "Rural areas tend to have a denser population as urban centers.",
@@ -366,7 +366,7 @@
   {
     "id": "billy-q29",
     "num": 29,
-    "question": "Where should the Thesis Statement typically be positioned within an essay?",
+    "question": "[Q29] Where should the Thesis Statement typically be positioned within an essay?",
     "options": [
       "At the very beginning of the introductory paragraph as the first sentence.",
       "At the end of the introductory paragraph as the final sentence.",
@@ -379,7 +379,7 @@
   {
     "id": "billy-q30",
     "num": 30,
-    "question": "In a five-paragraph academic essay, what is the primary role of a Topic Sentence in a body paragraph?",
+    "question": "[Q30] In a five-paragraph academic essay, what is the primary role of a Topic Sentence in a body paragraph?",
     "options": [
       "To present a catchy quote that has no relation to the rest of the text.",
       "To state the main idea of that specific body paragraph and connect it to the essay's central thesis.",
@@ -388,5 +388,393 @@
     ],
     "answer": 2,
     "explanation": "본론 단락 구조: 본론 단락의 핵심 주제를 제시하고 논지와 연결하는 Topic Sentence"
+  },
+  {
+    "id": "pw_q31",
+    "num": 31,
+    "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part A] In the sentences below, the words in bold all end in '-ive'. In which sentence is the '-ive' word used as a NOUN (N) rather than an adjective (A)?",
+    "options": [
+      "Tourists often take photos of distinctive architecture.",
+      "The primary objective of geotourism is to protect the local environment and culture.",
+      "Visitors should not feed native wildlife in national parks.",
+      "Train travel is an eco-friendly alternative travel option."
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n교재 116페이지 Vocabulary Extension Part A 문제입니다. `-ive`로 끝나는 단어는 대개 형용사(distinctive, native, alternative)이지만, ②의 `objective`(목표, 목적)와 4번 예문의 `representatives`(대표자들)는 명사(Noun)로 쓰였습니다."
+  },
+  {
+    "id": "pw_q32",
+    "num": 32,
+    "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part B] Match the word formed from word parts ('geo-', 'eco-', 'spir', 're-', 'inter-') with its exact meaning: What does 'geopolitics' mean?",
+    "options": [
+      "The study of ancient rocks and fossils",
+      "The relationship between the world's countries",
+      "A type of tourism that harms local wildlife",
+      "Throwing a sudden comment into a conversation"
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n10월 13일 강의 27분 33초에서 빌리 교수님이 116페이지 Part B를 보며 직접 강조하신 어근 `geo-` 문제입니다. `Geopolitics`(지정학)의 교재 정답은 `a. the relationship between the world's countries`입니다."
+  },
+  {
+    "id": "pw_q33",
+    "num": 33,
+    "question": "[Oct 13 강의 지목 — Unit 5 p.116 Part B] Which word from Page 116 Part B means 'damaging to the environment' (formed from the root 'eco')?",
+    "options": [
+      "aspire",
+      "re-enact",
+      "ecocidal",
+      "interject"
+    ],
+    "answer": 3,
+    "explanation": "정답: ③\n교재 116페이지 Part B 2번 문항입니다.① `aspire` = aim to achieve something(열망하다), ② `re-enact` = perform it again(재연하다), ③ `ecocidal` = damaging to the environment(환경을 파괴하는), ④ `interject` = throw a comment into a conversation(대화에 말을 끼어들다)."
+  },
+  {
+    "id": "pw_q34",
+    "num": 34,
+    "question": "[Oct 13 강의 지목 — Unit 1 p.9 Inferring Meaning] In Reading 1, the author writes that animals are 'no slouch' when it comes to intelligence, and that videos of a dancing parrot 'went viral.' What do 'no slouch' and 'went viral' mean?",
+    "options": [
+      "'No slouch' means very lazy; 'went viral' means caught a dangerous disease",
+      "'No slouch' means very capable/good at something; 'went viral' means spread quickly on the internet",
+      "'No slouch' means moving slowly; 'went viral' means hidden from the public",
+      "'No slouch' means lacking emotion; 'went viral' means studied in a laboratory"
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n10월 13일 강의에서 빌리 교수님이 9페이지를 펴고 직접 뜻을 물어보신 관용 표현입니다. `no slouch`는 '게으름뱅이가 아닌, 즉 매우 유능하고 뛰어난 존재'라는 뜻이며, `went viral`은 '온라인상에서 순식간에 퍼져 유명해졌다'는 뜻입니다."
+  },
+  {
+    "id": "pw_q35",
+    "num": 35,
+    "question": "[Oct 13 강의 지목 — Unit 1 p.10 Reading Skill] In the paragraph on Page 10 about male gorillas in northern Congo splashing water with their hands, which statement is the MAIN IDEA (M) rather than a Supporting Idea (S)?",
+    "options": [
+      "Male gorillas sometimes hit the surface of the water with their palms open.",
+      "Splashing water helps scare off and intimidate other males.",
+      "A study shows that male gorillas splash water to attract female gorillas and find a mate.",
+      "Larger male gorillas are usually more successful at finding mates."
+    ],
+    "answer": 3,
+    "explanation": "정답: ③\n교재 10페이지 연습문제 A·B입니다. 단락 전체의 중심 생각(Main Idea)은 ③ '수컷 고릴라가 짝을 찾기 위해 물장구를 친다는 연구 결과'이며, ①(방식: How)과 ②(목적: Purpose)는 뒷받침 문장(Supporting Ideas), ④는 본문에 없는 잉여 문장(Extra)입니다."
+  },
+  {
+    "id": "pw_q36",
+    "num": 36,
+    "question": "[Oct 13 강의 지목 — Unit 1 p.18 Vocabulary Extension] Complete the two sentences from Page 18:\n1. Your parents, husband or wife, brothers and sisters, and children make up your ________.\n2. Being polite to your co-workers is one way to ________ conflict in the workplace.",
+    "options": [
+      "extended family / prepare",
+      "immediate family / prevent",
+      "social structure / preview",
+      "offspring / predict"
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n교재 18페이지 Part A 1번과 Part B 4번 원문 문장입니다. 부모·배우자·형제자매·자녀는 직계 가족(`immediate family`)이며, 직장 내 갈등을 미리 막는 것은 `prevent`(예방하다)입니다."
+  },
+  {
+    "id": "pw_q37",
+    "num": 37,
+    "question": "[Oct 13 강의 지목 — Unit 3 p.66 Compound Adjectives] According to the Word Forms rule on Page 66, which compound adjective is punctuated CORRECTLY when placed before a noun?",
+    "options": [
+      "Venice is one of the most heavily-visited cities in the world.",
+      "Venice is one of the most heavily visited cities in the world, and residents lost their hard-earned money.",
+      "The residents lost their hard earned money in the fast moving storm.",
+      "The Moses barriers can stop three meter tides."
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n교재 66페이지 Part B의 핵심 문법 규칙입니다: 복합형용사가 명사 앞에 올 때는 하이픈(-)으로 연결하지만(`hard-earned money`, `three-meter tides`, `fast-moving storms`), **첫 단어가 `-ly`로 끝나는 부사일 때는 절대 하이픈을 쓰지 않습니다(`heavily visited cities`)**!"
+  },
+  {
+    "id": "pw_q38",
+    "num": 38,
+    "question": "[Oct 13 강의 지목 — Unit 3 p.66 Income Expressions] \"If your ________ is $100,000 and you have to pay 20 percent ________, your ________ is $80,000.\"",
+    "options": [
+      "source of income / income inequality / annual income",
+      "annual income / income tax / disposable income",
+      "disposable income / income tax / annual income",
+      "annual income / disposable income / source of income"
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n교재 66페이지 Part A 3번 원문입니다. 연간 총소득(`annual income`) 10만 달러에서 20%의 소득세(`income tax`)를 납부하고 나면 세후 실제로 쓸 수 있는 가처분 소득(`disposable income`) 8만 달러가 남습니다."
+  },
+  {
+    "id": "pw_q39",
+    "num": 39,
+    "question": "[Oct 13 강의 지목 — Unit 3 p.67 Simple Past vs Present Perfect] Choose the correct verb forms for sentences 1, 5, and 7 on Page 67:\n1. Large numbers of people (moved / have moved) to Seoul during the 1950s.\n5. In 1961, the life expectancy in South Korea was 51 years. Since then, it (increased / has increased) to 79 years.\n7. Engineers (used / have used) the barriers several times every year since 2020.",
+    "options": [
+      "moved / has increased / have used",
+      "have moved / increased / used",
+      "moved / increased / have used",
+      "have moved / has increased / have used"
+    ],
+    "answer": 1,
+    "explanation": "정답: ①\n교재 67페이지 연습문제 B번입니다. `during the 1950s`는 이미 끝난 과거의 특정 시기이므로 단순과거(`moved`), `Since then`과 `every year since 2020`은 과거부터 현재까지 이어지는 기간 및 반복이므로 현재완료(`has increased`, `have used`)를 씁니다."
+  },
+  {
+    "id": "pw_q40",
+    "num": 40,
+    "question": "[Oct 13 강의 지목 — Unit 5 p.117 'if' Clause Comma & Tense Rule] Which sentence below uses the correct verb tense AND the correct comma punctuation according to Page 117?",
+    "options": [
+      "If more tourists will visit the islands, there will be more trash on the beaches.",
+      "If more tourists visit the islands there will be more trash on the beaches.",
+      "Local craftspeople will make more money, if tourists buy more souvenirs.",
+      "Local craftspeople will make more money if tourists buy more souvenirs."
+    ],
+    "answer": 4,
+    "explanation": "정답: ④\n교재 117페이지에서 빌리 교수님이 콕 집어 강조하신 두 가지 철칙입니다: 1) `if` 조건절 안에는 미래시제 `will`을 쓰지 않고 현재시제(`visit`, `buy`)를 쓴다. 2) `If`절이 문장 앞에 오면 절 끝에 반드시 쉼표(`,`)를 찍고, 주절이 먼저 오고 `if`절이 뒤에 오면 `if` 앞에 쉼표를 절대 찍지 않는다!"
+  },
+  {
+    "id": "pw_q41",
+    "num": 41,
+    "question": "[Oct 13 강의 지목 — Unit 5 p.108 Cause & Effect] In the statement \"Because tourists have little contact with local people on mass resort tours, people don't learn much about each other's cultures,\" what is the CAUSE and what is the EFFECT?",
+    "options": [
+      "Cause: People don't learn much about cultures → Effect: Tourists have little contact with locals",
+      "Cause: Tourists have little contact with local people → Effect: People don't learn much about each other's cultures",
+      "Both clauses are effects of geotourism",
+      "Both clauses are causes of economic growth"
+    ],
+    "answer": 2,
+    "explanation": "정답: ②\n교재 108페이지 인과관계 분석 문제입니다. 관광객들이 현지 주민들과 접촉할 기회가 거의 없다는 것이 원인(Cause)이며, 그로 인해 서로의 문화에 대해 거의 배우지 못한다는 것이 결과(Effect)입니다."
+  },
+  {
+    "id": "pw_q42",
+    "num": 42,
+    "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] How does living in dense cities benefit the environment compared to living in suburbs? (Write at least TWO complete sentences as required by Prof. Billy.)",
+    "options": [],
+    "type": "short",
+    "answer": "First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person. Second, city apartments require less energy to heat, cool, and light than houses in the suburbs, and shorter roads and power lines require fewer resources.",
+    "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장: First, people living in dense cities walk more and use public transportation, so they drive less and produce fewer greenhouse gas emissions per person.\n2문장: Second, city apartments require less energy to heat, cool, and light than suburban houses, and shorter city roads and sewers use fewer resources to build and operate."
+  },
+  {
+    "id": "pw_q43",
+    "num": 43,
+    "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] According to Unit 5 (p.107), how does geotourism differ from mass tourism in terms of its impact on the local economy and environment? (Write at least TWO complete sentences.)",
+    "options": [],
+    "type": "short",
+    "answer": "While mass tourism often damages fragile environments and sends profits to large outside corporations, geotourism preserves or enhances the local environment, culture, and heritage. In addition, geotourism directly supports the local economy by hiring local residents as official guides and encouraging visitors to buy from local businesses.",
+    "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장(환경/문화 대비): While mass tourism often damages fragile environments and sends profits to large outside corporations, geotourism preserves or enhances the local environment, culture, and heritage.\n2문장(지역 경제 혜택): In addition, geotourism directly supports the local economy by hiring local residents as official guides and encouraging visitors to buy from local businesses."
+  },
+  {
+    "id": "pw_q44",
+    "num": 44,
+    "question": "[Oct 13 강의 지목 — Reading Short Answer (2+ Sentences 필수!)] In Unit 1, how did researchers Inbal Ben-Ami Bartal and her colleagues prove that rats can feel empathy? (Write at least TWO complete sentences.)",
+    "options": [],
+    "type": "short",
+    "answer": "In the experiment, rats learned to pull a lever to get food, but they later saw that pulling the lever gave a painful electric shock to a rat in a neighboring cage. Once the rats realized this, they stopped pulling the lever to prevent the other rat's suffering, which suggests that they felt empathy.",
+    "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n1문장(실험 설계): In the experiment, rats learned to pull a lever to get food, but they later noticed that pulling the lever gave an electric shock to another rat in a nearby cage.\n2문장(결과 및 의의): The rats stopped pulling the lever in order to prevent the other rat's suffering, which demonstrates that nonhuman animals can feel empathy."
+  },
+  {
+    "id": "pw_q45",
+    "num": 45,
+    "question": "[Oct 13 강의 지목 — In-Class Essay Mandatory Rule] When writing your 5-paragraph Compare and Contrast Essay on the exam paper, which sentences MUST you underline to avoid losing formatting points?",
+    "options": [
+      "You must underline every target vocabulary word used in the essay.",
+      "You must underline the Hook in the introduction and the Final Thought in the conclusion.",
+      "You must underline the Thesis Statement in the introduction and the Topic Sentence in each of the three body paragraphs (4 sentences total).",
+      "You must underline the entire concluding paragraph."
+    ],
+    "answer": 3,
+    "explanation": "정답: ③\n10월 13일 현장 강의 29분 28초에서 빌리 교수님이 직접 지시하신 에세이 필수 규칙입니다: 서론 마지막 문장인 Thesis Statement(중심 문장) 1개와 본론 1, 2, 3의 첫 문장인 Topic Sentence(주제문) 3개 등 총 4개 문장에 반드시 밑줄(Underline)을 그어야 합니다!"
+  },
+  {
+    "id": "pw_q46",
+    "num": 46,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Hook 6대 유형 식별]\nAccording to Professor Billy's academic writing guidelines (Handout: Examples of hooks-), which type of introductory hook is demonstrated in the sentence below, and what is its primary rhetorical function in academic essays?\n\n\"Education is the most powerful weapon which you can use to change the world,\" said Nelson Mandela.",
+    "options": [
+      "Bold Statement — shocking the audience with an unorthodox or provocative personal stance",
+      "Quotation — establishing authority, credibility, and immediate reader engagement by citing a respected global figure",
+      "Anecdote — narrating a brief autobiographical experience to build empathetic connection",
+      "Definition — clarifying technical terminology and establishing semantic boundaries for the essay"
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (Quotation - 인용문 후크)\n\n[해설 및 빌리 교수님 공식 기준]\n빌리 교수님이 e-Class에 게시하신 공식 강의자료 <Examples of hooks->에 수록된 6대 후크(Hook) 공식 예문 대조:\n1. Statistic: \"About 8 million metric tons of plastic end up in the ocean every year.\"\n2. Question: \"What would happen if public libraries disappeared for one year?\"\n3. Bold Statement: \"Standardized testing is destroying creativity in education.\"\n4. Anecdote: \"The night before my thesis was due, my computer crashed — teaching me the value of preparation.\"\n5. Quotation: \"Education is the most powerful weapon which you can use to change the world,\" said Nelson Mandela.\n6. Definition: \"Resilience, defined as the capacity to recover quickly, is at the heart of human progress.\"\n\n넬슨 만델라의 발언을 직접 인용한 위 문장은 명백히 Quotation 유형이며, 신뢰받는 인물의 권위를 통해 독자의 흥미와 신빙성을 확보합니다."
+  },
+  {
+    "id": "pw_q47",
+    "num": 47,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Hook 유형 구분 및 변별]\nWhich of the following sentences correctly exemplifies a \"Bold Statement\" hook as defined in Professor Billy's writing syllabus?",
+    "options": [
+      "\"What would happen to metropolitan biodiversity if private automobile usage were banned entirely for three years?\"",
+      "\"According to marine biologists, over eight million metric tons of plastic pollute oceanic ecosystems each year.\"",
+      "\"Standardized testing is destroying creativity and genuine critical thinking in modern secondary education.\"",
+      "\"When I was seven years old, my grandfather took me to Venice and taught me how rising tides damage stone foundations.\""
+    ],
+    "answer": 3,
+    "explanation": "정답: ③ (Bold Statement - 단호한/도발적 주장)\n\n[선지별 6대 후크 유형 완벽 분석]\n① Question (수사적 의문형): 도시 생태계에 대한 가상의 질문으로 독자의 궁금증 유발\n② Statistic (통계 수치형): 해양 플라스틱 800만 톤이라는 객관적 수치 제시\n③ Bold Statement (도발적 주장형): \"표준화된 시험은 창의성과 비판적 사고를 파괴하고 있다\"처럼 강렬하고 단호한 어조로 독자의 시선을 사로잡는 선언\n④ Anecdote (일화형): 7세 시절 할아버지와의 베네치아 여행 경험담 서술"
+  },
+  {
+    "id": "pw_q48",
+    "num": 48,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Thesis Statement 학술적 요건]\nAccording to Pathways 3 (Unit 3 pp.68~71) and Professor Billy's essay rubric, which of the following sentences is a structurally and academically SOUND Thesis Statement for a Compare and Contrast essay?",
+    "options": [
+      "\"Why do millions of international tourists choose to visit historic Venice rather than smaller eco-friendly towns?\"",
+      "\"Mass tourism and geotourism are two different forms of travel with various similarities and differences in the modern world.\"",
+      "\"Although both mass tourism and geotourism stimulate local commerce, geotourism provides superior long-term benefits by safeguarding indigenous culture, protecting fragile ecosystems, and distributing revenue directly to residents.\"",
+      "\"In this five-paragraph essay, I will thoroughly compare and contrast mass tourism and geotourism in three main body sections.\""
+    ],
+    "answer": 3,
+    "explanation": "정답: ③ (완벽한 학술적 Thesis Statement)\n\n[오답 분석 및 Thesis Statement 필수 원칙]\n① 탈락: Thesis Statement는 **절대로 의문문(Question) 형태가 될 수 없습니다**.\n② 탈락: 단순한 사실 진술(Fact)에 불과하며, 에세이가 입증해야 할 필자의 명확한 주장(Controlling idea)이나 세부 논점(Sub-points)이 결여되어 변별력이 없습니다.\n④ 탈락: \"In this essay I will...\" 같은 표현은 에세이의 방향을 단순 공지(Announcement)하는 구태의연한 방식이며 대학 학술 에세이에서 지양됩니다.\n③ 정답: 주제(Mass vs Geotourism) + 양보 대조절(stimulate commerce) + 3대 구체적 비교 기준(문화 보존, 생태 보호, 주민 직접 수익 분배)을 모두 담아 에세이 전체의 논리적 뼈대를 완벽히 제시합니다."
+  },
+  {
+    "id": "pw_q49",
+    "num": 49,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Thesis & Topic Sentence 위치 및 시험 서식]\nWhere MUST the Thesis Statement and Topic Sentences be placed in an academic essay, and what CRITICAL rule did Professor Billy mandate for the in-class midterm exam to prevent formatting score loss?",
+    "options": [
+      "The Thesis Statement goes at the very beginning of the introductory paragraph; students must highlight it in yellow marker.",
+      "The Thesis Statement must be the last sentence(s) of the introduction, and each Topic Sentence must be the first sentence of its respective body paragraph; you MUST UNDERLINE all four sentences on the exam paper.",
+      "The Thesis Statement belongs in the concluding paragraph only; Topic Sentences must appear at the exact middle of each body paragraph.",
+      "Topic Sentences are placed at the end of each body paragraph to summarize the points; no underlining is permitted."
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (위치 및 밑줄 의무)\n\n[빌리 교수님 공식 강의자료 <Hook, Thesis Statement, and Topic Sentence> 및 10/13 강의 녹취록 지침]\n1. Hook: 서론의 첫 번째 문장 (First sentence of the introduction)\n2. Thesis Statement: 서론의 마지막 문장 (Last sentence(s) of the introduction)\n3. Topic Sentence: 각 본론 단락의 첫 번째 문장 (First sentence of each body paragraph)\n4. 시험 절대 감점 방지 수칙: 10월 13일 현장 강의(29분 28초)에서 교수님이 직접 공지한 바와 같이, 서론의 Thesis Statement 1문장과 본론 3개의 각 Topic Sentence 3문장(총 4개 문장)에 **반드시 밑줄(Underline)**을 그어야 서식 점수 감점을 당하지 않습니다."
+  },
+  {
+    "id": "pw_q50",
+    "num": 50,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — 햄버거 문단 구조 Hamburger Paragraph]\nIn the \"Hamburger Paragraph\" model taught in Unit 1 (pp.20~23) and Billy's lecture slides, what is the role of the \"Top Bun\" (Topic Sentence), and what should NEVER be included in this sentence?",
+    "options": [
+      "It should state the single controlling idea of the paragraph; it should NEVER be a highly specific statistical fact or raw data point without a controlling claim.",
+      "It should list all minor supporting details; it should NEVER mention the subject matter of the essay.",
+      "It must be a rhetorical question; it should NEVER be an affirmative statement.",
+      "It functions as a concluding transition; it should NEVER introduce any new perspective."
+    ],
+    "answer": 1,
+    "explanation": "정답: ① (햄버거 구조 Top Bun의 본질)\n\n[해설]\n햄버거 문단 구조에서:\n- Top Bun (Topic Sentence): 해당 문단 전체를 지배하는 단 하나의 중심 생각(controlling idea)을 명확하게 제시해야 합니다. 단순하고 지엽적인 통계 수치나 세부 팩트를 주제문으로 던져서는 안 되며(그것은 속재료인 Meat/Fillings에 해당), 본론의 전개 방향을 독자에게 안내해야 합니다.\n- Meat / Fillings (Supporting Details): 주제문을 논증하는 구체적인 예시, 팩트, 통계, 전문가 의견.\n- Bottom Bun (Concluding Sentence): 단락의 내용을 요약하거나 다음 본론으로 매끄럽게 연결하는 마무리 문장."
+  },
+  {
+    "id": "pw_q51",
+    "num": 51,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Compare and Contrast 전개 패턴 구분]\nAn essay comparing Mass Tourism and Geotourism is organized with the following body paragraph structure:\n• Body Paragraph 1: Economic impact and revenue distribution of both Mass Tourism and Geotourism\n• Body Paragraph 2: Environmental footprint on natural ecosystems of both Mass Tourism and Geotourism\n• Body Paragraph 3: Preservation of cultural heritage and local authenticity of both Mass Tourism and Geotourism\n\nWhich organizational pattern does this essay follow according to Billy's ComparisonandContrast.pptx?",
+    "options": [
+      "Block-by-Block (Subject-by-Subject) Organization",
+      "Point-by-Point (Criterion-by-Criterion) Organization",
+      "Chronological Process Organization",
+      "Classification and Division Organization"
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (Point-by-Point 전개 방식)\n\n[빌리 교수님 <ComparisonandContrast.pptx> Slide 15~18 대조]\n- Point-by-point 구조: 본론 문단마다 하나의 비교 기준(Comparing point: 경제성, 환경 영향, 문화 유산 보존)을 정하고, 그 단일 기준 아래에서 대상 A(대중 관광)와 대상 B(지오투어리즘)를 대등하게 나란히 비교·대조하는 방식입니다. 슬라이드 53에서 \"This structure makes it clear that the advantages of one option are discussed against the other in a clear, logical sequence\"라고 강조하셨습니다.\n- Block-by-block 구조: 한 단락 전체에서 대상 A의 모든 특성을 먼저 묶어서 다룬 후, 다음 단락에서 대상 B의 모든 특성을 묶어서 다루는 방식입니다."
+  },
+  {
+    "id": "pw_q52",
+    "num": 52,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Block-by-Block 구조 식별]\nIf a student structures a Compare and Contrast essay evaluating Venice and Seoul using the \"Block-by-Block\" method, which outline correctly adheres to this organizational strategy?",
+    "options": [
+      "Body 1: Venice's flood defenses vs Seoul's flood defenses / Body 2: Venice's tourist density vs Seoul's commuter density / Body 3: Future sustainability projects in both cities.",
+      "Body 1: All features of Venice (lagoon geography, historic architecture, and the MOSE sea wall system) / Body 2: All features of Seoul (high-density urban layout, mass transit, and river management) / Body 3: Direct comparative synthesis evaluating the resilience of both cities.",
+      "Body 1: Seoul's transportation advantages / Body 2: Venice's gondola history / Body 3: The writer's personal opinion on why pizza in Venice tastes better than in Seoul.",
+      "Body 1: Why Venice is sinking / Body 2: Why Seoul was founded in 1394 / Body 3: How modern climate change affects global agriculture."
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (Block-by-Block 구조의 정석)\n\n[해설]\nBlock-by-Block 전개는 비교할 대상을 하나의 덩어리(Block)로 묶어 서술합니다.\n- Block 1 (Body 1): 대상 A인 베네치아의 지형, 건축, MOSE 방벽 시스템 등 모든 특성을 종합적으로 전개.\n- Block 2 (Body 2): 대상 B인 서울의 고밀도 도심, 대중교통, 치수 관리 등 모든 특성을 집중적으로 전개.\n- Block 3 (Body 3 또는 종합): 두 도시의 방재 및 탄력성 전략을 상호 비교·평가하는 종합 분석.\n반면 ①번은 기준별로 번갈아 비교하는 Point-by-Point 구조이며, ③, ④는 논리적 대칭성이 결여된 오류입니다."
+  },
+  {
+    "id": "pw_q53",
+    "num": 53,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — 전환어 문장부호 및 콤마 스플라이스 Comma Splice]\nIn academic writing, which of the following sentences correctly punctuates the contrast transition \"however\" without creating a comma splice or run-on sentence error?",
+    "options": [
+      "Mass tourism generates immediate economic revenue, however, it accelerates the environmental degradation of pristine coastal zones.",
+      "Mass tourism generates immediate economic revenue; however, it accelerates the environmental degradation of pristine coastal zones.",
+      "While mass tourism generates immediate economic revenue, however it accelerates environmental degradation.",
+      "Mass tourism generates immediate economic revenue however it accelerates environmental degradation."
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (세미콜론과 쉼표를 사용한 올바른 접속부사 결합)\n\n[문법 및 문장부호 분석]\n- ① 오류 (Comma Splice): `however`는 접속사가 아닌 접속부사(conjunctive adverb)입니다. 두 개의 독립절(완전한 문장)을 단순 쉼표와 `however`로 연결하면 콤마 스플라이스 비문이 됩니다.\n- ③ 오류: 종속접속사 `While`과 접속부사 `however`를 한 문장에 중복 사용한 이중 접속 오류입니다.\n- ④ 오류 (Run-on): 접속부사 앞뒤에 문장부호가 전무하여 두 독립절이 충돌하는 런온 에러입니다.\n- ② 정답: 앞의 독립절 뒤에 세미콜론(`;`), `however` 뒤에 쉼표(`,`)를 배치하여 두 절을 완벽하게 연결했습니다. (또는 마침표 후 `. However,`로 분리 가능)"
+  },
+  {
+    "id": "pw_q54",
+    "num": 54,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — 종속접속사 Whereas / While vs 대조 연결어]\nWhich of the following sentences correctly demonstrates the proper syntactic and punctuation usage of the contrast subordinator \"Whereas\"?",
+    "options": [
+      "Whereas high-density cities reduce per-capita greenhouse gas emissions, suburban developments consume substantially more heating energy and require longer vehicular commutes.",
+      "Whereas, high-density cities reduce emissions, suburban developments consume more heating energy.",
+      "High-density cities reduce emissions, in contrast, suburban developments consume more energy.",
+      "High-density cities reduce emissions; whereas suburban developments consume more energy."
+    ],
+    "answer": 1,
+    "explanation": "정답: ① (종속접속사 Whereas의 정통 문법)\n\n[해설]\n- ① 정답: `Whereas`는 대조의 종속부사절을 이끄는 접속사입니다. 종속절이 문두에 올 때는 종속절이 끝나는 지점에 쉼표(`,`)를 찍고 주절을 연결하는 것이 완벽한 문법입니다.\n- ② 오류: 접속사 `Whereas` 바로 뒤에 불필요한 쉼표를 찍었습니다.\n- ③ 오류: `in contrast`는 접속부사이므로 독립절 두 개를 단순 쉼표로 연결할 수 없습니다 (세미콜론 `; in contrast,` 필요).\n- ④ 오류: `whereas` 종속절 앞에 세미콜론을 쓰는 것은 비문법적이며 일반 쉼표를 써야 합니다."
+  },
+  {
+    "id": "pw_q55",
+    "num": 55,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Unit 5 p.117 If 조건절 콤마 절대 규칙]\nAccording to the strict conditional punctuation rules highlighted in Unit 5 (p.117) and emphasized in Professor Billy's midterm review, which of the following sentences contains a PUNCTUATION ERROR?",
+    "options": [
+      "\"If tourists respect local heritage, communities will welcome sustainable tourism initiatives enthusiastically.\"",
+      "\"Local craftspeople will prosper, if international travelers purchase authentic handicrafts directly from artisans.\"",
+      "\"If municipal governments invest in dense public transit, per-capita greenhouse gas emissions will decline.\"",
+      "\"Historic coastal landmarks will survive future storm surges if the regional flood barrier operates reliably.\""
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (조건절 쉼표 위치 오류)\n\n[Unit 5 117페이지 및 빌리 교수님 강의 지목 절대 규칙]\n1. If 조건절이 문두(앞)에 올 때: 조건절 끝에 반드시 쉼표를 찍어야 함 (`If + 조건절, + 주절.` -> ①, ③ 정문)\n2. 주절이 먼저 오고 If 조건절이 뒤에 올 때: **If 앞에 절대로 쉼표를 찍지 않는다!** (`주절 + if + 조건절.` -> ④ 정문)\n따라서 ②번 문장의 `prosper, if`에서 쉼표(`,`)를 삽입한 것은 중대한 감점 대상 오류입니다."
+  },
+  {
+    "id": "pw_q56",
+    "num": 56,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Unit 3 p.66 복합형용사 하이픈 규칙]\nAccording to the compound adjective rules in Unit 3 (p.66) of Pathways 3, which of the following sentences is punctuated and formed CORRECTLY?",
+    "options": [
+      "Venice is a heavily-visited destination that must protect its residents from three-meter tides.",
+      "Venice is a heavily visited destination that must protect its residents from three-meter tides.",
+      "Venice is a heavily visited destination that must protect its residents from three meters tides.",
+      "Residents lost their hard earned income while repairing storm damaged properties."
+    ],
+    "answer": 2,
+    "explanation": "정답: ② (복합형용사 하이픈 및 단수형 규칙 완비)\n\n[Unit 3 p.66 Vocabulary Extension 핵심 문법]\n1. 수사 + 단위명사가 명사를 수식할 때: 하이픈으로 결합하며 단위명사는 **단수형**을 씁니다 (`three-meter tides` -> ③의 `three meters tides`는 복수형 오류).\n2. 일반 복합형용사: 명사 앞에서 하이픈으로 연결합니다 (`hard-earned income`, `storm-damaged properties` -> ④는 하이픈 누락 오류).\n3. **`-ly` 부사 예외 규칙**: `-ly`로 끝나는 부사가 형용사/분사 앞에 올 때는 **절대로 하이픈을 쓰지 않습니다** (`heavily visited` -> ①의 `heavily-visited`는 오답).\n따라서 `heavily visited`에 하이픈이 없고 `three-meter`에 하이픈과 단수가 올바르게 적용된 ②번이 정답입니다."
+  },
+  {
+    "id": "pw_q57",
+    "num": 57,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — 결론 단락 Concluding Paragraph 3대 요소 및 금기]\nAccording to academic essay standards (Unit 3 pp.70~71) and Professor Billy's writing criteria, which of the following actions is STRICTLY PROHIBITED in the concluding paragraph of a five-paragraph essay?",
+    "options": [
+      "Paraphrasing the Thesis Statement in fresh vocabulary to reaffirm the essay's core stance",
+      "Synthesizing the primary supporting arguments that were established across Body Paragraphs 1, 2, and 3",
+      "Introducing brand-new supporting points, raw empirical data, or novel arguments that were never discussed in any body paragraph",
+      "Providing a final thoughtful prediction, call to action, or broader implication for future research"
+    ],
+    "answer": 3,
+    "explanation": "정답: ③ (결론 문단의 절대 금기: 새로운 논거/자료 도입)\n\n[해설: Unit 3 pp.70~71 결론 구성 3요소]\n1. Restatement of Thesis: 서론의 Thesis Statement를 다른 어휘와 구조로 패러프레이징하여 재확인.\n2. Summary of Main Points: 본론 1, 2, 3에서 입증한 핵심 근거들을 유기적으로 종합 요약.\n3. Final Thought / Recommendation: 독자에게 깊은 인상을 남기는 최종 제언, 미래 예측, 행동 촉구.\n\n[절대 금기 사항]\n본론에서 사전에 언급하거나 논증하지 않은 완전히 새로운 주장, 추가적인 통계 데이터, 새로운 논점을 결론에서 갑자기 꺼내는 것은 에세이의 완결성을 파괴하므로 엄격히 금지됩니다."
+  },
+  {
+    "id": "pw_q58",
+    "num": 58,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — 문단 통일성 Paragraph Unity 저해 문장 식별]\nRead the body paragraph draft below regarding urban energy efficiency. Which numbered sentence VIOLATES PARAGRAPH UNITY by deviating from the controlling idea?\n\n\"(1) High-density metropolitan living significantly minimizes per-capita energy consumption compared to low-density suburban sprawl. (2) Because everyday commercial necessities and workplaces are concentrated within compact districts, city dwellers walk or utilize rapid rail transit instead of operating private vehicles. (3) Furthermore, shared walls and compact spatial footprints in apartment complexes substantially decrease residential heating and cooling demands. (4) Several metropolitan universities have recently decided to raise campus parking fees for incoming undergraduate students. (5) Consequently, dense urban settlement patterns inherently facilitate sustainable resource conservation.\"",
+    "options": [
+      "Sentence (2)",
+      "Sentence (3)",
+      "Sentence (4)",
+      "Sentence (5)"
+    ],
+    "answer": 3,
+    "explanation": "정답: ③ (Sentence 4 - 단락 통일성 저해 문장)\n\n[해설: Paragraph Unity(단락의 통일성) 분석]\n- 주제문(Sentence 1): 고밀도 도시 거주가 교외 주거보다 1인당 에너지 소비를 획기적으로 줄인다는 주장.\n- 뒷받침 세부내용(Sentence 2, 3): 대중교통 및 도보 이동(차량 운행 감소), 아파트 외벽 공유(냉난방 에너지 절감)라는 직접적이고 타당한 근거.\n- 결론문(Sentence 5): 자원 보존의 지속가능성을 종합하는 적절한 마무리.\n- 무관한 문장(Sentence 4): \"일부 도시 대학들이 학부생 주차 요금을 인상하기로 결정했다\"는 내용은 도시 밀도와 주거 에너지 효율성이라는 단락의 중심 논점(controlling idea)에서 완전히 벗어난 불필요한 사족입니다."
+  },
+  {
+    "id": "pw_q59",
+    "num": 59,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — 시험 주관식 서술형 만점 기준 Mandatory Constraint]\nOn the midterm exam, Professor Billy stated that the Reading Section includes both Multiple Choice and Short Answer questions. What is the MANDATORY REQUIREMENT for every Short Answer question to prevent automatic point deduction?",
+    "options": [
+      "You must compose an entire 5-paragraph comparative essay for each short answer question within five minutes.",
+      "You must write your answer using only isolated bullet points and individual vocabulary words.",
+      "You MUST write at least TWO complete, grammatically sound academic sentences providing precise textual evidence.",
+      "You must translate the English question into Korean before writing an English one-word answer."
+    ],
+    "answer": 3,
+    "explanation": "정답: ③ (주관식 서술형: 반드시 최소 2문장 이상 작성)\n\n[10월 13일 현장 강의 7분 15초 빌리 교수님 직접 발표 기준]\n중간고사 독해 주관식 서술형(Short Answer questions) 채점 시 단답형 단어나 달랑 1문장만 적으면 무조건 감점 처리됩니다.\n질문에 대해 반드시 **\"최소 2문장 이상(at least two complete sentences)\"**의 완결된 문법 구조를 갖춘 학술 영문으로 지문의 구체적 팩트를 담아 작성해야 만점을 획득할 수 있습니다."
+  },
+  {
+    "id": "pw_q60",
+    "num": 60,
+    "category": "writing",
+    "question": "* [글쓰기 방법론 필수 실전문항 — Point-by-point vs Block 대조 서술형 (2+ Sentences)]\nExplain the fundamental structural difference between the \"Point-by-Point\" method and the \"Block-by-Block\" method in a Compare and Contrast essay, and state why preparing an outline before writing is crucial. (Write at least TWO complete sentences as required by Professor Billy.)",
+    "options": [],
+    "answer": "In a point-by-point structure, each body paragraph analyzes both subjects under one specific point of comparison, whereas in a block structure, all characteristics of the first subject are discussed in an entire block before the writer moves to the second subject. Creating a detailed outline beforehand is crucial because it prevents writers from inconsistently mixing these two patterns and ensures that each comparison point is supported with balanced textual evidence.",
+    "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n\n[모범 답안 분석]\n1문장 (두 전개 방식의 구조적 차이 완벽 대조):\n\"In a point-by-point structure, each body paragraph analyzes both subjects under one specific point of comparison, whereas in a block structure, all characteristics of the first subject are discussed in an entire block before the writer moves to the second subject.\"\n\n2문장 (아웃라인 사전 작성의 당위성 및 효과 서술):\n\"Creating a detailed outline beforehand is crucial because it prevents writers from inconsistently mixing these two patterns and ensures that each comparison point is supported with balanced textual evidence.\"\n\n두 문장 모두 완벽한 문법과 접속사(`whereas`, `because`)를 갖추었으며 교수님이 요구한 2문장 이상 조건을 100% 충족합니다."
   }
 ]

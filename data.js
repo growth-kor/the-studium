@@ -2,9 +2,9 @@ var HUFS_DATA = {
   "title": "HUFS 26-2 Mobile Study Web",
   "updated_at": "2026-10-12 03:30",
   "encrypted_schedule": {
-    "salt": "YAjX+5bO54wdciBfiIezNw==",
-    "iv": "8wQysIpjcq1Ycgji",
-    "ciphertext": "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"
+    "salt": "oHO1cI1dRbS/p3Zbzw8gfA==",
+    "iv": "yCmMZ/7l1bHdJjVN",
+    "ciphertext": "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"
   },
   "weekly_courses": [
     {
@@ -7785,6 +7785,211 @@ var HUFS_DATA = {
           ],
           "answer": 3,
           "explanation": "정답: ③\n10월 13일 현장 강의 29분 28초에서 빌리 교수님이 직접 지시하신 에세이 필수 규칙입니다: 서론 마지막 문장인 Thesis Statement(중심 문장) 1개와 본론 1, 2, 3의 첫 문장인 Topic Sentence(주제문) 3개 등 총 4개 문장에 반드시 밑줄(Underline)을 그어야 합니다!"
+        },
+        {
+          "id": "pw_q46",
+          "num": 46,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Hook 6대 유형 식별]\nAccording to Professor Billy's academic writing guidelines (Handout: Examples of hooks-), which type of introductory hook is demonstrated in the sentence below, and what is its primary rhetorical function in academic essays?\n\n\"Education is the most powerful weapon which you can use to change the world,\" said Nelson Mandela.",
+          "options": [
+            "Bold Statement — shocking the audience with an unorthodox or provocative personal stance",
+            "Quotation — establishing authority, credibility, and immediate reader engagement by citing a respected global figure",
+            "Anecdote — narrating a brief autobiographical experience to build empathetic connection",
+            "Definition — clarifying technical terminology and establishing semantic boundaries for the essay"
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (Quotation - 인용문 후크)\n\n[해설 및 빌리 교수님 공식 기준]\n빌리 교수님이 e-Class에 게시하신 공식 강의자료 <Examples of hooks->에 수록된 6대 후크(Hook) 공식 예문 대조:\n1. Statistic: \"About 8 million metric tons of plastic end up in the ocean every year.\"\n2. Question: \"What would happen if public libraries disappeared for one year?\"\n3. Bold Statement: \"Standardized testing is destroying creativity in education.\"\n4. Anecdote: \"The night before my thesis was due, my computer crashed — teaching me the value of preparation.\"\n5. Quotation: \"Education is the most powerful weapon which you can use to change the world,\" said Nelson Mandela.\n6. Definition: \"Resilience, defined as the capacity to recover quickly, is at the heart of human progress.\"\n\n넬슨 만델라의 발언을 직접 인용한 위 문장은 명백히 Quotation 유형이며, 신뢰받는 인물의 권위를 통해 독자의 흥미와 신빙성을 확보합니다."
+        },
+        {
+          "id": "pw_q47",
+          "num": 47,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Hook 유형 구분 및 변별]\nWhich of the following sentences correctly exemplifies a \"Bold Statement\" hook as defined in Professor Billy's writing syllabus?",
+          "options": [
+            "\"What would happen to metropolitan biodiversity if private automobile usage were banned entirely for three years?\"",
+            "\"According to marine biologists, over eight million metric tons of plastic pollute oceanic ecosystems each year.\"",
+            "\"Standardized testing is destroying creativity and genuine critical thinking in modern secondary education.\"",
+            "\"When I was seven years old, my grandfather took me to Venice and taught me how rising tides damage stone foundations.\""
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (Bold Statement - 단호한/도발적 주장)\n\n[선지별 6대 후크 유형 완벽 분석]\n① Question (수사적 의문형): 도시 생태계에 대한 가상의 질문으로 독자의 궁금증 유발\n② Statistic (통계 수치형): 해양 플라스틱 800만 톤이라는 객관적 수치 제시\n③ Bold Statement (도발적 주장형): \"표준화된 시험은 창의성과 비판적 사고를 파괴하고 있다\"처럼 강렬하고 단호한 어조로 독자의 시선을 사로잡는 선언\n④ Anecdote (일화형): 7세 시절 할아버지와의 베네치아 여행 경험담 서술"
+        },
+        {
+          "id": "pw_q48",
+          "num": 48,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Thesis Statement 학술적 요건]\nAccording to Pathways 3 (Unit 3 pp.68~71) and Professor Billy's essay rubric, which of the following sentences is a structurally and academically SOUND Thesis Statement for a Compare and Contrast essay?",
+          "options": [
+            "\"Why do millions of international tourists choose to visit historic Venice rather than smaller eco-friendly towns?\"",
+            "\"Mass tourism and geotourism are two different forms of travel with various similarities and differences in the modern world.\"",
+            "\"Although both mass tourism and geotourism stimulate local commerce, geotourism provides superior long-term benefits by safeguarding indigenous culture, protecting fragile ecosystems, and distributing revenue directly to residents.\"",
+            "\"In this five-paragraph essay, I will thoroughly compare and contrast mass tourism and geotourism in three main body sections.\""
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (완벽한 학술적 Thesis Statement)\n\n[오답 분석 및 Thesis Statement 필수 원칙]\n① 탈락: Thesis Statement는 **절대로 의문문(Question) 형태가 될 수 없습니다**.\n② 탈락: 단순한 사실 진술(Fact)에 불과하며, 에세이가 입증해야 할 필자의 명확한 주장(Controlling idea)이나 세부 논점(Sub-points)이 결여되어 변별력이 없습니다.\n④ 탈락: \"In this essay I will...\" 같은 표현은 에세이의 방향을 단순 공지(Announcement)하는 구태의연한 방식이며 대학 학술 에세이에서 지양됩니다.\n③ 정답: 주제(Mass vs Geotourism) + 양보 대조절(stimulate commerce) + 3대 구체적 비교 기준(문화 보존, 생태 보호, 주민 직접 수익 분배)을 모두 담아 에세이 전체의 논리적 뼈대를 완벽히 제시합니다."
+        },
+        {
+          "id": "pw_q49",
+          "num": 49,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Thesis & Topic Sentence 위치 및 시험 서식]\nWhere MUST the Thesis Statement and Topic Sentences be placed in an academic essay, and what CRITICAL rule did Professor Billy mandate for the in-class midterm exam to prevent formatting score loss?",
+          "options": [
+            "The Thesis Statement goes at the very beginning of the introductory paragraph; students must highlight it in yellow marker.",
+            "The Thesis Statement must be the last sentence(s) of the introduction, and each Topic Sentence must be the first sentence of its respective body paragraph; you MUST UNDERLINE all four sentences on the exam paper.",
+            "The Thesis Statement belongs in the concluding paragraph only; Topic Sentences must appear at the exact middle of each body paragraph.",
+            "Topic Sentences are placed at the end of each body paragraph to summarize the points; no underlining is permitted."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (위치 및 밑줄 의무)\n\n[빌리 교수님 공식 강의자료 <Hook, Thesis Statement, and Topic Sentence> 및 10/13 강의 녹취록 지침]\n1. Hook: 서론의 첫 번째 문장 (First sentence of the introduction)\n2. Thesis Statement: 서론의 마지막 문장 (Last sentence(s) of the introduction)\n3. Topic Sentence: 각 본론 단락의 첫 번째 문장 (First sentence of each body paragraph)\n4. 시험 절대 감점 방지 수칙: 10월 13일 현장 강의(29분 28초)에서 교수님이 직접 공지한 바와 같이, 서론의 Thesis Statement 1문장과 본론 3개의 각 Topic Sentence 3문장(총 4개 문장)에 **반드시 밑줄(Underline)**을 그어야 서식 점수 감점을 당하지 않습니다."
+        },
+        {
+          "id": "pw_q50",
+          "num": 50,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 햄버거 문단 구조 Hamburger Paragraph]\nIn the \"Hamburger Paragraph\" model taught in Unit 1 (pp.20~23) and Billy's lecture slides, what is the role of the \"Top Bun\" (Topic Sentence), and what should NEVER be included in this sentence?",
+          "options": [
+            "It should state the single controlling idea of the paragraph; it should NEVER be a highly specific statistical fact or raw data point without a controlling claim.",
+            "It should list all minor supporting details; it should NEVER mention the subject matter of the essay.",
+            "It must be a rhetorical question; it should NEVER be an affirmative statement.",
+            "It functions as a concluding transition; it should NEVER introduce any new perspective."
+          ],
+          "answer": 1,
+          "explanation": "정답: ① (햄버거 구조 Top Bun의 본질)\n\n[해설]\n햄버거 문단 구조에서:\n- Top Bun (Topic Sentence): 해당 문단 전체를 지배하는 단 하나의 중심 생각(controlling idea)을 명확하게 제시해야 합니다. 단순하고 지엽적인 통계 수치나 세부 팩트를 주제문으로 던져서는 안 되며(그것은 속재료인 Meat/Fillings에 해당), 본론의 전개 방향을 독자에게 안내해야 합니다.\n- Meat / Fillings (Supporting Details): 주제문을 논증하는 구체적인 예시, 팩트, 통계, 전문가 의견.\n- Bottom Bun (Concluding Sentence): 단락의 내용을 요약하거나 다음 본론으로 매끄럽게 연결하는 마무리 문장."
+        },
+        {
+          "id": "pw_q51",
+          "num": 51,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Compare and Contrast 전개 패턴 구분]\nAn essay comparing Mass Tourism and Geotourism is organized with the following body paragraph structure:\n• Body Paragraph 1: Economic impact and revenue distribution of both Mass Tourism and Geotourism\n• Body Paragraph 2: Environmental footprint on natural ecosystems of both Mass Tourism and Geotourism\n• Body Paragraph 3: Preservation of cultural heritage and local authenticity of both Mass Tourism and Geotourism\n\nWhich organizational pattern does this essay follow according to Billy's ComparisonandContrast.pptx?",
+          "options": [
+            "Block-by-Block (Subject-by-Subject) Organization",
+            "Point-by-Point (Criterion-by-Criterion) Organization",
+            "Chronological Process Organization",
+            "Classification and Division Organization"
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (Point-by-Point 전개 방식)\n\n[빌리 교수님 <ComparisonandContrast.pptx> Slide 15~18 대조]\n- Point-by-point 구조: 본론 문단마다 하나의 비교 기준(Comparing point: 경제성, 환경 영향, 문화 유산 보존)을 정하고, 그 단일 기준 아래에서 대상 A(대중 관광)와 대상 B(지오투어리즘)를 대등하게 나란히 비교·대조하는 방식입니다. 슬라이드 53에서 \"This structure makes it clear that the advantages of one option are discussed against the other in a clear, logical sequence\"라고 강조하셨습니다.\n- Block-by-block 구조: 한 단락 전체에서 대상 A의 모든 특성을 먼저 묶어서 다룬 후, 다음 단락에서 대상 B의 모든 특성을 묶어서 다루는 방식입니다."
+        },
+        {
+          "id": "pw_q52",
+          "num": 52,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Block-by-Block 구조 식별]\nIf a student structures a Compare and Contrast essay evaluating Venice and Seoul using the \"Block-by-Block\" method, which outline correctly adheres to this organizational strategy?",
+          "options": [
+            "Body 1: Venice's flood defenses vs Seoul's flood defenses / Body 2: Venice's tourist density vs Seoul's commuter density / Body 3: Future sustainability projects in both cities.",
+            "Body 1: All features of Venice (lagoon geography, historic architecture, and the MOSE sea wall system) / Body 2: All features of Seoul (high-density urban layout, mass transit, and river management) / Body 3: Direct comparative synthesis evaluating the resilience of both cities.",
+            "Body 1: Seoul's transportation advantages / Body 2: Venice's gondola history / Body 3: The writer's personal opinion on why pizza in Venice tastes better than in Seoul.",
+            "Body 1: Why Venice is sinking / Body 2: Why Seoul was founded in 1394 / Body 3: How modern climate change affects global agriculture."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (Block-by-Block 구조의 정석)\n\n[해설]\nBlock-by-Block 전개는 비교할 대상을 하나의 덩어리(Block)로 묶어 서술합니다.\n- Block 1 (Body 1): 대상 A인 베네치아의 지형, 건축, MOSE 방벽 시스템 등 모든 특성을 종합적으로 전개.\n- Block 2 (Body 2): 대상 B인 서울의 고밀도 도심, 대중교통, 치수 관리 등 모든 특성을 집중적으로 전개.\n- Block 3 (Body 3 또는 종합): 두 도시의 방재 및 탄력성 전략을 상호 비교·평가하는 종합 분석.\n반면 ①번은 기준별로 번갈아 비교하는 Point-by-Point 구조이며, ③, ④는 논리적 대칭성이 결여된 오류입니다."
+        },
+        {
+          "id": "pw_q53",
+          "num": 53,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 전환어 문장부호 및 콤마 스플라이스 Comma Splice]\nIn academic writing, which of the following sentences correctly punctuates the contrast transition \"however\" without creating a comma splice or run-on sentence error?",
+          "options": [
+            "Mass tourism generates immediate economic revenue, however, it accelerates the environmental degradation of pristine coastal zones.",
+            "Mass tourism generates immediate economic revenue; however, it accelerates the environmental degradation of pristine coastal zones.",
+            "While mass tourism generates immediate economic revenue, however it accelerates environmental degradation.",
+            "Mass tourism generates immediate economic revenue however it accelerates environmental degradation."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (세미콜론과 쉼표를 사용한 올바른 접속부사 결합)\n\n[문법 및 문장부호 분석]\n- ① 오류 (Comma Splice): `however`는 접속사가 아닌 접속부사(conjunctive adverb)입니다. 두 개의 독립절(완전한 문장)을 단순 쉼표와 `however`로 연결하면 콤마 스플라이스 비문이 됩니다.\n- ③ 오류: 종속접속사 `While`과 접속부사 `however`를 한 문장에 중복 사용한 이중 접속 오류입니다.\n- ④ 오류 (Run-on): 접속부사 앞뒤에 문장부호가 전무하여 두 독립절이 충돌하는 런온 에러입니다.\n- ② 정답: 앞의 독립절 뒤에 세미콜론(`;`), `however` 뒤에 쉼표(`,`)를 배치하여 두 절을 완벽하게 연결했습니다. (또는 마침표 후 `. However,`로 분리 가능)"
+        },
+        {
+          "id": "pw_q54",
+          "num": 54,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 종속접속사 Whereas / While vs 대조 연결어]\nWhich of the following sentences correctly demonstrates the proper syntactic and punctuation usage of the contrast subordinator \"Whereas\"?",
+          "options": [
+            "Whereas high-density cities reduce per-capita greenhouse gas emissions, suburban developments consume substantially more heating energy and require longer vehicular commutes.",
+            "Whereas, high-density cities reduce emissions, suburban developments consume more heating energy.",
+            "High-density cities reduce emissions, in contrast, suburban developments consume more energy.",
+            "High-density cities reduce emissions; whereas suburban developments consume more energy."
+          ],
+          "answer": 1,
+          "explanation": "정답: ① (종속접속사 Whereas의 정통 문법)\n\n[해설]\n- ① 정답: `Whereas`는 대조의 종속부사절을 이끄는 접속사입니다. 종속절이 문두에 올 때는 종속절이 끝나는 지점에 쉼표(`,`)를 찍고 주절을 연결하는 것이 완벽한 문법입니다.\n- ② 오류: 접속사 `Whereas` 바로 뒤에 불필요한 쉼표를 찍었습니다.\n- ③ 오류: `in contrast`는 접속부사이므로 독립절 두 개를 단순 쉼표로 연결할 수 없습니다 (세미콜론 `; in contrast,` 필요).\n- ④ 오류: `whereas` 종속절 앞에 세미콜론을 쓰는 것은 비문법적이며 일반 쉼표를 써야 합니다."
+        },
+        {
+          "id": "pw_q55",
+          "num": 55,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Unit 5 p.117 If 조건절 콤마 절대 규칙]\nAccording to the strict conditional punctuation rules highlighted in Unit 5 (p.117) and emphasized in Professor Billy's midterm review, which of the following sentences contains a PUNCTUATION ERROR?",
+          "options": [
+            "\"If tourists respect local heritage, communities will welcome sustainable tourism initiatives enthusiastically.\"",
+            "\"Local craftspeople will prosper, if international travelers purchase authentic handicrafts directly from artisans.\"",
+            "\"If municipal governments invest in dense public transit, per-capita greenhouse gas emissions will decline.\"",
+            "\"Historic coastal landmarks will survive future storm surges if the regional flood barrier operates reliably.\""
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (조건절 쉼표 위치 오류)\n\n[Unit 5 117페이지 및 빌리 교수님 강의 지목 절대 규칙]\n1. If 조건절이 문두(앞)에 올 때: 조건절 끝에 반드시 쉼표를 찍어야 함 (`If + 조건절, + 주절.` -> ①, ③ 정문)\n2. 주절이 먼저 오고 If 조건절이 뒤에 올 때: **If 앞에 절대로 쉼표를 찍지 않는다!** (`주절 + if + 조건절.` -> ④ 정문)\n따라서 ②번 문장의 `prosper, if`에서 쉼표(`,`)를 삽입한 것은 중대한 감점 대상 오류입니다."
+        },
+        {
+          "id": "pw_q56",
+          "num": 56,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Unit 3 p.66 복합형용사 하이픈 규칙]\nAccording to the compound adjective rules in Unit 3 (p.66) of Pathways 3, which of the following sentences is punctuated and formed CORRECTLY?",
+          "options": [
+            "Venice is a heavily-visited destination that must protect its residents from three-meter tides.",
+            "Venice is a heavily visited destination that must protect its residents from three-meter tides.",
+            "Venice is a heavily visited destination that must protect its residents from three meters tides.",
+            "Residents lost their hard earned income while repairing storm damaged properties."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (복합형용사 하이픈 및 단수형 규칙 완비)\n\n[Unit 3 p.66 Vocabulary Extension 핵심 문법]\n1. 수사 + 단위명사가 명사를 수식할 때: 하이픈으로 결합하며 단위명사는 **단수형**을 씁니다 (`three-meter tides` -> ③의 `three meters tides`는 복수형 오류).\n2. 일반 복합형용사: 명사 앞에서 하이픈으로 연결합니다 (`hard-earned income`, `storm-damaged properties` -> ④는 하이픈 누락 오류).\n3. **`-ly` 부사 예외 규칙**: `-ly`로 끝나는 부사가 형용사/분사 앞에 올 때는 **절대로 하이픈을 쓰지 않습니다** (`heavily visited` -> ①의 `heavily-visited`는 오답).\n따라서 `heavily visited`에 하이픈이 없고 `three-meter`에 하이픈과 단수가 올바르게 적용된 ②번이 정답입니다."
+        },
+        {
+          "id": "pw_q57",
+          "num": 57,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 결론 단락 Concluding Paragraph 3대 요소 및 금기]\nAccording to academic essay standards (Unit 3 pp.70~71) and Professor Billy's writing criteria, which of the following actions is STRICTLY PROHIBITED in the concluding paragraph of a five-paragraph essay?",
+          "options": [
+            "Paraphrasing the Thesis Statement in fresh vocabulary to reaffirm the essay's core stance",
+            "Synthesizing the primary supporting arguments that were established across Body Paragraphs 1, 2, and 3",
+            "Introducing brand-new supporting points, raw empirical data, or novel arguments that were never discussed in any body paragraph",
+            "Providing a final thoughtful prediction, call to action, or broader implication for future research"
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (결론 문단의 절대 금기: 새로운 논거/자료 도입)\n\n[해설: Unit 3 pp.70~71 결론 구성 3요소]\n1. Restatement of Thesis: 서론의 Thesis Statement를 다른 어휘와 구조로 패러프레이징하여 재확인.\n2. Summary of Main Points: 본론 1, 2, 3에서 입증한 핵심 근거들을 유기적으로 종합 요약.\n3. Final Thought / Recommendation: 독자에게 깊은 인상을 남기는 최종 제언, 미래 예측, 행동 촉구.\n\n[절대 금기 사항]\n본론에서 사전에 언급하거나 논증하지 않은 완전히 새로운 주장, 추가적인 통계 데이터, 새로운 논점을 결론에서 갑자기 꺼내는 것은 에세이의 완결성을 파괴하므로 엄격히 금지됩니다."
+        },
+        {
+          "id": "pw_q58",
+          "num": 58,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 문단 통일성 Paragraph Unity 저해 문장 식별]\nRead the body paragraph draft below regarding urban energy efficiency. Which numbered sentence VIOLATES PARAGRAPH UNITY by deviating from the controlling idea?\n\n\"(1) High-density metropolitan living significantly minimizes per-capita energy consumption compared to low-density suburban sprawl. (2) Because everyday commercial necessities and workplaces are concentrated within compact districts, city dwellers walk or utilize rapid rail transit instead of operating private vehicles. (3) Furthermore, shared walls and compact spatial footprints in apartment complexes substantially decrease residential heating and cooling demands. (4) Several metropolitan universities have recently decided to raise campus parking fees for incoming undergraduate students. (5) Consequently, dense urban settlement patterns inherently facilitate sustainable resource conservation.\"",
+          "options": [
+            "Sentence (2)",
+            "Sentence (3)",
+            "Sentence (4)",
+            "Sentence (5)"
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (Sentence 4 - 단락 통일성 저해 문장)\n\n[해설: Paragraph Unity(단락의 통일성) 분석]\n- 주제문(Sentence 1): 고밀도 도시 거주가 교외 주거보다 1인당 에너지 소비를 획기적으로 줄인다는 주장.\n- 뒷받침 세부내용(Sentence 2, 3): 대중교통 및 도보 이동(차량 운행 감소), 아파트 외벽 공유(냉난방 에너지 절감)라는 직접적이고 타당한 근거.\n- 결론문(Sentence 5): 자원 보존의 지속가능성을 종합하는 적절한 마무리.\n- 무관한 문장(Sentence 4): \"일부 도시 대학들이 학부생 주차 요금을 인상하기로 결정했다\"는 내용은 도시 밀도와 주거 에너지 효율성이라는 단락의 중심 논점(controlling idea)에서 완전히 벗어난 불필요한 사족입니다."
+        },
+        {
+          "id": "pw_q59",
+          "num": 59,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 시험 주관식 서술형 만점 기준 Mandatory Constraint]\nOn the midterm exam, Professor Billy stated that the Reading Section includes both Multiple Choice and Short Answer questions. What is the MANDATORY REQUIREMENT for every Short Answer question to prevent automatic point deduction?",
+          "options": [
+            "You must compose an entire 5-paragraph comparative essay for each short answer question within five minutes.",
+            "You must write your answer using only isolated bullet points and individual vocabulary words.",
+            "You MUST write at least TWO complete, grammatically sound academic sentences providing precise textual evidence.",
+            "You must translate the English question into Korean before writing an English one-word answer."
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (주관식 서술형: 반드시 최소 2문장 이상 작성)\n\n[10월 13일 현장 강의 7분 15초 빌리 교수님 직접 발표 기준]\n중간고사 독해 주관식 서술형(Short Answer questions) 채점 시 단답형 단어나 달랑 1문장만 적으면 무조건 감점 처리됩니다.\n질문에 대해 반드시 **\"최소 2문장 이상(at least two complete sentences)\"**의 완결된 문법 구조를 갖춘 학술 영문으로 지문의 구체적 팩트를 담아 작성해야 만점을 획득할 수 있습니다."
+        },
+        {
+          "id": "pw_q60",
+          "num": 60,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Point-by-point vs Block 대조 서술형 (2+ Sentences)]\nExplain the fundamental structural difference between the \"Point-by-Point\" method and the \"Block-by-Block\" method in a Compare and Contrast essay, and state why preparing an outline before writing is crucial. (Write at least TWO complete sentences as required by Professor Billy.)",
+          "options": [],
+          "answer": "In a point-by-point structure, each body paragraph analyzes both subjects under one specific point of comparison, whereas in a block structure, all characteristics of the first subject are discussed in an entire block before the writer moves to the second subject. Creating a detailed outline beforehand is crucial because it prevents writers from inconsistently mixing these two patterns and ensures that each comparison point is supported with balanced textual evidence.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n\n[모범 답안 분석]\n1문장 (두 전개 방식의 구조적 차이 완벽 대조):\n\"In a point-by-point structure, each body paragraph analyzes both subjects under one specific point of comparison, whereas in a block structure, all characteristics of the first subject are discussed in an entire block before the writer moves to the second subject.\"\n\n2문장 (아웃라인 사전 작성의 당위성 및 효과 서술):\n\"Creating a detailed outline beforehand is crucial because it prevents writers from inconsistently mixing these two patterns and ensures that each comparison point is supported with balanced textual evidence.\"\n\n두 문장 모두 완벽한 문법과 접속사(`whereas`, `because`)를 갖추었으며 교수님이 요구한 2문장 이상 조건을 100% 충족합니다."
         }
       ]
     },
@@ -9476,6 +9681,211 @@ var HUFS_DATA = {
           ],
           "answer": 3,
           "explanation": "정답: ③\n10월 13일 현장 강의 29분 28초에서 빌리 교수님이 직접 지시하신 에세이 필수 규칙입니다: 서론 마지막 문장인 Thesis Statement(중심 문장) 1개와 본론 1, 2, 3의 첫 문장인 Topic Sentence(주제문) 3개 등 총 4개 문장에 반드시 밑줄(Underline)을 그어야 합니다!"
+        },
+        {
+          "id": "pw_q46",
+          "num": 46,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Hook 6대 유형 식별]\nAccording to Professor Billy's academic writing guidelines (Handout: Examples of hooks-), which type of introductory hook is demonstrated in the sentence below, and what is its primary rhetorical function in academic essays?\n\n\"Education is the most powerful weapon which you can use to change the world,\" said Nelson Mandela.",
+          "options": [
+            "Bold Statement — shocking the audience with an unorthodox or provocative personal stance",
+            "Quotation — establishing authority, credibility, and immediate reader engagement by citing a respected global figure",
+            "Anecdote — narrating a brief autobiographical experience to build empathetic connection",
+            "Definition — clarifying technical terminology and establishing semantic boundaries for the essay"
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (Quotation - 인용문 후크)\n\n[해설 및 빌리 교수님 공식 기준]\n빌리 교수님이 e-Class에 게시하신 공식 강의자료 <Examples of hooks->에 수록된 6대 후크(Hook) 공식 예문 대조:\n1. Statistic: \"About 8 million metric tons of plastic end up in the ocean every year.\"\n2. Question: \"What would happen if public libraries disappeared for one year?\"\n3. Bold Statement: \"Standardized testing is destroying creativity in education.\"\n4. Anecdote: \"The night before my thesis was due, my computer crashed — teaching me the value of preparation.\"\n5. Quotation: \"Education is the most powerful weapon which you can use to change the world,\" said Nelson Mandela.\n6. Definition: \"Resilience, defined as the capacity to recover quickly, is at the heart of human progress.\"\n\n넬슨 만델라의 발언을 직접 인용한 위 문장은 명백히 Quotation 유형이며, 신뢰받는 인물의 권위를 통해 독자의 흥미와 신빙성을 확보합니다."
+        },
+        {
+          "id": "pw_q47",
+          "num": 47,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Hook 유형 구분 및 변별]\nWhich of the following sentences correctly exemplifies a \"Bold Statement\" hook as defined in Professor Billy's writing syllabus?",
+          "options": [
+            "\"What would happen to metropolitan biodiversity if private automobile usage were banned entirely for three years?\"",
+            "\"According to marine biologists, over eight million metric tons of plastic pollute oceanic ecosystems each year.\"",
+            "\"Standardized testing is destroying creativity and genuine critical thinking in modern secondary education.\"",
+            "\"When I was seven years old, my grandfather took me to Venice and taught me how rising tides damage stone foundations.\""
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (Bold Statement - 단호한/도발적 주장)\n\n[선지별 6대 후크 유형 완벽 분석]\n① Question (수사적 의문형): 도시 생태계에 대한 가상의 질문으로 독자의 궁금증 유발\n② Statistic (통계 수치형): 해양 플라스틱 800만 톤이라는 객관적 수치 제시\n③ Bold Statement (도발적 주장형): \"표준화된 시험은 창의성과 비판적 사고를 파괴하고 있다\"처럼 강렬하고 단호한 어조로 독자의 시선을 사로잡는 선언\n④ Anecdote (일화형): 7세 시절 할아버지와의 베네치아 여행 경험담 서술"
+        },
+        {
+          "id": "pw_q48",
+          "num": 48,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Thesis Statement 학술적 요건]\nAccording to Pathways 3 (Unit 3 pp.68~71) and Professor Billy's essay rubric, which of the following sentences is a structurally and academically SOUND Thesis Statement for a Compare and Contrast essay?",
+          "options": [
+            "\"Why do millions of international tourists choose to visit historic Venice rather than smaller eco-friendly towns?\"",
+            "\"Mass tourism and geotourism are two different forms of travel with various similarities and differences in the modern world.\"",
+            "\"Although both mass tourism and geotourism stimulate local commerce, geotourism provides superior long-term benefits by safeguarding indigenous culture, protecting fragile ecosystems, and distributing revenue directly to residents.\"",
+            "\"In this five-paragraph essay, I will thoroughly compare and contrast mass tourism and geotourism in three main body sections.\""
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (완벽한 학술적 Thesis Statement)\n\n[오답 분석 및 Thesis Statement 필수 원칙]\n① 탈락: Thesis Statement는 **절대로 의문문(Question) 형태가 될 수 없습니다**.\n② 탈락: 단순한 사실 진술(Fact)에 불과하며, 에세이가 입증해야 할 필자의 명확한 주장(Controlling idea)이나 세부 논점(Sub-points)이 결여되어 변별력이 없습니다.\n④ 탈락: \"In this essay I will...\" 같은 표현은 에세이의 방향을 단순 공지(Announcement)하는 구태의연한 방식이며 대학 학술 에세이에서 지양됩니다.\n③ 정답: 주제(Mass vs Geotourism) + 양보 대조절(stimulate commerce) + 3대 구체적 비교 기준(문화 보존, 생태 보호, 주민 직접 수익 분배)을 모두 담아 에세이 전체의 논리적 뼈대를 완벽히 제시합니다."
+        },
+        {
+          "id": "pw_q49",
+          "num": 49,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Thesis & Topic Sentence 위치 및 시험 서식]\nWhere MUST the Thesis Statement and Topic Sentences be placed in an academic essay, and what CRITICAL rule did Professor Billy mandate for the in-class midterm exam to prevent formatting score loss?",
+          "options": [
+            "The Thesis Statement goes at the very beginning of the introductory paragraph; students must highlight it in yellow marker.",
+            "The Thesis Statement must be the last sentence(s) of the introduction, and each Topic Sentence must be the first sentence of its respective body paragraph; you MUST UNDERLINE all four sentences on the exam paper.",
+            "The Thesis Statement belongs in the concluding paragraph only; Topic Sentences must appear at the exact middle of each body paragraph.",
+            "Topic Sentences are placed at the end of each body paragraph to summarize the points; no underlining is permitted."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (위치 및 밑줄 의무)\n\n[빌리 교수님 공식 강의자료 <Hook, Thesis Statement, and Topic Sentence> 및 10/13 강의 녹취록 지침]\n1. Hook: 서론의 첫 번째 문장 (First sentence of the introduction)\n2. Thesis Statement: 서론의 마지막 문장 (Last sentence(s) of the introduction)\n3. Topic Sentence: 각 본론 단락의 첫 번째 문장 (First sentence of each body paragraph)\n4. 시험 절대 감점 방지 수칙: 10월 13일 현장 강의(29분 28초)에서 교수님이 직접 공지한 바와 같이, 서론의 Thesis Statement 1문장과 본론 3개의 각 Topic Sentence 3문장(총 4개 문장)에 **반드시 밑줄(Underline)**을 그어야 서식 점수 감점을 당하지 않습니다."
+        },
+        {
+          "id": "pw_q50",
+          "num": 50,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 햄버거 문단 구조 Hamburger Paragraph]\nIn the \"Hamburger Paragraph\" model taught in Unit 1 (pp.20~23) and Billy's lecture slides, what is the role of the \"Top Bun\" (Topic Sentence), and what should NEVER be included in this sentence?",
+          "options": [
+            "It should state the single controlling idea of the paragraph; it should NEVER be a highly specific statistical fact or raw data point without a controlling claim.",
+            "It should list all minor supporting details; it should NEVER mention the subject matter of the essay.",
+            "It must be a rhetorical question; it should NEVER be an affirmative statement.",
+            "It functions as a concluding transition; it should NEVER introduce any new perspective."
+          ],
+          "answer": 1,
+          "explanation": "정답: ① (햄버거 구조 Top Bun의 본질)\n\n[해설]\n햄버거 문단 구조에서:\n- Top Bun (Topic Sentence): 해당 문단 전체를 지배하는 단 하나의 중심 생각(controlling idea)을 명확하게 제시해야 합니다. 단순하고 지엽적인 통계 수치나 세부 팩트를 주제문으로 던져서는 안 되며(그것은 속재료인 Meat/Fillings에 해당), 본론의 전개 방향을 독자에게 안내해야 합니다.\n- Meat / Fillings (Supporting Details): 주제문을 논증하는 구체적인 예시, 팩트, 통계, 전문가 의견.\n- Bottom Bun (Concluding Sentence): 단락의 내용을 요약하거나 다음 본론으로 매끄럽게 연결하는 마무리 문장."
+        },
+        {
+          "id": "pw_q51",
+          "num": 51,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Compare and Contrast 전개 패턴 구분]\nAn essay comparing Mass Tourism and Geotourism is organized with the following body paragraph structure:\n• Body Paragraph 1: Economic impact and revenue distribution of both Mass Tourism and Geotourism\n• Body Paragraph 2: Environmental footprint on natural ecosystems of both Mass Tourism and Geotourism\n• Body Paragraph 3: Preservation of cultural heritage and local authenticity of both Mass Tourism and Geotourism\n\nWhich organizational pattern does this essay follow according to Billy's ComparisonandContrast.pptx?",
+          "options": [
+            "Block-by-Block (Subject-by-Subject) Organization",
+            "Point-by-Point (Criterion-by-Criterion) Organization",
+            "Chronological Process Organization",
+            "Classification and Division Organization"
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (Point-by-Point 전개 방식)\n\n[빌리 교수님 <ComparisonandContrast.pptx> Slide 15~18 대조]\n- Point-by-point 구조: 본론 문단마다 하나의 비교 기준(Comparing point: 경제성, 환경 영향, 문화 유산 보존)을 정하고, 그 단일 기준 아래에서 대상 A(대중 관광)와 대상 B(지오투어리즘)를 대등하게 나란히 비교·대조하는 방식입니다. 슬라이드 53에서 \"This structure makes it clear that the advantages of one option are discussed against the other in a clear, logical sequence\"라고 강조하셨습니다.\n- Block-by-block 구조: 한 단락 전체에서 대상 A의 모든 특성을 먼저 묶어서 다룬 후, 다음 단락에서 대상 B의 모든 특성을 묶어서 다루는 방식입니다."
+        },
+        {
+          "id": "pw_q52",
+          "num": 52,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Block-by-Block 구조 식별]\nIf a student structures a Compare and Contrast essay evaluating Venice and Seoul using the \"Block-by-Block\" method, which outline correctly adheres to this organizational strategy?",
+          "options": [
+            "Body 1: Venice's flood defenses vs Seoul's flood defenses / Body 2: Venice's tourist density vs Seoul's commuter density / Body 3: Future sustainability projects in both cities.",
+            "Body 1: All features of Venice (lagoon geography, historic architecture, and the MOSE sea wall system) / Body 2: All features of Seoul (high-density urban layout, mass transit, and river management) / Body 3: Direct comparative synthesis evaluating the resilience of both cities.",
+            "Body 1: Seoul's transportation advantages / Body 2: Venice's gondola history / Body 3: The writer's personal opinion on why pizza in Venice tastes better than in Seoul.",
+            "Body 1: Why Venice is sinking / Body 2: Why Seoul was founded in 1394 / Body 3: How modern climate change affects global agriculture."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (Block-by-Block 구조의 정석)\n\n[해설]\nBlock-by-Block 전개는 비교할 대상을 하나의 덩어리(Block)로 묶어 서술합니다.\n- Block 1 (Body 1): 대상 A인 베네치아의 지형, 건축, MOSE 방벽 시스템 등 모든 특성을 종합적으로 전개.\n- Block 2 (Body 2): 대상 B인 서울의 고밀도 도심, 대중교통, 치수 관리 등 모든 특성을 집중적으로 전개.\n- Block 3 (Body 3 또는 종합): 두 도시의 방재 및 탄력성 전략을 상호 비교·평가하는 종합 분석.\n반면 ①번은 기준별로 번갈아 비교하는 Point-by-Point 구조이며, ③, ④는 논리적 대칭성이 결여된 오류입니다."
+        },
+        {
+          "id": "pw_q53",
+          "num": 53,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 전환어 문장부호 및 콤마 스플라이스 Comma Splice]\nIn academic writing, which of the following sentences correctly punctuates the contrast transition \"however\" without creating a comma splice or run-on sentence error?",
+          "options": [
+            "Mass tourism generates immediate economic revenue, however, it accelerates the environmental degradation of pristine coastal zones.",
+            "Mass tourism generates immediate economic revenue; however, it accelerates the environmental degradation of pristine coastal zones.",
+            "While mass tourism generates immediate economic revenue, however it accelerates environmental degradation.",
+            "Mass tourism generates immediate economic revenue however it accelerates environmental degradation."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (세미콜론과 쉼표를 사용한 올바른 접속부사 결합)\n\n[문법 및 문장부호 분석]\n- ① 오류 (Comma Splice): `however`는 접속사가 아닌 접속부사(conjunctive adverb)입니다. 두 개의 독립절(완전한 문장)을 단순 쉼표와 `however`로 연결하면 콤마 스플라이스 비문이 됩니다.\n- ③ 오류: 종속접속사 `While`과 접속부사 `however`를 한 문장에 중복 사용한 이중 접속 오류입니다.\n- ④ 오류 (Run-on): 접속부사 앞뒤에 문장부호가 전무하여 두 독립절이 충돌하는 런온 에러입니다.\n- ② 정답: 앞의 독립절 뒤에 세미콜론(`;`), `however` 뒤에 쉼표(`,`)를 배치하여 두 절을 완벽하게 연결했습니다. (또는 마침표 후 `. However,`로 분리 가능)"
+        },
+        {
+          "id": "pw_q54",
+          "num": 54,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 종속접속사 Whereas / While vs 대조 연결어]\nWhich of the following sentences correctly demonstrates the proper syntactic and punctuation usage of the contrast subordinator \"Whereas\"?",
+          "options": [
+            "Whereas high-density cities reduce per-capita greenhouse gas emissions, suburban developments consume substantially more heating energy and require longer vehicular commutes.",
+            "Whereas, high-density cities reduce emissions, suburban developments consume more heating energy.",
+            "High-density cities reduce emissions, in contrast, suburban developments consume more energy.",
+            "High-density cities reduce emissions; whereas suburban developments consume more energy."
+          ],
+          "answer": 1,
+          "explanation": "정답: ① (종속접속사 Whereas의 정통 문법)\n\n[해설]\n- ① 정답: `Whereas`는 대조의 종속부사절을 이끄는 접속사입니다. 종속절이 문두에 올 때는 종속절이 끝나는 지점에 쉼표(`,`)를 찍고 주절을 연결하는 것이 완벽한 문법입니다.\n- ② 오류: 접속사 `Whereas` 바로 뒤에 불필요한 쉼표를 찍었습니다.\n- ③ 오류: `in contrast`는 접속부사이므로 독립절 두 개를 단순 쉼표로 연결할 수 없습니다 (세미콜론 `; in contrast,` 필요).\n- ④ 오류: `whereas` 종속절 앞에 세미콜론을 쓰는 것은 비문법적이며 일반 쉼표를 써야 합니다."
+        },
+        {
+          "id": "pw_q55",
+          "num": 55,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Unit 5 p.117 If 조건절 콤마 절대 규칙]\nAccording to the strict conditional punctuation rules highlighted in Unit 5 (p.117) and emphasized in Professor Billy's midterm review, which of the following sentences contains a PUNCTUATION ERROR?",
+          "options": [
+            "\"If tourists respect local heritage, communities will welcome sustainable tourism initiatives enthusiastically.\"",
+            "\"Local craftspeople will prosper, if international travelers purchase authentic handicrafts directly from artisans.\"",
+            "\"If municipal governments invest in dense public transit, per-capita greenhouse gas emissions will decline.\"",
+            "\"Historic coastal landmarks will survive future storm surges if the regional flood barrier operates reliably.\""
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (조건절 쉼표 위치 오류)\n\n[Unit 5 117페이지 및 빌리 교수님 강의 지목 절대 규칙]\n1. If 조건절이 문두(앞)에 올 때: 조건절 끝에 반드시 쉼표를 찍어야 함 (`If + 조건절, + 주절.` -> ①, ③ 정문)\n2. 주절이 먼저 오고 If 조건절이 뒤에 올 때: **If 앞에 절대로 쉼표를 찍지 않는다!** (`주절 + if + 조건절.` -> ④ 정문)\n따라서 ②번 문장의 `prosper, if`에서 쉼표(`,`)를 삽입한 것은 중대한 감점 대상 오류입니다."
+        },
+        {
+          "id": "pw_q56",
+          "num": 56,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Unit 3 p.66 복합형용사 하이픈 규칙]\nAccording to the compound adjective rules in Unit 3 (p.66) of Pathways 3, which of the following sentences is punctuated and formed CORRECTLY?",
+          "options": [
+            "Venice is a heavily-visited destination that must protect its residents from three-meter tides.",
+            "Venice is a heavily visited destination that must protect its residents from three-meter tides.",
+            "Venice is a heavily visited destination that must protect its residents from three meters tides.",
+            "Residents lost their hard earned income while repairing storm damaged properties."
+          ],
+          "answer": 2,
+          "explanation": "정답: ② (복합형용사 하이픈 및 단수형 규칙 완비)\n\n[Unit 3 p.66 Vocabulary Extension 핵심 문법]\n1. 수사 + 단위명사가 명사를 수식할 때: 하이픈으로 결합하며 단위명사는 **단수형**을 씁니다 (`three-meter tides` -> ③의 `three meters tides`는 복수형 오류).\n2. 일반 복합형용사: 명사 앞에서 하이픈으로 연결합니다 (`hard-earned income`, `storm-damaged properties` -> ④는 하이픈 누락 오류).\n3. **`-ly` 부사 예외 규칙**: `-ly`로 끝나는 부사가 형용사/분사 앞에 올 때는 **절대로 하이픈을 쓰지 않습니다** (`heavily visited` -> ①의 `heavily-visited`는 오답).\n따라서 `heavily visited`에 하이픈이 없고 `three-meter`에 하이픈과 단수가 올바르게 적용된 ②번이 정답입니다."
+        },
+        {
+          "id": "pw_q57",
+          "num": 57,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 결론 단락 Concluding Paragraph 3대 요소 및 금기]\nAccording to academic essay standards (Unit 3 pp.70~71) and Professor Billy's writing criteria, which of the following actions is STRICTLY PROHIBITED in the concluding paragraph of a five-paragraph essay?",
+          "options": [
+            "Paraphrasing the Thesis Statement in fresh vocabulary to reaffirm the essay's core stance",
+            "Synthesizing the primary supporting arguments that were established across Body Paragraphs 1, 2, and 3",
+            "Introducing brand-new supporting points, raw empirical data, or novel arguments that were never discussed in any body paragraph",
+            "Providing a final thoughtful prediction, call to action, or broader implication for future research"
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (결론 문단의 절대 금기: 새로운 논거/자료 도입)\n\n[해설: Unit 3 pp.70~71 결론 구성 3요소]\n1. Restatement of Thesis: 서론의 Thesis Statement를 다른 어휘와 구조로 패러프레이징하여 재확인.\n2. Summary of Main Points: 본론 1, 2, 3에서 입증한 핵심 근거들을 유기적으로 종합 요약.\n3. Final Thought / Recommendation: 독자에게 깊은 인상을 남기는 최종 제언, 미래 예측, 행동 촉구.\n\n[절대 금기 사항]\n본론에서 사전에 언급하거나 논증하지 않은 완전히 새로운 주장, 추가적인 통계 데이터, 새로운 논점을 결론에서 갑자기 꺼내는 것은 에세이의 완결성을 파괴하므로 엄격히 금지됩니다."
+        },
+        {
+          "id": "pw_q58",
+          "num": 58,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 문단 통일성 Paragraph Unity 저해 문장 식별]\nRead the body paragraph draft below regarding urban energy efficiency. Which numbered sentence VIOLATES PARAGRAPH UNITY by deviating from the controlling idea?\n\n\"(1) High-density metropolitan living significantly minimizes per-capita energy consumption compared to low-density suburban sprawl. (2) Because everyday commercial necessities and workplaces are concentrated within compact districts, city dwellers walk or utilize rapid rail transit instead of operating private vehicles. (3) Furthermore, shared walls and compact spatial footprints in apartment complexes substantially decrease residential heating and cooling demands. (4) Several metropolitan universities have recently decided to raise campus parking fees for incoming undergraduate students. (5) Consequently, dense urban settlement patterns inherently facilitate sustainable resource conservation.\"",
+          "options": [
+            "Sentence (2)",
+            "Sentence (3)",
+            "Sentence (4)",
+            "Sentence (5)"
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (Sentence 4 - 단락 통일성 저해 문장)\n\n[해설: Paragraph Unity(단락의 통일성) 분석]\n- 주제문(Sentence 1): 고밀도 도시 거주가 교외 주거보다 1인당 에너지 소비를 획기적으로 줄인다는 주장.\n- 뒷받침 세부내용(Sentence 2, 3): 대중교통 및 도보 이동(차량 운행 감소), 아파트 외벽 공유(냉난방 에너지 절감)라는 직접적이고 타당한 근거.\n- 결론문(Sentence 5): 자원 보존의 지속가능성을 종합하는 적절한 마무리.\n- 무관한 문장(Sentence 4): \"일부 도시 대학들이 학부생 주차 요금을 인상하기로 결정했다\"는 내용은 도시 밀도와 주거 에너지 효율성이라는 단락의 중심 논점(controlling idea)에서 완전히 벗어난 불필요한 사족입니다."
+        },
+        {
+          "id": "pw_q59",
+          "num": 59,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — 시험 주관식 서술형 만점 기준 Mandatory Constraint]\nOn the midterm exam, Professor Billy stated that the Reading Section includes both Multiple Choice and Short Answer questions. What is the MANDATORY REQUIREMENT for every Short Answer question to prevent automatic point deduction?",
+          "options": [
+            "You must compose an entire 5-paragraph comparative essay for each short answer question within five minutes.",
+            "You must write your answer using only isolated bullet points and individual vocabulary words.",
+            "You MUST write at least TWO complete, grammatically sound academic sentences providing precise textual evidence.",
+            "You must translate the English question into Korean before writing an English one-word answer."
+          ],
+          "answer": 3,
+          "explanation": "정답: ③ (주관식 서술형: 반드시 최소 2문장 이상 작성)\n\n[10월 13일 현장 강의 7분 15초 빌리 교수님 직접 발표 기준]\n중간고사 독해 주관식 서술형(Short Answer questions) 채점 시 단답형 단어나 달랑 1문장만 적으면 무조건 감점 처리됩니다.\n질문에 대해 반드시 **\"최소 2문장 이상(at least two complete sentences)\"**의 완결된 문법 구조를 갖춘 학술 영문으로 지문의 구체적 팩트를 담아 작성해야 만점을 획득할 수 있습니다."
+        },
+        {
+          "id": "pw_q60",
+          "num": 60,
+          "category": "writing",
+          "question": "* [글쓰기 방법론 필수 실전문항 — Point-by-point vs Block 대조 서술형 (2+ Sentences)]\nExplain the fundamental structural difference between the \"Point-by-Point\" method and the \"Block-by-Block\" method in a Compare and Contrast essay, and state why preparing an outline before writing is crucial. (Write at least TWO complete sentences as required by Professor Billy.)",
+          "options": [],
+          "answer": "In a point-by-point structure, each body paragraph analyzes both subjects under one specific point of comparison, whereas in a block structure, all characteristics of the first subject are discussed in an entire block before the writer moves to the second subject. Creating a detailed outline beforehand is crucial because it prevents writers from inconsistently mixing these two patterns and ensures that each comparison point is supported with balanced textual evidence.",
+          "explanation": "채점 기준 (반드시 2문장 이상 작성 필수!):\n\n[모범 답안 분석]\n1문장 (두 전개 방식의 구조적 차이 완벽 대조):\n\"In a point-by-point structure, each body paragraph analyzes both subjects under one specific point of comparison, whereas in a block structure, all characteristics of the first subject are discussed in an entire block before the writer moves to the second subject.\"\n\n2문장 (아웃라인 사전 작성의 당위성 및 효과 서술):\n\"Creating a detailed outline beforehand is crucial because it prevents writers from inconsistently mixing these two patterns and ensures that each comparison point is supported with balanced textual evidence.\"\n\n두 문장 모두 완벽한 문법과 접속사(`whereas`, `because`)를 갖추었으며 교수님이 요구한 2문장 이상 조건을 100% 충족합니다."
         }
       ]
     },

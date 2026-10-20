@@ -61,7 +61,7 @@
           <div style="font-size: 0.84rem; font-weight: 700; margin-bottom: 8px;">⚡ 중간고사 4과목 바로가기</div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 6px;">
             <button type="button" class="hub-pill" onclick="selectExamTab('adv_comm'); switchTab('exam')">고급소통 CBT 25제 →</button>
-            <button type="button" class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">대영2-Billy CBT 45제 →</button>
+            <button type="button" class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">대영2-Billy CBT 60제 →</button>
             <button type="button" class="hub-pill" onclick="selectExamTab('knn'); switchTab('exam')">대영2-KNN CBT 36제 →</button>
             <button type="button" class="hub-pill" onclick="selectExamTab('ds_pencil'); switchTab('exam')">자료구조 지필 19대(구름) →</button>
           </div>
@@ -104,7 +104,8 @@
           <div style="border: 1px solid var(--border); padding: 8px; background: var(--bg);">
             <div style="font-size: 0.78rem; font-weight: 700; margin-bottom: 5px;">대영2-Billy (화5~6)</div>
             <div style="display: flex; gap: 4px; flex-wrap: wrap;">
-              <span class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">CBT 45제</span>
+              <span class="hub-pill" onclick="selectExamTab('billy'); switchTab('exam')">CBT 60제</span>
+              <span class="hub-pill" style="border-color: #2563eb; color: #2563eb; font-weight: 700;" onclick="selectExamTab('billy', 'writing'); switchTab('exam')">글쓰기론 15제</span>
               <span class="hub-pill" onclick="selectBook('pathways3'); switchTab('reader')">족보·지문</span>
               <span class="hub-pill" onclick="filterVocab('pathways3'); switchTab('vocab')">78단어</span>
               <span class="hub-pill" onclick="openEngEssayScreen('schedule')">에세이</span>
@@ -203,7 +204,7 @@
   <div id="screen-exam" class="screen">
     <div class="sub-nav" id="exam-nav">
       <div class="sub-nav-item active" onclick="selectExamTab('adv_comm')">고급소통 Quiz 3 (25)</div>
-      <div class="sub-nav-item" onclick="selectExamTab('billy')">Pathways 3 (Billy 45)</div>
+      <div class="sub-nav-item" onclick="selectExamTab('billy')">Pathways 3 (Billy 60)</div>
       <div class="sub-nav-item" onclick="selectExamTab('knn')">대학영어 2 (KNN 36)</div>
       <div class="sub-nav-item" onclick="selectExamTab('ds_pencil')">자료구조 지필 19대 (구름 12제)</div>
       <div class="sub-nav-item" onclick="selectExamTab('beiying')">背影 족보</div>
